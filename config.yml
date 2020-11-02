@@ -30,8 +30,8 @@ params:
   disableThemeToggle : false
   disableSpecial1stPost : false
 
-  # assets:
-    # favicon: "<path / external url>"
+  assets:
+    favicon: "<path / external url>"
 
   label:
     text: "Home"

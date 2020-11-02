@@ -1,5 +1,5 @@
-baseURL: 'https://examplesite.com'
-title: Luca Bontempi
+baseURL: "https://examplesite.com"
+title: ExampleSite
 paginate: 5
 theme: hugo-PaperMod
 
@@ -8,7 +8,7 @@ buildDrafts: false
 buildFuture: false
 buildExpored: false
 
-googleAnalytics: UA-123-45
+#googleAnalytics: UA-123-45
 
 minify:
   disableXML: true
@@ -17,7 +17,7 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: ExampleSite
-  description: 'ExampleSite's description'
+  description: "ExampleSite's description"
   author: Me
   # author: ["Me", "You"] # multiple authors
 
@@ -31,7 +31,7 @@ params:
   disableSpecial1stPost : false
 
   assets:
-    favicon: '<path / external url>'
+    favicon: "<path / external url>"
 
   label:
     text: "Home"

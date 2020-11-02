@@ -1,5 +1,5 @@
-baseURL: "https://examplesite.com"
-title: ExampleSite
+baseURL: "https://lucabontempi.com"
+title: Luca Bontempi
 paginate: 5
 theme: hugo-PaperMod
 
@@ -8,7 +8,7 @@ buildDrafts: false
 buildFuture: false
 buildExpored: false
 
-#googleAnalytics: UA-123-45
+# googleAnalytics: UA-123-45
 
 minify:
   disableXML: true
@@ -16,12 +16,12 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: ExampleSite
-  description: "ExampleSite's description"
+  title: Luca Bontempi
+  description: "Ciao! Mi chiamo Luca Bontempi!"
   author: Me
   # author: ["Me", "You"] # multiple authors
 
-  images: "<link or path of image for opengraph, twitter-cards>"
+  #images: ""
 
   ShowReadingTime: true
   ShowShareButtons: true
@@ -35,13 +35,13 @@ params:
 
   label:
     text: "Home"
-    icon: /apple-touch-icon.png
+  # icon: /apple-touch-icon.png
     iconHeight: 35
 
   # profile-mode
   profileMode:
-    enabled: false # needs to be explicitly set
-    title: ExampleSite
+    enabled: true # needs to be explicitly set
+    title: Luca Bontempi
     # imageUrl: '<img location>'
     # imageTitle: my image
     buttons:
@@ -49,21 +49,23 @@ params:
         url: posts
       - name: Tags
         url: tags
+      - name: About
+        url: about
 
   # home-info mode
-  homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
+  #h omeInfoParams:
+    # Title: "Ciao! Mi chiamo Luca Bontempi!"
+    # Content: Welcome to my blog
 
   socialIcons:
+    - name: linkedin
+      url: 'https://linkedin.com/in/lucabontempi1/'
+    - name: instagram
+      url: 'https://instagram.com/bontempi97'
     - name: twitter
-      url: 'https://twitter.com/'
-    - name: stackoverflow
-      url: 'https://stackoverflow.com'
-    - name: github
-      url: 'https://github.com/'
+      url: 'https://twitter.com/bontempi97'
 
 
-  analytics:
-    google:
-      SiteVerificationTag: "XYZabc"
+  # analytics:
+    # google:
+      # SiteVerificationTag: "XYZabc"

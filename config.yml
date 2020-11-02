@@ -64,6 +64,8 @@ params:
       url: 'https://instagram.com/bontempi97'
     - name: twitter
       url: 'https://twitter.com/bontempi97'
+    - name: strava
+      url: 'https://www.strava.com/athletes/4403103'
 
 
   # analytics:

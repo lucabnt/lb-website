@@ -18,7 +18,7 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Luca Bontempi
   description: "Ciao! Mi chiamo Luca Bontempi!"
-  author: Luca Bontempi
+  author: Me
   # author: ["Me", "You"] # multiple authors
 
   #images: ""

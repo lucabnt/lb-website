@@ -4,7 +4,7 @@ date: {{ .Date }} # date: 2020-11-02T17:03:46+01:00
 draft: true
 # weight: 1
 # aliases: ["/first"]
-tags: ["first"]
+tags: ["tags"]
 author: "lb"
 # author: ["Me", "You"] # multiple authors
 # showToc: false

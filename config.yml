@@ -53,7 +53,7 @@ params:
         url: about
 
   # home-info mode
-  #h omeInfoParams:
+  # homeInfoParams:
     # Title: "Ciao! Mi chiamo Luca Bontempi!"
     # Content: Welcome to my blog
 
@@ -73,3 +73,6 @@ params:
   # analytics:
     # google:
       # SiteVerificationTag: "XYZabc"
+
+# Pluralize titles in lists using inflect
+pluralizeListTitles: false

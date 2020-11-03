@@ -45,8 +45,8 @@ params:
     # imageUrl: '<img location>'
     # imageTitle: my image
     buttons:
-      - name: Posts
-        url: posts
+      - name: Blog
+        url: blog
       - name: Tags
         url: tags
       - name: About

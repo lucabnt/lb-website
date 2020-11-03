@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Luca Bontempi</title>
+    <link>https://lucabontempi.com/</link>
+    <description>Recent content on Luca Bontempi</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://lucabontempi.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://lucabontempi.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lucabontempi.com/about/</guid>
+      <description>Ciao, mi chiamo Luca Bontempi e sono uno studente!
+Ho studiato Economia e Gestione Aziendale all&amp;rsquo;Università degli Studi di Brescia. Mi sono laureato nel corso dell&amp;rsquo;anno accademico 2018/2019 con una relazione finale dal titolo &amp;ldquo;Il mercato informatico: il software come prodotto e servizio&amp;rdquo;.
+Attualmente studio International Business and Entrepreneurship (MIBE), con un focus sul Digital Management, all&amp;rsquo;Università degli Studi di Pavia.
+Sono appassionato di tecnologia, informatica, videogiochi, film e serie tv, sport e (a tratti) di politica.</description>
+    </item>
+    
+    <item>
+      <title>About me - Mi presento</title>
+      <link>https://lucabontempi.com/blog/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lucabontempi.com/blog/about/</guid>
+      <description>Ciao, mi chiamo Luca Bontempi e sono uno studente!
+Ho studiato Economia e Gestione Aziendale all&amp;rsquo;Università degli Studi di Brescia. Mi sono laureato nel corso dell&amp;rsquo;anno accademico 2018/2019 con una relazione finale dal titolo &amp;ldquo;Il mercato informatico: il software come prodotto e servizio&amp;rdquo;.
+Attualmente studio International Business and Entrepreneurship (MIBE), con un focus sul Digital Management, all&amp;rsquo;Università degli Studi di Pavia.
+Sono appassionato di tecnologia, informatica, videogiochi, film e serie tv, sport e (a tratti) di politica.</description>
+    </item>
+    
+    <item>
+      <title>Curriculum vitae abbreviato</title>
+      <link>https://lucabontempi.com/gen/cv_abbreviato/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lucabontempi.com/gen/cv_abbreviato/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>Curriculum vitae Europass</title>
+      <link>https://lucabontempi.com/gen/cv_europass/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lucabontempi.com/gen/cv_europass/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>Il mercato informatico: il software come prodotto e servizio</title>
+      <link>https://lucabontempi.com/gen/il_mercato_informatico/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lucabontempi.com/gen/il_mercato_informatico/</guid>
+      <description> </description>
+    </item>
+    
+  </channel>
+</rss>

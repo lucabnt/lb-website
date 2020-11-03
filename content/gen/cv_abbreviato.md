@@ -1,6 +1,6 @@
 ---
 author: "Luca Bontempi"
-title: "Curriculum vitae abbreviato"
+title: "Curriculum vitae (abbreviato)"
 # tags: ["about"]
 hideMeta: true
 disableShare: true

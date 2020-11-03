@@ -1,6 +1,6 @@
 ---
 author: "Luca Bontempi"
-title: "Curriculum vitae Europass"
+title: "Curriculum vitae (Europass)"
 # tags: ["about"]
 hideMeta: true
 disableShare: true

@@ -1,4 +1,4 @@
-baseURL: "https://lucabontempi.com"
+baseURL: "" # "https://lucabontempi.com"
 title: Luca Bontempi
 paginate: 5
 theme: hugo-PaperMod

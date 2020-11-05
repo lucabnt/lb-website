@@ -5,4 +5,4 @@ title: "Curriculum vitae (abbreviato)"
 hideMeta: true
 disableShare: true
 ---
-{{< gslides src="https://drive.google.com/file/d/1qIXvHOPsGZVXUmdva_3k1leZBlxzSZuK/preview" width="640" height="480" >}}
+{{< gslides src="https://drive.google.com/file/d/17f7twdv6NrjuM08LyxR75sHymo3X0tqE/preview" width="640" height="480" >}}

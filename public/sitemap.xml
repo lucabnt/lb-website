@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://lucabontempi.com/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lucabontempi.com/tags/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lucabontempi.com/blog/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lucabontempi.com/blog/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lucabontempi.com/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lucabontempi.com/gen/cv_abbreviato/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lucabontempi.com/gen/cv_europass/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lucabontempi.com/gen/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lucabontempi.com/gen/il_mercato_informatico/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lucabontempi.com/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lucabontempi.com/tags/</loc>
+  </url>
+  
+</urlset>

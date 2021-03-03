@@ -1,12 +1,17 @@
 ---
 author: "Luca Bontempi"
 title: "About"
-tags: ["about"]
+# tags: ["about"]
 hideMeta: true
+disableShare: true
 ---
 
 Ciao, mi chiamo Luca Bontempi e sono uno studente!
 
-Ho studiato Economia e Gestione Aziendale all'Università degli Studi di Brescia. Mi sono laureato nel corso dell'anno accademico 2018/2019 con una relazione finale dal titolo "Il mercato informatico: il software come prodotto e servizio".
+Ho studiato Economia e Gestione Aziendale all'Università degli Studi di Brescia. Mi sono laureato nel corso dell'anno accademico 2018/2019 con una relazione finale dal titolo "[Il mercato informatico: il software come prodotto e servizio]( {{< ref "content/gen/il_mercato_informatico.md" >}} "Il mercato informatico: il software come prodotto e servizio")".
 
-Attualmente studio International Business and Entrepreneurship (MIBE), con un focus sul Digital Management, all'Università degli Studi di Pavia.
+Attualmente studio [International Business and Entrepreneurship (MIBE)](https://mibe.unipv.it/), con un focus sul Digital Management, all'Università degli Studi di Pavia.
+
+Sono appassionato di tecnologia, informatica, videogiochi, film e serie tv, sport e (a tratti) di politica. Nel tempo libero mi piace [correre e andare in bicicletta](https://www.strava.com/athletes/4403103).
+
+Qui potete trovare il mio curriculum vitae [in formato abbreviato]( {{< ref "content/gen/cv_abbreviato.md" >}} "in formato abbreviato") e [in formato Europass]( {{< ref "content/gen/cv_europass.md" >}} "in formato Europass").

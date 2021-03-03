@@ -1,8 +1,4 @@
 baseURL: "https://lucabontempi.com"
-baseURL: "https://lucabontempi.it"
-baseURL: "https://lucabontempi.eu"
-baseURL: "https://lucabontempi.netlify.app"
-
 title: Luca Bontempi
 paginate: 5
 theme: hugo-PaperMod

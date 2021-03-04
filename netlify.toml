@@ -1,5 +1,5 @@
 [build]
-  command = "hugo --gc --minify -b /"
+  command = "hugo --gc --minify --baseURL $/"
   publish = "public"
 
 [build.environment]
@@ -10,10 +10,10 @@
   HUGO_ENV = "production"
 
 [context.deploy-preview]
-  command = "hugo --gc --minify --buildFuture -b /"
+  command = "hugo --gc --minify --buildFuture --baseURL $/"
 
 [context.branch-deploy]
-  command = "hugo --gc --minify -b /"
+  command = "hugo --gc --minify --baseURL $/"
 
 [[plugins]]
   package = "netlify-plugin-hugo-cache-resources"

@@ -21,7 +21,7 @@
     debug = true
 
 #Additional redirects
-  #CV
+#CV
 [[redirects]]
   from = "https://lucabontempi.it/cv"
   to = "https://lucabontempi.com/cv"
@@ -43,6 +43,67 @@
 [[redirects]]
   from = "https://www.lucabontempi.eu/cv"
   to = "https://lucabontempi.com/cv"
+  status = 302
+  force = true
+
+#Il mercato informatico
+[[redirects]]
+  from = "https://lucabontempi.it/il_mercato_informatico/"
+  to = "https://lucabontempi.com/il_mercato_informatico/"
+  status = 302
+  force = true
+
+[[redirects]]
+  from = "https://www.lucabontempi.it/il_mercato_informatico/"
+  to = "https://lucabontempi.com/il_mercato_informatico/"
+  status = 302
+  force = true
+
+[[redirects]]
+  from = "https://lucabontempi.eu/il_mercato_informatico/"
+  to = "https://lucabontempi.com/il_mercato_informatico/"
+  status = 302
+  force = true
+
+[[redirects]]
+  from = "https://www.lucabontempi.eu/il_mercato_informatico/"
+  to = "https://lucabontempi.com/il_mercato_informatico/"
+  status = 302
+  force = true
+
+[[redirects]]
+  from = "https://lucabontempi.com/ilmercatoinformatico/"
+  to = "https://lucabontempi.com/il_mercato_informatico/"
+  status = 302
+  force = true
+
+[[redirects]]
+  from = "https://www.lucabontempi.com/ilmercatoinformatico/"
+  to = "https://lucabontempi.com/il_mercato_informatico/"
+  status = 302
+  force = true
+
+[[redirects]]
+  from = "https://lucabontempi.it/ilmercatoinformatico/"
+  to = "https://lucabontempi.com/il_mercato_informatico/"
+  status = 302
+  force = true
+
+[[redirects]]
+  from = "https://www.lucabontempi.it/ilmercatoinformatico/"
+  to = "https://lucabontempi.com/il_mercato_informatico/"
+  status = 302
+  force = true
+
+[[redirects]]
+  from = "https://lucabontempi.eu/ilmercatoinformatico/"
+  to = "https://lucabontempi.com/il_mercato_informatico/"
+  status = 302
+  force = true
+
+[[redirects]]
+  from = "https://www.lucabontempi.eu/ilmercatoinformatico/"
+  to = "https://lucabontempi.com/il_mercato_informatico/"
   status = 302
   force = true
 

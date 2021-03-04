@@ -5,7 +5,7 @@ tags: ["about"]
 hideMeta: true
 ---
 
-Ciao , mi chiamo Luca Bontempi e sono uno studente!
+Ciao, mi chiamo Luca Bontempi e sono uno studente!
 
 Ho studiato Economia e Gestione Aziendale all'Università degli Studi di Brescia. Mi sono laureato nel corso dell'anno accademico 2018/2019 con una relazione finale dal titolo "[Il mercato informatico: il software come prodotto e servizio]( {{< ref "il_mercato_informatico.md" >}} "Il mercato informatico: il software come prodotto e servizio")".
 

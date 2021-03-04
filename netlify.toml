@@ -1,5 +1,5 @@
 [build]
-  command = "hugo --gc --minify --baseURL $/"
+  command = "hugo --gc --minify -b $URL"
   publish = "public"
 
 [build.environment]
@@ -10,12 +10,36 @@
   HUGO_ENV = "production"
 
 [context.deploy-preview]
-  command = "hugo --gc --minify --buildFuture --baseURL $/"
+  command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
 
 [context.branch-deploy]
-  command = "hugo --gc --minify --baseURL $/"
+  command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
 
 [[plugins]]
   package = "netlify-plugin-hugo-cache-resources"
   [plugins.inputs]
     debug = true
+
+[[redirects]]
+  from = "https://lucabontempi.it/*"
+  to = "https://lucabontempi.com"
+  status = 302
+  force = true
+
+[[redirects]]
+  from = "https://www.lucabontempi.it/*"
+  to = "https://lucabontempi.com"
+  status = 302
+  force = true
+
+[[redirects]]
+  from = "https://lucabontempi.eu/*"
+  to = "https://lucabontempi.com"
+  status = 302
+  force = true
+
+[[redirects]]
+  from = "https://www.lucabontempi.eu/*"
+  to = "https://lucabontempi.com"
+  status = 302
+  force = true

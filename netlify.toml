@@ -43,3 +43,9 @@
   to = "https://lucabontempi.com"
   status = 302
   force = true
+
+[[redirects]]
+  from = "https://lucabontempi.netlify.app/*"
+  to = "https://lucabontempi.com"
+  status = 302
+  force = true

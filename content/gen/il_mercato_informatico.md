@@ -2,6 +2,9 @@
 author: "Luca Bontempi"
 title: "Il mercato informatico: il software come prodotto e servizio"
 # tags: ["about"]
+aliases:
+    - /gen/il_mercato_informatico/
+    - /ilmercatoinfomatico
 hideMeta: true
 disableShare: true
 ---

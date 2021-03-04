@@ -49,3 +49,30 @@
   to = "https://lucabontempi.com"
   status = 302
   force = true
+
+#Additional redirects
+ 
+ #CV
+[[redirects]]
+  from = "https://lucabontempi.it/cv"
+  to = "https://lucabontempi.com/cv"
+  status = 302
+  force = true
+
+[[redirects]]
+  from = "https://www.lucabontempi.it/cv"
+  to = "https://lucabontempi.com/cv"
+  status = 302
+  force = true
+
+[[redirects]]
+  from = "https://lucabontempi.eu/cv"
+  to = "https://lucabontempi.com/cv"
+  status = 302
+  force = true
+
+[[redirects]]
+  from = "https://www.lucabontempi.eu/cv"
+  to = "https://lucabontempi.com/cv"
+  status = 302
+  force = true

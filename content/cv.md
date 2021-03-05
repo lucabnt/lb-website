@@ -18,7 +18,7 @@ E-mail: [luca@lucabontempi.com](mailto:luca@lucabontempi.com)
 #### BACHELOR’S DEGREE IN BUSINESS ADMINISTRATION | MAR 2020 | UNIVERSITY OF BRESCIA
 
 * Degree Score: 102/110
-* Bachelor's Thesis: "\[The Information Technology Industry: Software as a Product and a Service\]( {{< ref "il_mercato_informatico.md" >}} "The Information Technology Industry: Software as a Product and a Service")" (in Italian)
+* Bachelor's Thesis: "[The Information Technology Industry: Software as a Product and a Service]( {{< ref "il_mercato_informatico.md" >}} "The Information Technology Industry: Software as a Product and a Service")" (in Italian)
 
 #### SCIENTIFIC HIGH SCHOOL DIPLOMA | JUL 2016 | LICEO SCIENTIFICO ANTONIETTI ISEO
 

@@ -18,7 +18,7 @@ E-mail: [luca@lucabontempi.com](mailto:luca@lucabontempi.com)
 #### BACHELOR’S DEGREE IN BUSINESS ADMINISTRATION | MAR 2020 | UNIVERSITY OF BRESCIA
 
 * Degree Score: 102/110
-* Bachelor's Thesis: "[The Information Technology Industry: Software as a Product and a Service]( {{< ref "il_mercato_informatico.md" >}} "The Information Technology Industry: Software as a Product and a Service")" (in Italian)
+* Bachelor's Thesis: "[The Information Technology Industry: Software as a Product and a Service]( {{< ref "il_mercato_informatico.md" >}} "Il mercato informatico: il software come prodotto e servizio")" (in Italian)
 
 #### SCIENTIFIC HIGH SCHOOL DIPLOMA | JUL 2016 | LICEO SCIENTIFICO ANTONIETTI ISEO
 
@@ -48,5 +48,5 @@ E-mail: [luca@lucabontempi.com](mailto:luca@lucabontempi.com)
 
 #### OTHER SKILLS
 
-* Sport Director and Trainer of a [youth cycling team](https://www.asdprogettociclismorodengosaiano.net/ "A.S.D. Progetto Ciclismo - Rodengo Saiano") (since 2016)
-* Good Experience in Sports: cyclist and runner
+* Sport Director and Trainer of a [Youth Cycling Team](https://www.asdprogettociclismorodengosaiano.net/ "A.S.D. Progetto Ciclismo - Rodengo Saiano") (since 2016)
+* Good Experience in Sports: Cyclist and Runner

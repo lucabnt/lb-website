@@ -12,6 +12,6 @@ Ho studiato Economia e Gestione Aziendale all'Università degli Studi di Brescia
 
 Attualmente studio [International Business and Entrepreneurship (MIBE)](https://mibe.unipv.it/), con un focus sul Digital Management, all'Università degli Studi di Pavia.
 
-Sono appassionato di tecnologia, informatica, videogiochi, film e serie tv, sport e (a tratti) di politica. Nel tempo libero mi piace [correre e andare in bicicletta](https://www.strava.com/athletes/4403103).
+Sono appassionato di tecnologia, informatica, videogiochi, film e serie tv, sport e (a tratti) di politica. Nel tempo libero mi piace [correre e andare in bicicletta](https://www.strava.com/athletes/4403103 "Strava").
 
-Qui potete trovare il mio (breve) [curriculum vitae]( {{< ref "cv.md" >}} "curriculum vitae").
+Qui potete trovare il mio (breve) [curriculum vitae]( {{< ref "cv.md" >}} "Curriculum Vitae").

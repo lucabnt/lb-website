@@ -46,6 +46,18 @@
   status = 302
   force = true
 
+[[redirects]]
+  from = "https://bontempi.me/cv"
+  to = "https://lucabontempi.com/cv"
+  status = 302
+  force = true
+
+[[redirects]]
+  from = "https://www.bontempi.me/cv"
+  to = "https://lucabontempi.com/cv"
+  status = 302
+  force = true
+
 #Il mercato informatico
 [[redirects]]
   from = "https://lucabontempi.it/il_mercato_informatico/"
@@ -138,3 +150,14 @@
   status = 302
   force = true
 
+[[redirects]]
+  from = "https://bontempi.me/*"
+  to = "https://lucabontempi.com"
+  status = 302
+  force = true
+
+[[redirects]]
+  from = "https://www.bontempi.me/*"
+  to = "https://lucabontempi.com"
+  status = 302
+  force = true

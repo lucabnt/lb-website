@@ -36,7 +36,7 @@ E-mail: [luca@lucabontempi.com](mailto:luca@lucabontempi.com)
 #### LANGUAGES
 
 * Italian (native)
-* English (B2)
+* English (C1)
 
 #### DIGITAL SKILLS
 

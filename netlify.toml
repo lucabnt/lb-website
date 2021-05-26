@@ -173,3 +173,15 @@
   to = "https://lucabontempi.com"
   status = 302
   force = true
+
+[[redirects]]
+  from = "https://bonte.lu/*"
+  to = "https://lucabontempi.com"
+  status = 302
+  force = true
+
+[[redirects]]
+  from = "https://www.bonte.lu/*"
+  to = "https://lucabontempi.com"
+  status = 302
+  force = true

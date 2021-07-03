@@ -46,6 +46,10 @@ E-mail: [luca@lucabontempi.com](mailto:luca@lucabontempi.com)
 * Graphics and Multimedia: Raster Graphic Editor, Video Editing (Basic)
 * Programming Languages: Python (Basic)
 
+#### PROJECT MANAGEMENT SKILLS
+
+* Introductory Certificate in Project Management by IPMA Italy
+
 #### OTHER SKILLS
 
 * Sport Director and Trainer of a [Youth Cycling Team](https://www.asdprogettociclismorodengosaiano.net/ "A.S.D. Progetto Ciclismo - Rodengo Saiano") (since 2016)

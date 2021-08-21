@@ -11,6 +11,10 @@ E-mail: [luca@lucabontempi.com](mailto:luca@lucabontempi.com)
 
 ## Education
 
+#### MASTER OF SCIENCE IN EUROPEAN MANAGEMENT | ONGOING STUDIES | EBERHARD KARLS UNIVERSITY OF TÜBINGEN
+
+* Double Degree program with University of Pavia
+
 #### MASTER IN INTERNATIONAL BUSINESS AND ENTERPRENEURSHIP | ONGOING STUDIES | UNIVERSITY OF PAVIA
 
 * Curriculum: Digital Management

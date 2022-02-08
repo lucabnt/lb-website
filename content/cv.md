@@ -40,15 +40,16 @@ E-mail: [luca@lucabontempi.com](mailto:luca@lucabontempi.com)
 #### LANGUAGES
 
 * Italian (native)
-* English (C1)
+* English (C1, IELTS Academic: 7.5)
 
 #### DIGITAL SKILLS
 
-* Operative System: Microsoft Windows (Advanced), Linux (Basic)
-* Office Automation: Office Suite, Word Processors, Spreadsheets, Presentation Software (Advanced)
-* Data Management: Microsoft Access (Intermediate), MySQL (Basic)
-* Graphics and Multimedia: Raster Graphic Editor, Video Editing (Basic)
 * Programming Languages: Python (Basic)
+* Markup Languages: LaTeX (Basic)
+* Data Management: Microsoft Access (Basic), MySQL (Basic)
+* Office Automation: Office Suite, Word Processors, Spreadsheets, Presentation Software (Advanced)
+* Operative System: Microsoft Windows, Linux (Basic)
+* Graphics and Multimedia: Raster Graphic Editor, Video Editing (Basic)
 
 #### PROJECT MANAGEMENT SKILLS
 

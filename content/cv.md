@@ -40,7 +40,7 @@ E-mail: [luca@lucabontempi.com](mailto:luca@lucabontempi.com)
 #### LANGUAGES
 
 * Italian (native)
-* English (C1, IELTS Academic: 7.5)
+* English (C1, IELTS Academic - Overall Band Score 7.5)
 
 #### DIGITAL SKILLS
 

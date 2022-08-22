@@ -48,8 +48,6 @@ E-mail: [luca@lucabontempi.com](mailto:luca@lucabontempi.com)
 * Markup Languages: LaTeX (Basic)
 * Data Management: Microsoft Access (Basic), MySQL (Basic)
 * Office Automation: Office Suite, Word Processors, Spreadsheets, Presentation Software (Advanced)
-* Operative System: Microsoft Windows, Linux (Basic)
-* Graphics and Multimedia: Raster Graphic Editor, Video Editing (Basic)
 
 #### PROJECT MANAGEMENT SKILLS
 

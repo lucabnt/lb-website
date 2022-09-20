@@ -59,15 +59,15 @@ params:
     # Content: Welcome to my blog
 
   socialIcons:
-    - name: linkedin
+    - name: 'linkedin'
       url: 'https://linkedin.com/in/lucabontempi1/'
-    - name: instagram
+    - name: 'instagram'
       url: 'https://instagram.com/bonte.lu'
-    - name: twitter
+    - name: 'twitter'
       url: 'https://twitter.com/bontempi97'
-    - name: "strava"
+    - name: 'strava'
       url: 'https://www.strava.com/athletes/4403103'
-    - name: email
+    - name: 'email'
       url: "mailto:luca@lucabontempi.com"
 
 

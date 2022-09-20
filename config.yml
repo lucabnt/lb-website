@@ -69,7 +69,8 @@ params:
       url: 'https://www.strava.com/athletes/4403103'
     - name: 'email'
       url: "mailto:luca@lucabontempi.com"
-
+    - name: 'strava'
+      url: 'https://www.strava.com/athletes/4403103'
 
   # analytics:
     # google:

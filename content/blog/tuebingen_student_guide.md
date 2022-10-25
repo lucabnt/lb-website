@@ -90,7 +90,6 @@ Despite beening a relatevely small city, a pretty good selection of internationa
 <h3>Shots: <h3>
 
 
-
 <h2>Sports and Experiences<h2>
 
 <h3>Tübingen Tigers<h3>
@@ -101,7 +100,8 @@ Despite beening a relatevely small city, a pretty good selection of internationa
 
 <h3>Hikings<h3>
 
-<h3><h3>
+<h3>Stuttgart Frühlingsfest<h3>
+
 
 
 <h2>Clubs<h2>

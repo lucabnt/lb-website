@@ -58,9 +58,9 @@ Meal price: 30-45 euros. Here there are the [Google Maps location](https://g.pag
 
 <h2>International Food<h2>
 
-Despite been a relatevely small city, Tübingen is pretty international one. 
+Despite beening a relatevely small city, a pretty good selection of international food can be experienced in Tübingen. 
 
-<h3>Pub Food: Saints & Scholars<h3>
+<h3>Pub's Food: Saints & Scholars<h3>
 
 
 <h3>Greek: Faros - an ouzo philosophy<h3>
@@ -71,9 +71,12 @@ Despite been a relatevely small city, Tübingen is pretty international one.
 
 <h2>Fast Food<h2>
 
+
 <h3>Falafel: Kichererbse<h3>
 
+
 <h3>Kebab: Lustnauer Imbiss<h3>
+
 
 <h3>Kebab: <h3>
 
@@ -87,11 +90,22 @@ Despite been a relatevely small city, Tübingen is pretty international one.
 <h3>Shots: <h3>
 
 
+
+<h2>Sports and Experiences<h2>
+
+<h3>Tübingen Tigers<h3>
+
+<h3>VfB Stuttgart<h3>
+
+<h3>ATP 250 Stuttgart<h3>
+
+<h3>Hikings<h3>
+
+<h3><h3>
+
+
 <h2>Clubs<h2>
 
 <h3> <h3>
 
 <h3> <h3>
-
-
-<h2>Experiences<h2>

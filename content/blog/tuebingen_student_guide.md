@@ -19,7 +19,7 @@ showToc: true
 #    relative: false
 # comments: false
 ---
-My year as a double degree student in Tübingen is coming to an end and it would be a pity if the knowledge of the city I accumolated in these months ended up being wasted: that's the reason why I decided to write a guide to share my experiences in this wonderful city with you. We'll cover multiple categories of activities, starting from food and fun all the way down to natural landscapes and unforgettable experiences. Let's start!
+My year as an international student in Tübingen is coming to an end and it would be a pity if the knowledge of the city I accumolated over these months ended up being wasted: that's the reason why I decided to write a guide to share my experiences in this wonderful city with you all. We'll cover multiple categories of activities, starting from food and fun all the way down to natural landscapes, sports and unforgettable experiences. Let's start!
 
 <h2>German Food<h2>
 

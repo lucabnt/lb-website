@@ -45,7 +45,7 @@ Meal price: 10-15 euros. Here there are the [Google Maps location](https://goo.g
 
 I probably never felt so well integrated in the local culture as when I tried the [Landgasthaus Waldhäuser Hof](https://waldhaeuser-hof.de/). The food was good, but the setting is probably even better, just in the middle of the Waldhäuser farms area. And, in fact, the location is probably the main highlight of this place!
 
-Prices here definitely rise, at least if compared to the first option proposed, and become similar to those you could find in the majority of german restourants in the area (prices similar to Gasthausbrauerei Neckarmüller, but the quality is in my opinion way higher). I would probably suggest to try meat dishes here.
+Prices here definitely rise, at least if compared to the first proposal, and become similar to those you could find in the majority of german restourants in the area (prices similar to Gasthausbrauerei Neckarmüller, but the quality is in my opinion way higher). I would probably suggest to try meat dishes here.
 
 Meal price: 25-35 euros. Here there are the [Google Maps location](https://g.page/WaldhaeuserHof?share) and their [Tripadvisor page](https://www.tripadvisor.de/Restaurant_Review-g198539-d21141085-Reviews-Waldhauser_Hof-Tubingen_Baden_Wurttemberg.html).
 
@@ -78,7 +78,7 @@ Despite beening a relatevely small city, a pretty good selection of internationa
 <h3>Kebab: Lustnauer Imbiss<h3>
 
 
-<h3>Kebab: <h3>
+<h3>Chinese: <h3>
 
 
 <h2>Pubs and Bars<h2>
@@ -98,10 +98,9 @@ Despite beening a relatevely small city, a pretty good selection of internationa
 
 <h3>ATP 250 Stuttgart<h3>
 
-<h3>Hikings<h3>
-
 <h3>Stuttgart Frühlingsfest<h3>
 
+<h3>Hikings<h3>
 
 
 <h2>Clubs<h2>

@@ -69,6 +69,8 @@ params:
       url: 'https://www.strava.com/athletes/4403103'
     - name: mastodon
       url: 'https://mastodon.uno/@bontelu'
+    - name: 'pixelfed'
+      url: 'https://pixelfed.uno/bonte.lu'
     - name: email
       url: "mailto:luca@lucabontempi.com"
 

@@ -65,9 +65,11 @@ params:
       url: 'https://instagram.com/bonte.lu'
     - name: 'twitter'
       url: 'https://twitter.com/bontempi97'
-    #- name: 'strava'
-    #  url: 'https://www.strava.com/athletes/4403103'
-    - name: 'email'
+    - name: strava
+      url: 'https://www.strava.com/athletes/4403103'
+    - name: mastodon
+      url: 'https://mastodon.uno/@bontelu'
+    - name: email
       url: "mailto:luca@lucabontempi.com"
 
 

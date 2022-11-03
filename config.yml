@@ -69,7 +69,6 @@ params:
       url: 'https://pixelfed.uno/bonte.lu'
     - name: mastodon
       url: 'https://mastodon.uno/@bontelu'
-    - name: 'pixelfed'
     - name: strava
       url: 'https://www.strava.com/athletes/4403103'
     - name: email

@@ -36,11 +36,9 @@ The collection is entitled ["One year in Tü. A chapter."]() and it is fully ava
 
 {{< pixelfed src="https://pixelfed.uno/p/bonte.lu/494113417824101774/embed?caption=false&likes=false&layout=full" >}}
 <h3>4/<h3>
-{{< pixelfed src="https://pixelfed.uno/p/bonte.lu/494171287430182934/embed?caption=false&likes=false&layout=compact" >}}
+{{< pixelfed src="https://pixelfed.uno/p/bonte.lu/494159055618541421/embed?caption=false&likes=false&layout=compact" >}}
 <h3>5/<h3>
-{{< pixelfed src="https://pixelfed.uno/p/bonte.lu/494171287430182934/embed?caption=false&likes=false&layout=compact" >}}
+{{< pixelfed src="https://pixelfed.uno/p/bonte.lu/494162185284372362/embed?caption=false&likes=false&layout=compact" >}}
 <h3>6/<h3>
-
-
 
 {{< pixelfed src="https://pixelfed.uno/p/bonte.lu/494171287430182934/embed?caption=false&likes=false&layout=compact" >}}

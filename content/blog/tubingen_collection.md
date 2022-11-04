@@ -20,7 +20,7 @@ author: "lb"
 ---
 
 I created a collection of 36 photos that, in my opinion, best represent my experience in Tübingen. Those pictures cover a period from October 2021 to September 2022 and were taken in Tübingen and in the surrounding are, with just few exceptions coming from some other attractive German cities.
-The collection is entitled "[One year in Tü. A chapter.]()" and it is fully available on [Pixelfed](https://pixelfed.uno/@bonte.lu).
+The collection is entitled "[One year in Tü. A chapter.]()" and it is fully available on my [Pixelfed](https://pixelfed.uno/@bonte.lu) profile.
 
 Here you can view every photo with a little bit of commentary!
 

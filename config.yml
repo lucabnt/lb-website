@@ -87,7 +87,7 @@ params:
 pluralizeListTitles: false
 
 # Embed things
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
+markup:
+  markup.goldmark:
+    markup.goldmark.renderer:
       unsaf: true

@@ -11,8 +11,8 @@ author: "lb"
 # TocOpen: false
 # hidemeta: false
 # disableShare: false
-# cover:
-#    image: "<image path/url>"
+cover:
+    image: "<\static\tuebingen_collection\tuebingen_collection_1.png>"
 #    alt: "<alt text>"
 #    caption: "<text>"
 #    relative: false

@@ -90,4 +90,4 @@ pluralizeListTitles: false
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
-      unsafe = true
+      unsaf: true

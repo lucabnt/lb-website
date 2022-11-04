@@ -11,8 +11,9 @@ author: "lb"
 # TocOpen: false
 # hidemeta: false
 # disableShare: false
+cover.image: "static\blog\tuebingen_collection\tuebingen_collection_1.png"
 image: "static\blog\tuebingen_collection\tuebingen_collection_1.png"
-post-header: "static\blog\tuebingen_collection\tuebingen_collection_1.png"
+figure: "static\blog\tuebingen_collection\tuebingen_collection_1.png"
 #    alt: "<alt text>"
 #    caption: "<text>"
 #    relative: false

@@ -2,20 +2,10 @@
 title: "The Cucionma confl'sdfmkds"
 draft: false
 # weight: 1
-# aliases: ["/first"]
-tags: ["Tübingen";"hiking"]
+tags: ["Tübingen","hiking"]
 author: "lb"
-# author: ["Me", "You"] # multiple authors
 showToc: true
-# TocOpen: false
-# hidemeta: false
-# disableShare: false
-# cover:
-#    image: "<image path/url>"
-#    alt: "<alt text>"
-#    caption: "<text>"
-#    relative: false
-# comments: false
+
 ---
 MDuring my stay in Tübingen, hiking was one of my favourite activities and I have to say the surrounding area was perfect for that.
 

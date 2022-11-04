@@ -24,8 +24,12 @@ The collection is entitled ["One year in Tü. A chapter."]() and it is fully ava
 
 <iframe src="https://pixelfed.social/p/bonte.lu/493924873009842308/embed?caption=false&likes=false&layout=full"></iframe>
 One of my favourite glimpse on  [Marktplatz](https://goo.gl/maps/oukKkdYwJXL1fRCv6).
+
 {{< iframe https://pixelfed.social/p/bonte.lu/493924873009842308/embed?caption=false&likes=false&layout=full >}}
+
 {{< gslides src="https://pixelfed.social/p/bonte.lu/493924873009842308/embed?caption=false&likes=false&layout=full" width="640" height="480" >}}
+
+{{< figure src="https://pixelfed-prod.nyc3.digitaloceanspaces.com/public/m/_v2/493914876245067116/a48ad3dc0-89cf68/3uYvHwr9rlcr/ra603YBiYUedKWBFsq46SEsyd2Uon0nKmqK2dcdx.jpg" title="Prova" >}}
 
 <iframe src="https://pixelfed.social/p/bonte.lu/493925086654625938/embed?caption=false&likes=false&layout=compact" class="pixelfed__embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script async defer src="https://pixelfed.social/embed.js"></script>
 

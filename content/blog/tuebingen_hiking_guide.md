@@ -38,4 +38,3 @@ Therefore, I created a collection of all the hikings I did and I also selected s
 
 ### Top Hiking:
 
-{{< komoot src="https://www.komoot.it/tour/929681393/embed?share_token=aU0Z1uvkubbqJIsOYI2dt1BbvB4YRuav4FtJqAprjBHsr2DgSH&profile=1" >}}

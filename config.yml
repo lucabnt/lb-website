@@ -86,3 +86,7 @@ params:
 # Pluralize titles in lists using inflect
 pluralizeListTitles: false
 
+params:
+  cover:
+    responsiveImages: false
+    linkFullImages: true

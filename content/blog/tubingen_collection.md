@@ -4,7 +4,7 @@ date: 2022-11-04T16:54:56+01:00 # date: 2020-11-02T17:03:46+01:00
 draft: false
 # weight: 1
 # aliases: ["/first"]
-tags: ["Tübingen", "photo"]
+tags: ["Tübingen", "photography"]
 author: "lb"
 # author: ["Me", "You"] # multiple authors
 # showToc: false

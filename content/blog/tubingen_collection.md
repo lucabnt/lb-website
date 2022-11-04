@@ -23,3 +23,5 @@ I created a collection of 36 photos that, I think, best represent my experience 
 The collection is entitled ["One year in Tü. A chapter."]() and it is fully available on [Pixelfed](https://pixelfed.social/@bonte.lu). Here you can view every photo with a little bit of commentary!
 
 {{< pixelfed src="https://pixelfed.social/p/bonte.lu/494171014432204481/embed?caption=true&likes=true&layout=full" >}}
+
+{{< pixelfed_profile src="https://pixelfed.social/bonte.lu/embed" >}}

@@ -1,7 +1,5 @@
 ---
-title: "The Tübingen Hiking Guide"
-subtitle: "After one year as a student in Tübingen, I'll try to share with you all the city knowledge I gained!"
-
+title: "The Cucionma confl'sdfmkds"
 draft: false
 # weight: 1
 # aliases: ["/first"]

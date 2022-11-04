@@ -12,7 +12,7 @@ author: "lb"
 # hidemeta: false
 # disableShare: false
 cover:
-  image: "https://raw.githubusercontent.com/lucabnt/lbwebsite/main/static/blog/tuebingen_collection/tuebingen_collection_1.png"
+  image: "https://lucabontempi.com/blog/tuebingen_collection/tuebingen_collection_1.png"
   # can also paste direct link from external site
   # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
   relative: false # To use relative path for cover image, used in hugo Page-bundles

@@ -25,11 +25,11 @@ Therefore, I created a collection of all the hikings I did and I also selected s
 
 ### Top Hiking:
 
-{{< strava src="7719807992" >}}
+
 
 ### Top Hiking:
 
-{{< strava src="7719807992" >}}
+
 
 ### Top Hiking:
 

@@ -30,7 +30,7 @@ Therefore, I created a collection of all the hikes I did and I also selected som
 
 
 
-### Top Hike:
+### Top Hike: Schwarzwald Genießerpfad from Calw
 
 {{< strava src="7719807992" >}}
 
@@ -38,5 +38,3 @@ Therefore, I created a collection of all the hikes I did and I also selected som
 ### Top Hike:
 
 
-
-{{< komoot src="https://www.komoot.it/tour/929681393/embed?share_token=aU0Z1uvkubbqJIsOYI2dt1BbvB4YRuav4FtJqAprjBHsr2DgSH&profile=1" >}}

@@ -21,11 +21,12 @@ author: "lb"
 
 I created a collection of 36 photos that, I think, best represent my experience in Tübingen. Those pictures cover a period from October 2021 to September 2022 and were taken in Tübingen and in the surrounding are, with just few exceptions from some other attractive German cities.
 The collection is entitled ["One year in Tü. A chapter."]() and it is fully available on [Pixelfed](https://pixelfed.social/@bonte.lu).
+
 Here you can view every photo with a little bit of commentary!
 
 ### 1/
 
-
+This is one of my favourite glimpse on Marktplatz
 
 {{< pixelfed src="https://pixelfed.uno/p/bonte.lu/493582175507354108/embed?caption=false&likes=false&layout=compact" >}}
 
@@ -37,7 +38,7 @@ Here you can view every photo with a little bit of commentary!
 
 ### 3/
 
-{{< pixelfed src="https://pixelfed.uno/p/bonte.lu/494113417824101774/embed?caption=false&likes=false&layout=full" >}}
+{{< pixelfed src="https://pixelfed.uno/p/bonte.lu/494113417824101774/embed?caption=false&likes=false&layout=compact" >}}
 
 ### 4/
 {{< pixelfed src="https://pixelfed.uno/p/bonte.lu/494159055618541421/embed?caption=false&likes=false&layout=compact" >}}

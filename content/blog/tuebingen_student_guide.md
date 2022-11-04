@@ -21,7 +21,7 @@ showToc: true
 ---
 My year as an international student in Tübingen is coming to an end and it would be a pity if the knowledge of the city I accumolated over these months ended up being wasted: that's the reason why I decided to write a guide to share my experiences in this wonderful city with you all. We'll cover multiple categories of activities, starting from food and fun all the way down to natural landscapes, sports and unforgettable experiences. Let's start!
 
-<h2>German Food<h2>
+## German Food
 
 I'll start with one of my favourite paragraphs: when I spent time in a place, I always try to dive deep in the local culture and, even for some of my italian friends was quite hard to adapt to the german dishes, I actually enjoyed them almost immediately.
 Therefore, I tried to create a shortlist including both affordable restourants and some german-priced restourants (that could be out of budget for students, but that I suggest to try at least once during your Tübingen experience). The secret, I believe, is to find a good recurring and low-priced solution that you will visit often and to choose wisely the more expensive places that deserve a shoot. 
@@ -31,7 +31,7 @@ While me and typical food got along pretty quickly, the same cannot be said for 
 My suggestions are Gasthaus Bären, Landgasthaus Waldhäuser Hof and Restaurant Mauganeschtle Tübingen.
 On the other side, I suggest you to avoid inserting in your everyday life places like [Gasthausbrauerei Neckarmüller](https://goo.gl/maps/uvpkuUCNMAGziHhU8). While this is a pretty typical turistic choice because of its location, immediately close to the [Neckarbrücke](https://goo.gl/maps/32r1Vc31LEdxCxgF6), service is terrible (characteristic that it shares with many other german restaurants) and the quality level is quite random. My suggestion is to go there rarely and just have a bier and a [Flammkuchen](https://en.wikipedia.org/wiki/Flammekueche), avoiding a complete meal.
 
-<h3>Tapas: Gasthaus Bären<h3>
+### Tapas: Gasthaus Bären
 
 The [Gasthaus Bären](https://www.instagram.com/gasthaus_baeren/) is an affordable restourant and bar, which I found being very attractive for students. Bären has an interesting "tapas" approach, since they serve small portions at a reasonable price, you will be able to taste some good dishes for less than 5 euros and I believe you could be satisfied by spending about 12/15 euros, depending on what you decide to drink.
 
@@ -41,7 +41,7 @@ The only downside is that, due to limited space, during winter time, you need to
 
 Meal price: 10-15 euros. Here there are the [Google Maps location](https://goo.gl/maps/LfJeg6sqC5q5hTrM7) and their [Tripadvisor page](https://www.tripadvisor.it/Restaurant_Review-g198539-d10125512-Reviews-Gasthaus_Baren-Tubingen_Baden_Wurttemberg.html).
 
-<h3>Location: Landgasthaus Waldhäuser Hof<h3>
+### Location: Landgasthaus Waldhäuser Hof
 
 I probably never felt so well integrated in the local culture as when I tried the [Landgasthaus Waldhäuser Hof](https://waldhaeuser-hof.de/). The food was good, but the setting is probably even better, just in the middle of the Waldhäuser farms area. And, in fact, the location is probably the main highlight of this place!
 
@@ -49,62 +49,62 @@ Prices here definitely rise, at least if compared to the first proposal, and bec
 
 Meal price: 25-35 euros. Here there are the [Google Maps location](https://g.page/WaldhaeuserHof?share) and their [Tripadvisor page](https://www.tripadvisor.de/Restaurant_Review-g198539-d21141085-Reviews-Waldhauser_Hof-Tubingen_Baden_Wurttemberg.html).
 
-<h3>Swabisch: Restaurant Mauganeschtle<h3>
+### Swabisch: Restaurant Mauganeschtle
 
 Here prices get higher, at least for students' standards, but the [Restaurant Mauganeschtle](https://www.mauganeschtle.de/) was the first suggestion for tasting real Swabian cousine by Swabian people themselves. Here you could taste [Maultaschen](https://en.wikipedia.org/wiki/Maultasche), [Käsespätzle](https://en.wikipedia.org/wiki/K%C3%A4sesp%C3%A4tzle) and many other Swabian dishes, including good meat. Quality is high and it comes at a price: the main dishes go up to 30 euros.
 
 Meal price: 30-45 euros. Here there are the [Google Maps location](https://g.page/mauganeschtle?share) and their [Tripadvisor page](https://www.tripadvisor.de/Restaurant_Review-g198539-d1344207-Reviews-Mauganeschtle-Tubingen_Baden_Wurttemberg.html).
 
 
-<h2>International Food<h2>
+## International Food
 
 Despite beening a relatevely small city, a pretty good selection of international food can be experienced in Tübingen. 
 
-<h3>Pub's Food: Saints & Scholars<h3>
+### Pub's Food: Saints & Scholars
 
 
-<h3>Greek: Faros - an ouzo philosophy<h3>
+### Greek: Faros - an ouzo philosophy
 
 
-<h3>Pizza: Da Michele<h3>
+### Pizza: Da Michele
 
 
-<h2>Fast Food<h2>
+## Fast Food
 
 
-<h3>Falafel: Kichererbse<h3>
+### Falafel: Kichererbse
 
 
-<h3>Kebab: Lustnauer Imbiss<h3>
+### Kebab: Lustnauer Imbiss
 
 
-<h3>Chinese: <h3>
+### Chinese: 
 
 
-<h2>Pubs and Bars<h2>
+## Pubs and Bars
 
-<h3>Pub: <h3>
+### Pub: 
 
-<h3>Cocktails: <h3>
+### Cocktails: 
 
-<h3>Shots: <h3>
-
-
-<h2>Sports and Experiences<h2>
-
-<h3>Tübingen Tigers<h3>
-
-<h3>VfB Stuttgart<h3>
-
-<h3>ATP 250 Stuttgart<h3>
-
-<h3>Stuttgart Frühlingsfest<h3>
-
-<h3>Hikings<h3>
+### Shots: 
 
 
-<h2>Clubs<h2>
+## Sports and Experiences
 
-<h3> <h3>
+### Tübingen Tigers
 
-<h3> <h3>
+### VfB Stuttgart
+
+### ATP 250 Stuttgart
+
+### Stuttgart Frühlingsfest
+
+### Hikings
+
+
+## Clubs
+
+### 
+
+### 

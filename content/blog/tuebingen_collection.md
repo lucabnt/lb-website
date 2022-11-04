@@ -1,5 +1,5 @@
 ---
-title: "One year in Tübingen. A chapter and a photo collection."
+title: "One year in Tübingen. A chapter. A photo collection."
 date: 2022-11-04T16:54:56+01:00 # date: 2020-11-02T17:03:46+01:00
 draft: false
 # weight: 1
@@ -12,7 +12,7 @@ author: "lb"
 # hidemeta: false
 # disableShare: false
 cover:
-    image: "<\static\tuebingen_collection\tuebingen_collection_1.png>"
+    image: "<static\tuebingen_collection\tuebingen_collection_1.png>"
 #    alt: "<alt text>"
 #    caption: "<text>"
 #    relative: false

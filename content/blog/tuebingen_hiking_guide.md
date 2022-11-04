@@ -19,4 +19,3 @@ author: "lb"
 # comments: false
 ---
 Prova
-{{< strava data-embed-id='7828007083' >}}

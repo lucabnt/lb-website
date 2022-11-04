@@ -11,13 +11,11 @@ author: "lb"
 # TocOpen: false
 # hidemeta: false
 # disableShare: false
-cover.image: "static\blog\tuebingen_collection\tuebingen_collection_1.png"
-cover: "static\blog\tuebingen_collection\tuebingen_collection_1.png"
-image: "static\blog\tuebingen_collection\tuebingen_collection_1.png"
-figure: "static\blog\tuebingen_collection\tuebingen_collection_1.png"
-#    alt: "<alt text>"
-#    caption: "<text>"
-#    relative: false
+cover:
+  image: "<static\blog\tuebingen_collection\tuebingen_collection_1.png>"
+  # can also paste direct link from external site
+  # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
+  relative: true # To use relative path for cover image, used in hugo Page-bundles
 # comments: false
 ---
 

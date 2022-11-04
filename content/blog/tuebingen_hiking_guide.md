@@ -1,7 +1,7 @@
 ---
 title: "The Tübingen Hiking Guide"
 date: 2022-11-04T15:54:45+02:00 # date: 2020-11-02T17:03:46+01:00
-draft: false
+draft: true
 # weight: 1
 # aliases: ["/first"]
 tags: ["Tübingen","hiking"]
@@ -20,22 +20,22 @@ showToc: true
 ---
 During my stay in Tübingen, hiking was one of my favourite activities and I have to say the surrounding area was perfect for that.
 
-Therefore, I created a collection of all the hikings I did and I also selected some of the best and they will be immediately presented as Top Hikings. Enjoy!
+Therefore, I created a collection of all the hikes I did and I also selected some of the best and they will be immediately presented as Top Hikes. Enjoy!
 
-### Top Hiking:
-
-
-
-### Top Hiking:
+### Top Hike:
 
 
 
-### Top Hiking:
+### Top Hike:
+
+
+
+### Top Hike:
 
 {{< strava src="7719807992" >}}
 
 
-### Top Hiking:
+### Top Hike:
 
 
 

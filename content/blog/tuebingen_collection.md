@@ -12,7 +12,7 @@ author: "lb"
 # hidemeta: false
 # disableShare: false
 cover:
-  image: "https://pixelfed.uno/storage/m/_v2/493557531668517219/a48ad3dc0-89cf68/ERBdNOqtZwxs/2bpHC2alVAE85BRKXQuZEAmHi5Ay8RRPYOsn8wmo.jpg?v=6f5491678b5298f9d3db48bf46fb02bc"
+  image: "https://raw.githubusercontent.com/lucabnt/lbwebsite/main/static/blog/tuebingen_collection/tuebingen_collection_1.png"
   # can also paste direct link from external site
   # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
   relative: false # To use relative path for cover image, used in hugo Page-bundles

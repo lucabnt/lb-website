@@ -1,5 +1,5 @@
 ---
-title: "One year in Tübingen. A chapter. A collection."
+title: "One year in Tübingen. A chapter. A photo collection."
 date: 2022-11-04T16:54:56+01:00 # date: 2020-11-02T17:03:46+01:00
 draft: false
 # weight: 1
@@ -19,7 +19,7 @@ author: "lb"
 # comments: false
 ---
 
-I created a collection of 36 photos that, in my opinion, best represent my experience in Tübingen. Those pictures cover a period from October 2021 to September 2022 and were taken in Tübingen and in the surrounding are, with just few exceptions coming from some other attractive German cities.
+I created a collection of 36 photos that, in my opinion, best represent my experience in Tübingen. Those pictures cover a period from October 2021 to September 2022 and were mainly taken in Tübingen and in the surrounding area, with just few exceptions coming from some other attractive German cities.
 The collection is entitled "[One year in Tü. A chapter.]()" and it is fully available on my [Pixelfed](https://pixelfed.uno/@bonte.lu) profile.
 
 Here you can view every photo with a little bit of commentary!
@@ -73,7 +73,7 @@ This [elevetor](https://goo.gl/maps/unKfgHvBdCHU5R2h8) (at least twice as old as
 
 
 
-Work in progress. More to come.
+<mark>Work in progress. More to come!</mark>
 
 <!-- 
 ### 7/

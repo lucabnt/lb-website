@@ -1,7 +1,7 @@
 ---
 title: "The Tübingen Hiking Guide"
 date: 2022-11-04T23:15:50+01:00 # date: 2020-11-02T17:03:46+01:00
-draft: true
+draft: false
 # weight: 1
 # aliases: ["/first"]
 tags: ["Tübingen";"hiking"]
@@ -22,3 +22,5 @@ author: "lb"
 Proviamo Strava Embed
 
 {{< strava src="7719807992" >}}
+
+{{< komoot src="https://www.komoot.it/tour/929681393/embed?share_token=aU0Z1uvkubbqJIsOYI2dt1BbvB4YRuav4FtJqAprjBHsr2DgSH&profile=1" >}}

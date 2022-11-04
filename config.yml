@@ -78,15 +78,12 @@ params:
     - name: email
       url: "mailto:luca@lucabontempi.com"
 
-
+  cover:
+      responsiveImages: false
+      linkFullImages: true
   # analytics:
     # google:
       # SiteVerificationTag: "XYZabc"
 
 # Pluralize titles in lists using inflect
 pluralizeListTitles: false
-
-params:
-  cover:
-    responsiveImages: false
-    linkFullImages: true

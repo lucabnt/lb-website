@@ -251,7 +251,7 @@ I swear that most buses are more modern (but less stylish).
 
 ### 31/
 
-The [2022 European Championships](https://en.wikipedia.org/wiki/2022_European_Championships) of many sports were held in Munich this summer. Fabio Jakobsen and Arnaud Démare (in the picture) were first and second in the cycling men's road race.
+The [2022 European Championships](https://en.wikipedia.org/wiki/2022_European_Championships) were a multisport event held in Munich this summer. Fabio Jakobsen and Arnaud Démare (in the picture) were first and second in the cycling men's road race.
 
 {{< pixelfed src="https://pixelfed.uno/p/bonte.lu/494535722961053634/embed?caption=false&likes=false&layout=compact"   >}}
 

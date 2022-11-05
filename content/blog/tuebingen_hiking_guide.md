@@ -1,6 +1,6 @@
 ---
 title: "The Tübingen Hiking Guide"
-date: 2022-11-04T15:54:45+02:00 # date: 2020-11-02T17:03:46+01:00
+date: 2022-11-04T23:54:45+02:00 # date: 2020-11-02T17:03:46+01:00
 draft: true
 # weight: 1
 # aliases: ["/first"]

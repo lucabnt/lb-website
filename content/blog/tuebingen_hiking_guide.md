@@ -22,7 +22,7 @@ During my stay in Tübingen (Germany), hiking was one of my favourite activities
 
 Therefore, I created a collection of all the hikes I did and I also selected some of the best and they will be immediately presented as Top Hikes. 
 
-Every hike will be presented through the [Strava activity](https://www.strava.com/athletes/4403103), which often also include some pictures, but also a link to the [Komoot activity](https://www.komoot.it/user/2218098976141) will be included, since it allows you to download the GPS file, which can be used to replicate the hike.
+Every hike will be presented through the [Strava activity](https://www.strava.com/athletes/4403103), which often also include some pictures, but a link to the [Komoot activity](https://www.komoot.it/user/2218098976141) will also be included, since it allows you to download the GPS file, which can be used to replicate the hike.
 
 Enjoy!
 

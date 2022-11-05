@@ -1,6 +1,6 @@
 ---
 title: "One year in Tübingen. A Chapter. A Photo Collection."
-date: 2022-11-05T16:00:56+01:00 # date: 2020-11-02T17:03:46+01:00
+date: 2022-11-04T16:00:56+01:00 # date: 2020-11-02T17:03:46+01:00
 draft: false
 # weight: 1
 # aliases: ["/first"]

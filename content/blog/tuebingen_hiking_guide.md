@@ -11,11 +11,11 @@ showToc: true
 # TocOpen: false
 # hidemeta: false
 # disableShare: false
-# cover:
-#    image: "<image path/url>"
+cover:
+    image: "https://lucabontempi.com/blog/tuebingen_hiking_guide/tuebingen_hiking_guide_1.JPG"
 #    alt: "<alt text>"
 #    caption: "<text>"
-#    relative: false
+    relative: false
 # comments: false
 ---
 During my stay in Tübingen, hiking was one of my favourite activities and I have to say the surrounding area was perfect for that.

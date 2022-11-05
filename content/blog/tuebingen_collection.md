@@ -153,7 +153,7 @@ This is his [statue](https://goo.gl/maps/g7Y25aYv5PU3Xupp8) in Stuttgart.
 
 ### 16/
 
-[Rothenburg ob der Tauber](https://en.wikipedia.org/wiki/Rothenburg_ob_der_Tauber) was probably my favourite city among those I visited in Germany. 
+[Rothenburg ob der Tauber](https://en.wikipedia.org/wiki/Rothenburg_ob_der_Tauber) was probably my favourite city amongst those I visited in Germany. 
 
 {{< pixelfed src="https://pixelfed.uno/p/bonte.lu/494514454955992502/embed?caption=false&likes=false&layout=compact"  >}}
 

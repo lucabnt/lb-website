@@ -23,8 +23,7 @@ I created a collection of 36 photos that, in my opinion, best represent my exper
 
 The collection is entitled "[One year in Tü. A Chapter.](https://pixelfed.uno/c/494541470111381622)" and it is fully available on my [Pixelfed profile](https://pixelfed.uno/@bonte.lu). All the photos are published under the [CC BY-NC-SA license](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-<!---
-This blog post is part of a Tübingen themed project made of three posts, so you may want to also visit the Tübingen Experiential Guide for International Students (coming soon!) and the [Tübingen Hiking Guide](https://lucabontempi.com/blog/tuebingen_hiking_guide/). --->
+This blog post is part of a Tübingen themed project made of three posts, so you may want to also visit the Tübingen Experiential Guide for International Students and the Tübingen Hiking Guide (both coming soon!). 
 
 Here you can view every photo with a little bit of commentary!
 
@@ -209,7 +208,7 @@ People enjoying Neckar and the sun.
 
 ### 24/
 
-A view of  [Holzmarkt](https://goo.gl/maps/4dxM4m6Q2TSdx9QM7) from the bell tower of the [Stiftskirche](https://en.wikipedia.org/wiki/St._George%27s_Collegiate_Church,_T%C3%BCbingen).
+A view of [Holzmarkt](https://goo.gl/maps/4dxM4m6Q2TSdx9QM7) from the bell tower of the [Stiftskirche](https://en.wikipedia.org/wiki/St._George%27s_Collegiate_Church,_T%C3%BCbingen).
 
 {{< pixelfed src="https://pixelfed.uno/p/bonte.lu/494522496958842468/embed?caption=false&likes=false&layout=compact"   >}}
 

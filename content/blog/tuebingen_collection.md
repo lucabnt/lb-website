@@ -30,7 +30,7 @@ Here you can view every photo with a little bit of commentary!
 
 ### 1/
 
-This is one of my favourite glimpses on [Marktplatz](https://goo.gl/maps/PpMhPWYci6sE9V2j8).
+This is one of my favourite glimpses of [Marktplatz](https://goo.gl/maps/PpMhPWYci6sE9V2j8).
 
 {{< pixelfed src="https://pixelfed.uno/p/bonte.lu/493582175507354108/embed?caption=false&likes=false&layout=compact" >}}
 
@@ -263,7 +263,7 @@ I'm a great fan of themed parks. [Europa-Park](https://en.wikipedia.org/wiki/Eur
 
 ### 33/
 
-This summer, at the European Championships in Köln, the German national team retired the jersey of [Dirk Nowitzki](https://en.wikipedia.org/wiki/Dirk_Nowitzki), the GOAT of European basketball player until now.
+This summer, at the European Championships in Köln, the German national team retired the jersey of [Dirk Nowitzki](https://en.wikipedia.org/wiki/Dirk_Nowitzki), the European basketball GOAT, as of now.
 
 
 {{< pixelfed src="https://pixelfed.uno/p/bonte.lu/494536086442158033/embed?caption=false&likes=false&layout=compact"   >}}

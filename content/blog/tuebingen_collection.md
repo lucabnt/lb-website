@@ -145,7 +145,7 @@ This is his [statue](https://goo.gl/maps/g7Y25aYv5PU3Xupp8) in Stuttgart.
 
 ### 15/
 
-[Vfb](https://en.wikipedia.org/wiki/VfB_Stuttgart) has be, from that day on, my favourite German team!
+[Vfb](https://en.wikipedia.org/wiki/VfB_Stuttgart) has been, from that day on, my favourite German team!
 
 {{< pixelfed src="https://pixelfed.uno/p/bonte.lu/494509314984555854/embed?caption=false&likes=false&layout=compact"   >}}
 

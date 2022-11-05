@@ -116,7 +116,7 @@ Here it is the [Koomot activity](https://www.komoot.it/tour/685497302?share_toke
 
 ### around Schönbuch
 
-This hike explores the really nice Schönbuch area around [Bebenhausen](https://en.wikipedia.org/wiki/Bebenhausen) (a village in the he Tübingen district), with a good opportunity to spot some wild animals.
+This hike explores the really nice Schönbuch area around [Bebenhausen](https://en.wikipedia.org/wiki/Bebenhausen) (a village in Tübingen district), with a good opportunity to spot some wild animals.
 
 Here it is the [Koomot activity](https://www.komoot.it/tour/678294933?share_token=aIUWLJOkWffcj6ef11uJ7jrQt2L2cwCDFsqCHvGohSyVF12X9I&ref=wtd "Komoot").
 
@@ -124,7 +124,7 @@ Here it is the [Koomot activity](https://www.komoot.it/tour/678294933?share_toke
 
 ### around Hagelloch to Bebenhausen
 
-Before finishing in Bebenhausen again, this hike crosses the area surrounding [Hagelloch](https://en.wikipedia.org/wiki/Hagelloch), another village in the he Tübingen district.
+Before finishing in Bebenhausen again, this hike crosses the area surrounding [Hagelloch](https://en.wikipedia.org/wiki/Hagelloch), another village in Tübingen district.
 
 Here it is the [Koomot activity](https://www.komoot.it/tour/929681393?share_token=aU0Z1uvkubbqJIsOYI2dt1BbvB4YRuav4FtJqAprjBHsr2DgSH&ref=wtd "Komoot").
 

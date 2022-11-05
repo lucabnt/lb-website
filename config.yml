@@ -67,14 +67,14 @@ params:
       url: 'https://twitter.com/bontempi97'
 #    - name: 'pixelfed'
 #      url: 'https://pixelfed.uno/bonte.lu'
-    - name: 'pixelfed'
-      url: 'https://pixelfed.social/bonte.lu'
+#    - name: 'pixelfed'
+#      url: 'https://pixelfed.social/bonte.lu'
     - name: mastodon
       url: 'https://mastodon.uno/@bontelu'
 #    - name: mastodon
-#      url: 'https://mastodon.online/@bontelu'
-    - name: strava
-      url: 'https://www.strava.com/athletes/4403103'
+#      url: 'https://mastodon.online/@bontelu' <a rel="me" href="https://mastodon.online/@bontelu">Mastodon</a>
+#    - name: strava
+#      url: 'https://www.strava.com/athletes/4403103'
     - name: email
       url: "mailto:luca@lucabontempi.com"
 

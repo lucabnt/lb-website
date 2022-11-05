@@ -1,7 +1,7 @@
 ---
 title: "A Tübingen Hiking Guide"
 date: 2022-11-04T23:54:45+02:00 # date: 2020-11-02T17:03:46+01:00
-draft: true
+draft: false
 # weight: 1
 # aliases: ["/first"]
 tags: ["Tübingen","hiking"]
@@ -30,17 +30,25 @@ Enjoy!
 
 ### Top Hike: around Burg Hohenzollern
 
+This hike takes you from the train station of Bisingen, up to the [Burg Hohenzollern](https://en.wikipedia.org/wiki/Hohenzollern_Castle) (which you can visit), then up to the Zoller Horn hill (from where you can have an amazing view of the castle) and back to Bisingen. Here it is the [Koomot activity](https://www.komoot.it/tour/786302697?share_token=aIEibxQFqoDbQcsaw74Wk6kw6OTKPCOEekPQjOA2OI0RasYQUl&ref=wtd "Komoot").
+
 {{< strava src="7217015005" >}}
 
 ### Top Hike: Schwarzwald Genießerpfad from Calw
+
+This is probably the easiest way to have a little taste of the Black Forest, starting in [Calw](https://en.wikipedia.org/wiki/Calw) and following a loop tour that includes the [city scaffold](https://www.komoot.it/highlight/78321) where some death sentences were carried out and some cute passages. Here it is the [Koomot activity](https://www.komoot.it/tour/907533563?share_token=aPZ37hKQhJb93wUI5GwuX1py3qfST4PmbrLfjE3LZWS54tnTxS&ref=wtd "Komoot").
 
 {{< strava src="7719807992" >}}
 
 ### Top Hike: around Teckberg
 
+This hike was surprisingly good. Firstly, you go up to Teckberg, where there is a little [Burg](https://goo.gl/maps/AtUbzGXJYD7HTh2a8), then you visit some [ruins](https://goo.gl/maps/PtLoEGiH7LZYQbby9) and finally an elevated walkway on a [piece of land full of snakes and frogs](https://de.wikipedia.org/wiki/Schopflocher_Torfmoor). Here it is the [Koomot activity](https://www.komoot.it/tour/770772712?share_token=abQV14KuwJkTJnx6YCgSLVCpP3pyuaB3d6GEk7riH8aQcMxaYx&ref=wtd "Komoot").
+
 {{< strava src="7147305430" >}}
 
 ### Top Hike: around Bad Urach
+
+[Bad Urach](https://en.wikipedia.org/wiki/Bad_Urach) is one of best destinations for hiking. There you will be amazed by the [waterfalls](https://goo.gl/maps/5CR8cAZo2D9mj3pB8) and you will visit the [Hohenurach ruins](https://goo.gl/maps/5QQ8h8QjRiFmhpoe6). Here it is the [Koomot activity](https://www.komoot.it/tour/778869387?share_token=as67jEU9G7Pu2XXJMvR5IR45X3MgjpyD9W2T4ZvW6rVJZN4Uqh&ref=wtd "Komoot").
 
 {{< strava src="7185607917" >}}
 

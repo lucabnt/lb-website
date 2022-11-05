@@ -191,7 +191,7 @@ Hiking is one of my favourite activities. This picture was taken during [a hike]
 
 ### 21/
 
-Another hiking destination is the [Schönbuchturm](https://goo.gl/maps/RF1kAE8EHus7BjDr6) in Herrenberg. If you are crazy enough, you could [go there by foot, and come back]().
+Another hiking destination is the [Schönbuchturm](https://goo.gl/maps/RF1kAE8EHus7BjDr6) in Herrenberg. If you are crazy enough you could [go there by foot, and come back]().
 
 {{< pixelfed src="https://pixelfed.uno/p/bonte.lu/494518621748491793/embed?caption=false&likes=false&layout=compact"   >}}
 
@@ -227,7 +227,7 @@ Tübingen and its decorated street lamps.
 
 ### 27/
 
-The night of the Tübingen Stadtfest was probably the funniest one.
+This night of the Tübingen Stadtfest was probably the funniest one in the city.
 
 {{< pixelfed src="https://pixelfed.uno/p/bonte.lu/494523829192447615/embed?caption=false&likes=false&layout=compact"   >}}
 

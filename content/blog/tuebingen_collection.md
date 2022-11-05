@@ -102,7 +102,7 @@ The inside of [Neue Aula](https://de.wikipedia.org/wiki/Neue_Aula_T%C3%BCbingen)
 
 ### 10/
 
-Tübingen is a bike friendly city, kind of a small Amsterdam. At least, they have bike lines...
+Tübingen is a bike friendly city, kind of a small Amsterdam. At least, they have bike lanes...
 
 {{< pixelfed src="https://pixelfed.uno/p/bonte.lu/494501377898128618/embed?caption=false&likes=false&layout=compact"  >}}
 

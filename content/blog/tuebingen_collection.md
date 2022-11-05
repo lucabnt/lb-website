@@ -76,11 +76,14 @@ This [elevetor](https://goo.gl/maps/unKfgHvBdCHU5R2h8) (at least twice as old as
 
 
 
+### 7/
+
+Maybe I should have posted the [Universitätsbibliothek](https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/) cafeteria, probably I spent more time there than studying...
+
+{{< pixelfed src="https://pixelfed.uno/p/bonte.lu/494451727806730838/embed?caption=false&likes=false&layout=compact" >}}
 
 <mark>Work in progress. More to come!</mark>
-
 <!-- 
-### 7/
 ### 8/
 ### 9/
 ### 10/

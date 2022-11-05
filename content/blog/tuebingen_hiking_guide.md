@@ -46,7 +46,7 @@ Here it is the [Koomot activity](https://www.komoot.it/tour/907533563?share_toke
 
 ### Top Hike: around Teckberg
 
-This hike was surprisingly good. Firstly, you go up to Teckberg, where there is a little [Burg](https://goo.gl/maps/AtUbzGXJYD7HTh2a8), then you visit some [ruins](https://goo.gl/maps/PtLoEGiH7LZYQbby9) and finally an elevated walkway on a [piece of land full of snakes and frogs](https://de.wikipedia.org/wiki/Schopflocher_Torfmoor). [This picture](https://lucabontempi.com/blog/tuebingen_collection/#19) was taken close to that site.
+This hike was surprisingly good. Firstly, you go up to Teckberg, where there is a little [Burg](https://goo.gl/maps/AtUbzGXJYD7HTh2a8), then you visit some [ruins](https://goo.gl/maps/PtLoEGiH7LZYQbby9) and finally an elevated walkway over a [piece of land full of snakes and frogs](https://de.wikipedia.org/wiki/Schopflocher_Torfmoor). [This picture](https://lucabontempi.com/blog/tuebingen_collection/#19) was taken close to that site.
 
 Here it is the [Koomot activity](https://www.komoot.it/tour/770772712?share_token=abQV14KuwJkTJnx6YCgSLVCpP3pyuaB3d6GEk7riH8aQcMxaYx&ref=wtd "Komoot").
 
@@ -54,13 +54,13 @@ Here it is the [Koomot activity](https://www.komoot.it/tour/770772712?share_toke
 
 ### Top Hike: around Bad Urach
 
-[Bad Urach](https://en.wikipedia.org/wiki/Bad_Urach) is one of best destinations for hiking. There you will be amazed by the [waterfalls](https://goo.gl/maps/5CR8cAZo2D9mj3pB8) and you will visit the [Hohenurach ruins](https://goo.gl/maps/5QQ8h8QjRiFmhpoe6). Here it is the [Koomot activity](https://www.komoot.it/tour/778869387?share_token=as67jEU9G7Pu2XXJMvR5IR45X3MgjpyD9W2T4ZvW6rVJZN4Uqh&ref=wtd "Komoot").
+[Bad Urach](https://en.wikipedia.org/wiki/Bad_Urach) is one of the best hiking destinations. There you will be amazed by the [waterfalls](https://goo.gl/maps/5CR8cAZo2D9mj3pB8) and you will visit the [Hohenurach ruins](https://goo.gl/maps/5QQ8h8QjRiFmhpoe6). Here it is the [Koomot activity](https://www.komoot.it/tour/778869387?share_token=as67jEU9G7Pu2XXJMvR5IR45X3MgjpyD9W2T4ZvW6rVJZN4Uqh&ref=wtd "Komoot").
 
 {{< strava src="7185607917" >}}
 
 ### along the Danube to Sigmaringen
 
-If you ever seen the Danube in Budapest, you'll be easily surprised by how small it is in Sigmaringen. This hike will lead you along the newborn river, crossing the [Teufelsbrücke](https://www.komoot.it/highlight/438257) (Devil's Bridge) and ending in Sigmaringen. A good opportunity to visit the [Sigmaringen Castle](https://en.wikipedia.org/wiki/Sigmaringen_Castle).
+If you have ever seen the Danube in Budapest, you'll be easily surprised by how small it is in Sigmaringen. This hike will lead you along the newborn river, crossing the [Teufelsbrücke](https://www.komoot.it/highlight/438257) (Devil's Bridge) and ending in Sigmaringen. A good opportunity to visit the [Sigmaringen Castle](https://en.wikipedia.org/wiki/Sigmaringen_Castle).
 
 Here it is the [Koomot activity](https://www.komoot.it/tour/972365219?share_token=atqZyk43Pkk8zNIdwKLHhNrZ5qQOUOQS1G4nS1u0mt4Wm0J7OC&ref=wtd "Komoot").
 
@@ -68,7 +68,7 @@ Here it is the [Koomot activity](https://www.komoot.it/tour/972365219?share_toke
 
 ### from Tübingen WHO to Wurmlinger Kapelle, and back
 
-The [Wurmlinger Kapelle](https://goo.gl/maps/T2LqqEmh85zj7ZxZ7) is at the opposite end of the Tübingen Schlossberg. The hill is quite nice, with a good view on the nearby plains.
+The [Wurmlinger Kapelle](https://goo.gl/maps/T2LqqEmh85zj7ZxZ7) is located at the opposite end of the Tübingen Schlossberg. The hill is quite nice, with a good view on the nearby plains.
 
 Here it is the [Koomot activity](https://www.komoot.it/tour/902468157?share_token=aG2vCmTupWW8blCowwXp1QXf57SG1KzHHs0WWoLrOUvu0WS7zW&ref=wtd "Komoot").
 
@@ -76,7 +76,7 @@ Here it is the [Koomot activity](https://www.komoot.it/tour/902468157?share_toke
 
 ### from Balingen to Zillhausen (almost) waterfall
 
-This hike takes from Balingen you to the Zillhausen waterfall, which, unfortunately, were dry when I went there. I guess, it is way nicer when there actually is a waterfall.
+This hike takes you from Balingen you to the Zillhausen waterfall, which, unfortunately, were dry when I went there. I guess, it is way nicer when there actually is a waterfall.
 
 Here it is the [Koomot activity](https://www.komoot.it/tour/902468157?share_token=aG2vCmTupWW8blCowwXp1QXf57SG1KzHHs0WWoLrOUvu0WS7zW&ref=wtd "Komoot").
 
@@ -84,7 +84,7 @@ Here it is the [Koomot activity](https://www.komoot.it/tour/902468157?share_toke
 
 ### from Tübingen to Schönbuchturm, and back
 
-This was probably the craziest one. A 7 round trip crossing the whole [Schönbuch](https://en.wikipedia.org/wiki/Sch%C3%B6nbuch) twice. On the way I took the path with a panoramic view of the near towns, while I got back from a more traditional one.
+This was probably the craziest one. A 7 round trip crossing the whole [Schönbuch](https://en.wikipedia.org/wiki/Sch%C3%B6nbuch) twice. On the way over I took the path with a panoramic view of the nearby towns, while I got back taking a more internal one.
 
 Here it is the [Koomot activity](https://www.komoot.it/tour/972362976?share_token=aVDC7dshJBD5WSU1eCQJ0CZt9DHrSnFWXoGR96kWUskpfn168w&ref=wtd "Komoot").
 

@@ -24,7 +24,7 @@ I created a collection of 36 photos that, in my opinion, best represent my exper
 The collection is entitled "[One year in Tü. A Chapter.](https://pixelfed.uno/c/494541470111381622)" and it is fully available on my [Pixelfed profile](https://pixelfed.uno/@bonte.lu). All the photos are published under the [CC BY-NC-SA license](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 <!---
-This blog post is part of a Tübingen themed project made of three posts, so you may want to also visit the Tübingen Survival Guide for International Students (coming soon!) and the [Tübingen Hiking Guide](https://lucabontempi.com/blog/tuebingen_hiking_guide/). --->
+This blog post is part of a Tübingen themed project made of three posts, so you may want to also visit the Tübingen Experiential Guide for International Students (coming soon!) and the [Tübingen Hiking Guide](https://lucabontempi.com/blog/tuebingen_hiking_guide/). --->
 
 Here you can view every photo with a little bit of commentary!
 

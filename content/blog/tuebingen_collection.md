@@ -1,7 +1,7 @@
 ---
 title: "One year in Tübingen. A Chapter. A Photo Collection."
 date: 2022-11-04T16:54:56+01:00 # date: 2020-11-02T17:03:46+01:00
-draft: false
+draft: true
 # weight: 1
 # aliases: ["/first"]
 tags: ["Tübingen", "photography"]
@@ -82,9 +82,18 @@ Maybe I should have posted the [Universitätsbibliothek](https://uni-tuebingen.d
 
 {{< pixelfed src="https://pixelfed.uno/p/bonte.lu/494451727806730838/embed?caption=false&likes=false&layout=compact" >}}
 
-<mark>Work in progress. More to come!</mark>
-<!-- 
+
+
 ### 8/
+
+A vintage road bike in front of [Neue Aula](https://de.wikipedia.org/wiki/Neue_Aula_T%C3%BCbingen).
+
+{{< pixelfed src="https://pixelfed.uno/p/bonte.lu/494491275329365067/embed?caption=false&likes=false&layout=compact"  >}}
+
+
+
+<mark>Work in progress. More to come!</mark>
+<!--
 ### 9/
 ### 10/
 ### 11/

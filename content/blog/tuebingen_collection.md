@@ -176,7 +176,7 @@ I enjoyed some high level tennis at the [ATP 250](https://en.wikipedia.org/wiki/
 
 ### 19/
 
-Hiking is one of my favourite activities. This picture was taken during [a hike](https://lucabontempi.com/blog/tuebingen_hiking_guide/#top-hike-around-teckberg), close to the [Schopflocher Torfmoor](https://de.wikipedia.org/wiki/Schopflocher_Torfmoor).
+Hiking is one of my favourite activities. This picture was taken during [a hike](https://www.komoot.it/tour/770772712?share_token=abQV14KuwJkTJnx6YCgSLVCpP3pyuaB3d6GEk7riH8aQcMxaYx&ref=wtd), close to the [Schopflocher Torfmoor](https://de.wikipedia.org/wiki/Schopflocher_Torfmoor).
 
 {{< pixelfed src="https://pixelfed.uno/p/bonte.lu/494518074171631114/embed?caption=false&likes=false&layout=compact"   >}}
 
@@ -184,13 +184,13 @@ Hiking is one of my favourite activities. This picture was taken during [a hike]
 
 ### 20/
 
-[Burg Hohenzollern](https://en.wikipedia.org/wiki/Hohenzollern_Castle) is one of the most scenic castles in the area. This photo was taken from the Zoller Horn, during [a hike](https://lucabontempi.com/blog/tuebingen_hiking_guide/#top-hike-around-burg-hohenzollern).
+[Burg Hohenzollern](https://en.wikipedia.org/wiki/Hohenzollern_Castle) is one of the most scenic castles in the area. This photo was taken from the Zoller Horn, during [a hike](https://www.komoot.it/tour/786302697?share_token=aIEibxQFqoDbQcsaw74Wk6kw6OTKPCOEekPQjOA2OI0RasYQUl&ref=wtd).
 
 {{< pixelfed src="https://pixelfed.uno/p/bonte.lu/494518310869820942/embed?caption=false&likes=false&layout=compact"   >}}
 
 ### 21/
 
-Another hiking destination is the [Schönbuchturm](https://goo.gl/maps/RF1kAE8EHus7BjDr6) in Herrenberg. If you are crazy enough you could [go there by foot, and come back](https://lucabontempi.com/blog/tuebingen_hiking_guide/#top-hike-around-teckberg).
+Another hiking destination is the [Schönbuchturm](https://goo.gl/maps/RF1kAE8EHus7BjDr6) in Herrenberg. If you are crazy enough you could [go there by foot, and come back](https://www.komoot.it/tour/972362976?share_token=aVDC7dshJBD5WSU1eCQJ0CZt9DHrSnFWXoGR96kWUskpfn168w&ref=wtd).
 
 {{< pixelfed src="https://pixelfed.uno/p/bonte.lu/494518621748491793/embed?caption=false&likes=false&layout=compact"   >}}
 
@@ -238,7 +238,7 @@ Another [fairytale castle](https://en.wikipedia.org/wiki/Lichtenstein_Castle_(W%
 
 ### 29/
 
-A detail of the [Sigmaringen Castle](https://en.wikipedia.org/wiki/Sigmaringen_Castle), built on the Danube. [A hike](https://lucabontempi.com/blog/tuebingen_hiking_guide/#along-the-danube-to-sigmaringen) could be a good idea to visit it.
+A detail of the [Sigmaringen Castle](https://en.wikipedia.org/wiki/Sigmaringen_Castle), built on the Danube. [A hike](https://www.komoot.it/tour/972365219?share_token=atqZyk43Pkk8zNIdwKLHhNrZ5qQOUOQS1G4nS1u0mt4Wm0J7OC&ref=wtd) could be a good idea to visit it.
 
 {{< pixelfed src="https://pixelfed.uno/p/bonte.lu/494533670540887936/embed?caption=false&likes=false&layout=compact"   >}}
 

@@ -1,5 +1,5 @@
 ---
-title: "The Tübingen Hiking Guide"
+title: "A Tübingen Hiking Guide"
 date: 2022-11-04T23:54:45+02:00 # date: 2020-11-02T17:03:46+01:00
 draft: true
 # weight: 1
@@ -23,6 +23,8 @@ During my stay in Tübingen (Germany), hiking was one of my favourite activities
 Therefore, I created a collection of all the hikes I did and I also selected some of the best ones, which will be immediately presented as Top Hikes. 
 
 Every hike will be presented through the [Strava activity](https://www.strava.com/athletes/4403103), which often also include some pictures, but a link to the [Komoot activity](https://www.komoot.it/user/2218098976141) will also be included, since it allows you to download the GPS file, which can be used to replicate the hike.
+
+This blog post is part of a Tübingen themed project made of three posts, so you may want to also visit the Tübingen Survival Guide for International Students (coming soon!) and the [Tübingen Photo Collection](https://lucabontempi.com/blog/tuebingen_collection/).
 
 Enjoy!
 

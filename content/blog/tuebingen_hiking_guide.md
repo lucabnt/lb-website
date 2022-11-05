@@ -85,4 +85,4 @@ Enjoy!
 
 ### Credits
 
-I really want to say thank you to my friend Armin, who was my trusted hiking guide, and his amazing group!
+I really want to say thank you to my friend Armin, who has been my trusted hiking guide for months, and his amazing group!

@@ -1,7 +1,7 @@
 ---
 title: "A Tübingen Hiking Guide"
-date: 2022-11-05T18:00:45+02:00 # date: 2020-11-02T17:03:46+01:00
-draft: true
+date: 2022-11-11T10:00:00+02:00 # date: 2020-11-02T17:03:46+01:00
+draft: false
 # weight: 1
 # aliases: ["/first"]
 tags: ["Tübingen","hiking"]
@@ -108,7 +108,7 @@ Here it is the [Koomot activity](https://www.komoot.it/tour/762834783?share_toke
 
 ### around Rottenburg am Neckar
 
-[Rottenburg am Neckar](https://en.wikipedia.org/wiki/Rottenburg_am_Neckar) is another nice and small town close to Tübingen and this hike brings you around the surrounding areas.
+[Rottenburg am Neckar](https://en.wikipedia.org/wiki/Rottenburg_am_Neckar) is another nice and small town close to Tübingen and this hike takes you around the surrounding areas.
 
 Here it is the [Koomot activity](https://www.komoot.it/tour/685497302?share_token=ae5wEpNaIJzP8g5zslwe8Zcqxa0sPTgzQiQWUGF0iAAEG6w61L&ref=wtd "Komoot").
 
@@ -124,7 +124,7 @@ Here it is the [Koomot activity](https://www.komoot.it/tour/678294933?share_toke
 
 ### around Hagelloch to Bebenhausen
 
-Before finishing in Bebenhausen again, this hike crosses the area surrounding [Hagelloch](https://en.wikipedia.org/wiki/Hagelloch), another village in Tübingen district.
+Before arriving in Bebenhausen again, this hike crosses the area surrounding [Hagelloch](https://en.wikipedia.org/wiki/Hagelloch), another village in Tübingen district.
 
 Here it is the [Koomot activity](https://www.komoot.it/tour/929681393?share_token=aU0Z1uvkubbqJIsOYI2dt1BbvB4YRuav4FtJqAprjBHsr2DgSH&ref=wtd "Komoot").
 

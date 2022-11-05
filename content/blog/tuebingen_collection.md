@@ -54,7 +54,7 @@ A view of the [Stiftskirche](https://en.wikipedia.org/wiki/St._George%27s_Colleg
 
 ### 4/
 
-When I firstly arrived in Tübingen, in October 2021, Germany was close to the biggest change of the last years. [Angela Merkel](https://en.wikipedia.org/wiki/Angela_Merkel) retired and Germany started to be a little bit more confused.
+When I firstly arrived in Tübingen, in October 2021, Germany was close to the biggest change of the last years. [Angela Merkel](https://en.wikipedia.org/wiki/Angela_Merkel) then retired and Germany started to be a little bit more confused.
 
 {{< pixelfed src="https://pixelfed.uno/p/bonte.lu/494159055618541421/embed?caption=false&likes=false&layout=compact" >}}
 

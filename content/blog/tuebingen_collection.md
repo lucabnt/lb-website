@@ -19,9 +19,9 @@ cover:
 # comments: false
 ---
 
-I created a collection of 36 photos that, in my opinion, best represent my experience in Tübingen (Germany). Those pictures cover a period from October 2021 to September 2022 and were mainly taken in Tübingen and in the surrounding area, with just few exceptions coming from some other attractive German cities.
+I created a collection of 36 photos that, in my opinion, best represent my experience in Tübingen (Germany). These pictures cover a period from October 2021 to September 2022 and were mainly taken in Tübingen and in the surrounding area, with just few exceptions coming from some other attractive German cities.
 
-The collection is entitled "[One year in Tü. A chapter.]()" and it is fully available on my [Pixelfed profile](https://pixelfed.uno/@bonte.lu). All the photos are available under the [CC BY-NC-SA license](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+The collection is entitled "[One year in Tü. A chapter.]()" and it is fully available on my [Pixelfed profile](https://pixelfed.uno/@bonte.lu). All the photos are published under the [CC BY-NC-SA license](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 <!---
 This blog post is part of a Tübingen themed project made of three posts, so you may want to also visit the Tübingen Survival Guide for International Students (coming soon!) and the [Tübingen Hiking Guide](https://lucabontempi.com/blog/tuebingen_hiking_guide/). --->
@@ -30,7 +30,7 @@ Here you can view every photo with a little bit of commentary!
 
 ### 1/
 
-This is one of my favourite glimpse on [Marktplatz](https://goo.gl/maps/PpMhPWYci6sE9V2j8).
+This is one of my favourite glimpses on [Marktplatz](https://goo.gl/maps/PpMhPWYci6sE9V2j8).
 
 {{< pixelfed src="https://pixelfed.uno/p/bonte.lu/493582175507354108/embed?caption=false&likes=false&layout=compact" >}}
 
@@ -62,7 +62,7 @@ When I firstly arrived in Tübingen, in October 2021, Germany was close to the b
 
 ### 5/
 
-This [elevetor](https://goo.gl/maps/unKfgHvBdCHU5R2h8) (at least twice as old as me) was literally the first thing I saw in Tübingen.
+This [elevetor](https://goo.gl/maps/unKfgHvBdCHU5R2h8) (at least twice as old as me) was literally the very first thing I saw in Tübingen.
 
 {{< pixelfed src="https://pixelfed.uno/p/bonte.lu/494162185284372362/embed?caption=false&likes=false&layout=compact" >}}
 
@@ -92,12 +92,38 @@ A vintage road bike in front of [Neue Aula](https://de.wikipedia.org/wiki/Neue_A
 
 
 
+### 9/
+
+The inside of [Neue Aula](https://de.wikipedia.org/wiki/Neue_Aula_T%C3%BCbingen), built in 1846.
+
+{{< pixelfed src="https://pixelfed.uno/p/bonte.lu/494495176764335241/embed?caption=false&likes=false&layout=compact"  >}}
+
+
+
+### 10/
+
+Tübingen is a bike friendly city, kind of a small Amsterdam. At least, they have bike lines...
+
+{{< pixelfed src="https://pixelfed.uno/p/bonte.lu/494501377898128618/embed?caption=false&likes=false&layout=compact"  >}}
+
+
+
+### 11/
+
+The [tunnel](https://goo.gl/maps/JiRgsNVa5UNnbPzr8) crossing the Schloss hill.
+
+{{< pixelfed src="https://pixelfed.uno/p/bonte.lu/494503511595521293/embed?caption=false&likes=false&layout=compact"   >}}
+
+
+
+### 12/
+
+Just some Italians chatting in b&w.
+
+{{< pixelfed src="https://pixelfed.uno/p/bonte.lu/494503875391919377/embed?caption=false&likes=false&layout=compact"   >}}
+
 <mark>Work in progress. More to come!</mark>
 <!--
-### 9/
-### 10/
-### 11/
-### 12/
 ### 13/
 ### 14/
 ### 15/
@@ -122,5 +148,6 @@ A vintage road bike in front of [Neue Aula](https://de.wikipedia.org/wiki/Neue_A
 ### 34/
 ### 35/
 ### 36/
-
  -->
+
+ All these pictures were taken using a Nikon D5600 or an Oppo Find X2 Neo.

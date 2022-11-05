@@ -42,10 +42,6 @@ Enjoy!
 
 {{< strava src="7185607917" >}}
 
-### from Tübingen to Schönbuchturm, and back
-
-{{< strava src="7292323295" >}}
-
 ### along the Danube to Sigmaringen
 
 {{< strava src="6292836932" >}}
@@ -57,6 +53,10 @@ Enjoy!
 ### from Balingen to Zillhausen (almost) waterfall
 
 {{< strava src="6819369738" >}}
+
+### from Tübingen to Schönbuchturm, and back
+
+{{< strava src="7292323295" >}}
 
 ### from Tübingen to Herrenberg
 

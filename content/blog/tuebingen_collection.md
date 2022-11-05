@@ -257,7 +257,7 @@ The [2022 European Championships](https://en.wikipedia.org/wiki/2022_European_Ch
 
 ### 32/
 
-I'm a great fan of themed parks. [Europa-Park](https://en.wikipedia.org/wiki/Europa-Park) is the German response to that big French park (but Gardaland rules).
+I'm a great fan of theme parks. [Europa-Park](https://en.wikipedia.org/wiki/Europa-Park) is the German response to that big French park (but Gardaland rules).
 
 {{< pixelfed src="https://pixelfed.uno/p/bonte.lu/494535957235730378/embed?caption=false&likes=false&layout=compact"   >}}
 

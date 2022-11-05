@@ -227,7 +227,7 @@ Tübingen and its decorated street lamps.
 
 ### 27/
 
-This night of the Tübingen Stadtfest was probably the funniest one in the city.
+This night of the Tübingen Stadtfest was probably the funniest one in town.
 
 {{< pixelfed src="https://pixelfed.uno/p/bonte.lu/494523829192447615/embed?caption=false&likes=false&layout=compact"   >}}
 

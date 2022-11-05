@@ -108,22 +108,35 @@ Here it is the [Koomot activity](https://www.komoot.it/tour/762834783?share_toke
 
 ### around Rottenburg am Neckar
 
-Rottenburg am Neckar
+[Rottenburg am Neckar](https://en.wikipedia.org/wiki/Rottenburg_am_Neckar) is another nice and small town close to Tübingen and this hike brings you around the surrounding areas.
+
+Here it is the [Koomot activity](https://www.komoot.it/tour/685497302?share_token=ae5wEpNaIJzP8g5zslwe8Zcqxa0sPTgzQiQWUGF0iAAEG6w61L&ref=wtd "Komoot").
 
 {{< strava src="6746313430" >}}
 
 ### around Schönbuch
 
+This hike explores the really nice Schönbuch area around [Bebenhausen](https://en.wikipedia.org/wiki/Bebenhausen) (a village in the he Tübingen district), with a good opportunity to spot some wild animals.
+
+Here it is the [Koomot activity](https://www.komoot.it/tour/678294933?share_token=aIUWLJOkWffcj6ef11uJ7jrQt2L2cwCDFsqCHvGohSyVF12X9I&ref=wtd "Komoot").
+
 {{< strava src="6712135738" >}}
 
 ### around Hagelloch to Bebenhausen
+
+Before finishing in Bebenhausen again, this hike crosses the area surrounding [Hagelloch](https://en.wikipedia.org/wiki/Hagelloch), another village in the he Tübingen district.
+
+Here it is the [Koomot activity](https://www.komoot.it/tour/929681393?share_token=aU0Z1uvkubbqJIsOYI2dt1BbvB4YRuav4FtJqAprjBHsr2DgSH&ref=wtd "Komoot").
 
 {{< strava src="7828007083" >}}
 
 ### from WHO to Bebenhausen 
 
-{{< strava src="6127753011" >}}
+Probably the easiest hike of all, it is almost mandatory if you are living in WHO. Once you reach Bebenhausen, you'll be able to visit the [Bebenhausen Abbey](https://en.wikipedia.org/wiki/Bebenhausen_Abbey). Even if coming back means going uphill, this remains a quite easy and short hike.
 
+Here it is the [Koomot activity](https://www.komoot.it/tour/527550832?share_token=a9OnZWxxTzDr6C82b4rHYyo8SHqbPO8BFqCXmcqk2hvUaYl6Ko&ref=wtd "Komoot").
+
+{{< strava src="6127753011" >}}
 
 ### Credits
 

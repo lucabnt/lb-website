@@ -1,7 +1,7 @@
 ---
 title: "A Tübingen Hiking Guide"
-date: 2022-11-10T18:00:45+02:00 # date: 2020-11-02T17:03:46+01:00
-draft: false
+date: 2022-11-05T18:00:45+02:00 # date: 2020-11-02T17:03:46+01:00
+draft: true
 # weight: 1
 # aliases: ["/first"]
 tags: ["Tübingen","hiking"]

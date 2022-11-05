@@ -30,7 +30,7 @@ Enjoy!
 
 ### Top Hike: around Burg Hohenzollern
 
-This hike takes you from the train station of Bisingen, up to the [Burg Hohenzollern](https://en.wikipedia.org/wiki/Hohenzollern_Castle) (which you can visit), then up to the Zoller Horn hill (from where you can have [an amazing view (in the picture 20/)](https://lucabontempi.com/blog/tuebingen_collection/#20) of the castle) and back to Bisingen. 
+This hike takes you from the train station of Bisingen, up to the [Burg Hohenzollern](https://en.wikipedia.org/wiki/Hohenzollern_Castle) (which you can visit), then up to the Zoller Horn hill (from where you can have [an amazing view](https://lucabontempi.com/blog/tuebingen_collection/#20) of the castle) and back to Bisingen. 
 
 Here it is the [Koomot activity](https://www.komoot.it/tour/786302697?share_token=aIEibxQFqoDbQcsaw74Wk6kw6OTKPCOEekPQjOA2OI0RasYQUl&ref=wtd "Komoot").
 
@@ -46,7 +46,7 @@ Here it is the [Koomot activity](https://www.komoot.it/tour/907533563?share_toke
 
 ### Top Hike: around Teckberg
 
-This hike was surprisingly good. Firstly, you go up to Teckberg, where there is a little [Burg](https://goo.gl/maps/AtUbzGXJYD7HTh2a8), then you visit some [ruins](https://goo.gl/maps/PtLoEGiH7LZYQbby9) and finally an elevated walkway on a [piece of land full of snakes and frogs](https://de.wikipedia.org/wiki/Schopflocher_Torfmoor). [The picture 19/](https://lucabontempi.com/blog/tuebingen_collection/#19) was taken close to that site.
+This hike was surprisingly good. Firstly, you go up to Teckberg, where there is a little [Burg](https://goo.gl/maps/AtUbzGXJYD7HTh2a8), then you visit some [ruins](https://goo.gl/maps/PtLoEGiH7LZYQbby9) and finally an elevated walkway on a [piece of land full of snakes and frogs](https://de.wikipedia.org/wiki/Schopflocher_Torfmoor). [This picture](https://lucabontempi.com/blog/tuebingen_collection/#19) was taken close to that site.
 
 Here it is the [Koomot activity](https://www.komoot.it/tour/770772712?share_token=abQV14KuwJkTJnx6YCgSLVCpP3pyuaB3d6GEk7riH8aQcMxaYx&ref=wtd "Komoot").
 
@@ -92,7 +92,7 @@ Here it is the [Koomot activity](https://www.komoot.it/tour/972362976?share_toke
 
 ### from Tübingen to Herrenberg
 
-An easier solution to visit the [Schönbuch](https://en.wikipedia.org/wiki/Sch%C3%B6nbuch) park is leaving from Tübingen and finishing in Herrenberg. [Herrenberg (in picture 22)](https://lucabontempi.com/blog/tuebingen_collection/#22) is a cute small town and close to it there is the [Schönbuchturm (in photo 21)](https://lucabontempi.com/blog/tuebingen_collection/#21), a panoramica tower with a view on the whole forest.
+An easier solution to visit the [Schönbuch](https://en.wikipedia.org/wiki/Sch%C3%B6nbuch) park is leaving from Tübingen and finishing in Herrenberg. [Herrenberg](https://lucabontempi.com/blog/tuebingen_collection/#22) is a cute small town and close to it there is the [Schönbuchturm](https://lucabontempi.com/blog/tuebingen_collection/#21), a panoramica tower with a view on the whole forest.
 
 Here it is the [Koomot activity](https://www.komoot.it/tour/755603142?share_token=aHgqiefs3ylGcpKI3hBSjMKP8oIGkuJn9N1WgCCLVyYt8J7LLi&ref=wtd "Komoot").
 

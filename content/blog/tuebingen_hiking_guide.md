@@ -18,7 +18,7 @@ cover:
     relative: false
 # comments: false
 ---
-During my stay in Tübingen, hiking was one of my favourite activities and I have to say the surrounding area was perfect for that.
+During my stay in Tübingen (Germany), hiking was one of my favourite activities and I have to admitt the surrounding area was perfect for that.
 
 Therefore, I created a collection of all the hikes I did and I also selected some of the best and they will be immediately presented as Top Hikes. 
 

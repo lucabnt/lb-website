@@ -38,7 +38,7 @@ Here it is the [Koomot activity](https://www.komoot.it/tour/786302697?share_toke
 
 ### Top Hike: Schwarzwald Genießerpfad from Calw
 
-This is probably the easiest way to have a little taste of the Black Forest, starting in [Calw](https://en.wikipedia.org/wiki/Calw) and following a loop tour that includes the [city scaffold](https://www.komoot.it/highlight/78321) where some death sentences were carried out and some cute passages. 
+This is probably the easiest way to have a little taste of the Black Forest, starting in [Calw](https://en.wikipedia.org/wiki/Calw) and following a loop tour that includes the [city scaffold](https://www.komoot.it/highlight/78321), where some death sentences were carried out, and some other cute passages. 
 
 Here it is the [Koomot activity](https://www.komoot.it/tour/907533563?share_token=aPZ37hKQhJb93wUI5GwuX1py3qfST4PmbrLfjE3LZWS54tnTxS&ref=wtd "Komoot").
 

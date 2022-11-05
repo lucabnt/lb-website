@@ -1,7 +1,7 @@
 ---
 title: "One year in Tübingen. A Chapter. A Photo Collection."
 date: 2022-11-04T16:54:56+01:00 # date: 2020-11-02T17:03:46+01:00
-draft: true
+draft: false
 # weight: 1
 # aliases: ["/first"]
 tags: ["Tübingen", "photography"]
@@ -122,32 +122,170 @@ Just some Italians chatting in b&w.
 
 {{< pixelfed src="https://pixelfed.uno/p/bonte.lu/494503875391919377/embed?caption=false&likes=false&layout=compact"   >}}
 
-<mark>Work in progress. More to come!</mark>
-<!--
-### 13/
-### 14/
-### 15/
-### 16/
-### 17/
-### 18/
-### 19/
-### 20/
-### 21/
-### 22/
-### 23/
-### 24/
-### 25/
-### 26/
-### 27/
-### 28/
-### 29/
-### 30/
-### 31/
-### 32/
-### 33/
-### 34/
-### 35/
-### 36/
- -->
 
- All these pictures were taken using a Nikon D5600 or an Oppo Find X2 Neo.
+
+### 13/
+
+I didn't expect a car museum to be so good. [Mercedes-Benz Museum](https://g.page/MBmuseum?share) in Stuttgart.
+
+{{< pixelfed src="https://pixelfed.uno/p/bonte.lu/494508861830792517/embed?caption=false&likes=false&layout=compact"   >}}
+
+
+
+### 14/
+
+> In 1477, Eberhard I of Württemberg, whose motto was attempto ("I dare"), founded the University of Tübingen. 
+> — <cite>[Wikipedia](https://en.wikipedia.org/wiki/Eberhard_I,_Duke_of_W%C3%BCrttemberg)</cite>
+
+This is his [statue](https://goo.gl/maps/g7Y25aYv5PU3Xupp8) in Stuttgart.
+
+{{< pixelfed src="https://pixelfed.uno/p/bonte.lu/494509100674381129/embed?caption=false&likes=false&layout=compact"   >}}
+
+
+
+### 15/
+
+[Vfb](https://en.wikipedia.org/wiki/VfB_Stuttgart) has be, from that day on, my favourite German team!
+
+{{< pixelfed src="https://pixelfed.uno/p/bonte.lu/494509314984555854/embed?caption=false&likes=false&layout=compact"   >}}
+
+
+
+### 16/
+
+[Rothenburg ob der Tauber](https://en.wikipedia.org/wiki/Rothenburg_ob_der_Tauber) was probably my favourite city among those I visited in Germany. 
+
+{{< pixelfed src="https://pixelfed.uno/p/bonte.lu/494514454955992502/embed?caption=false&likes=false&layout=compact"  >}}
+
+
+
+### 17/
+
+The attractions at the [Stuttgart Frühlingsfest](https://www.stuttgarter-fruehlingsfest.de/de/home/).
+
+{{< pixelfed src="https://pixelfed.uno/p/bonte.lu/494514840209298879/embed?caption=false&likes=false&layout=compact"   >}}
+
+
+
+### 18/
+
+I enjoyed some high level tennis at the [ATP 250](https://en.wikipedia.org/wiki/Stuttgart_Open) in Stuttgart.
+
+{{< pixelfed src="https://pixelfed.uno/p/bonte.lu/494514993646384587/embed?caption=false&likes=false&layout=compact"   >}}
+
+
+
+### 19/
+
+Hiking is one of my favourite activities. This picture was taken during [an hike](), close to the [Schopflocher Torfmoor](https://de.wikipedia.org/wiki/Schopflocher_Torfmoor).
+
+{{< pixelfed src="https://pixelfed.uno/p/bonte.lu/494518074171631114/embed?caption=false&likes=false&layout=compact"   >}}
+
+
+
+### 20/
+
+[Burg Hohenzollern](https://en.wikipedia.org/wiki/Hohenzollern_Castle) is one of the most scenic castles in the area. This photo was taken from the Zoller Horn, during [an hike]().
+
+{{< pixelfed src="https://pixelfed.uno/p/bonte.lu/494518310869820942/embed?caption=false&likes=false&layout=compact"   >}}
+
+### 21/
+
+Another hiking destination is the  [Schönbuchturm](https://goo.gl/maps/RF1kAE8EHus7BjDr6) in Herrenberg. I you are crazy enough, you could [go there by foot, and come back]().
+
+{{< pixelfed src="https://pixelfed.uno/p/bonte.lu/494518621748491793/embed?caption=false&likes=false&layout=compact"   >}}
+
+### 22/
+
+[Herrenberg](https://en.wikipedia.org/wiki/Herrenberg) is a small, but cute town, not far away from Tübingen.
+
+{{< pixelfed src="https://pixelfed.uno/p/bonte.lu/494522026542351967/embed?caption=false&likes=false&layout=compact"   >}}
+
+### 23/
+
+People enjoying Neckar and the sun. 
+
+{{< pixelfed src="https://pixelfed.uno/p/bonte.lu/494522224641353314/embed?caption=false&likes=false&layout=compact"   >}}
+
+### 24/
+
+A view of  [Holzmarkt](https://goo.gl/maps/4dxM4m6Q2TSdx9QM7) from the bell tower of the [Stiftskirche](https://en.wikipedia.org/wiki/St._George%27s_Collegiate_Church,_T%C3%BCbingen).
+
+{{< pixelfed src="https://pixelfed.uno/p/bonte.lu/494522496958842468/embed?caption=false&likes=false&layout=compact"   >}}
+
+### 25/
+
+Getting ready for a thursday night in [Clubhaus](https://goo.gl/maps/FzhGq9LrkGvqr5K26).
+
+{{< pixelfed src="https://pixelfed.uno/p/bonte.lu/494523516783834740/embed?caption=false&likes=false&layout=compact"   >}}
+
+### 26/
+
+Tübingen and its decorated street lamps.
+
+{{< pixelfed src="https://pixelfed.uno/p/bonte.lu/494523697095763577/embed?caption=false&likes=false&layout=compact"   >}}
+
+### 27/
+
+The night of the Tübingen Stadtfest was probably the funniest one.
+
+{{< pixelfed src="https://pixelfed.uno/p/bonte.lu/494523829192447615/embed?caption=false&likes=false&layout=compact"   >}}
+
+### 28/
+
+Another [fairytale castle](https://en.wikipedia.org/wiki/Lichtenstein_Castle_(W%C3%BCrttemberg)) in Lichtenstein.
+
+{{< pixelfed src="https://pixelfed.uno/p/bonte.lu/494533477730727806/embed?caption=false&likes=false&layout=compact"   >}}
+
+### 29/
+
+A detail of the [Sigmaringen Castle](https://en.wikipedia.org/wiki/Sigmaringen_Castle), built on the Danube. [An hike]() could be a good idea to visit it.
+
+{{< pixelfed src="https://pixelfed.uno/p/bonte.lu/494533670540887936/embed?caption=false&likes=false&layout=compact"   >}}
+
+### 30/
+
+I swear that most buses are more modern (but less stylish).
+
+{{< pixelfed src="https://pixelfed.uno/p/bonte.lu/494533773488568196/embed?caption=false&likes=false&layout=compact"   >}}
+
+### 31/
+
+The [2022 European Championships](https://en.wikipedia.org/wiki/2022_European_Championships) of many sports were held in Munich this summer. Fabio Jakobsen and Arnaud Démare (in the picture) were first and second in the men road race.
+
+{{< pixelfed src="https://pixelfed.uno/p/bonte.lu/494535722961053634/embed?caption=false&likes=false&layout=compact"   >}}
+
+### 32/
+
+I'm a great fan of themed parks. [Europa-Park](https://en.wikipedia.org/wiki/Europa-Park) is the German response to that big French park (but Gardaland rules).
+
+{{< pixelfed src="https://pixelfed.uno/p/bonte.lu/494535957235730378/embed?caption=false&likes=false&layout=compact"   >}}
+
+### 33/
+
+This summer, at the European Championships in Köln, the German national team retired the jersey of [Dirk Nowitzki](https://en.wikipedia.org/wiki/Dirk_Nowitzki), the GOAT of European basketball player until now.
+
+
+{{< pixelfed src="https://pixelfed.uno/p/bonte.lu/494536086442158033/embed?caption=false&likes=false&layout=compact"   >}}
+
+### 34/
+
+The most famous view in Tübingen, from [Neckarbrücke](https://goo.gl/maps/MAg5VLyLuHo8VZc88).
+
+{{< pixelfed src="https://pixelfed.uno/p/bonte.lu/494538080073574424/embed?caption=false&likes=false&layout=compact"   >}}
+
+### 35/
+
+My empty room, in Fichtenweg, the day I left Tübingen.
+
+{{< pixelfed src="https://pixelfed.uno/p/bonte.lu/494538268682913825/embed?caption=false&likes=false&layout=compact"   >}}
+
+### 36/36
+
+The Italian border on the [Splügen Pass](https://en.wikipedia.org/wiki/Spl%C3%BCgen_Pass) in October, coming back to Italy.
+
+{{< pixelfed src="https://pixelfed.uno/p/bonte.lu/494538466299017257/embed?caption=false&likes=false&layout=compact"   >}}
+
+
+
+All these pictures were taken using a Nikon D5600 or an Oppo Find X2 Neo.

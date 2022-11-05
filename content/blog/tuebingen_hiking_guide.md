@@ -1,7 +1,7 @@
 ---
 title: "The Tübingen Hiking Guide"
 date: 2022-11-04T15:54:45+02:00 # date: 2020-11-02T17:03:46+01:00
-draft: true
+draft: false
 # weight: 1
 # aliases: ["/first"]
 tags: ["Tübingen","hiking"]
@@ -20,14 +20,17 @@ showToc: true
 ---
 During my stay in Tübingen, hiking was one of my favourite activities and I have to say the surrounding area was perfect for that.
 
-Therefore, I created a collection of all the hikes I did and I also selected some of the best and they will be immediately presented as Top Hikes. Enjoy!
+Therefore, I created a collection of all the hikes I did and I also selected some of the best and they will be immediately presented as Top Hikes. 
+
+Every hike will be presented through the Strava activity, which often also include some pictures, but also a link to the komoot activity will be included, since it allows to download the GPS file and it can be used to replicate the hike.
+
+Enjoy!
 
 ### Top Hike: around Burg Hohenzollern
 
 {{< strava src="7217015005" >}}
 
 ### Top Hike: Schwarzwald Genießerpfad from Calw
-
 
 {{< strava src="7719807992" >}}
 
@@ -80,6 +83,6 @@ Therefore, I created a collection of all the hikes I did and I also selected som
 {{< strava src="6127753011" >}}
 
 
-### Thank you!
+### Credits
 
 I really want to say thank you to my friend Armin, who was my trusted hiking guide, and his amazing group!

@@ -1,24 +1,15 @@
 ---
-title: "One year in Tübingen. A Chapter. A Photo Collection."
-date: 2022-11-07T10:00:00+01:00 # date: 2020-11-02T17:03:46+01:00
-draft: false
-# weight: 1
-# aliases: ["/first"]
-tags: ["Tübingen", "photography"]
-author: "lb"
-# author: ["Me", "You"] # multiple authors
-# showToc: false
-# TocOpen: false
-# hidemeta: false
-# disableShare: false
+title: One year in Tübingen. A Chapter. A Photo Collection.
+date: 2022-11-07T11:00:00+01:00
+tags:
+- Tübingen
+- photography
+author: lb
 cover:
-  image: "https://lucabontempi.com/blog/tuebingen_collection/tuebingen_collection_1.png"
-  # can also paste direct link from external site
-  # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
-  relative: false # To use relative path for cover image, used in hugo Page-bundles
-# comments: false
----
+  image: https://lucabontempi.com/blog/tuebingen_collection/tuebingen_collection_1.png
+  relative: false
 
+---
 I created a collection of 36 photos that, in my opinion, best represent my experience in Tübingen (Germany). These pictures cover a period from October 2021 to September 2022 and were mainly taken in Tübingen and in the surrounding area, with just few exceptions coming from some other attractive German cities.
 
 The collection is entitled "[One year in Tü. A Chapter.](https://pixelfed.uno/c/494541470111381622)" and it is fully available on my [Pixelfed profile](https://pixelfed.uno/@bonte.lu). All the photos are published under the [CC BY-NC-SA license](https://creativecommons.org/licenses/by-nc-sa/4.0/).

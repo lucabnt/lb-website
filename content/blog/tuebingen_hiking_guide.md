@@ -18,11 +18,11 @@ cover:
     relative: false
 # comments: false
 ---
-During my stay in Tübingen (Germany), hiking was one of my favourite activities and I have to admitt the surrounding area was perfect for it.
+During my stay in Tübingen (Germany), hiking was one of my favourite activities and I have to admit the surrounding area was very suitable to it.
 
 Therefore, I created a collection of all the hikes I did and I also selected some of the best ones, which will be immediately presented as Top Hikes. 
 
-Each hike will be presented through the [Strava activity](https://www.strava.com/athletes/4403103), which often also include some pictures and I'll also include a link to the [Komoot activity](https://www.komoot.it/user/2218098976141), since it allows you to download the GPX file, which can be used to replicate the hike.
+Each hike will be presented through the [Strava activity](https://www.strava.com/athletes/4403103), which often also include some pictures, and I'll also include a link to the [Komoot activity](https://www.komoot.it/user/2218098976141), since it allows you to download the GPX file, which can be used to replicate the hike.
 
 This blog post is part of a Tübingen themed project made of three posts, so you may also want to visit the Tübingen Experiential Guide for International Students (coming soon!) and the [Tübingen Photo Collection](https://lucabontempi.com/blog/tuebingen_collection/).
 
@@ -30,7 +30,7 @@ Enjoy!
 
 ### Top Hike: around Burg Hohenzollern
 
-This hike takes you, from the Bisingen train station, up to the [Burg Hohenzollern](https://en.wikipedia.org/wiki/Hohenzollern_Castle) (which you can visit), then up to the Zoller Horn hill (from where you can have [an amazing view](https://lucabontempi.com/blog/tuebingen_collection/#20) of the castle) and back to Bisingen. 
+This hike starts at the Bisingen train station, takes you up to the [Burg Hohenzollern](https://en.wikipedia.org/wiki/Hohenzollern_Castle) (which you can visit), then up to the Zoller Horn hill (from where you can have [an amazing view](https://lucabontempi.com/blog/tuebingen_collection/#20) of the castle) and back to Bisingen. 
 
 Here it is the [Koomot activity](https://www.komoot.it/tour/786302697?share_token=aIEibxQFqoDbQcsaw74Wk6kw6OTKPCOEekPQjOA2OI0RasYQUl&ref=wtd "Komoot").
 

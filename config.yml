@@ -85,6 +85,8 @@ params:
   cover:
       responsiveImages: false
       linkFullImages: true
+  
+  googleAnalytics: G-XXPZ3HC2H9
   # analytics:
     # google:
       # SiteVerificationTag: "XYZabc"

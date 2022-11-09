@@ -85,9 +85,12 @@ params:
   cover:
       responsiveImages: false
       linkFullImages: true
-  # analytics:
-    # google:
-      # SiteVerificationTag: "XYZabc"
+  
+googleAnalytics: G-XXPZ3HC2H9
+
+# analytics:
+  # google:
+    # SiteVerificationTag: "G-XXPZ3HC2H9"
 
 # Pluralize titles in lists using inflect
 pluralizeListTitles: false

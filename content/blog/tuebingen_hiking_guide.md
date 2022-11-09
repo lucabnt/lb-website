@@ -1,22 +1,15 @@
 ---
-title: "A Tübingen Hiking Guide"
-date: 2022-11-11T10:00:00+02:00 # date: 2020-11-02T17:03:46+01:00
-draft: false
-# weight: 1
-# aliases: ["/first"]
-tags: ["Tübingen","hiking"]
-author: "lb"
-# author: ["Me", "You"] # multiple authors
+title: A Tübingen Hiking Guide
+date: 2022-11-11T10:00:00+01:00
+tags:
+- Tübingen
+- hiking
+author: lb
 showToc: true
-# TocOpen: false
-# hidemeta: false
-# disableShare: false
 cover:
-    image: "https://lucabontempi.com/blog/tuebingen_hiking_guide/tuebingen_hiking_guide_1.JPG"
-#    alt: "<alt text>"
-#    caption: "<text>"
-    relative: false
-# comments: false
+  image: https://lucabontempi.com/blog/tuebingen_hiking_guide/tuebingen_hiking_guide_1.JPG
+  relative: false
+
 ---
 During my stay in Tübingen (Germany), hiking was one of my favourite activities and I have to admit the surrounding area was very suitable to it.
 

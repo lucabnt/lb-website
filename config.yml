@@ -86,7 +86,7 @@ params:
       responsiveImages: false
       linkFullImages: true
   
-googleAnalytics: G-XXPZ3HC2H9
+# googleAnalytics: G-XXPZ3HC2H9
 
 # analytics:
   # google:

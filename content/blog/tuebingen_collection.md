@@ -6,8 +6,8 @@ tags:
 - photography
 author: lb
 cover:
-  image: /blog/tuebingen_collection/tuebingen_collection_1.webp
-  relative: true
+  image: https://raw.githubusercontent.com/lucabnt/lbwebsite/main/static/blog/tuebingen_collection/tuebingen_collection_1.webp
+  relative: false
 
 ---
 I created a collection of 36 photos that, in my opinion, best represent my experience in Tübingen (Germany). These pictures cover a period from October 2021 to September 2022 and were mainly taken in Tübingen and in the surrounding area, with just few exceptions coming from some other attractive German cities.

@@ -1,5 +1,5 @@
 ---
-title: "A Tübingen Survival Guide for International Students"
+title: "A Tübingen Experiential Guide for International Students"
 subtitle: "After one year as a student in Tübingen, I'll try to share with you all the city knowledge I gained!"
 date: 2022-09-20T15:54:45+02:00 # date: 2020-11-02T17:03:46+01:00
 draft: true
@@ -98,9 +98,11 @@ Despite beening a relatevely small city, a pretty good selection of internationa
 
 ### ATP 250 Stuttgart
 
+### Hikes
+
 ### Stuttgart Frühlingsfest
 
-### Hikings
+
 
 
 ## Clubs

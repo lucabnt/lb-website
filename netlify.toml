@@ -157,18 +157,6 @@
   force = true
 
 [[redirects]]
-  from = "https://lucabontempi.com/contacts/"
-  to = "https://lucabontempi.com/contacts/"
-  status = 302
-  force = true
-
-[[redirects]]
-  from = "https://www.lucabontempi.com/contacts/"
-  to = "https://lucabontempi.com/contacts/"
-  status = 302
-  force = true
-
-[[redirects]]
   from = "https://bonte.lu/contacts"
   to = "https://lucabontempi.com/contacts/"
   status = 302

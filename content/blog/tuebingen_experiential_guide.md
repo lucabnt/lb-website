@@ -5,7 +5,7 @@ date: 2022-09-20T15:54:45+02:00 # date: 2020-11-02T17:03:46+01:00
 draft: true
 # weight: 1
 # aliases: ["/first"]
-tags: ["Tübingen", "guide"]
+tags: ["Tübingen","experience","food"]
 author: "lb"
 # author: ["Me", "You"] # multiple authors
 showToc: true
@@ -81,15 +81,6 @@ Despite beening a relatevely small city, a pretty good selection of internationa
 ### Chinese: 
 
 
-## Pubs and Bars
-
-### Pub: 
-
-### Cocktails: 
-
-### Shots: 
-
-
 ## Sports and Experiences
 
 ### Tübingen Tigers
@@ -102,6 +93,14 @@ Despite beening a relatevely small city, a pretty good selection of internationa
 
 ### Stuttgart Frühlingsfest
 
+
+## Pubs and Bars
+
+### Pub: 
+
+### Cocktails: 
+
+### Shots: 
 
 
 

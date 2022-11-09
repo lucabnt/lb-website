@@ -7,11 +7,11 @@ tags:
 author: lb
 showToc: true
 cover:
-  image: https://lucabontempi.com/blog/tuebingen_hiking_guide/tuebingen_hiking_guide_1.JPG
-  relative: false
+  image: /blog/tuebingen_hiking_guide/tuebingen_hiking_guide_1.JPG
+  relative: true
 
 ---
-During my stay in Tübingen (Germany), hiking was one of my favourite activities and I have to admit the surrounding area was very suitable to it.
+During my stay in Tübingen (Germany), hiking was one of my favourite activities and I have to admit the surrounding area is very suitable to hike.
 
 Therefore, I created a collection of all the hikes I did and I also selected some of the best ones, which will be immediately presented as Top Hikes. 
 
@@ -71,9 +71,9 @@ Here it is the [Koomot activity](https://www.komoot.it/tour/902468157?share_toke
 
 ### from Balingen to Zillhausen (almost) waterfall
 
-This hike takes you from Balingen you to the Zillhausen waterfall, which, unfortunately, were dry when I went there. I guess, it is way nicer when there actually is a waterfall.
+This hike takes you from Balingen you to the Zillhausen waterfall, which, unfortunately, were dry when I was there. I guess, it is way nicer when there actually is a waterfall.
 
-Here it is the [Koomot activity](https://www.komoot.it/tour/902468157?share_token=aG2vCmTupWW8blCowwXp1QXf57SG1KzHHs0WWoLrOUvu0WS7zW&ref=wtd "Komoot").
+Here it is the [Koomot activity](https://www.komoot.it/tour/972364726?share_token=auRLITKV5eCKl40S9iFW9ciLrpyLTez14GdtA08a8zWki6Twsa&ref=wtd "Komoot").
 
 {{< strava src="6819369738" >}}
 
@@ -109,7 +109,7 @@ Here it is the [Koomot activity](https://www.komoot.it/tour/685497302?share_toke
 
 {{< strava src="6746313430" >}}
 
-### around Schönbuch
+### around Schönbuch (Bebenhausen area)
 
 This hike explores the really nice Schönbuch wooded area around [Bebenhausen](https://en.wikipedia.org/wiki/Bebenhausen) (a village in Tübingen district), with a good opportunity to spot some wild animals.
 

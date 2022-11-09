@@ -6,7 +6,7 @@ tags:
 - photography
 author: lb
 cover:
-  image: /blog/tuebingen_collection/tuebingen_collection_1.png
+  image: /blog/tuebingen_collection/tuebingen_collection_1.webp
   relative: true
 
 ---

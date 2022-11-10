@@ -7,7 +7,7 @@ tags:
 author: lb
 showToc: true
 cover:
-  image: /blog/tuebingen_hiking_guide/tuebingen_hiking_guide_1.JPG
+  image: /blog/tuebingen_hiking_guide/tuebingen_hiking_guide_1.webp
   relative: true
 
 ---

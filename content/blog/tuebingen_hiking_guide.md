@@ -1,6 +1,6 @@
 ---
 title: A Tübingen Hiking Guide
-date: 2022-11-11T10:30:00+01:00
+date: 2022-11-11T09:30:00+01:00
 tags:
 - Tübingen
 - hiking

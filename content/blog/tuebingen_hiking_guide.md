@@ -7,8 +7,8 @@ tags:
 author: lb
 showToc: true
 cover:
-  image: /blog/tuebingen_hiking_guide/tuebingen_hiking_guide_1.webp
-  relative: true
+  image: "lucabontempi.com/blog/tuebingen_hiking_guide/tuebingen_hiking_guide_1.webp"
+  relative: false
 
 ---
 During my stay in Tübingen (Germany), hiking was one of my favourite activities and I have to admit the surrounding area is very suitable to hike.

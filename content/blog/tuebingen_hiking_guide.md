@@ -7,7 +7,7 @@ tags:
 author: lb
 showToc: true
 cover:
-  image: "lucabontempi.com/blog/tuebingen_hiking_guide/tuebingen_hiking_guide_1.webp"
+  image: "https://lucabontempi.com/blog/tuebingen_hiking_guide/tuebingen_hiking_guide_1.webp"
   relative: false
 
 ---

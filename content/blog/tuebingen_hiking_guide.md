@@ -1,6 +1,6 @@
 ---
 title: A Tübingen Hiking Guide
-date: 2022-11-11T10:00:00+01:00
+date: 2022-11-11T09:30:00+01:00
 tags:
 - Tübingen
 - hiking
@@ -79,7 +79,7 @@ Here it is the [Koomot activity](https://www.komoot.it/tour/972364726?share_toke
 
 ### from Tübingen to Schönbuchturm, and back
 
-This was probably the craziest one. A 7 round trip crossing the whole [Schönbuch](https://en.wikipedia.org/wiki/Sch%C3%B6nbuch) twice. On the way over I took the path with a panoramic view of the nearby towns, while I got back taking a more internal one.
+This was probably the craziest one. A 7 hours round trip crossing the whole [Schönbuch](https://en.wikipedia.org/wiki/Sch%C3%B6nbuch) twice. On the way over I took the path with a panoramic view of the nearby towns, while I got back taking a more internal one.
 
 Here it is the [Koomot activity](https://www.komoot.it/tour/972362976?share_token=aVDC7dshJBD5WSU1eCQJ0CZt9DHrSnFWXoGR96kWUskpfn168w&ref=wtd "Komoot").
 
@@ -87,15 +87,23 @@ Here it is the [Koomot activity](https://www.komoot.it/tour/972362976?share_toke
 
 ### from Tübingen to Herrenberg
 
-An easier solution to visit the [Schönbuch](https://en.wikipedia.org/wiki/Sch%C3%B6nbuch) park is leaving from Tübingen and finishing in Herrenberg. [Herrenberg](https://lucabontempi.com/blog/tuebingen_collection/#22) is a cute small town and close to it there is the [Schönbuchturm](https://lucabontempi.com/blog/tuebingen_collection/#21), a panoramica tower with a view on the whole forest.
+An easier solution to visit the Schönbuch park is leaving from Tübingen and finishing in Herrenberg. [Herrenberg](https://lucabontempi.com/blog/tuebingen_collection/#22) is a cute small town and close to it there is the [Schönbuchturm](https://lucabontempi.com/blog/tuebingen_collection/#21), a panoramica tower with a view on the whole forest.
 
 Here it is the [Koomot activity](https://www.komoot.it/tour/755603142?share_token=aHgqiefs3ylGcpKI3hBSjMKP8oIGkuJn9N1WgCCLVyYt8J7LLi&ref=wtd "Komoot").
 
 {{< strava src="7070979253" >}}
 
+### from Tübingen to Entringen
+
+Leaving Tübingen in the [Hagelloch](https://en.wikipedia.org/wiki/Hagelloch) direction (a village in Tübingen district), with this hike you will quickly explore the south-western corner of the Schönbuch park, concluding in Entringen, a small town bordering with Tübingen.
+
+Here it is the [Koomot activity](https://www.komoot.it/tour/797134654?share_token=a6WTVuB2zaB7WwRogNzOwrpNFC7e7ogXDJM4vr0M2Bb7x2R33p&ref=wtd "Komoot").
+
+{{< strava src="7264565249" >}}
+
 ### from Tübingen to Dettenhausen via Bromberg
 
-Also this hike crosses the [Schönbuch](https://en.wikipedia.org/wiki/Sch%C3%B6nbuch) park, but, instead of going west, as in the previous ones, it goes north, ending up in Dettenhausen, with also some up and downs on the near hills.
+Also this hike crosses the Schönbuch park, but, instead of going west, as in the previous ones, it goes north, ending up in Dettenhausen, with also some up and downs on the near hills.
 
 Here it is the [Koomot activity](https://www.komoot.it/tour/762834783?share_token=a1tkPzX1ziCrOpfzZdJoUmrNM83nzbEmCRZdBmU4Vzxriw27U9&ref=wtd "Komoot").
 
@@ -119,7 +127,7 @@ Here it is the [Koomot activity](https://www.komoot.it/tour/678294933?share_toke
 
 ### around Hagelloch to Bebenhausen
 
-Before arriving in Bebenhausen again, this hike crosses the area surrounding [Hagelloch](https://en.wikipedia.org/wiki/Hagelloch), another village in Tübingen district.
+Before arriving in Bebenhausen again, this hike crosses the area surrounding Hagelloch.
 
 Here it is the [Koomot activity](https://www.komoot.it/tour/929681393?share_token=aU0Z1uvkubbqJIsOYI2dt1BbvB4YRuav4FtJqAprjBHsr2DgSH&ref=wtd "Komoot").
 

@@ -14,7 +14,7 @@ I created a collection of 36 photos that, in my opinion, best represent my exper
 
 The collection is entitled "[One year in Tü. A Chapter.](https://pixelfed.uno/c/494541470111381622)" and it is fully available on my [Pixelfed profile](https://pixelfed.uno/@bonte.lu). All the photos are published under the [CC BY-NC-SA license](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-This blog post is part of a Tübingen themed project made of three posts, so you may want to also visit the Tübingen Experiential Guide for International Students (coming soon!) and the [Tübingen Hiking Guide](lucabontempi.com/blog/tuebingen_hiking_guide/). 
+This blog post is part of a Tübingen themed project made of three posts, so you may want to also visit the Tübingen Experiential Guide for International Students (coming soon!) and the [Tübingen Hiking Guide](https://lucabontempi.com/blog/tuebingen_hiking_guide/). 
 
 Here you can view every photo with a little bit of commentary!
 
@@ -167,7 +167,7 @@ I enjoyed some high level tennis at the [ATP 250](https://en.wikipedia.org/wiki/
 
 ### 19/
 
-Hiking is one of my favourite activities. This picture was taken during [a hike](lucabontempi.com/blog/tuebingen_hiking_guide/#top-hike-around-teckberg), close to the [Schopflocher Torfmoor](https://de.wikipedia.org/wiki/Schopflocher_Torfmoor).
+Hiking is one of my favourite activities. This picture was taken during [a hike](https://lucabontempi.com/blog/tuebingen_hiking_guide/#top-hike-around-teckberg), close to the [Schopflocher Torfmoor](https://de.wikipedia.org/wiki/Schopflocher_Torfmoor).
 
 {{< pixelfed src="https://pixelfed.uno/p/bonte.lu/494518074171631114/embed?caption=false&likes=false&layout=compact"   >}}
 
@@ -175,13 +175,13 @@ Hiking is one of my favourite activities. This picture was taken during [a hike]
 
 ### 20/
 
-[Burg Hohenzollern](https://en.wikipedia.org/wiki/Hohenzollern_Castle) is one of the most scenic castles in the area. This photo was taken from the Zoller Horn, during [a hike](lucabontempi.com/blog/tuebingen_hiking_guide/#top-hike-around-burg-hohenzollern).
+[Burg Hohenzollern](https://en.wikipedia.org/wiki/Hohenzollern_Castle) is one of the most scenic castles in the area. This photo was taken from the Zoller Horn, during [a hike](https://lucabontempi.com/blog/tuebingen_hiking_guide/#top-hike-around-burg-hohenzollern).
 
 {{< pixelfed src="https://pixelfed.uno/p/bonte.lu/494518310869820942/embed?caption=false&likes=false&layout=compact"   >}}
 
 ### 21/
 
-Another hiking destination is the [Schönbuchturm](https://goo.gl/maps/RF1kAE8EHus7BjDr6) in Herrenberg. If you are crazy enough you could [go there by foot, and come back](lucabontempi.com//blog/tuebingen_hiking_guide/#from-tübingen-to-schönbuchturm-and-back).
+Another hiking destination is the [Schönbuchturm](https://goo.gl/maps/RF1kAE8EHus7BjDr6) in Herrenberg. If you are crazy enough you could [go there by foot, and come back](https://lucabontempi.com/blog/tuebingen_hiking_guide/#from-t%C3%BCbingen-to-sch%C3%B6nbuchturm-and-back).
 
 {{< pixelfed src="https://pixelfed.uno/p/bonte.lu/494518621748491793/embed?caption=false&likes=false&layout=compact"   >}}
 
@@ -229,7 +229,7 @@ Another [fairytale castle](https://en.wikipedia.org/wiki/Lichtenstein_Castle_(W%
 
 ### 29/
 
-A detail of the [Sigmaringen Castle](https://en.wikipedia.org/wiki/Sigmaringen_Castle), built on the Danube. [A hike](lucabontempi.com//blog/tuebingen_hiking_guide/#along-the-danube-to-sigmaringen) could be a good idea to visit it.
+A detail of the [Sigmaringen Castle](https://en.wikipedia.org/wiki/Sigmaringen_Castle), built on the Danube. [A hike](https://lucabontempi.com/blog/tuebingen_hiking_guide/#along-the-danube-to-sigmaringen) could be a good idea to visit it.
 
 {{< pixelfed src="https://pixelfed.uno/p/bonte.lu/494533670540887936/embed?caption=false&likes=false&layout=compact"   >}}
 

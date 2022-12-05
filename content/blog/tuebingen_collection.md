@@ -1,5 +1,5 @@
 ---
-title: One year in Tübingen. A Chapter. A Photo Collection.
+title: One year in Tübingen. A Chapter. A Photo Collection
 date: 2022-11-07T11:00:00+01:00
 tags:
 - Tübingen

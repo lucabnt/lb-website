@@ -8,7 +8,7 @@ disableShare: true
 
 Questa è la relazione finale con cui ho ottenuto la mia laurea triennale in Economia e Gestione Aziendale all'Università degli Studi di Brescia.  
 
-Come potete intuire, la relazione tratta uno degli argomenti a cui sono più interessato: lo sviluppo e la commercializzazione dei software. La stesura di questo documento ha rappresentato per me un primo approccio a questi argomenti che non erano coperti nel mio corso di studi ed è stato un buon punto di partenza per la compresione delle dinamiche che muovono quel mercato. In quel momento ero quasi totalmente inconsapevole della letteratura passata sull'argomento, risultando superficiale in alcuni passaggi e sicuramente alcuni argomenti necessitano di un ulteriore approfondimento.
+Come potete intuire, la relazione tratta uno degli argomenti a cui sono più interessato: lo sviluppo e la commercializzazione dei software. La stesura di questo documento ha rappresentato per me un primo approccio a questi argomenti che non erano coperti nel mio corso di studi ed è stato un buon punto di partenza per la compresione delle dinamiche che muovono quel mercato. In quel momento ero quasi totalmente inconsapevole della letteratura passata sull'argomento, risultando superficiale in alcuni passaggi, e sicuramente alcuni argomenti necessitano di un ulteriore approfondimento.
 
 Buona lettura!
 

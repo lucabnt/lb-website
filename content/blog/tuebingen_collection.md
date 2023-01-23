@@ -159,7 +159,7 @@ The attractions at the [Stuttgart Frühlingsfest](https://www.stuttgarter-fruehl
 
 ### 18/
 
-I enjoyed some high level tennis at the [ATP 250](https://en.wikipedia.org/wiki/Stuttgart_Open) in Stuttgart.
+I enjoyed some high level tennis at the [ATP 250](https://en.wikipedia.org/wiki/Stuttgart_Open) in Stuttgart. Two-time Olympic gold medalist Andy Murray warming up in the picture.
 
 {{< pixelfed src="https://pixelfed.uno/p/bonte.lu/494514993646384587/embed?caption=false&likes=false&layout=compact"   >}}
 

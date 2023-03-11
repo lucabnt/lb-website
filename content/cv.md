@@ -11,7 +11,7 @@ E-mail: [luca@lucabontempi.com](mailto:luca@lucabontempi.com)
 
 ## Experience
 
-#### TECHNICAL SALES INTERN - IBM ECOSYSTEM | IBM | MAR 2023 - PRESENT
+#### TECHNICAL SALES INTERN, IBM ECOSYSTEM | IBM | MAR 2023 - PRESENT
 
 * Internship
 * Milan (Italy)

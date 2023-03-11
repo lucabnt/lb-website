@@ -14,12 +14,13 @@ E-mail: [luca@lucabontempi.com](mailto:luca@lucabontempi.com)
 #### ECOSYSTEM TECHNICAL SALES INTERN | IBM | MAR 2023
 
 * Internship
-* Milan, Italy
+* Milan (Italy)
 
 #### ADMINISTRATION INTERN | NEW MASTER SRL | OCT 2019 – DEC 2019
 
-* Internship
 * Administration in Logistics and Transportation
+* Internship
+* Magnago (Italy)
 
 
 ## Education
@@ -30,7 +31,7 @@ E-mail: [luca@lucabontempi.com](mailto:luca@lucabontempi.com)
 
 #### MASTER OF SCIENCE IN INTERNATIONAL BUSINESS AND ENTERPRENEURSHIP | ONGOING STUDIES | UNIVERSITY OF PAVIA
 
-* Curriculum: Digital Management
+* Curriculum in Digital Management
 
 #### BACHELOR’S DEGREE IN BUSINESS ADMINISTRATION | MAR 2020 | UNIVERSITY OF BRESCIA
 

@@ -13,14 +13,14 @@ E-mail: [luca@lucabontempi.com](mailto:luca@lucabontempi.com)
 
 #### PARTNER TECHNICAL SPECIALIST, IBM ECOSYSTEM | IBM ITALIA SPA | MAR 2023 - PRESENT
 
-* Internship
 * Technical Sales in IBM Technology, Italy
+* Internship
 * Segrate (Italy)
 
 #### ADMINISTRATION INTERN | NEW MASTER SRL | OCT 2019 – DEC 2019
 
-* Internship
 * Administration in Logistics and Transportation
+* Internship
 * Magnago (Italy)
 
 

@@ -13,7 +13,7 @@ E-mail: [luca@lucabontempi.com](mailto:luca@lucabontempi.com)
 
 #### PARTNER TECHNICAL SPECIALIST, IBM ECOSYSTEM | IBM ITALIA SPA | MAR 2023 - PRESENT
 
-* Technical Sales in IBM Technology, Italy
+* Technical-oriented Sales in IBM Technology, Italy
 * Internship
 * Segrate (Italy)
 

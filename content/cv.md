@@ -40,7 +40,7 @@ Attended courses: Marketing-Mix Management, eBusiness, Innovation and Technologi
 
 Curriculum in Digital Management. 
 
-Attended courses: Information Systems for Managers, Exponential Coding with AI, Business Analytics with Excel, Applied Project Management, Financial Innovation & Fintech, Capital Markets and EU Company Law, Innovation Management, Firm Valuation and Capital Market Instruments, Economics of Emerging Markets.Curriculum 
+Attended courses: Information Systems for Managers, Exponential Coding with AI, Business Analytics with Excel, Applied Project Management, Financial Innovation & Fintech, Capital Markets and EU Company Law, Innovation Management, Firm Valuation and Capital Market Instruments, Economics of Emerging Markets. 
 <!--* Curriculum in Digital Management-->
 
 #### BACHELOR’S DEGREE IN BUSINESS ADMINISTRATION | MAR 2020 | UNIVERSITY OF BRESCIA

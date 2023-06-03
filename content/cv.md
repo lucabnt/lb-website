@@ -28,9 +28,9 @@ E-mail: [luca@lucabontempi.com](mailto:luca@lucabontempi.com) | [LinkedIn](https
 
 #### MASTER OF SCIENCE IN EUROPEAN MANAGEMENT | MAR 2023 | EBERHARD KARLS UNIVERSITY OF TÜBINGEN
 
-Master's Thesis: "Determinants of Download on Mobile App Stores - An Empirical Analysis"\\
+Master's Thesis: "Determinants of Download on Mobile App Stores - An Empirical Analysis"
 
-Double Degree program with University of Pavia. \\
+Double Degree program with University of Pavia. 
 
 Attended courses: Marketing-Mix Management, eBusiness, Innovation and Technological Change, Master's Seminar in Advanced Empirical Public Economics.
 <!-- * Double Degree program with University of Pavia -->
@@ -38,14 +38,14 @@ Attended courses: Marketing-Mix Management, eBusiness, Innovation and Technologi
 #### MASTER OF SCIENCE IN INTERNATIONAL BUSINESS AND ENTERPRENEURSHIP | ONGOING STUDIES | UNIVERSITY OF PAVIA
 
 
-Curriculum in Digital Management. \\
+Curriculum in Digital Management. 
 
 Attended courses: Information Systems for Managers, Exponential Coding with AI, Business Analytics with Excel, Applied Project Management, Financial Innovation & Fintech, Capital Markets and EU Company Law, Innovation Management, Firm Valuation and Capital Market Instruments, Economics of Emerging Markets.Curriculum 
 <!--* Curriculum in Digital Management-->
 
 #### BACHELOR’S DEGREE IN BUSINESS ADMINISTRATION | MAR 2020 | UNIVERSITY OF BRESCIA
 
-Final Degree Score: 102/110\\
+Final Degree Score: 102/110
 
 Bachelor's Thesis: "[The Information Technology Industry: Software as a Product and a Service]( {{< ref "il_mercato_informatico.md" >}} "Il mercato informatico: il software come prodotto e servizio")" (in Italian)
 <!--* Final Degree Score: 102/110

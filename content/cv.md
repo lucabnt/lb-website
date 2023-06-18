@@ -32,7 +32,7 @@ E-mail: [luca@lucabontempi.com](mailto:luca@lucabontempi.com) | [LinkedIn](https
 
 ## Education
 
-#### MASTER OF SCIENCE IN EUROPEAN MANAGEMENT | MAR 2023 | EBERHARD KARLS UNIVERSITY OF TÜBINGEN
+#### MASTER'S DEGREE IN EUROPEAN MANAGEMENT | MAR 2023 | EBERHARD KARLS UNIVERSITY OF TÜBINGEN
 
 Master's Thesis: "Determinants of Download on Mobile App Stores - An Empirical Analysis"
 
@@ -84,4 +84,4 @@ Final Score: 76/100
 #### OTHER SKILLS
 
 * Sport Director and Trainer of a [Youth Cycling Team](https://www.asdprogettociclismorodengosaiano.net/ "A.S.D. Progetto Ciclismo - Rodengo Saiano") (since 2016)
-* Good Experience in Sports: Cyclist and Runner
+* Experience in Sports: Cycling, Running, Hiking

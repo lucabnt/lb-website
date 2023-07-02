@@ -32,7 +32,7 @@ E-mail: [luca@lucabontempi.com](mailto:luca@lucabontempi.com) | [LinkedIn](https
 
 ## Education
 
-#### MASTER'S DEGREE IN EUROPEAN MANAGEMENT | MAR 2023 | EBERHARD KARLS UNIVERSITY OF TÜBINGEN
+#### MASTER'S DEGREE IN EUROPEAN MANAGEMENT | FEB 2023 | EBERHARD KARLS UNIVERSITY OF TÜBINGEN
 
 Master's Thesis: "Determinants of Download on Mobile App Stores - An Empirical Analysis"
 

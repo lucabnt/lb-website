@@ -43,7 +43,7 @@ Double Degree program with University of Pavia.
 Attended courses: Marketing-Mix Management, eBusiness, Innovation and Technological Change, Master's Seminar in Advanced Empirical Public Economics.
 <!-- * Double Degree program with University of Pavia -->
 
-#### MASTER OF SCIENCE IN INTERNATIONAL BUSINESS AND ENTERPRENEURSHIP | JUL 2023 | UNIVERSITY OF PAVIA
+#### MASTER'S DEGREE IN INTERNATIONAL BUSINESS AND ENTERPRENEURSHIP | JUL 2023 | UNIVERSITY OF PAVIA
 
 Final Degree Score: 110/110
 

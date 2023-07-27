@@ -6,11 +6,14 @@ hideMeta: true
 disableShare: true
 ---
 
-Ciao, mi chiamo Luca Bontempi e sono uno studente!
+Ciao, sono Luca!
 
-Ho studiato Economia e Gestione Aziendale all'Università degli Studi di Brescia. Mi sono laureato nel corso dell'anno accademico 2018/2019 con una relazione finale dal titolo "[Il mercato informatico: il software come prodotto e servizio]( {{< ref "content/il_mercato_informatico.md" >}} "Il mercato informatico: il software come prodotto e servizio")".
 
-Attualmente studio [International Business and Entrepreneurship (MIBE)](https://mibe.cdl.unipv.it/en), con un focus sul Digital Management, all'Università degli Studi di Pavia e [European Management](https://uni-tuebingen.de/en/fakultaeten/wirtschafts-und-sozialwissenschaftliche-fakultaet/faecher/fachbereich-wirtschaftswissenschaft/wirtschaftswissenschaft/studium/studiengaenge/master/msc-european-management/) all'Eberhard Karl University of Tübingen.
+Ho studiato [International Business and Entrepreneurship (MIBE)](https://mibe.cdl.unipv.it/en) (M.Sc.), con un focus sul Digital Management, all'Università degli Studi di Pavia e [European Management](https://uni-tuebingen.de/en/fakultaeten/wirtschafts-und-sozialwissenschaftliche-fakultaet/faecher/fachbereich-wirtschaftswissenschaft/wirtschaftswissenschaft/studium/studiengaenge/master/msc-european-management/) (M.Sc.) all'Eberhard Karl University of Tübingen. Il mio lavoro di tesi magistrale, dal titolo "Determinants of Download on Mobile App Stores - An Empirical Analysis", esplora l'efficacia dei principali fattori che influenzano la scelta di download sui mobile app store.
+
+Precedentemente, ho studiato Economia e Gestione Aziendale (B.Sc.) all'Università degli Studi di Brescia, con una relazione finale dal titolo "[Il mercato informatico: il software come prodotto e servizio]( {{< ref "content/il_mercato_informatico.md" >}} "Il mercato informatico: il software come prodotto e servizio")".
+
+Attualmente, in IBM, la più antica azienda informatica al mondo, fondata nel 1911 e operativa in Italia dal 1927, mi occupo dell'enamblement dei partner e di espandere la conoscenza tecnica del portfolio di IBM Technology.
 
 Sono appassionato di tecnologia, informatica, videogiochi, film e serie tv, sport e (a tratti) di politica. Nel tempo libero mi piace [correre e andare in bicicletta](https://www.strava.com/athletes/4403103 "Strava").
 

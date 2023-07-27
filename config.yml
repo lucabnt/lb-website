@@ -65,6 +65,8 @@ params:
       url: "mailto:luca@lucabontempi.com"
     - name: 'linkedin'
       url: 'https://linkedin.com/in/lucabontempi1/'
+    - name: 'twitter'
+      url: 'https://twitter.com/luca_bontempi1'
     - name: 'instagram'
       url: 'https://instagram.com/bonte.lu'
 #    - name: 'twitter'

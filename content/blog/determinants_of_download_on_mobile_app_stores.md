@@ -644,7 +644,7 @@ Thank you for your contribution!
 
 A preliminary analysis of a sample of popular mobile scanner apps was conducted in September 2022. Up to 24 free apps with this function were found to be ranked 300 or higher in two categories (Productivity and Business Tools) on the Play Store. All these apps presented similar names: for example, the app's names always included the words "scan" or "scanner", it included the word "PDF" in 21 cases and the words "doc" or "documents" in 9 cases. 
 
-The average review rating ranged from 3.2 out of 5 up to 4.9, with a mean value of 4.46 ($S.D.=0.42$) and median value of 4.6, while the reviews number was 4.06 million at the highest and 2437 at the lowest, with a mean equal to 446850 ($S.D.=992614$) and median value of 92305.  
+The average review rating ranged from 3.2 out of 5 up to 4.9, with a mean value of 4.46 (S.D.=0.42) and median value of 4.6, while the reviews number was 4.06 million at the highest and 2437 at the lowest, with a mean equal to 446850 (S.D.=992614) and median value of 92305.  
 
 Google's app store reports the number of downloads in the form of the last threshold exceeded by that app. In this sample, apps had 100M+ downloads (where M stands for million) at their best and 50K+ downloads (where K stands for thousand) at their worst. The median value was 10M+. Since this analysis includes only apps that were among a pool of popular ones (top 300) in their categories, many other cam scanner apps with fewer downloads and review ratings are available on app stores.
 

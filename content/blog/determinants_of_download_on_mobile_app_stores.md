@@ -26,6 +26,8 @@ cover:
 
 This blog post contains the full text of my Master Thesis, written at the **Eberhard Karls University of Tübingen** and at the **University of Pavia** and submitted for the first time during **February 2023**. 
 
+![Thesis in Pavia](/blog/determinants_of_download_on_mobile_app_stores/determinants_of_download_on_mobile_app_stores_extra_1.webp)
+
 The research question investigates which characteristic out of **reputation**, **popularity** and **developer's brand**, reflected in some elements in the **presentation page** on **app stores**, is the most effective in predicting **user's choice to download an app**.
 
 First, [Chapter 1](https://lucabontempi.com/blog/determinants_of_download_on_mobile_app_stores/#chapter-1-introduction "Chapter 1. Introduction") provides an extensive **background** on the **mobile ecosystem**, its participants and its dynamics. Then, in [Chapter 2](https://lucabontempi.com/blog/determinants_of_download_on_mobile_app_stores/#chapter-2-literature-review "Chapter 2. Literature Review"), the **previous literature results** on the effects of those factors are covered, while, finally, in [Chapter 3](https://lucabontempi.com/blog/determinants_of_download_on_mobile_app_stores/#chapter-3-empirical-analysis "Chapter 3. Empirical Analysis") and 4 the **empirical analysis** and its **results** and **discussion** are presented.

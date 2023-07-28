@@ -9,7 +9,6 @@ tags:
 - app store
 - mobile app
 - software
-- docs
 author: lb
 # author: ["Me", "You"] # multiple authors
 showToc: true
@@ -29,9 +28,9 @@ This blog post contains the full text of my Master Thesis, written at the **Eber
 
 The research question investigates which characteristic out of **reputation**, **popularity** and **developer's brand**, reflected in some elements in the **presentation page** on **app stores**, is the most effective in predicting **user's choice to download an app**.
 
-First, [Chapter 1](https://lucabontempi.com/determinants_of_download_on_mobile_app_stores/#chapter-1-introduction "Chapter 1. Introduction") provides an extensive **background** on the **mobile ecosystem**, its participants and its dynamics. Then, in [Chapter 2](https://lucabontempi.com/determinants_of_download_on_mobile_app_stores/#chapter-2-literature-review "Chapter 2. Literature Review"), the **previous literature results** on the effects of those factors are covered, while, finally, in [Chapter 3](https://lucabontempi.com/determinants_of_download_on_mobile_app_stores/#chapter-3-empirical-analysis "Chapter 3. Empirical Analysis") and 4 the **empirical analysis** and its **results** and **discussion** are presented.
+First, [Chapter 1](https://lucabontempi.com/blog/determinants_of_download_on_mobile_app_stores/#chapter-1-introduction "Chapter 1. Introduction") provides an extensive **background** on the **mobile ecosystem**, its participants and its dynamics. Then, in [Chapter 2](https://lucabontempi.com/blog/determinants_of_download_on_mobile_app_stores/#chapter-2-literature-review "Chapter 2. Literature Review"), the **previous literature results** on the effects of those factors are covered, while, finally, in [Chapter 3](https://lucabontempi.com/blog/determinants_of_download_on_mobile_app_stores/#chapter-3-empirical-analysis "Chapter 3. Empirical Analysis") and 4 the **empirical analysis** and its **results** and **discussion** are presented.
 
-The **full document version** of this thesis is available [here](https://drive.google.com/file/d/1z8d_q9Y_6V74mm1IoVZw45QzZOqSjLpV/view "Determinants of Download on Mobile App Stores - An Empirical Analysis"), while a **summary presentation** can be found [here](https://drive.google.com/file/d/1KuOzfNU64c2lQpMmB-QOmaaWr3mxPHhQ/view?usp=sharing "Presentation").
+The **full document version** of this thesis is available [here](https://lucabontempi.com/determinants_of_download_on_mobile_app_stores_doc/ "Determinants of Download on Mobile App Stores - An Empirical Analysis"), while a **summary presentation** can be found [here](https://drive.google.com/file/d/1KuOzfNU64c2lQpMmB-QOmaaWr3mxPHhQ/preview "Presentation").
 
 # Abstract
 

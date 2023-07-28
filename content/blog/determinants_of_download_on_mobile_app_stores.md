@@ -20,7 +20,7 @@ cover:
     relative: true
 # comments: false
 ---
-$V^{a}_{x}$
+V<sub>ciao</sub>
 
 ## Premise
 

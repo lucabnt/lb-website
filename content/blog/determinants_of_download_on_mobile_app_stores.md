@@ -1,7 +1,7 @@
 ---
 title: "Determinants of Download on Mobile App Stores - An Empirical Analysis"
 date: 2023-07-27T12:00:00+02:00 # date: 2020-11-02T17:03:46+01:00
-draft: true
+draft: false
 # weight: 1
 # aliases: ["/first"]
 tags: 
@@ -12,6 +12,7 @@ author: lb
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
+math: true 
 # hidemeta: false
 # disableShare: false
 cover:
@@ -21,7 +22,7 @@ cover:
 ---
 ## Premise
 
-This blog post contains the full text of my Master Thesis, written at the Eberhard Karls University of Tübingen and at the University of Pavia and submitted for the first time during February 2023. The full document version of this thesis is available [here](https://drive.google.com/file/d/1z8d_q9Y_6V74mm1IoVZw45QzZOqSjLpV/view).
+This blog post contains the full text of my Master Thesis, written at the Eberhard Karls University of Tübingen and at the University of Pavia and submitted for the first time during February 2023. The full document version of this thesis is available [here](https://drive.google.com/file/d/1z8d_q9Y_6V74mm1IoVZw45QzZOqSjLpV/view "Determinants of Download on Mobile App Stores - An Empirical Analysis"), while a summary presentation can be found [here](https://drive.google.com/file/d/1KuOzfNU64c2lQpMmB-QOmaaWr3mxPHhQ/view?usp=sharing "Presentation").
 
 ## Abstract
 
@@ -30,10 +31,6 @@ After providing an extensive background on the mobile ecosystem, its participant
 ## Abstract (in Italian)
 
 Dopo aver fornito una descrizione dell'ecosistema *mobile*, dei suoi partecipanti e delle sue dinamiche, questa ricerca si pone l'obiettivo di stabilire quale caratteristica tra la reputazione, la popolarità e il brand dello sviluppatore, riflesse in alcuni elementi nella pagina di presentazione sugli *app store*, sia la più efficace nel predirre la scelta dell'utente di scaricare un'applicazione *mobile* rispetto ad un'altra. I risultati dell'esperimento mostrano come il brand dello sviluppatore è generalmente il fattore più influente. Tuttavia, quando la possibilità di comparare le applicazioni è introdotta nel modello, il brand perde parte della sua efficacia e la reputazione diventa più rilevante. La popolarità dell'applicazione tra gli altri utenti, in un contesto di scarsi effetti di rete, sembra essere sorprendentemente inefficace nell'influenzare le scelte degli utenti in tutti i modelli. In aggiunta, il coinvolgimento dell'utente nel processo di download delle applicazioni rinforza l'effetto della reputazione, mentre, quando l'utente è più coinvolto nella specifica categoria di applicazioni e quindi percepisce un rischio maggiore, le applicazioni sviluppate da brand consolidati hanno più probabilità di essere scelte. Infine, non è stato possibile individuare alcuna interazione bidirezionale significante tra reputazione, popolarità e brand dello sviluppatore.
-
-## List of Figures
-
-## List of Tables
 
 ## Chapter 1. Introduction
 
@@ -55,11 +52,9 @@ Basole and Karla (2012, p. 28) identified four groups of market participants, mo
 
 **Mobile Platform Providers.** Mobile platform providers (MPPs) provide operating systems and middleware solutions for smartphones and they are currently driving the mobile industry. In addition, MPPs often coincide with the owners of major mobile app stores. This double role was arguably assumed for the first time by Apple in 2008, when, while launching the iPhone, it leveraged its experience in content distribution, thanks to the previous existence of iTunes, to introduce the App Store, in order to strengthen its ecosystem and drive demand for iOS devices (Basole and Karla, 2012, p. 36; Cortimiglia et al., 2011, p. 3), before app stores became a profitable business by their own.  While a couple of years after its introduction, iOS was installed on 37 percent of all smartphones, a market share similar to the one of Symbian OS (Nokia's own operative system), and Android had just entered the market, as shown in Fig. 1.1, now the latter dominates other mobile operative systems (with about 71 percent of the global market), just followed by iOS and other operative systems with very small shares (Laricchia, 2022).
 
-\begin{figure}
-		\includegraphics[width=\linewidth]{Figure/Figure 1.png}
-		\caption{Mobile OS market shares in 2022 and 2009 (Laricchia, 2022).}
-		\label{fig:graph1}
-\end{figure}
+##### Figure 1.1: Mobile OS market shares in 2022 and 2009 (Laricchia, 2022).
+
+![Figure 1.1: Mobile OS market shares in 2022 and 2009 (Laricchia, 2022).](/blog/determinants_of_download_on_mobile_app_stores/determinants_of_download_on_mobile_app_stores_2.png)
 
 Interestingly, these two systems were both able to succeed with two different approaches: iOS is considered a relatively closed ecosystem ("walled garden"), while Android is a more open one ("open garden"). The unique role of Apple as both MPP and device manufacturer enables it to apply some restrictions, as, for example, the fact that apps can only be installed from the App Store, as sole source (Basole and Karla, 2012, p.36; Cortimiglia et al., 2011, p. 3), and this approach allows more strict testing and verification, that, in combination with the existence of only a few different hardware with that operative system (OS), may lead to a better user experience, with consequently improved customer loyalty and a premium brand image. On the other hand, Android is an open-source OS and the ecosystem is more open: this may lead to higher levels of competition both on software and hardware, with lower prices as result (Müller et al., 2011, p. 74). In terms of app distribution, both Apple and Google act as gatekeepers: they decide what gets published on their stores, also covering important roles in terms of quality assurance and pre-screening of dangerous apps (Müller et al., 2011, p. 73), but, while in Google case, these limits can be circumvented thanks to the presence of other app sources, this is (legally, at least) impossible on Apple's devices.
 
@@ -195,6 +190,7 @@ Then, Model 2 (M2) allows for two-way interactions also between different focal 
     \text{with} ~~~~ m =  \{1, 2\}~\text{.}
     \end{split}
 \end{equation}
+
 The main objective of Model 2 is to explore whether there is any interaction between each couple of focal variables, reflecting comparison effects which depend on their alternatively high or low values.   
 
 Finally, Model 3 (M3) can be defined considering all observations in the sample, independently from any specific value of $n$ and introducing the $comp_i$ variable and its interaction:
@@ -218,42 +214,44 @@ The ITD data included in Model 2 was measured after respondents were exposed to 
 
 Finally, regressions based on Model 3 included all observations, independently from the position in which apps were shown. The main objective was to investigate the moderating effect of the variable $comp_i$, while also confirming the levels of effectiveness of $x_i$, as derived from Model 1 and 2. Out of Model 3 emerged that, when accounting for all the observations (independently from $n$ values), the developer's brand was the best predictor of ITD ($\beta=1.5028$, $p<0.01$), followed by reputation ($\beta=0.4576$, $p<0.1$) and popularity ($\beta=0.3677$, $p<0.1$). Furthermore, there is evidence of a statistically relevant and negative moderating effect of comparison on brand effectiveness ($\beta=-0.7454$, $p<0.05$) in predicting ITD. 
 
-|Model (i)                     |M1 (rep)              |M1 (pop)             |M1 (brand)          |M2 (rep)                   |M2 (pop)                |M2 (brand)                 |M3 (rep)                 |M3 (pop)                   |M3 (brand)                  |
+$x_r$
+
+|Model (*i*)                     |M1 (*rep*)              |M1 (*pop*)             |M1 (*brand*)          |M2 (*rep*)                   |M2 (*pop*)                |M2 (*brand*)                 |M3 (*rep*)                 |M3 (*pop*)                   |M3 (*brand*)                  |
 |------------------------------|----------------------|---------------------|--------------------|---------------------------|------------------------|---------------------------|-------------------------|---------------------------|----------------------------|
 |(Intercept)                   |3.86914*** (0.18683)  |4.63458*** (0.15161) |4.13417*** (0.17373)|3.69158*** (0.26951)       |4.14837*** (0.30527)    |4.341602*** (0.333232)     |3.906095*** (0.190949)   |4.64269*** (0.15454)       |4.118051*** (0.178167)      |
-|x_rep                         |0.49862* (0.26259)    |                     |                    |1.33507*** (0.41115)       |0.25362 (0.37742)       |-0.285980 (0.360243)       |0.457599* (0.268971)     |                           |                            |
-|x_pop                         |                      |0.36110* (0.21478)   |                    |-0.21677 (0.31337)         |0.53397 (0.46800)       |0.406845 (0.363070)        |                         |0.36773* (0.21838)         |                            |
-|x_brand                       |                      |                     |1.52889*** (0.23554)|-0.30136 (0.31366)         |-0.18598 (0.37590)      |1.034683** (0.432264)      |                         |                           |1.502819*** (0.240948)      |
-|inv_app                       |0.09502 (0.17658)     |0.3581** (0.16063)   |0.23275 (0.15521)   |-0.01990 (0.15111)         |-0.18401 (0.20203)      |-0.188448 (0.183269)       |-0.028741 (0.099168)     |0.10192 (0.09446)          |0.083030 (0.093585)         |
-|inv_dl                        |-0.21222 (0.15674)    |-0.028300381         |-0.09778 (0.13349)  |0.04958 (0.11528)          |-0.03803135             |-0.034777 (0.139169)       |0.008458 (0.080334)      |-0.16296** (0.07627)       |-0.004562 (0.077751)        |
-|inv_cat                       |0.35115* (0.20204)    |0.22163 (0.14454)    |-0.04189 (0.15636)  |0.12016 (0.14256)          |0.51847*** (0.19119)    |0.287315 (0.173767)        |0.106364 (0.099436)      |0.29048*** (0.09247)       |0.067097 (0.089394)         |
-|comp_i                        |                      |                     |                    |                           |                        |                           |-0.353854 (0.227152)     |-0.28259 (0.19705)         |0.473583** (0.211797)       |
-|x_i X x_rep                   |                      |                     |                    |                           |-0.74373 (0.53923)      |0.251013 (0.507205)        |                         |                           |                            |
-|x_i X x_pop                   |                      |                     |                    |-0.37078 (0.46066)         |                        |-0.676553 (0.511097)       |                         |                           |                            |
-|x_i X x_brand                 |                      |                     |                    |0.16603 (0.46738)          |0.39159 (0.54648)       |                           |                         |                           |                            |
-|x_i X inv_app                 |0.2172 (0.26755)      |-0.0579 (0.23277)    |0.24104 (0.21184)   |0.28639 (0.22414)          |0.57307** (0.26890)     |0.540929** (0.260608)      |0.278238* (0.146581)     |0.29718** (0.13356)        |0.214755 (0.131852)         |
-|x_i X inv_dl                  |0.38614* (0.23255)    |0.10327 (0.16633)    |-0.03326 (0.17832)  |-0.14902 (0.17801)         |0.08568 (0.22437)       |-0.071512 (0.193776)       |-0.004344 (0.116336)     |0.00806 (0.10656)          |-0.174237 (0.105738)        |
-|x_i X inv_cat                 |-0.10643 (0.27486)    |0.06545 (0.20051)    |0.40013* (0.23065)  |0.18534 (0.21138)          |-0.42987 (0.27914)      |0.006635 (0.253132)        |0.200011 (0.142551)      |-0.11139 (0.13035)         |0.158655 (0.128399)         |
-|x_i X  comp_i                 |                      |                     |                    |                           |                        |                           |0.510013 (0.322484)      |-0.39837 (0.27846)         |-0.745391** (0.289854)      |
+|***x<sub>rep</sub>***                         |0.49862* (0.26259)    |                     |                    |1.33507*** (0.41115)       |0.25362 (0.37742)       |-0.285980 (0.360243)       |0.457599* (0.268971)     |                           |                            |
+|x<sub>pop</sub>                         |                      |0.36110* (0.21478)   |                    |-0.21677 (0.31337)         |0.53397 (0.46800)       |0.406845 (0.363070)        |                         |0.36773* (0.21838)         |                            |
+|x<sub>brand</sub>                       |                      |                     |1.52889*** (0.23554)|-0.30136 (0.31366)         |-0.18598 (0.37590)      |1.034683** (0.432264)      |                         |                           |1.502819*** (0.240948)      |
+|inv<sub>app</sub>                      |0.09502 (0.17658)     |0.3581** (0.16063)   |0.23275 (0.15521)   |-0.01990 (0.15111)         |-0.18401 (0.20203)      |-0.188448 (0.183269)       |-0.028741 (0.099168)     |0.10192 (0.09446)          |0.083030 (0.093585)         |
+|inv<sub>dl</sub>                        |-0.21222 (0.15674)    |-0.028300381         |-0.09778 (0.13349)  |0.04958 (0.11528)          |-0.03803135             |-0.034777 (0.139169)       |0.008458 (0.080334)      |-0.16296** (0.07627)       |-0.004562 (0.077751)        |
+|inv<sub>cat</sub>                      |0.35115* (0.20204)    |0.22163 (0.14454)    |-0.04189 (0.15636)  |0.12016 (0.14256)          |0.51847*** (0.19119)    |0.287315 (0.173767)        |0.106364 (0.099436)      |0.29048*** (0.09247)       |0.067097 (0.089394)         |
+|comp<sub>i</sub>                        |                      |                     |                    |                           |                        |                           |-0.353854 (0.227152)     |-0.28259 (0.19705)         |0.473583** (0.211797)       |
+|x<sub>i</sub> X x<sub>rep</sub>                  |                      |                     |                    |                           |-0.74373 (0.53923)      |0.251013 (0.507205)        |                         |                           |                            |
+|x<sub>i</sub> X x<sub>pop</sub>                   |                      |                     |                    |-0.37078 (0.46066)         |                        |-0.676553 (0.511097)       |                         |                           |                            |
+|x<sub>i</sub> X x<sub>brand</sub>                 |                      |                     |                    |0.16603 (0.46738)          |0.39159 (0.54648)       |                           |                         |                           |                            |
+|x<sub>i</sub> X inv<sub>app</sub>                 |0.2172 (0.26755)      |-0.0579 (0.23277)    |0.24104 (0.21184)   |0.28639 (0.22414)          |0.57307** (0.26890)     |0.540929** (0.260608)      |0.278238* (0.146581)     |0.29718** (0.13356)        |0.214755 (0.131852)         |
+|x<sub>i</sub> X inv<sub>dl</sub>                  |0.38614* (0.23255)    |0.10327 (0.16633)    |-0.03326 (0.17832)  |-0.14902 (0.17801)         |0.08568 (0.22437)       |-0.071512 (0.193776)       |-0.004344 (0.116336)     |0.00806 (0.10656)          |-0.174237 (0.105738)        |
+|x<sub>i</sub> X inv<sub>cat</sub>                 |-0.10643 (0.27486)    |0.06545 (0.20051)    |0.40013* (0.23065)  |0.18534 (0.21138)          |-0.42987 (0.27914)      |0.006635 (0.253132)        |0.200011 (0.142551)      |-0.11139 (0.13035)         |0.158655 (0.128399)         |
+|x<sub>i</sub> X  comp<sub>i</sub>                 |                      |                     |                    |                           |                        |                           |0.510013 (0.322484)      |-0.39837 (0.27846)         |-0.745391** (0.289854)      |
 |R2                            |0.09523               |0.139                |0.2885              |0.1874                     |0.1417                  |0.1533                     |0.098                    |0.1056                     |0.1555                      |
 |Adj. R2                       |0.05031               |0.1057               |0.2542              |0.1388                     |0.06958                 |0.08682                    |0.08112                  |0.08885                    |0.1397                      |
-|Observations (N)              |                      |                     |                    |                           |                        |                           |                         |                           |                            |
+|Observations (*N*)              |                      |                     |                    |                           |                        |                           |                         |                           |                            |
 |Manipulation Check (%)        |                      |                     |                    |                           |                        |                           |                         |                           |                            |
 |*** p<0.01, ** p<0.05, * p<0.1 |
+
+
 
 ### 3.3 Discussion and Managerial Implications
 
 The results indicate that the developer's brand is generally the most effective factor in determining download decision if compared to reputation (review ratings) and popularity (number of downloads), but effectiveness varies on presentation order and information available to users (M1, M3). An unexpected outcome is the scarce (and almost zero) effectiveness of popularity, even if this setting had very low network effects. A hypothesis on the reason why popularity is not frequently taken into consideration by users may rest in the necessity for platform owners (as Google, in this case) to keep the ecosystem competitive and attractive for new developers, avoiding single-firm dominated markets and preserving information transparency on the platform (Boudreau et al., 2022, p. 1379), in particular when network effects are present: in fact, the format in which quantity of downloads is presented (e.g. 10M+ vs. 10K+) may be intentionally not very powerful in communicating the magnitude of popularity differences across apps and it may go unnoticed when users are not reviewing information carefully.
 
-\begin{figure}
-		\includegraphics[width=\linewidth]{Figure/Figure 3.1 v5.png}
-		\caption{Mean-centered ITD ($y_i$) depending on high vs. low values ($x$) of developer's brand, reputation and popularity, with $n=1$ and $n=3$.}
-		\label{fig:graph3}
-\end{figure}
-
 The high effectiveness of brands in shaping users' choices, even in an online market where a wide range of information is available, opens up relevant opportunities for established software companies. In fact, developing different apps, covering many different segments, already proved to be a successful strategy, since Lee and Raghu (2012, p. 161) pointed out how diversifying app portfolios across selling categories is a key determinant of sales performance.
 
 When users are exposed to information about multiple apps and they can consequently compare them, reputation becomes the most effective element (M2), as also shown by the parallel in Fig. 3.1 between ITD for apps shown as first ($n=1$) and those shown as third ($n=3$). Users may rely more on eWOM when they have the possibility to consider a wider range of options and they just may need some anchors to better understand apps' rating levels. An important cue for making an informed decision can be often found in past experience, but, when users have no previous experience with the specific product, they often rely on social experiences, as expressed in reviews (Burgers et al., 2016, p. 329). As a consequence, it is important, in particular for new entrants in an app category that are not likely to be shown in top search results, to publish an app when it is mature enough to avoid the common phenomenon of reputation backlash, in terms of initial low ratings. On the other side, brands become less predictive of ITD when comparison is introduced in the model (as evidenced by the coefficient of $comp_i$ in M3): a popular brand may combine well with the "take the first" heuristic, which has already proven to be effective in the case of mobile apps (Dogruel et al., 2015, p. 139), and be penalised when users are actively collecting information. 
+
+##### Figure 3.1: Mean-centered ITD ($y_i$) depending on high vs. low values ($x$) of developer's brand, reputation and popularity, with $n=1$ and $n=3$.
+
+![Figure 3.1: Mean-centered ITD ($y_i$) depending on high vs. low values ($x$) of developer's brand, reputation and popularity, with $n=1$ and $n=3$.](/blog/determinants_of_download_on_mobile_app_stores/determinants_of_download_on_mobile_app_stores_3.png)
 
 Some other interesting evidence regards the moderation effects of involvement on the three focal variables. First, there is predictable and generalized evidence that higher involvement in apps as products corresponds to a higher effectiveness of all three reputation, popularity and brand levels in driving users' ITD (M2, M3). Second, when users are highly involved in the app download process, they tend to rely more on reputation, probably because they scrutinise information more closely. Last, when the involvement in the specific app category (mobile scanner apps, in this case) is high and users consequently perceive a higher risk in the app choice, also considering that scanner apps are productivity apps, frequently used for work (Sällberg et al., 2022, p. 10), they appear to preferably choose a strong and known brand (M1), which is a commonly used as a cue when attempting to mitigate it (Matzler et al., 2008, p. 158).
 
@@ -277,243 +275,184 @@ This research results add up to the substantial literature that already covered 
 
 ## Bibliography
 
-\hangindent=1em
-\hangafter=1
-Ali, M., Joorabchi, M. E., \& Mesbah, A. (2017). Same app, different app stores: A comparative study. In \textit{2017 IEEE/ACM 4th International Conference on Mobile Software Engineering and Systems (MOBILESoft)} (pp. 79-90), IEEE.
+
+Ali, M., Joorabchi, M. E., \& Mesbah, A. (2017). Same app, different app stores: A comparative study. In *2017 IEEE/ACM 4th International Conference on Mobile Software Engineering and Systems (MOBILESoft)* (pp. 79-90), IEEE.
 
 
-\hangindent=1em
-\hangafter=1
+
 Anderson, C. (2006). The long tail: Why the future of business is selling less of more. Hachette UK.
 
 
-\hangindent=1em
-\hangafter=1
-Arora, S., Ter Hofstede, F., \& Mahajan, V. (2017). The implications of offering free versions for the performance of paid mobile apps. \textit{Journal of Marketing}, 81(6), 62-78.
 
-\hangindent=1em
-\hangafter=1
-Basole, R. C., \& Karla, J. (2012). Value transformation in the mobile service ecosystem: A study of app store emergence and growth. \textit{Service Science}, 4(1), 24-41.
-
-\hangindent=1em
-\hangafter=1
-Böhm, S., \& Schreiber, S. (2014). Mobile App Marketing: A Conjoint-based Analysis on the Importance of App Store Elements. In \textit{CENTRIC 2014: The Seventh International Conference on Advances in Human-oriented and Personalized Mechanisms, Technologies, and Services}.
+Arora, S., Ter Hofstede, F., \& Mahajan, V. (2017). The implications of offering free versions for the performance of paid mobile apps. *Journal of Marketing*, 81(6), 62-78.
 
 
-\hangindent=1em
-\hangafter=1
-Boudreau, K. J., Jeppesen, L. B., \& Miric, M. (2022). Competing on freemium: Digital competition with network effects. \textit{Strategic Management Journal}, 43(7), 1374-1401.
+Basole, R. C., \& Karla, J. (2012). Value transformation in the mobile service ecosystem: A study of app store emergence and growth. *Service Science*, 4(1), 24-41.
 
-\hangindent=1em
-\hangafter=1
-Brynjolfsson, E., Hu, Y., \& Smith, M. D. (2003). Consumer surplus in the digital economy: Estimating the value of increased product variety at online booksellers. \textit{Management science}, 49(11), 1580-1596.
 
-\hangindent=1em
-\hangafter=1
-Brynjolfsson, E., \& Smith, M. D. (2000). Frictionless commerce? A comparison of Internet and conventional retailers. \textit{Management science}, 46(4), 563-585.
+Böhm, S., \& Schreiber, S. (2014). Mobile App Marketing: A Conjoint-based Analysis on the Importance of App Store Elements. In *CENTRIC 2014: The Seventh International Conference on Advances in Human-oriented and Personalized Mechanisms, Technologies, and Services*.
 
-\hangindent=1em
-\hangafter=1
-Buck, C., Horbel, C., Germelmann, C. C., \& Eymann, T. (2014). The Unconscious App Consumer: Discovering and Comparing the Information-seeking Patterns among Mobile Application Consumers. In \textit{ECIS}.
 
-\hangindent=1em
-\hangafter=1
-Burgers, C., Eden, A., de Jong, R., \& Buningh, S. (2016). Rousing reviews and instigative images: The impact of online reviews and visual design characteristics on app downloads. \textit{Mobile Media \& Communication}, 4(3), 327-346.
 
-\hangindent=1em
-\hangafter=1
-Ceci, L. (2022). Google Play: annual consumer spending on mobile apps 2016-2021. Statista, \textless \url{https://www.statista.com/statistics/444476/google-play-annual-revenue/}\textgreater (Accessed in January 2023).
+Boudreau, K. J., Jeppesen, L. B., \& Miric, M. (2022). Competing on freemium: Digital competition with network effects. *Strategic Management Journal*, 43(7), 1374-1401.
 
-\hangindent=1em
-\hangafter=1
-Ceci, L. (2022). Number of apps available in leading app stores Q3 2022. Statista, \textless \url{https://www.statista.com/statistics/276623/number-of-apps-available-in-leading-app-stores/}\textgreater (Accessed in January 2023).
 
-\hangindent=1em
-\hangafter=1
-Celuch, K. G., \& Taylor, S. A. (1999). Involvement with services: An empirical replication and extension of Zaichkowsky's personal involvement inventory. \textit{The Journal of Consumer Satisfaction, Dissatisfaction and Complaining Behavior}, 12, 109-122.
+Brynjolfsson, E., Hu, Y., \& Smith, M. D. (2003). Consumer surplus in the digital economy: Estimating the value of increased product variety at online booksellers. *Management science*, 49(11), 1580-1596.
 
-\hangindent=1em
-\hangafter=1
-Chen, H., Lachaud, K., \& Zhou, W. (2022). The sales effect of “Free App of the Day” on Amazon Appstore: An empirical study. \textit{Digital Business}, 2(2), 100020.
 
-\hangindent=1em
-\hangafter=1
-Chevalier, J. A., \& Mayzlin, D. (2006). The effect of word of mouth on sales: Online book reviews. \textit{Journal of marketing research}, 43(3), 345-354.
+Brynjolfsson, E., \& Smith, M. D. (2000). Frictionless commerce? A comparison of Internet and conventional retailers. *Management science*, 46(4), 563-585.
 
-\hangindent=1em
-\hangafter=1
-Cortimiglia, M. N., Ghezzi, A., \& Renga, F. (2011). Mobile applications and their delivery platforms. \textit{IT Professional}, 13(5), 51-56.
 
-\hangindent=1em
-\hangafter=1
-Dogruel, L., Joeckel, S., \& Bowman, N. D. (2015). Choosing the right app: An exploratory perspective on heuristic decision processes for smartphone app selection. \textit{Mobile Media \& Communication}, 3(1), 125-144.
+Buck, C., Horbel, C., Germelmann, C. C., \& Eymann, T. (2014). The Unconscious App Consumer: Discovering and Comparing the Information-seeking Patterns among Mobile Application Consumers. In *ECIS*.
 
-\hangindent=1em
-\hangafter=1
+
+Burgers, C., Eden, A., de Jong, R., \& Buningh, S. (2016). Rousing reviews and instigative images: The impact of online reviews and visual design characteristics on app downloads. *Mobile Media \& Communication*, 4(3), 327-346.
+
+
+Ceci, L. (2022). Google Play: annual consumer spending on mobile apps 2016-2021. Statista, https://www.statista.com/statistics/444476/google-play-annual-revenue/ (Accessed in January 2023).
+
+
+Ceci, L. (2022). Number of apps available in leading app stores Q3 2022. Statista, https://www.statista.com/statistics/276623/number-of-apps-available-in-leading-app-stores/ (Accessed in January 2023).
+
+
+Celuch, K. G., \& Taylor, S. A. (1999). Involvement with services: An empirical replication and extension of Zaichkowsky's personal involvement inventory. *The Journal of Consumer Satisfaction, Dissatisfaction and Complaining Behavior*, 12, 109-122.
+
+
+Chen, H., Lachaud, K., \& Zhou, W. (2022). The sales effect of “Free App of the Day” on Amazon Appstore: An empirical study. *Digital Business*, 2(2), 100020.
+
+
+Chevalier, J. A., \& Mayzlin, D. (2006). The effect of word of mouth on sales: Online book reviews. *Journal of marketing research*, 43(3), 345-354.
+
+
+Cortimiglia, M. N., Ghezzi, A., \& Renga, F. (2011). Mobile applications and their delivery platforms. *IT Professional*, 13(5), 51-56.
+
+
+Dogruel, L., Joeckel, S., \& Bowman, N. D. (2015). Choosing the right app: An exploratory perspective on heuristic decision processes for smartphone app selection. *Mobile Media \& Communication*, 3(1), 125-144.
+
+
 Eagly, A. H., \& Chaiken, S. (1993). The psychology of attitudes. Harcourt brace Jovanovich college publishers.
 
-\hangindent=1em
-\hangafter=1
-Ericsson (2022). Ericsson Mobility Report, \textless \url{https://www.ericsson.com/en/reports-and-papers/mobility-report/reports/november-2022}\textgreater (Accessed in January 2023).
 
-\hangindent=1em
-\hangafter=1
-Filippas, A., Horton, J. J., \& Golden, J. (2018). Reputation inflation. In \textit{Proceedings of the 2018 ACM Conference on Economics and Computation} (pp. 483-484).
+Ericsson (2022). Ericsson Mobility Report, https://www.ericsson.com/en/reports-and-papers/mobility-report/reports/november-2022 (Accessed in January 2023).
 
-\hangindent=1em
-\hangafter=1
-Finkelstein, A., Harman, M., Jia, Y., Martin, W., Sarro, F., \& Zhang, Y. (2017). Investigating the relationship between price, rating, and popularity in the Blackberry World App Store. \textit{Information and Software Technology}, 87, 119-139.
 
-\hangindent=1em
-\hangafter=1
-Friedman L. (2013). The App Store turns five: A look back and forward. Macworld, \textless \url{https://www.macworld.com/article/221393/the-app-store-turns-five-a-look-back-and-forward.html}\textgreater (Accessed in January 2023).
+Filippas, A., Horton, J. J., \& Golden, J. (2018). Reputation inflation. In *Proceedings of the 2018 ACM Conference on Economics and Computation* (pp. 483-484).
 
-\hangindent=1em
-\hangafter=1
-Gokgoz, Z. A., Ataman, M. B., \& van Bruggen, G. H. (2021). There’s an app for that! Understanding the drivers of mobile application downloads. \textit{Journal of Business Research}, 123, 423-437.
 
-\hangindent=1em
-\hangafter=1
-Goldfarb, A., \& Tucker, C. (2019). Digital economics. \textit{Journal of Economic Literature}, 57(1), 3-43.
+Finkelstein, A., Harman, M., Jia, Y., Martin, W., Sarro, F., \& Zhang, Y. (2017). Investigating the relationship between price, rating, and popularity in the Blackberry World App Store. *Information and Software Technology*, 87, 119-139.
 
-\hangindent=1em
-\hangafter=1
-Halmenschlager, C., \& Waelbroeck, P. (2014). Fighting free with free: Freemium vs. piracy. \textit{Piracy (November 29, 2014)}.
 
-\hangindent=1em
-\hangafter=1
-Horton, J., \& Golden, J. (2015). Reputation inflation in an online marketplace. \textit{New York I, 1}.
+Friedman L. (2013). The App Store turns five: A look back and forward. Macworld, https://www.macworld.com/article/221393/the-app-store-turns-five-a-look-back-and-forward.html (Accessed in January 2023).
 
-\hangindent=1em
-\hangafter=1
-Hyrynsalmi, S., Mäkilä, T., Järvi, A., Suominen, A., Seppänen, M., \& Knuutila, T. (2012). App store, marketplace, play! an analysis of multi-homing in mobile software ecosystems. \textit{Jansen, Slinger}, 59-72.
 
-\hangindent=1em
-\hangafter=1
-Ihlwan, M. (2007). LG ties up with PRADA for new phone. Bloomberg, \textless \url{https://www.bloomberg.com/news/articles/2007-01-17/lg-ties-up-with-prada-for-new-phone}\textgreater (Accessed in January 2023).
+Gokgoz, Z. A., Ataman, M. B., \& van Bruggen, G. H. (2021). There’s an app for that! Understanding the drivers of mobile application downloads. *Journal of Business Research*, 123, 423-437.
 
-\hangindent=1em
-\hangafter=1
-Jung, E. Y., Baek, C., \& Lee, J. D. (2012). Product survival analysis for the App Store. \textit{Marketing Letters}, 23(4), 929-941.
 
-\hangindent=1em
-\hangafter=1
-Kang, J. Y. M., Mun, J. M., \& Johnson, K. K. (2015). In-store mobile usage: Downloading and usage intention toward mobile location-based retail apps. \textit{Computers in Human Behavior}, 46, 210-217.
+Goldfarb, A., \& Tucker, C. (2019). Digital economics. *Journal of Economic Literature*, 57(1), 3-43.
 
-\hangindent=1em
-\hangafter=1
-Koch, S., \& Kerschbaum, M. (2014). Joining a smartphone ecosystem: Application developers’ motivations and decision criteria. \textit{Information and Software Technology}, 56(11), 1423-1435.
 
-\hangindent=1em
-\hangafter=1
+Halmenschlager, C., \& Waelbroeck, P. (2014). Fighting free with free: Freemium vs. piracy. *Piracy (November 29, 2014)*.
+
+
+Horton, J., \& Golden, J. (2015). Reputation inflation in an online marketplace. *New York I, 1*.
+
+
+Hyrynsalmi, S., Mäkilä, T., Järvi, A., Suominen, A., Seppänen, M., \& Knuutila, T. (2012). App store, marketplace, play! an analysis of multi-homing in mobile software ecosystems. *Jansen, Slinger*, 59-72.
+
+
+Ihlwan, M. (2007). LG ties up with PRADA for new phone. Bloomberg, https://www.bloomberg.com/news/articles/2007-01-17/lg-ties-up-with-prada-for-new-phone (Accessed in January 2023).
+
+
+Jung, E. Y., Baek, C., \& Lee, J. D. (2012). Product survival analysis for the App Store. *Marketing Letters*, 23(4), 929-941.
+
+
+Kang, J. Y. M., Mun, J. M., \& Johnson, K. K. (2015). In-store mobile usage: Downloading and usage intention toward mobile location-based retail apps. *Computers in Human Behavior*, 46, 210-217.
+
+
+Koch, S., \& Kerschbaum, M. (2014). Joining a smartphone ecosystem: Application developers’ motivations and decision criteria. *Information and Software Technology*, 56(11), 1423-1435.
+
+
 Kouris, I., \& Piller, F. T. (2014). App platforms as two-sided markets: analysis and modeling of application distribution platforms for mobile devices. Lehrstuhl für Betriebswirtschaftslehre, insbesondere Technologie-und Innovationsmanagement.
 
-\hangindent=1em
-\hangafter=1
-Kübler, R., Pauwels, K., Yildirim, G., \& Fandrich, T. (2018). App popularity: Where in the world are consumers most sensitive to price and user ratings?. \textit{Journal of Marketing}, 82(5), 20-44.
 
-\hangindent=1em
-\hangafter=1
-Lambrecht, A., Goldfarb, A., Bonatti, A., Ghose, A., Goldstein, D. G., Lewis, R., Rao, A. and Sahni, N. \& Yao, S. (2014). How do firms make money selling digital goods online?. \textit{Marketing Letters}, 25(3), 331-341.
+Kübler, R., Pauwels, K., Yildirim, G., \& Fandrich, T. (2018). App popularity: Where in the world are consumers most sensitive to price and user ratings?. *Journal of Marketing*, 82(5), 20-44.
 
-\hangindent=1em
-\hangafter=1
-Laricchia, F. (2022). Market share of mobile operating systems worldwide 2009-2022. Statista, \textless \url{https://www.statista.com/statistics/272698/global-market-share-held-by-mobile-operating-systems-since-2009/}\textgreater (Accessed in January 2023).
 
-\hangindent=1em
-\hangafter=1
-Lee, G., \& Raghu, T. S. (2014). Determinants of mobile apps' success: Evidence from the app store market. \textit{Journal of Management Information Systems}, 31(2), 133-170.
+Lambrecht, A., Goldfarb, A., Bonatti, A., Ghose, A., Goldstein, D. G., Lewis, R., Rao, A. and Sahni, N. \& Yao, S. (2014). How do firms make money selling digital goods online?. *Marketing Letters*, 25(3), 331-341.
 
-\hangindent=1em
-\hangafter=1
-Liang, T. P., Li, X., Yang, C. T., \& Wang, M. (2015). What in consumer reviews affects the sales of mobile apps: A multifacet sentiment analysis approach. \textit{International Journal of Electronic Commerce}, 20(2), 236-260.
 
-\hangindent=1em
-\hangafter=1
-Liu, C. Z., Au, Y. A., \& Choi, H. S. (2014). Effects of freemium strategy in the mobile app market: An empirical study of google play. \textit{Journal of management information systems}, 31(3), 326-354.
+Laricchia, F. (2022). Market share of mobile operating systems worldwide 2009-2022. Statista, https://www.statista.com/statistics/272698/global-market-share-held-by-mobile-operating-systems-since-2009/ (Accessed in January 2023).
 
-\hangindent=1em
-\hangafter=1
-Matzler, K., Grabner‐Kräuter, S., \& Bidmon, S. (2008). Risk aversion and brand loyalty: the mediating role of brand trust and brand affect. \textit{Journal of product \& brand management}, 17(3), 154-162.
 
-\hangindent=1em
-\hangafter=1
-Mittal, B. (1995). A comparative analysis of four scales of consumer involvement. \textit{Psychology \& marketing}, 12(7), 663-682.
+Lee, G., \& Raghu, T. S. (2014). Determinants of mobile apps' success: Evidence from the app store market. *Journal of Management Information Systems*, 31(2), 133-170.
 
-\hangindent=1em
-\hangafter=1
-Moe, W. W., \& Trusov, M. (2011). The value of social dynamics in online product ratings forums. \textit{Journal of Marketing Research}, 48(3), 444-456.
 
-\hangindent=1em
-\hangafter=1
-Müller, R. M., Kijl, B., \& Martens, J. K. (2011). A comparison of inter-organizational business models of mobile app stores: There is more than open vs. closed. \textit{Journal of theoretical and applied electronic commerce research}, 6(2), 63-76.
+Liang, T. P., Li, X., Yang, C. T., \& Wang, M. (2015). What in consumer reviews affects the sales of mobile apps: A multifacet sentiment analysis approach. *International Journal of Electronic Commerce*, 20(2), 236-260.
 
-\hangindent=1em
-\hangafter=1
-Murphy A., \& Contreras I. (2022). The Global 2000. Forbes, \textless \url{https://www.forbes.com/lists/global2000/}\textgreater (Accessed in January 2023).
 
-\hangindent=1em
-\hangafter=1
-Nan, G., Wu, D., Li, M., \& Tan, Y. (2018). Optimal Freemium Strategy for Information Goods in the Presence of Piracy. \textit{Journal of the Association for Information Systems}, 19(4), 266-305.
+Liu, C. Z., Au, Y. A., \& Choi, H. S. (2014). Effects of freemium strategy in the mobile app market: An empirical study of google play. *Journal of management information systems*, 31(3), 326-354.
 
-\hangindent=1em
-\hangafter=1
+
+Matzler, K., Grabner‐Kräuter, S., \& Bidmon, S. (2008). Risk aversion and brand loyalty: the mediating role of brand trust and brand affect. *Journal of product \& brand management*, 17(3), 154-162.
+
+
+Mittal, B. (1995). A comparative analysis of four scales of consumer involvement. *Psychology \& marketing*, 12(7), 663-682.
+
+
+Moe, W. W., \& Trusov, M. (2011). The value of social dynamics in online product ratings forums. *Journal of Marketing Research*, 48(3), 444-456.
+
+
+Müller, R. M., Kijl, B., \& Martens, J. K. (2011). A comparison of inter-organizational business models of mobile app stores: There is more than open vs. closed. *Journal of theoretical and applied electronic commerce research*, 6(2), 63-76.
+
+
+Murphy A., \& Contreras I. (2022). The Global 2000. Forbes, https://www.forbes.com/lists/global2000/ (Accessed in January 2023).
+
+
+Nan, G., Wu, D., Li, M., \& Tan, Y. (2018). Optimal Freemium Strategy for Information Goods in the Presence of Piracy. *Journal of the Association for Information Systems*, 19(4), 266-305.
+
+
 Piccoli, G., \& Pigni, F. (2019). Information Systems for Managers With Cases, Edition 4.0. Prospect Press, Inc..
 
-\hangindent=1em
-\hangafter=1
+
 Pol, M. (2015). App icon preferences: The influence of app icon design and involvement on quality and intention to download. Master's thesis, University of Twente.
 
-\hangindent=1em
-\hangafter=1
-Reavis Conner, K., \& Rumelt, R. P. (1991). Software piracy: An analysis of protection strategies. \textit{Management science}, 37(2), 125-139
 
-\hangindent=1em
-\hangafter=1
-Rochet, J. C., \& Tirole, J. (2003). Platform competition in two-sided markets. \textit{Journal of the european economic association}, 1(4), 990-1029.
+Reavis Conner, K., \& Rumelt, R. P. (1991). Software piracy: An analysis of protection strategies. *Management science*, 37(2), 125-139
 
-\hangindent=1em
-\hangafter=1
-Roma, P., \& Ragaglia, D. (2016). Revenue models, in-app purchase, and the app performance: Evidence from Apple’s App Store and Google Play. \textit{Electronic commerce research and applications}, 17, 173-190.
 
-\hangindent=1em
-\hangafter=1
-Rubin, A. D. (1995). Trusted distribution of software over the Internet. In \textit{Proceedings of the Symposium on Network and Distributed System Security} (pp. 47-53), IEEE.
+Rochet, J. C., \& Tirole, J. (2003). Platform competition in two-sided markets. *Journal of the european economic association*, 1(4), 990-1029.
 
-\hangindent=1em
-\hangafter=1
-Ruiz, I. J. M., Nagappan, M., Adams, B., Berger, T., Dienst, S., \& Hassan, A. E. (2015). Examining the rating system used in mobile-app stores. \textit{Ieee Software}, 33(6), 86-92.
 
-\hangindent=1em
-\hangafter=1
-Salganik, M. J., Dodds, P. S., \& Watts, D. J. (2006). Experimental study of inequality and unpredictability in an artificial cultural market. \textit{science}, 311(5762), 854-856.
+Roma, P., \& Ragaglia, D. (2016). Revenue models, in-app purchase, and the app performance: Evidence from Apple’s App Store and Google Play. *Electronic commerce research and applications*, 17, 173-190.
 
-\hangindent=1em
-\hangafter=1
-Sällberg, H., Wang, S., \& Numminen, E. (2022). The combinatory role of online ratings and reviews in mobile app downloads: an empirical investigation of gaming and productivity apps from their initial app store launch. \textit{Journal of Marketing Analytics}, 1-17.
 
-\hangindent=1em
-\hangafter=1
-Spears, N., \& Singh, S. N. (2004). Measuring attitude toward the brand and purchase intentions. \textit{Journal of current issues \& research in advertising}, 26 (2), 53-66.
+Rubin, A. D. (1995). Trusted distribution of software over the Internet. In *Proceedings of the Symposium on Network and Distributed System Security* (pp. 47-53), IEEE.
 
-\hangindent=1em
-\hangafter=1
-Timmerman, J. E., \& Shepherd, I. (2016). Does eWOM affect demand for mobile device applications?. \textit{Journal of Marketing Development \& Competitiveness}, 10(3).
 
-\hangindent=1em
-\hangafter=1
-Wang, Y., Song, J., \& Aguirre-Urreta, M. (2015). An empirical investigation of factors impacting application downloads in mobile app stores. \textit{SIGHCI Proceedings}, 1-5.
+Ruiz, I. J. M., Nagappan, M., Adams, B., Berger, T., Dienst, S., \& Hassan, A. E. (2015). Examining the rating system used in mobile-app stores. *Ieee Software*, 33(6), 86-92.
 
-\hangindent=1em
-\hangafter=1
-Zaichkowsky, J. L. (1994). The personal involvement inventory: Reduction, revision, and application to advertising. \textit{Journal of advertising}, 23(4), 59-70.
 
-\hangindent=1em
-\hangafter=1
+Salganik, M. J., Dodds, P. S., \& Watts, D. J. (2006). Experimental study of inequality and unpredictability in an artificial cultural market. *science*, 311(5762), 854-856.
+
+
+Sällberg, H., Wang, S., \& Numminen, E. (2022). The combinatory role of online ratings and reviews in mobile app downloads: an empirical investigation of gaming and productivity apps from their initial app store launch. *Journal of Marketing Analytics*, 1-17.
+
+
+Spears, N., \& Singh, S. N. (2004). Measuring attitude toward the brand and purchase intentions. *Journal of current issues \& research in advertising*, 26 (2), 53-66.
+
+
+Timmerman, J. E., \& Shepherd, I. (2016). Does eWOM affect demand for mobile device applications?. *Journal of Marketing Development \& Competitiveness*, 10(3).
+
+
+Wang, Y., Song, J., \& Aguirre-Urreta, M. (2015). An empirical investigation of factors impacting application downloads in mobile app stores. *SIGHCI Proceedings*, 1-5.
+
+
+Zaichkowsky, J. L. (1994). The personal involvement inventory: Reduction, revision, and application to advertising. *Journal of advertising*, 23(4), 59-70.
+
+
 Zheng, P., \& Ni, L. (2010). Smart phone and next generation mobile computing. Elsevier.
 
-\hangindent=1em
-\hangafter=1
+
 
 ## Appendices
 
@@ -521,25 +460,19 @@ Zheng, P., \& Ni, L. (2010). Smart phone and next generation mobile computing. E
 
 This online study involves the use of manipulated screenshots images of an app presentation page on Google's Play Store (two for each one of the three main variables). Each couple of screenshots of existing apps was manipulated in a way that the assigned variable could take different values. Only the elements directly related to that variable were admitted to change across each couple of presentation pages. As shown in Fig. A.1, in screenshot images dealing with app reputation (high vs. low) the average rating is the only element manipulated. Similarly, also in Fig. A.2, only the number of downloads is manipulated for app popularity (high vs. low). Finally, Fig. A.3 shows how the elements dealing with the developer's brand (strong vs. weak) are three: the app's icon, the app's name and the developer's name.
 
-\begin{figure}
-		\includegraphics[width=\linewidth]{Figure/Figure A1.png}
-		\caption{Screenshot images of the app presentation page with variation in app reputation.}
-		\label{fig:graphA1}
-\end{figure}
+##### Figure A.1: Screenshot images of the app presentation page with variation in app reputation.
+
+![Figure A.1: Screenshot images of the app presentation page with variation in app reputation.](/blog/determinants_of_download_on_mobile_app_stores/determinants_of_download_on_mobile_app_stores_4.png)
 
 
-\begin{figure}
-		\includegraphics[width=\linewidth]{Figure/Figure A2.png}
-		\caption{Screenshot images of the app presentation page with variation in app popularity.}
-		\label{fig:graphA2}
-\end{figure}
+##### Figure A.2: Screenshot images of the app presentation page with variation in app popularity.
+
+![Figure A.2: Screenshot images of the app presentation page with variation in app popularity.](/blog/determinants_of_download_on_mobile_app_stores/determinants_of_download_on_mobile_app_stores_5.png)
 
 
-\begin{figure}
-		\includegraphics[width=\linewidth]{Figure/Figure A3.png}
-		\caption{Screenshot images of the app presentation page with variation in developer's brand.}
-		\label{fig:graphA3}
-\end{figure}
+##### Figure A.3: Screenshot images of the app presentation page with variation in developer’s brand.
+
+![Figure A.3: Screenshot images of the app presentation page with variation in developer’s brand.](/blog/determinants_of_download_on_mobile_app_stores/determinants_of_download_on_mobile_app_stores_6.png)
 
 ### B Experimental Questionnaire
 
@@ -566,72 +499,122 @@ Email: luca.bontempi@student.uni-tuebingen.de
 
 If you would like to obtain more information about the processing of your personal data, please click here
 
-**O** I agree to the processing of my personal data in accordance with the information provided herein
+O I agree to the processing of my personal data in accordance with the information provided herein
 
-**O** I don't want to participate **O** Start the survey
+O I don't want to participate O Start the survey
 
 *Note: respondents had to agree and select "Start the survey" in order to proceed to the next slide.*
 
-\paragraph{Slide 1} Involvement in mobile apps and app download process.\\
-Read and answer the following questions on apps and app stores.\\
-\textbf{What do you think about mobile apps?}\\
-Mobile apps are very important to me.\\
-Strongly disagree {\huge \Square} 1  {\huge \Square} 2 {\huge \Square} 3 {\huge \Square} 4 {\huge \Square} 5 {\huge \Square} 6 {\huge \Square} 7 Strongly agree\\
-For me, mobile apps do not matter.\\
-Strongly disagree {\huge \Square} 1  {\huge \Square} 2 {\huge \Square} 3 {\huge \Square} 4 {\huge \Square} 5 {\huge \Square} 6 {\huge \Square} 7 Strongly agree\\
-I have a strong interest in mobile apps.\\
-Strongly disagree {\huge \Square} 1  {\huge \Square} 2 {\huge \Square} 3 {\huge \Square} 4 {\huge \Square} 5 {\huge \Square} 6 {\huge \Square} 7 Strongly agree\\
-\textbf{What do you think about downloading apps?}\\
-I choose the mobile apps to download very carefully.\\
-Strongly disagree {\huge \Square} 1  {\huge \Square} 2 {\huge \Square} 3 {\huge \Square} 4 {\huge \Square} 5 {\huge \Square} 6 {\huge \Square} 7 Strongly agree\\
-Which mobile apps I download matters to me a lot.\\
-Strongly disagree {\huge \Square} 1  {\huge \Square} 2 {\huge \Square} 3 {\huge \Square} 4 {\huge \Square} 5 {\huge \Square} 6 {\huge \Square} 7 Strongly agree\\
-Choosing an app is an important decision for me.\\
-Strongly disagree {\huge \Square} 1  {\huge \Square} 2 {\huge \Square} 3 {\huge \Square} 4 {\huge \Square} 5 {\huge \Square} 6 {\huge \Square} 7 Strongly agree
+**Slide 1.** Involvement in mobile apps and app download process.
 
-\paragraph{Slide 2} Involvement in the mobile scanner apps category.\\
-Consider mobile apps that allow you to digitize documents through the camera (Cam Scanner Apps). Read the following statement.\\
-\textbf{To me digitizing documents using a mobile scanner app is:}\\
-Select your personal opinion with regard to the following couples of words. \\
-important {\huge \Square} 1  {\huge \Square} 2 {\huge \Square} 3 {\huge \Square} 4 {\huge \Square} 5 {\huge \Square} 6 {\huge \Square} 7 unimportant\\
-relevant {\huge \Square} 1  {\huge \Square} 2 {\huge \Square} 3 {\huge \Square} 4 {\huge \Square} 5 {\huge \Square} 6 {\huge \Square} 7 irrelevant\\
-exciting {\huge \Square} 1  {\huge \Square} 2 {\huge \Square} 3 {\huge \Square} 4 {\huge \Square} 5 {\huge \Square} 6 {\huge \Square} 7 unexciting\\
-means nothing {\huge \Square} 1  {\huge \Square} 2 {\huge \Square} 3 {\huge \Square} 4 {\huge \Square} 5 {\huge \Square} 6 {\huge \Square} 7 means a lot to me\\
-appealing {\huge \Square} 1  {\huge \Square} 2 {\huge \Square} 3 {\huge \Square} 4 {\huge \Square} 5 {\huge \Square} 6 {\huge \Square} 7 unappealing\\
-fascinating {\huge \Square} 1  {\huge \Square} 2 {\huge \Square} 3 {\huge \Square} 4 {\huge \Square} 5 {\huge \Square} 6 {\huge \Square} 7 mundane\\
-worthless {\huge \Square} 1  {\huge \Square} 2 {\huge \Square} 3 {\huge \Square} 4 {\huge \Square} 5 {\huge \Square} 6 {\huge \Square} 7 valuable\\
-not needed {\huge \Square} 1  {\huge \Square} 2 {\huge \Square} 3 {\huge \Square} 4 {\huge \Square} 5 {\huge \Square} 6 {\huge \Square} 7 needed
+Read and answer the following questions on apps and app stores.
 
-\paragraph{Slide 3, 4 and 5} Main experiment.\\
-Imagine you are looking for a scanner app for your smartphone since you need to digitize a document. In the Android App Store ("Google Play Store") you come across the following app. Please carefully review and take into consideration only the available information before you proceed.\\
-\emph{A screenshot image of the app presentation page is shown here.}\\
-\textbf{It is very likely that I would download this app.}\\
-Please indicate your agreement with this statement above. \\
-{\huge \Square} 1 - Fully disagree {\huge \Square} 2 {\huge \Square} 3 {\huge \Square} 4 - Neutral {\huge \Square} 5 {\huge \Square} 6 {\huge \Square} 7 - Fully agree\\
-\emph{Note: Slide 3, 4 and 5 were presented to respondents in randomized order. The screenshot image presented was randomly selected for each slide and variable out of the correspondent couple presented in Appendix A.}
+**What do you think about mobile apps?**
 
-\paragraph{Slide 6} Manipulation check.\\
-\textbf{Please indicate which factors you took into consideration when evaluating the apps on the previous slides.}\\
-{\huge \Square} Review rating {\huge \Square} Number of downloads {\huge \Square} Developer brand {\huge \Square} App's name {\huge \Square} App's icon {\huge \Square} Number of reviews {\huge \Square} App's screenshots {\huge \Square} PEGI rate  {\huge \Square} "About this app" section\\
-\emph{Note: answer options were presented in a randomized order.}
+Mobile apps are very important to me.
 
-\paragraph{Slide 7} Demographics.\\
-\textbf{What is your age?}\\
-Please select your age range.\\
-{\huge \Square} Under 18 {\huge \Square} 18-24 years old {\huge \Square} 25-34 years old {\huge \Square} 35-44 years old {\huge \Square} 45-54 years old {\huge \Square} Over 55\\
-\textbf{What is your gender?}\\
-Please select your gender.\\
-{\huge \Square} Female {\huge \Square} Male {\huge \Square} Non-binary {\huge \Square} Prefer not to say\\
-\textbf{What is the highest degree or level of school you have completed?}\\
-Please select your degree level.\\
-{\huge \Square} Less than a high school diploma {\huge \Square} High school degree or equivalent {\huge \Square} Bachelor’s degree (e.g. BA, BS) {\huge \Square} Master’s degree (e.g. MA, MS) {\huge \Square} Bachelor’s degree Doctorate (e.g. PhD) {\huge \Square} Other\\
-\textbf{What is your current employment status?}\\
-Please refer to your main occupation.\\
-{\huge \Square} Student {\huge \Square} Employed full-time {\huge \Square} Employed part-time {\huge \Square} Self-employed {\huge \Square} Unemployed {\huge \Square} Retired {\huge \Square} Other
+Strongly disagree O 1  O 2 O 3 O 4 O 5 O 6 O 7 Strongly agree
 
-\paragraph{Slide 8} Conclusion.\\
-The survey is over!\\
-Thank you for your contribution!\\
+For me, mobile apps do not matter.
+
+Strongly disagree O 1  O 2 O 3 O 4 O 5 O 6 O 7 Strongly agree
+
+I have a strong interest in mobile apps.
+
+Strongly disagree O 1  O 2 O 3 O 4 O 5 O 6 O 7 Strongly agree
+
+**What do you think about downloading apps?**
+
+I choose the mobile apps to download very carefully.
+
+Strongly disagree O 1  O 2 O 3 O 4 O 5 O 6 O 7 Strongly agree
+
+Which mobile apps I download matters to me a lot.
+
+Strongly disagree O 1  O 2 O 3 O 4 O 5 O 6 O 7 Strongly agree
+
+Choosing an app is an important decision for me.
+
+Strongly disagree O 1  O 2 O 3 O 4 O 5 O 6 O 7 Strongly agree
+
+**Slide 2.** Involvement in the mobile scanner apps category.
+
+Consider mobile apps that allow you to digitize documents through the camera (Cam Scanner Apps). Read the following statement.
+
+**To me digitizing documents using a mobile scanner app is:**
+
+Select your personal opinion with regard to the following couples of words. 
+
+important O 1  O 2 O 3 O 4 O 5 O 6 O 7 unimportant
+
+relevant O 1  O 2 O 3 O 4 O 5 O 6 O 7 irrelevant
+
+exciting O 1  O 2 O 3 O 4 O 5 O 6 O 7 unexciting
+
+means nothing O 1  O 2 O 3 O 4 O 5 O 6 O 7 means a lot to me
+
+appealing O 1  O 2 O 3 O 4 O 5 O 6 O 7 unappealing
+
+fascinating O 1  O 2 O 3 O 4 O 5 O 6 O 7 mundane
+
+worthless O 1  O 2 O 3 O 4 O 5 O 6 O 7 valuable
+
+not needed O 1  O 2 O 3 O 4 O 5 O 6 O 7 needed
+
+**Slide 3, 4 and 5.** Main experiment.
+
+Imagine you are looking for a scanner app for your smartphone since you need to digitize a document. In the Android App Store ("Google Play Store") you come across the following app. Please carefully review and take into consideration only the available information before you proceed.
+
+*A screenshot image of the app presentation page is shown here.*
+
+**It is very likely that I would download this app.**
+
+Please indicate your agreement with this statement above. 
+
+O 1 - Fully disagree O 2 O 3 O 4 - Neutral O 5 O 6 O 7 - Fully agree
+
+*Note: Slide 3, 4 and 5 were presented to respondents in randomized order. The screenshot image presented was randomly selected for each slide and variable out of the correspondent couple presented in Appendix A.*
+
+**Slide 6.** Manipulation check.
+
+**Please indicate which factors you took into consideration when evaluating the apps on the previous slides.**
+
+O Review rating O Number of downloads O Developer brand O App's name O App's icon O Number of reviews O App's screenshots O PEGI rate  O "About this app" section
+
+*Note: answer options were presented in a randomized order.*
+
+**Slide 7.** Demographics.
+
+**What is your age?**
+
+Please select your age range.
+
+O Under 18 O 18-24 years old O 25-34 years old O 35-44 years old O 45-54 years old O Over 55
+
+**What is your gender?**
+
+Please select your gender.
+
+O Female O Male O Non-binary O Prefer not to say
+
+**What is the highest degree or level of school you have completed?**
+
+Please select your degree level.
+
+O Less than a high school diploma O High school degree or equivalent O Bachelor’s degree (e.g. BA, BS) O Master’s degree (e.g. MA, MS) O Bachelor’s degree Doctorate (e.g. PhD) O Other
+
+**What is your current employment status?**
+
+Please refer to your main occupation.
+
+O Student O Employed full-time O Employed part-time O Self-employed O Unemployed O Retired O Other
+
+**Slide 8.** Conclusion.
+
+The survey is over!
+
+Thank you for your contribution!
+
 
 ### C Preliminary Analysis of Experimental App Category
 

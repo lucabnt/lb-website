@@ -1,7 +1,7 @@
 ---
 title: "Determinants of Download on Mobile App Stores - An Empirical Analysis"
 date: 2023-07-18T12:00:00+02:00 # date: 2020-11-02T17:03:46+01:00
-draft: true
+draft: false
 # weight: 1
 # aliases: ["/first"]
 tags: 
@@ -23,7 +23,7 @@ cover:
 # comments: false
 ---
 
-## Premise
+# Premise
 
 This blog post contains the full text of my Master Thesis, written at the **Eberhard Karls University of Tübingen** and at the **University of Pavia** and submitted for the first time during **February 2023**. 
 
@@ -33,15 +33,15 @@ First, [Chapter 1](https://lucabontempi.com/determinants_of_download_on_mobile_a
 
 The **full document version** of this thesis is available [here](https://drive.google.com/file/d/1z8d_q9Y_6V74mm1IoVZw45QzZOqSjLpV/view "Determinants of Download on Mobile App Stores - An Empirical Analysis"), while a **summary presentation** can be found [here](https://drive.google.com/file/d/1KuOzfNU64c2lQpMmB-QOmaaWr3mxPHhQ/view?usp=sharing "Presentation").
 
-## Abstract
+# Abstract
 
 After providing an extensive background on the mobile ecosystem, its participants and its dynamics, this research aims to establish which characteristic out of reputation, popularity and developer's brand, reflected in some elements in the presentation page on app stores, is the most effective in predicting user's choice to download an app. Experimental results show how developer's brand is generally the most decisive element, but, when comparison between apps is introduced in the model, it loses its effectiveness and reputation becomes more relevant. Popularity and peer influence, in the context of low network effects, appear to be unexpectedly ineffective in driving users' decisions across all models. Moreover, users' involvement in the download process reinforces the effect of reputation, while, when customers are more involved in the specific app category and perceive a higher risk, apps from established brands are more likely to benefit. Finally, it was not possible to find clear evidence of any two-way interaction between reputation, popularity and brand.
 
-## Abstract (in Italian)
+## (in Italian)
 
 Dopo aver fornito una descrizione dell'ecosistema *mobile*, dei suoi partecipanti e delle sue dinamiche, questa ricerca si pone l'obiettivo di stabilire quale caratteristica tra la reputazione, la popolarità e il brand dello sviluppatore, riflesse in alcuni elementi nella pagina di presentazione sugli *app store*, sia la più efficace nel predirre la scelta dell'utente di scaricare un'applicazione *mobile* rispetto ad un'altra. I risultati dell'esperimento mostrano come il brand dello sviluppatore è generalmente il fattore più influente. Tuttavia, quando la possibilità di comparare le applicazioni è introdotta nel modello, il brand perde parte della sua efficacia e la reputazione diventa più rilevante. La popolarità dell'applicazione tra gli altri utenti, in un contesto di scarsi effetti di rete, sembra essere sorprendentemente inefficace nell'influenzare le scelte degli utenti in tutti i modelli. In aggiunta, il coinvolgimento dell'utente nel processo di download delle applicazioni rinforza l'effetto della reputazione, mentre, quando l'utente è più coinvolto nella specifica categoria di applicazioni e quindi percepisce un rischio maggiore, le applicazioni sviluppate da brand consolidati hanno più probabilità di essere scelte. Infine, non è stato possibile individuare alcuna interazione bidirezionale significante tra reputazione, popolarità e brand dello sviluppatore.
 
-## Chapter 1. Introduction
+# Chapter 1. Introduction
 
 The mobile industry has incredibly changed throughout the years it existed. While the developments in hardware and software components have been in the public eye for many years now, the most impressive change was arguably the shift in power and influence among market participants. 
 
@@ -53,7 +53,7 @@ Clearly, being the owner of a successful app marketplace is a position as desira
 
 [^1]: Since the word "platform" may refer to different elements of the software ecosystem, "app (or software) store or marketplace" will be used from now on referring to platforms from which software can be purchased and downloaded, as, for example, Google Play Store or Apple App Store for apps or Steam for PC videogames. On the other side, "technology platform" or just "platform" will refer in a broader sense to all the software and hardware elements that allow an application to run on a device, often including as its fundamental part the operative system (OS). Finally, "two-sided platform" may be used to generically refer to any two-sided market, beyond those dealing with software applications.
 
-### 1.1 Mobile Ecosystem
+## 1.1 Mobile Ecosystem
 
 The mobile phone industry is now more than forty years old. In 1978, in fact, a Motorola engineer, Martin Cooper, who is today considered the inventor of the cell phone, made the first mobile phone call using a Motorola DynaTac in New York (Zheng and Ni, 2010, p. 32). Six years later, in 1984, a more recent version of the same Motorola phone was commercialized for the first time. Those phones were also defined as "brick phones", due to their shape and size, and, in the following ten or twenty years, the innovation efforts of this industry focused on miniaturization, better power efficiency and battery life, better displays and signal. In the meantime, generations of cellular network technologies were succeeding (from 1G to today's 5G), improving voice communication quality, as well as introducing revolutionary features such as text messaging or Internet access. However, the real disruption in this industry came in 2008, with the introduction of the first smartphones and of the app concept, which overturned power relations between market participants. 
 
@@ -85,7 +85,7 @@ Today, the only MDMs developing a popular OS are the most important MPPs, Apple 
 
 For customers, downloading an app and the perception of the risk involved depend more on the MPPs than MAPs: users, in fact, place their trust in platform owners as their main source of information. In addition, they use apps to perform highly fragmented everyday tasks and perceive apps not as complex as traditional desktop software. This makes their buying decision limited, habitual and impulsive, corresponding to generally low levels of involvement (Buck et al., 2014, p. 5). During the download process, users often don't search for information actively and reputation systems (e.g. rating score), as well as peer influence (e.g. sale rankings, number of downloads), drive their decision-making (Buck et al., 2014, p. 5; Liu et al., 2014, p. 330). 
 
-### 1.2 Mobile Apps as Digital Products
+## 1.2 Mobile Apps as Digital Products
 
 The term "mobile application", "mobile app" or just "app" refers to application software, which is "a type of software that allows the user to perform a specific task, that can be installed and run on a range of portable devices such as smartphones and tablets" (Liu et al., 2014, p. 327). An app usually distinguishes itself by general software because it is optimized for touch-screen-based mobile devices, it is offered free of charge or for sale and the most of the times it is available for download through a centralized online marketplace where users can also rate and review the app and access some ranking lists (Liu et al., 2014, p. 327). Apps already have a longer history than one could expect: for example, Zheng and Ni (2010, pp. 51-56) were able to individuate two generations of mobile apps already back in 2010. The first generation involved very simple apps, such as ringtones, instant messaging and personal information management apps, among which the first one was the most popular for many years. Then, the second generation included more complex apps like mobile commerce, gaming, music streaming and mobile social networking and some of these are still popular today. Later, a third generation emerged, with features like augmented reality, ubiquitous social networks and merging and seamless switching between different functions (Kouris and Piller, 2014, p. 25). 
 
@@ -128,7 +128,7 @@ Moreover, another problem of review systems on online marketplaces is "reputatio
 
 All in all, the advantages of mobile app stores as platforms and distribution channels are overwhelming, even if some aspects still need to be perfectly tuned. Their introduction contributed to making transaction costs, already decreased by digital economics, even lower and helped in democratizing software distribution.
 
-## Chapter 2. Literature Review
+# Chapter 2. Literature Review
 
 Many authors previously covered customer behaviour on online marketplaces, comparing it with the offline domain (e.g. Brynjolfsson and Smith, 2000; Brynjolfsson et al., 2003). Recently, literature also focused on user behaviour on mobile app stores: for example, Burghers et al. (2016, p. 330) argued how apps are generally low-priced or free and this causes low effort and regret when they are unsatisfied and decide to uninstall them. This means that the perceived risk in the buying decision process is low and leads, in many cases, to low involvement. In addition, some consumers appear to be unconscious and they do not seem to search for relevant information that could reduce the information asymmetries in the app market (Buck et al., 2014, p. 12). There is evidence that decision-making when dealing with app downloading often relies on heuristics (e.g. "take the first"), which allows users to quickly navigate across offerings, but may also cause customers to overlook some important information (Dogruel et al., 2015, p. 139).
 
@@ -140,11 +140,11 @@ The popularity of an app is reflected in multiple elements of an app store: firs
 
 The third and last considered anchor is the brand of the company developing the app. Even if online marketplaces lower prices and reduce information asymmetries, brands remain sources of competitive advantage (e.g. Brynjolfsson and Smith, 2000, p. 580). In the mobile ecosystem, Roma and Ragaglia (2016, p. 184), for example, have already shown how a company's fame positively moderates app success. On mobile app stores, the brand may be reflected in multiple elements of the presentation page: apart from the developer or publisher name, which is usually present, the company's name is sometimes included also in the app's name and in the icon. While, if taken singularly, each one of these elements has a relative importance on purchase decision which is low, at least if compared to average review rating and number of reviews (Böhm and Schreiber, 2014, p. 12), they could combine and consistently influence users. Furthermore, app icons are graphic elements and they are easy to understand for users (Böhm and Schreiber, 2014, p. 8) and Pol (2015, p. 51) showed how consumers prefer apps with a brand logo, well-known brands also gain an additional advantage and the brand attitude has a positive effect on the perceived app quality.
 
-## Chapter 3. Empirical Analysis
+# Chapter 3. Empirical Analysis
 
 The experimental approach used in this research aims to understand how users' intention to download (ITD) varies when three main variables (app reputation, popularity and developer fame) and their values change, taking also into consideration their interaction effects, the effect of comparison and of involvement in mobile apps, in the app purchase process and in the app category selected for the purpose of the experiment. Differently from previous research on the topic, this study focuses on direct user participation as its central characteristic: in fact, most of previous literature investigating the effect of the same variables used the number of downloads or an app survival in app store rankings as performance measures. However, while scraping mobile app stores as a method for data collection allows for larger samples, the algorithms behind app rankings on these stores are not public and their functioning is unknown, meaning they could not directly reflect users' preferences. For example, Google's Play Store top apps rank is probably based on a complicated algorithm, that takes into consideration multiple factors, such as app title, description, localization, retention rate, number of reviews, app updating, number of downloads and review ratings, meaning that a high rank does not always indicate a high user satisfaction (Liu et al., 2014, p. 348). 
 
-### 3.1 Method and Measurement
+## 3.1 Method and Measurement
 
 This research relies on an online questionnaire as its data source and the experimental design consists of parallel binary manipulations of the three main variables. For each one of these variables, one out of two manipulated screenshot images of the presentation page of some apps (presented in Appendix A) was shown to participants and their ITD was measured with a 7-point scale. Since intention can be defined as "the person’s motivation in the sense of his/her conscious plan to exert effort to carry out a behaviour" (Eagly and Chaiken, 1993, p. 168) or as "an individual’s conscious plan to make an effort to purchase a brand" (Spears and Singh, 2004, p. 56), intention to download is the person’s motivation in the consciously planning to make an effort to download an app (Pol, 2015, p. 18). The screenshots images were taken from Google's Play Store, considering it is the most common app store on the most widespread mobile OS, which is Android, as shown in Fig. 1.1, and supposing that the majority of respondents would have been familiar with it.
 
@@ -158,7 +158,7 @@ After these three slides, a manipulation check was also included, in a compromis
 
 In conclusion, by conducting an analysis of variance and using three different regression models for each one of the three focal variables, the experiment aims to investigate their relation, together with the moderation of three involvement measures, with ITD. In addition, by comparing results from models across different variables, it is possible to determine which one is the most and the least effective variable. Finally, by introducing a variable that approximates comparison, the consequences of an app being shown as first or after other manipulated apps are investigated.
 
-#### 3.1.1 Variables
+### 3.1.1 Variables
 
 As anticipated, this research aims to determine how three variables, reflected in some elements of the app presentation page on mobile app stores, impact users' choice to download an app. In this experimental design, app reputation, popularity and developer's brand are included in form of three binary variables. In order to make these variables manipulation effective, it is necessary to define correctly the two values for each one of the binary variables. 
 
@@ -191,14 +191,14 @@ Apart from the three main variables, also involvement measures are included in t
 
 **Developer's Brand.** The developer's brand (*brand*) affects multiple elements in the app presentation page (app icon, app name and developer's name). In this experiment, a brand was defined as strong when it enjoyed worldwide fame, also outside the mobile ecosystem, and Adobe, which is the eighth largest software company in the world by revenue, with more than 16 billion in 2022 (Murphy and Contreras, 2022), perfectly fits the definition. On the other side, brands were considered weak when they included generic references to their products, without a strong brand identity (e.g. "Office Tools" or "Tools \& Utilities Apps").
 
-#### 3.1.2 Sample and Data Collection
+### 3.1.2 Sample and Data Collection
 
 In total 545 participants have taken part in the research questionnaire (available in Appendix B), while 491 of them completed it, with a completion rate of 90.09 percent, and, consequently, were included in the sample. The majority of respondents in the sample were between the 18 and 24 years old (59.27\%), while the rest was between 25 and 34 (28.11\%), between 35 and 44 (5.91\%), between 45 and 54 (2.85\%), over 55 (2.04\%) or under 18 years old (1.83\%). More often respondents were females (63.34\%) and less frequently males (34.83\%), non-binary people (0.81\%) or preferred not to specify (1.02\%). Regarding their occupation, students were the most common category (69.45\%), followed by full-time (19.55\%) and part-time employees (5.70\%), self-employed workers (2.65\%), unemployed (0.81\%), pensioners (0.41\%) and participants with other occupations (1.43\%). Finally, in terms of education level, the majority in the sample had achieved a bachelor's degree (38.70\%), while others had a high school diploma (35.85\%), a master's degree (18.94\%) or a doctorate (1.83\%). Some participants didn't conclude high school (2.85\%) or undertook other educational paths (1.83\%).
 
 
 Overall, ITD was measured three times for each one of the 491 participants, for a total of 1473 combined values of *y<sub>rep</sub>*, *y<sub>pop</sub>* and *y<sub>brand</sub>*.
 
-#### 3.1.3 Data Analysis
+### 3.1.3 Data Analysis
 
 Since this data collection corresponds to a repeated measures experimental model, the first step consisted in running an analysis of variance (ANOVA) among the three levels of different groups of respondents from which we are trying to achieve some results. In favour of better describing the ANOVA and also the following models, it is necessary to define *i, j, k = rep, pop, brand* with *i ≠ j ≠ k*. Then, it is useful to redefine *x<sub>i</sub>* as *x<sub>in</sub>* and *y<sub>i</sub>* as *y<sub>in</sub>*, where *n = 1, 2, 3* is the random position (first, second or third) in which users were exposed to the variable *i*. An ANOVA investigating variance across groups defined by different values on three levels (*i*, *x<sub>i</sub>* and *n*) that are supposed to affect each measure of *y<sub>in</sub>* may help in understanding if some effects on the dependent variable exist and where they come from.
 
@@ -222,7 +222,7 @@ In the case of equation (3.3), differently from (3.1) and (3.2), *n* can take va
 
 Concluding, after analyzing the preliminary results of the ANOVA, the comparison of coefficients resulting from models with the same value of *i*, together with the coefficient of *comp<sub>i</sub>* from Model 3, helps to reach a further objective of this research, which consists in understanding how an approximation of comparison impacts the customer choice, while differences in coefficients from models depending concurrently on *i*, *j* or *k* could be explained by diverse effectiveness of app reputation, app popularity and brand.
 
-### 3.2 Results
+## 3.2 Results
 
 From the ANOVA emerges how variance is statistically significant across groups defined by different focal variables *i* (*F(2, 4) =  42.187*, *p < 0.01*), by different levels of *x<sub>i</sub>* (*F(1, 4) = 60.841*, *p < 0.01*) and by different presentation positions *n* (*F(2, 4) = 2.369*, *p < 0.1*), meaning that these three dimensions are likely to predict differences in the dependent variables *y<sub>in</sub>*. In addition, also the results regarding the three-way interaction *i × x<sub>i</sub> × n* are statistically significant (*F(4) = 2.681*, *p < 0.05*) and provide further foundations for subsequent analyses.
 
@@ -260,7 +260,7 @@ Finally, regressions based on Model 3 included all observations, independently f
 |***p<0.01, **p<0.05, *p<0.1 |
 
 
-### 3.3 Discussion and Managerial Implications
+## 3.3 Discussion and Managerial Implications
 
 The results indicate that the developer's brand is generally the most effective factor in determining dl decision if compared to reputation (review ratings) and popularity (number of dls), but effectiveness varies on presentation order and information available to users (M1, M3). An unexpected outcome is the scarce (and almost zero) effectiveness of popularity, even if this setting had very low network effects. A hypothesis on the reason why popularity is not frequently taken into consideration by users may rest in the necessity for platform owners (as Google, in this case) to keep the ecosystem competitive and attractive for new developers, avoiding single-firm dominated markets and preserving information transparency on the platform (Boudreau et al., 2022, p. 1379), in particular when network effects are present: in fact, the format in which quantity of downloads is presented (e.g. 10M+ vs. 10K+) may be intentionally not very powerful in communicating the magnitude of popularity differences across apps and it may go unnoticed when users are not reviewing information carefully.
 
@@ -274,7 +274,7 @@ When users are exposed to information about multiple apps and they can consequen
 
 Some other interesting evidence regards the moderation effects of involvement on the three focal variables. First, there is predictable and generalized evidence that higher involvement in apps as products corresponds to a higher effectiveness of all three reputation, popularity and brand levels in driving users' ITD (M2, M3). Second, when users are highly involved in the app download process, they tend to rely more on reputation, probably because they scrutinise information more closely. Last, when the involvement in the specific app category (mobile scanner apps, in this case) is high and users consequently perceive a higher risk in the app choice, also considering that scanner apps are productivity apps, frequently used for work (Sällberg et al., 2022, p. 10), they appear to preferably choose a strong and known brand (M1), which is a commonly used as a cue when attempting to mitigate it (Matzler et al., 2008, p. 158).
 
-### 3.4 Limitations
+## 3.4 Limitations
 
 This experimental approach presents some limitations. The first and major limitation lies in the experimental design: in fact, while investigating the effect of three factors on ITD, the selected one was not a traditional three-way factorial design and just one variable was manipulated at each measurement of ITD, while, at the same time, the others were set to intermediate values. As a consequence, estimates of interactions among factors were not ideal, but, on the other side, it allowed to effectively collect results on comparison effects. Consequently, despite the repeated measure design, it was not possible to include all observations of *y<sub>i</sub>* in each sample used for each regression, since every measure of ITD was strictly related to a manipulated value of reputation, popularity or developer's brand (*i*) happening in the specific case. 
 
@@ -282,17 +282,17 @@ Some other limitations lie in the data collection. For example, the screenshot i
 
 Finally, the sample may represent a limitation. In fact, the large majority of respondents were students and they were aged between 18 and 24 and results could be biased by this unequal balance of composition. Nowadays, smartphones are widespread across all customer age groups, but this doesn't mean that these groups all share the same levels of involvement and rely on the same factors when making decisions that concern downloading an app or not. Additionally, while this is not certain, participants can be assumed to be mainly from Germany and Italy and there is some evidence that behaviour on app stores and factors relevant to the purchase decision vary across countries (Kübler et al., 2018, p. 37), meaning that results may vary depending on sample geographical origin and cultural background.
 
-## Chapter 4. Conclusion
+# Chapter 4. Conclusion
 
-### Summary
+## Summary
 
 As a first step, in Chapter 1, an extensive background on the mobile ecosystem, its participants and its dynamics was provided, before reviewing, in Chapter 2, previous literature on user behaviour and determinants of downloads on mobile app stores. Finally, in Chapter 3, the empirical approach of this research was discussed, together with its results. The outcome of this experiment shows how the developer's brand is generally the most decisive element, but, when a comparison between apps is introduced in the model, it loses its effectiveness and reputation becomes more relevant. Popularity and peer influence, in the context of low network effects, appear to be unexpectedly ineffective in driving users' decisions across all models. Moreover, users' involvement in the download process reinforces the effect of reputation, while, when customers are more involved in the specific app category and perceive a higher risk, apps from established brands are more likely to benefit. Finally, it was not possible to find clear evidence of any two-way interaction between reputation, popularity and brand. 
 
-### Future Directions
+## Future Directions
 
 This research results add up to the substantial literature that already covered customer behaviour on online marketplaces, but some elements remain unexplored. For example, a better experimental design aimed to explore factorial interactions should be developed. Furthermore, peer influence effectiveness and its dynamics on app stores, both in the presence and absence of network effects, should be better investigated.
 
-## Bibliography
+# Bibliography
 
 
 Ali, M., Joorabchi, M. E., \& Mesbah, A. (2017). Same app, different app stores: A comparative study. In *2017 IEEE/ACM 4th International Conference on Mobile Software Engineering and Systems (MOBILESoft)* (pp. 79-90), IEEE.
@@ -473,9 +473,9 @@ Zheng, P., \& Ni, L. (2010). Smart phone and next generation mobile computing. E
 
 
 
-## Appendices
+# Appendices
 
-### A App Page Screenshots
+## A App Page Screenshots
 
 This online study involves the use of manipulated screenshots images of an app presentation page on Google's Play Store (two for each one of the three main variables). Each couple of screenshots of existing apps was manipulated in a way that the assigned variable could take different values. Only the elements directly related to that variable were admitted to change across each couple of presentation pages. As shown in Fig. A.1, in screenshot images dealing with app reputation (high vs. low) the average rating is the only element manipulated. Similarly, also in Fig. A.2, only the number of downloads is manipulated for app popularity (high vs. low). Finally, Fig. A.3 shows how the elements dealing with the developer's brand (strong vs. weak) are three: the app's icon, the app's name and the developer's name.
 
@@ -493,7 +493,7 @@ This online study involves the use of manipulated screenshots images of an app p
 
 ![Figure A.3: Screenshot images of the app presentation page with variation in developer’s brand.](/blog/determinants_of_download_on_mobile_app_stores/determinants_of_download_on_mobile_app_stores_6.png)
 
-### B Experimental Questionnaire
+## B Experimental Questionnaire
 
 *Note: in this online survey some presentation pages from Google's Play Store were included. These images are available in Appendix A.*
 
@@ -635,7 +635,7 @@ The survey is over!
 Thank you for your contribution!
 
 
-### C Preliminary Analysis of Experimental App Category
+## C Preliminary Analysis of Experimental App Category
 
 A preliminary analysis of a sample of popular mobile scanner apps was conducted in September 2022. Up to 24 free apps with this function were found to be ranked 300 or higher in two categories (Productivity and Business Tools) on the Play Store. All these apps presented similar names: for example, the app's names always included the words "scan" or "scanner", it included the word "PDF" in 21 cases and the words "doc" or "documents" in 9 cases. 
 

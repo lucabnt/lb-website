@@ -96,3 +96,11 @@ params:
 
 # Pluralize titles in lists using inflect
 pluralizeListTitles: false
+
+#Enable sub, sup
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
+    highlight:
+        noClasses: false

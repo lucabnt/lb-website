@@ -20,7 +20,6 @@ cover:
     relative: true
 # comments: false
 ---
-V<sub>ciao</sub>
 
 ## Premise
 

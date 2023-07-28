@@ -164,7 +164,7 @@ Apart from the three main variables, also involvement measures are included in t
 
 ##### Table 3.1: Summary of all variables with definitions and descriptive statistics.
 
-*Note: the image version of this table is available [here](https://lucabontempi.com/blog/determinants_of_download_on_mobile_app_stores/determinants_of_download_on_mobile_app_stores_table_1.png "Table 3.1: Summary of all variables with definitions and descriptive statistics.").*
+*Note: this table is also available as an [image](https://lucabontempi.com/blog/determinants_of_download_on_mobile_app_stores/determinants_of_download_on_mobile_app_stores_table_1.png "Table 3.1: Summary of all variables with definitions and descriptive statistics.").*
 
 | Variable              | Definition                                                                                                    | Descriptive Statistics |        |         |        |
 |-----------------------|---------------------------------------------------------------------------------------------------------------|:----------------------:|:------:|:-------:|:------:|
@@ -232,7 +232,7 @@ Finally, regressions based on Model 3 included all observations, independently f
 
 ##### Table 3.2: Resulting coefficients and standard errors of all regressions.
 
-*Note: the image version of this table is available [here](https://lucabontempi.com/blog/determinants_of_download_on_mobile_app_stores/determinants_of_download_on_mobile_app_stores_table_2.jpg "Table 3.2: Resulting coefficients and standard errors of all regressions.").*
+*Note: this table is also available as an [image](https://lucabontempi.com/blog/determinants_of_download_on_mobile_app_stores/determinants_of_download_on_mobile_app_stores_table_2.jpg "Table 3.2: Resulting coefficients and standard errors of all regressions.").*
 
 |Model (*i*)                     |M1 (*rep*)              |M1 (*pop*)             |M1 (*brand*)          |M2 (*rep*)                   |M2 (*pop*)                |M2 (*brand*)                 |M3 (*rep*)                 |M3 (*pop*)                   |M3 (*brand*)                  |
 |------------------------------|----------------------|---------------------|--------------------|---------------------------|------------------------|---------------------------|-------------------------|---------------------------|----------------------------|

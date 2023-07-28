@@ -24,6 +24,6 @@ Below you can find the full document version of my Master Thesis, written at the
 
 The research question investigates which characteristic out of **reputation**, **popularity** and **developer's brand**, reflected in some elements in the **presentation page** on **app stores**, is the most effective in predicting **user's choice to download an app**.
 
-This same thesis is also available as a [blog post]( {{< ref "content/blog/determinants_of_download_on_mobile_app_stores.md" >}} "Determinants of Download on Mobile App Stores - An Empirical Analysis").
+This same thesis is also available as a [blog post](https://lucabontempi.com/blog/determinants_of_download_on_mobile_app_stores/ "Determinants of Download on Mobile App Stores - An Empirical Analysis").
 
 {{< gslides src="https://drive.google.com/file/d/1z8d_q9Y_6V74mm1IoVZw45QzZOqSjLpV/preview" width="640" height="480" >}}

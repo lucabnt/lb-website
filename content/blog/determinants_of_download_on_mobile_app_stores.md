@@ -30,7 +30,7 @@ The research question investigates which characteristic out of **reputation**, *
 
 First, [Chapter 1](https://lucabontempi.com/blog/determinants_of_download_on_mobile_app_stores/#chapter-1-introduction "Chapter 1. Introduction") provides an extensive **background** on the **mobile ecosystem**, its participants and its dynamics. Then, in [Chapter 2](https://lucabontempi.com/blog/determinants_of_download_on_mobile_app_stores/#chapter-2-literature-review "Chapter 2. Literature Review"), the **previous literature results** on the effects of those factors are covered, while, finally, in [Chapter 3](https://lucabontempi.com/blog/determinants_of_download_on_mobile_app_stores/#chapter-3-empirical-analysis "Chapter 3. Empirical Analysis") and 4 the **empirical analysis** and its **results** and **discussion** are presented.
 
-The **full document version** of this thesis is available [here]({{< ref "content/determinants_of_download_on_mobile_app_stores_doc.md" >}} "Determinants of Download on Mobile App Stores - An Empirical Analysis"), while a **summary presentation** can be found [here](https://drive.google.com/file/d/1KuOzfNU64c2lQpMmB-QOmaaWr3mxPHhQ/preview "Presentation").
+The **full document version** of this thesis is available [here](https://lucabontempi.com/determinants_of_download_on_mobile_app_stores_doc/ "Determinants of Download on Mobile App Stores - An Empirical Analysis"), while a **summary presentation** can be found [here](https://drive.google.com/file/d/1KuOzfNU64c2lQpMmB-QOmaaWr3mxPHhQ/preview "Presentation").
 
 # Abstract
 

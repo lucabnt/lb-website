@@ -12,7 +12,7 @@ tags:
 author: Luca Bontempi
 # author: ["Me", "You"] # multiple authors
 showToc: false
-# hidemeta: false
+hidemeta: true
 disableShare: true
 cover:
     image: /blog/determinants_of_download_on_mobile_app_stores/determinants_of_download_on_mobile_app_stores_1.webp

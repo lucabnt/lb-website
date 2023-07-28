@@ -1,7 +1,7 @@
 ---
 title: "Determinants of Download on Mobile App Stores - An Empirical Analysis"
 date: 2023-07-27T12:00:00+02:00 # date: 2020-11-02T17:03:46+01:00
-draft: false
+draft: true
 # weight: 1
 # aliases: ["/first"]
 tags: 
@@ -22,7 +22,11 @@ cover:
 ---
 ## Premise
 
-This blog post contains the full text of my Master Thesis, written at the Eberhard Karls University of Tübingen and at the University of Pavia and submitted for the first time during February 2023. The full document version of this thesis is available [here](https://drive.google.com/file/d/1z8d_q9Y_6V74mm1IoVZw45QzZOqSjLpV/view "Determinants of Download on Mobile App Stores - An Empirical Analysis"), while a summary presentation can be found [here](https://drive.google.com/file/d/1KuOzfNU64c2lQpMmB-QOmaaWr3mxPHhQ/view?usp=sharing "Presentation").
+This blog post contains the full text of my Master Thesis, written at the Eberhard Karls University of Tübingen and at the University of Pavia and submitted for the first time during February 2023. The research question investigates which characteristic out of **reputation**, **popularity** and **developer's brand**, reflected in some elements in the **presentation page** on **app stores**, is the most effective in predicting **user's choice to download an app**.
+
+First, [Chapter 1](https://lucabontempi.com/determinants_of_download_on_mobile_app_stores/#chapter-1-introduction "Chapter 1. Introduction") provides an extensive **background** on the **mobile ecosystem**, its participants and its dynamics. Then, in [Chapter 2](https://lucabontempi.com/determinants_of_download_on_mobile_app_stores/#chapter-2-literature-review "Chapter 2. Literature Review"), the **previous literature results** on the effects of those factors are covered, while, finally, in [Chapter 3](https://lucabontempi.com/determinants_of_download_on_mobile_app_stores/#chapter-3-empirical-analysis "Chapter 3. Empirical Analysis") and 4 the **empirical analysis** and its **results** and **discussion** are presented.
+
+The **full document version** of this thesis is available [here](https://drive.google.com/file/d/1z8d_q9Y_6V74mm1IoVZw45QzZOqSjLpV/view "Determinants of Download on Mobile App Stores - An Empirical Analysis"), while a **summary presentation** can be found [here](https://drive.google.com/file/d/1KuOzfNU64c2lQpMmB-QOmaaWr3mxPHhQ/view?usp=sharing "Presentation").
 
 ## Abstract
 
@@ -155,6 +159,26 @@ As anticipated, this research aims to determine how three variables, reflected i
 
 Apart from the three main variables, also involvement measures are included in the analysis models: definitions for involvement variables are available in the variables summary in Table 3.1, as well as for the variable reflecting comparison of an app with others. Since ITD was measured after the exposure to each one of the three main independent variables, three corresponding dependent variables (also defined in Table 3.1) resulted from the data collection and they are separately used in different analysis models.
 
+##### Table 3.1: Summary of all variables with definitions and descriptive statistics.
+
+| Variable              | Definition                                                                                                    | Descriptive Statistics |        |         |        |
+|-----------------------|---------------------------------------------------------------------------------------------------------------|:----------------------:|:------:|:-------:|:------:|
+|                       |                                                                                                               | **Mean**                   | **S.D.**  | **Min**     | **Max**    |
+| **Dependent Variables**   |                                                                                                               |                        |        |         |        |
+| Yrep                  | Measured ITD of the apps with manipulated reputation                                                          | 4.0468                 | 1.7077 | 1       | 7      |
+| Ypop                  | Measured ITD of apps with manipulated popularity                                                              | 4.5255                 | 1.5675 | 1       | 7      |
+| Ybrand                | Measured ITD of apps with manipulated developer's brand                                                       | 4.9674                 | 1.5863 | 1       | 7      |
+| **Independent Variables** |                                                                                                               |                        |        |         |        |
+| Xrep                  | Binary variable, app reputation in terms of average review ratings: high (=1) vs. low (=0)                    | 0.4847                 | 0.4998 | 0       | 1      |
+| Xpop                  | Binary variable, app popularity in terms of number of downloads: high (=1) vs. low (=0)                       | 0.5031                 | 0.5000 | 0       | 1      |
+| Xbrand                | Binary variable, developer's brand strength and fame: strong (=1) vs. weak (=0)                               | 0.5214                 | 0.4995 | 0       | 1      |
+| inv\_app              | Mean-centered involvement measure inmobile apps (as product category)                                         | 0                      | 1.0523 | -3.6619 | 1.6715 |
+| inv\_download         | Mean-centered involvement measure in the app download process                                                 | 0                      | 1.2974 | -3.6933 | 2.0367 |
+| inv\_category         | Mean-centered involvement measure in the experimental app category (mobile scanner apps)                      | 0                      | 1.0629 | -3.4802 | 2.5198 |
+| comp_i                | Dummy variable, position in which *i=rep, pop, brand* was shown to users: first (=0) vs. second or third (=1) | 0.6667                 | 0.4714 | 0       | 1      |
+
+*Note: the image version of this table is available [here](https://lucabontempi.com/blog/determinants_of_download_on_mobile_app_stores/determinants_of_download_on_mobile_app_stores_table_1.png "Table 3.1: Summary of all variables with definitions and descriptive statistics.").*
+
 **App Reputation.** In this research, app reputation ($rep$) is defined in terms of the average review rating in the five-star scale currently used on the Play Store. Taking into consideration the dynamics that affect online review ratings, such as, for example, reputation inflation and the not linear impact of good and bad reviews, the threshold above which a review rating is considered to be high cannot be set at the middle of the scale. Indeed, similarly to Roma and Ragaglia (2016, p. 180), this limit was set at the four-star level. This decision was also supported by the preliminary analysis of mobile scanner apps (reported in Appendix C), which shows how the large majority of the most popular scanner apps on the Play Store have average ratings above 4.5 stars. As a consequence, an average rating of 4.9 stars was defined as a high app reputation, while a value of 3.4 was defined as low. In both cases, the number of reviews was set to the same medium-high level, in order to give credibility to the presented rating.
 
 **App Popularity.** As already discussed, app popularity ($pop$) can be reflected in many elements on an app store. In this case, since the aim was to directly investigate the specific moment in which users take the download decision, the number of downloads was chosen as a metric, also considering it is presented in a spotlighted position in the app page. The number of downloads is presented on the Play Store in form of the last downloads threshold that the app achieved and overcame (e.g. 1M+, where M stands for million), consequently the issue consists in defining above which downloads bracket an app can be considered popular. Since the analysis in Appendix C already took into consideration only popular apps, a biased sample that drives upwards the average downloads number, and the mode out that group was 10M+, the decision was to set this level as a high app popularity. In contrast, the low app popularity level was set to 10K+ (where K means thousand).
@@ -214,7 +238,7 @@ The ITD data included in Model 2 was measured after respondents were exposed to 
 
 Finally, regressions based on Model 3 included all observations, independently from the position in which apps were shown. The main objective was to investigate the moderating effect of the variable $comp_i$, while also confirming the levels of effectiveness of $x_i$, as derived from Model 1 and 2. Out of Model 3 emerged that, when accounting for all the observations (independently from $n$ values), the developer's brand was the best predictor of ITD ($\beta=1.5028$, $p<0.01$), followed by reputation ($\beta=0.4576$, $p<0.1$) and popularity ($\beta=0.3677$, $p<0.1$). Furthermore, there is evidence of a statistically relevant and negative moderating effect of comparison on brand effectiveness ($\beta=-0.7454$, $p<0.05$) in predicting ITD. 
 
-$x_r$
+##### Table 3.2: Resulting coefficients and standard errors of all regressions.
 
 |Model (*i*)                     |M1 (*rep*)              |M1 (*pop*)             |M1 (*brand*)          |M2 (*rep*)                   |M2 (*pop*)                |M2 (*brand*)                 |M3 (*rep*)                 |M3 (*pop*)                   |M3 (*brand*)                  |
 |------------------------------|----------------------|---------------------|--------------------|---------------------------|------------------------|---------------------------|-------------------------|---------------------------|----------------------------|
@@ -235,11 +259,11 @@ $x_r$
 |x<sub>i</sub> X  comp<sub>i</sub>                 |                      |                     |                    |                           |                        |                           |0.510013 (0.322484)      |-0.39837 (0.27846)         |-0.745391** (0.289854)      |
 |R2                            |0.09523               |0.139                |0.2885              |0.1874                     |0.1417                  |0.1533                     |0.098                    |0.1056                     |0.1555                      |
 |Adj. R2                       |0.05031               |0.1057               |0.2542              |0.1388                     |0.06958                 |0.08682                    |0.08112                  |0.08885                    |0.1397                      |
-|Observations (*N*)              |                      |                     |                    |                           |                        |                           |                         |                           |                            |
-|Manipulation Check (%)        |                      |                     |                    |                           |                        |                           |                         |                           |                            |
-|*** p<0.01, ** p<0.05, * p<0.1 |
+|Observations (*N*)              |  149                    |     189                |        153            |          196                 |         143               |                 152          |                  491       |                     491      |                491            |
+|Manipulation Check (%)        |   75.84                   |     62.43                |      68.63              |              79.08             |       55.94                 |    63.16                       |         77.19                |          60.49                 |           67.41                 |
+|*** *p<0.01*, ** *p<0.05*, **p<0.1* |
 
-
+*Note: the image version of this table is available [here](https://lucabontempi.com/blog/determinants_of_download_on_mobile_app_stores/determinants_of_download_on_mobile_app_stores_table_2.jpg "Table 3.2: Resulting coefficients and standard errors of all regressions.").*
 
 ### 3.3 Discussion and Managerial Implications
 
@@ -247,11 +271,11 @@ The results indicate that the developer's brand is generally the most effective 
 
 The high effectiveness of brands in shaping users' choices, even in an online market where a wide range of information is available, opens up relevant opportunities for established software companies. In fact, developing different apps, covering many different segments, already proved to be a successful strategy, since Lee and Raghu (2012, p. 161) pointed out how diversifying app portfolios across selling categories is a key determinant of sales performance.
 
-When users are exposed to information about multiple apps and they can consequently compare them, reputation becomes the most effective element (M2), as also shown by the parallel in Fig. 3.1 between ITD for apps shown as first ($n=1$) and those shown as third ($n=3$). Users may rely more on eWOM when they have the possibility to consider a wider range of options and they just may need some anchors to better understand apps' rating levels. An important cue for making an informed decision can be often found in past experience, but, when users have no previous experience with the specific product, they often rely on social experiences, as expressed in reviews (Burgers et al., 2016, p. 329). As a consequence, it is important, in particular for new entrants in an app category that are not likely to be shown in top search results, to publish an app when it is mature enough to avoid the common phenomenon of reputation backlash, in terms of initial low ratings. On the other side, brands become less predictive of ITD when comparison is introduced in the model (as evidenced by the coefficient of $comp_i$ in M3): a popular brand may combine well with the "take the first" heuristic, which has already proven to be effective in the case of mobile apps (Dogruel et al., 2015, p. 139), and be penalised when users are actively collecting information. 
-
 ##### Figure 3.1: Mean-centered ITD ($y_i$) depending on high vs. low values ($x$) of developer's brand, reputation and popularity, with $n=1$ and $n=3$.
 
 ![Figure 3.1: Mean-centered ITD ($y_i$) depending on high vs. low values ($x$) of developer's brand, reputation and popularity, with $n=1$ and $n=3$.](/blog/determinants_of_download_on_mobile_app_stores/determinants_of_download_on_mobile_app_stores_3.png)
+
+When users are exposed to information about multiple apps and they can consequently compare them, reputation becomes the most effective element (M2), as also shown by the parallel in Fig. 3.1 between ITD for apps shown as first ($n=1$) and those shown as third ($n=3$). Users may rely more on eWOM when they have the possibility to consider a wider range of options and they just may need some anchors to better understand apps' rating levels. An important cue for making an informed decision can be often found in past experience, but, when users have no previous experience with the specific product, they often rely on social experiences, as expressed in reviews (Burgers et al., 2016, p. 329). As a consequence, it is important, in particular for new entrants in an app category that are not likely to be shown in top search results, to publish an app when it is mature enough to avoid the common phenomenon of reputation backlash, in terms of initial low ratings. On the other side, brands become less predictive of ITD when comparison is introduced in the model (as evidenced by the coefficient of $comp_i$ in M3): a popular brand may combine well with the "take the first" heuristic, which has already proven to be effective in the case of mobile apps (Dogruel et al., 2015, p. 139), and be penalised when users are actively collecting information. 
 
 Some other interesting evidence regards the moderation effects of involvement on the three focal variables. First, there is predictable and generalized evidence that higher involvement in apps as products corresponds to a higher effectiveness of all three reputation, popularity and brand levels in driving users' ITD (M2, M3). Second, when users are highly involved in the app download process, they tend to rely more on reputation, probably because they scrutinise information more closely. Last, when the involvement in the specific app category (mobile scanner apps, in this case) is high and users consequently perceive a higher risk in the app choice, also considering that scanner apps are productivity apps, frequently used for work (Sällberg et al., 2022, p. 10), they appear to preferably choose a strong and known brand (M1), which is a commonly used as a cue when attempting to mitigate it (Matzler et al., 2008, p. 158).
 

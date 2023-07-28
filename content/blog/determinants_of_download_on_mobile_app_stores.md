@@ -208,7 +208,7 @@ where *u* is the error term. The data set used for Model 1 (M1) for *i* includes
 
 Then, Model 2 (M2) allows for two-way interactions also between different focal independent variables and takes into account only observations with *n = 3*, in the following way:
 
-![Model 2](/blog/determinants_of_download_on_mobile_app_stores/determinants_of_download_on_mobile_app_stores_formula_1.png)
+![Model 2](/blog/determinants_of_download_on_mobile_app_stores/determinants_of_download_on_mobile_app_stores_formula_2.png)
 
 with *m =  1, 2*. The main objective of Model 2 is to explore whether there is any interaction between each couple of focal variables, reflecting comparison effects which depend on their alternatively high or low values.   
 

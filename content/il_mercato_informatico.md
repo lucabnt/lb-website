@@ -1,7 +1,7 @@
 ---
 author: "Luca Bontempi"
 title: "Il mercato informatico: il software come prodotto e servizio"
-tags: ["docs", "thesis"]
+tags: ["docs", "thesis", "software"]
 hideMeta: true
 disableShare: true
 ---

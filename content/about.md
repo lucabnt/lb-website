@@ -13,7 +13,7 @@ Ho studiato [International Business and Entrepreneurship (MIBE)](https://mibe.cd
 
 Precedentemente, ho studiato Economia e Gestione Aziendale (B.Sc.) all'Università degli Studi di Brescia, con una relazione finale dal titolo "[Il mercato informatico: il software come prodotto e servizio]( {{< ref "content/il_mercato_informatico.md" >}} "Il mercato informatico: il software come prodotto e servizio")".
 
-Attualmente, in IBM, la più antica azienda informatica al mondo, fondata nel 1911 e operativa in Italia dal 1927, mi occupo dell'enamblement dei partner e di espandere la conoscenza tecnica del portfolio di IBM Technology.
+Attualmente, in [IBM](https://www.ibm.com/it-it "IBM Italia"), la più antica azienda informatica al mondo, fondata nel 1911 e operativa in Italia dal 1927, mi occupo dell'enamblement dei partner e di espandere la conoscenza tecnica del portfolio di IBM Technology.
 
 Sono appassionato di tecnologia, informatica, videogiochi, film e serie tv, sport e (a tratti) di politica. Nel tempo libero mi piace [correre e andare in bicicletta](https://www.strava.com/athletes/4403103 "Strava").
 

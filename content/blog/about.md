@@ -1,5 +1,5 @@
 ---
-author: "Luca Bontempi"
+author: "lb"
 title: "About me - Mi presento"
 tags: ["about"]
 hideMeta: false

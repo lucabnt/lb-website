@@ -9,6 +9,7 @@ tags:
 - app store
 - mobile app
 - software
+- docs
 author: lb
 # author: ["Me", "You"] # multiple authors
 showToc: true

@@ -1,7 +1,7 @@
 ---
 author: "lb"
 title: "About me - Mi presento"
-tags: ["about"]
+tags: ["about", "ita"]
 hideMeta: false
 ---
 

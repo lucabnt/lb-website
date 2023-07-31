@@ -7,7 +7,7 @@ draft: false
 tags: 
 - thesis
 - app store
-- mobile app
+- mobile apps
 - software
 - eng
 author: lb

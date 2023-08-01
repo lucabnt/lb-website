@@ -80,11 +80,24 @@ Another really funny night was the one I had at the Stadtfest in July. This is a
 
 In September, in the Tübingen city centre, there is the [Umbrisch-Provenzalischer Markt](https://www.umbrisch-provencalischer-markt.de/), a strange fair mixing the French and Italian food culture. It was a good opportunity to taste something different and have a nice evening.
 
-### Panoramic Views
-
 ### Hikes
 
 I already talked extensively about my hikes in the area, you can find everything in my [Tübingen Hiking Guide](https://lucabontempi.com/blog/tuebingen_hiking_guide/) blog post.
+
+## Places
+
+I also wanted to point out a few places in the Tübingen larger surroundings that I had the pleasure to visit during my stay. I'll not include every single city and town, since you could easily track them in any turistic guide (e.g. from the Baden-Württemberg Lonely Planet), but I'll cover some castles and some panoramic viewpoints.
+
+### Castles
+
+
+### Panoramic Views
+
+I also wanted to point out some elevated viewpoints from which you could admire the Württemberg landscapes. The first, which is also my favourite one, is the [Schönbuchturm](https://goo.gl/maps/RF1kAE8EHus7BjDr6) in Herrenberg, about 15/20 km from Tübingen. From the top of the tower, there is a pretty good view of all the Schönbuch park.
+
+The second is the TV Tower ([Fernsehturm](https://goo.gl/maps/c2qZwqdU85urgNP17)) in Stuttgart, which is more than 216 m high and from the observation decks there is a view of Stuttgart, going from the forests and vineyards in and around Stuttgart to the Swabian Jura and the Black Forest.
+
+The third and last is the [Rottweil Test Tower](https://goo.gl/maps/3p8JNYMpKXQp4pka6)
 
 ## German Food
 

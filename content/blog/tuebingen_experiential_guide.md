@@ -15,9 +15,9 @@ showToc: true
 TocOpen: false
 # hidemeta: false
 # disableShare: false
-#cover:
-#    image: /blog/determinants_of_download_on_mobile_app_stores/determinants_of_download_on_mobile_app_stores_1.webp
-#    relative: true
+cover:
+    image: /blog/tuebingen_experiential_guide/tuebingen_experiential_guide_1.webp
+    relative: true
 # comments: false
 ---
 *Note: While I'm publishing this blog post in August 2023, I started writing it in September 2022, when I still was living in Tübingen. This means that many things may have changed since then, mainly prices, affected by last year's inflation rates. However, I still decided to complete this post to conclude the triad of articles that I set out to do at the beginning, also featuring the [Tübingen Photo Collection](https://lucabontempi.com/blog/tuebingen_collection/) and the [Tübingen Hiking Guide](https://lucabontempi.com/blog/tuebingen_hiking_guide/).*
@@ -26,7 +26,7 @@ After one year as a student in Tübingen, I'll try to share with you all the kno
 
 My year as an international student in Tübingen is coming to an end and it would be a pity if the knowledge of the city I accumulated over these months ended up being wasted: that's the reason why I decided to write a guide to share my experiences in this wonderful city with you all. We'll cover multiple categories of activities, starting from natural landscapes, sports and unforgettable experiences all the way down to food and fun. Let's start!
 
-## Sports and Experiences
+## Experiences and Sports
 
 There is plenty of traces of the experiences I had during the year in Tübingen also in the [Tübingen Photo Collection](https://lucabontempi.com/blog/tuebingen_collection/).
 
@@ -38,11 +38,15 @@ I really like basketball and I was very happy when I discovered Tübingen had a 
 
 They play in the [Paul Horn-Arena](https://goo.gl/maps/XHYQNCWFkNBetDS78) and there are also student discounts on the tickets (about 10 euros each).
 
+![Tübingen Experiential Guide 1](/blog/tuebingen_experiential_guide/tuebingen_experiential_guide_2.webp)
+
 ### VfB Stuttgart
 
 In order to find a major football club, we need to move to Stuttgart. VfB Stuttgart won 5 Bundesliga titles, the last in 2007. However, in the last years, they were fighting and struggling to remain in the first league. 
 
 Match tickets are one of the few things cheaper than in Italy (less than 30 euros, as far as I remember) and the stadium is quite nice, making it a great experience.
+
+![Tübingen Experiential Guide 2](/blog/tuebingen_experiential_guide/tuebingen_experiential_guide_3.webp)
 
 ### ATP 250 Stuttgart
 
@@ -50,16 +54,23 @@ When I discovered there was a [tennis tournament in Stuttgart](https://www.atpto
 
 Overall, I had the opportunity to watch great tennis players live, such as Matteo Berettini, Olympic and Wimbledon champion Andy Murray and Nick Kyrgios. I think that, in the end, considering ticket prices in other tennis tournaments, I was quite lucky with the day.
 
+![Tübingen Experiential Guide 3](/blog/tuebingen_experiential_guide/tuebingen_experiential_guide_4.webp)
+
 ### Stuttgarter Frühlingsfest
 
 Between the end of April and the beginning of May, in Cannstatt, there is the [Stuttgarter Frühlingsfest](https://www.stuttgarter-fruehlingsfest.de/de/home/) for about 20 days.
 
 The festival is full of luna park attractions, German traditional food and, obviously, beer. A German inevitable experience, I think. 
+
+![Tübingen Experiential Guide 4](/blog/tuebingen_experiential_guide/tuebingen_experiential_guide_5.webp)
+
 ### Stocherkahnrennen 
 
 The traditional [Stocherkahnrennen](https://de.wikipedia.org/wiki/Stocherkahnrennen) is probably one of the highlights of the summer semester in Tübingen. It is held (almost) every year since 1956 and the date to save is Corpus Christi day (on a Thursday, usually in June). 
 
 It is the best opportunity to feel part of the great Tübingen community!
+
+![Tübingen Experiential Guide 5](/blog/tuebingen_experiential_guide/tuebingen_experiential_guide_6.webp)
 
 ### Stadtfest Tübingen
 
@@ -68,6 +79,8 @@ Another really funny night was the one I had at the Stadtfest in July. This is a
 ### Umbrisch-Provenzalischer Markt 
 
 In September, in the Tübingen city centre, there is the [Umbrisch-Provenzalischer Markt](https://www.umbrisch-provencalischer-markt.de/), a strange fair mixing the French and Italian food culture. It was a good opportunity to taste something different and have a nice evening.
+
+### Panoramic Views
 
 ### Hikes
 
@@ -85,6 +98,8 @@ On the other side, I suggest you avoiding to insert in your everyday life places
 
 ### Tapas: Gasthaus Bären
 
+![Tübingen Experiential Guide 6](/blog/tuebingen_experiential_guide/tuebingen_experiential_guide_7.webp)
+
 The [Gasthaus Bären](https://www.instagram.com/gasthaus_baeren/) is an affordable restaurant and bar, which I found to be very attractive for students. Bären has an interesting "tapas" approach, since they serve small portions at a reasonable price, you will be able to taste some good dishes for less than 5 euros and I believe you could be satisfied by spending about 12/15 euros, depending on what you decide to drink.
 
 Bären is that place on which everybody could agree when everybody is too lazy to find something new and I strongly believe it deserves to be your choice for your first dinner out in Tübingen. I had the best [Käsespätzle](https://en.wikipedia.org/wiki/K%C3%A4sesp%C3%A4tzle) ever here and also the [Zucchini Frikadellen](https://duckduckgo.com/?q=Zucchini+Frikadellen&t=newext&iax=images&ia=images) deserve to be tried.
@@ -92,6 +107,8 @@ Bären is that place on which everybody could agree when everybody is too lazy t
 The only downside is that, due to limited space, during winter time, you need to be there way before 7 p.m. to be sure you'll have a table.
 
 Meal price: 10-15 euros. Here there are the [Google Maps location](https://goo.gl/maps/LfJeg6sqC5q5hTrM7) and their [Tripadvisor page](https://www.tripadvisor.it/Restaurant_Review-g198539-d10125512-Reviews-Gasthaus_Baren-Tubingen_Baden_Wurttemberg.html).
+
+![Tübingen Experiential Guide 7](/blog/tuebingen_experiential_guide/tuebingen_experiential_guide_8.webp)
 
 ### Location: Landgasthaus Waldhäuser Hof
 
@@ -120,6 +137,8 @@ Considering the large portions, prices are pretty good. There, I appreciated the
 
 Meal price: 20-25 euros. Here there are the [Google Maps location](https://goo.gl/maps/v2tXVUqwEqdjZfSt7) and their [Tripadvisor page](https://www.tripadvisor.it/Restaurant_Review-g198539-d2421743-Reviews-Saints_Scholars_Irish_Pub-Tubingen_Baden_Wurttemberg.html).
 
+![Tübingen Experiential Guide 8](/blog/tuebingen_experiential_guide/tuebingen_experiential_guide_9.webp)
+
 ### Greek: Faros - an ouzo philosophy
 
 There are quite a few Greek restaurants in Tübingen and [Faros](https://www.faros-tuebingen.com/) might be the fanciest one. The location, in Waldhäuser Straße, close to WHO, is nice and the food is actually good too. 
@@ -137,6 +156,8 @@ In Tübingen, there are probably as many Italian restaurants as German ones. The
 While all that glitters is not gold and the service was far from perfect, I believe, most of the times I was there, however, it often makes sense to prefer Da Michele to the other pizzeria.
 
 Meal price: 20-30 euros. Here there are the [Google Maps location](https://goo.gl/maps/JXHJroTG2EtcvYAAA) and their [Tripadvisor page](https://www.tripadvisor.it/Restaurant_Review-g198539-d17759644-Reviews-Ristorante_Pizzeria_da_Michele-Tubingen_Baden_Wurttemberg.html?m=19905).
+
+![Tübingen Experiential Guide 9](/blog/tuebingen_experiential_guide/tuebingen_experiential_guide_10.webp)
 
 ## Fast Food
 

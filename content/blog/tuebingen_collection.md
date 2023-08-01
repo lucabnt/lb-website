@@ -152,7 +152,7 @@ This is his [statue](https://goo.gl/maps/g7Y25aYv5PU3Xupp8) in Stuttgart.
 
 ### 17/
 
-The attractions at the [Stuttgart Frühlingsfest](https://www.stuttgarter-fruehlingsfest.de/de/home/).
+The attractions at the [Stuttgarter Frühlingsfest](https://www.stuttgarter-fruehlingsfest.de/de/home/).
 
 {{< pixelfed src="https://pixelfed.uno/p/bonte.lu/494514840209298879/embed?caption=false&likes=false&layout=compact"   >}}
 

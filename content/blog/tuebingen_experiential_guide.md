@@ -173,7 +173,7 @@ Meal price: 30-35 euros. Here there are the [Google Maps location](https://goo.g
 
 In Tübingen, there are probably as many Italian restaurants as German ones. There are also many pizzeria, but the quality and the prices aren't usually very convenient. Da Michele, in Derendingen, probably offers the best pizza in Tübingen at a price, that, in Germany makes perfect sense.
 
-While all that glitters is not gold and the service was far from perfect, I believe, most of the times I was there, however, it often makes sense to prefer Da Michele to the other pizzeria.
+While all that glitters is not gold and the service was far from perfect most of the times I was there, it often makes sense anyway to prefer Da Michele to the other pizzeria.
 
 Meal price: 20-30 euros. Here there are the [Google Maps location](https://goo.gl/maps/JXHJroTG2EtcvYAAA) and their [Tripadvisor page](https://www.tripadvisor.it/Restaurant_Review-g198539-d17759644-Reviews-Ristorante_Pizzeria_da_Michele-Tubingen_Baden_Wurttemberg.html?m=19905).
 

@@ -18,7 +18,7 @@ Therefore, I created a collection of all the hikes I did and I also selected som
 
 Each hike will be presented through the [Strava activity](https://www.strava.com/athletes/4403103), which often also include some pictures, and I'll also include a link to the [Komoot activity](https://www.komoot.it/user/2218098976141), since it allows you to download the GPX file, which can be used to replicate the hike.
 
-This blog post is part of a Tübingen themed project made of three posts, so you may also want to visit the Tübingen Experiential Guide for International Students (coming soon!) and the [Tübingen Photo Collection](https://lucabontempi.com/blog/tuebingen_collection/).
+This blog post is part of a Tübingen themed project made of three posts, so you may also want to visit the [Tübingen Experiential Guide for International Students](https://lucabontempi.com/blog/tuebingen_experiential_guide/) and the [Tübingen Photo Collection](https://lucabontempi.com/blog/tuebingen_collection/).
 
 Enjoy!
 

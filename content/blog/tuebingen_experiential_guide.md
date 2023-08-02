@@ -86,7 +86,7 @@ I already talked extensively about my hikes in the area, you can find everything
 
 ## Places
 
-I also wanted to point out a few places in the Tübingen larger surroundings that I had the pleasure to visit during my stay. I'll not include every single city and town, since you could easily track them in any tourist guide (e.g. from the Baden-Württemberg Lonely Planet), but I'll cover some castles and some panoramic viewpoints.
+I also wanted to point out a few places in the Tübingen larger surroundings that I had the pleasure to visit during my stay. I'll not include every single city and town, since you could easily track them in any tourist guide (e.g. the Baden-Württemberg Lonely Planet), but I'll cover some castles and some panoramic viewpoints.
 
 ### Castles
 

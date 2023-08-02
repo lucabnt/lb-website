@@ -80,11 +80,15 @@ Another really funny night was the one I had at the Stadtfest in July. This is a
 
 In September, in the Tübingen city centre, there is the [Umbrisch-Provenzalischer Markt](https://www.umbrisch-provencalischer-markt.de/), a strange fair mixing the French and Italian food culture. It was a good opportunity to taste something different and have a nice evening.
 
+### Europa-Park
+
+[Europa-Park](https://goo.gl/maps/rMtwpy8qFSEso3rt7) is considered to be the second biggest European theme park and the first in Germany. I love theme parks, so I also really liked its theme based on different European countries. Moreover, there are at least three or four adrenaline-filled roller coasters that are above average. However, reaching Europa-Park from Tübingen is not easy: the only option to visit it on a one-day trip is taking a Flixbus very early in the morning.
+
 ### Hikes
 
 I already talked extensively about my hikes in the area, you can find everything in my [Tübingen Hiking Guide](https://lucabontempi.com/blog/tuebingen_hiking_guide/) blog post.
 
-## Places
+## Sights
 
 I also wanted to point out a few places in the Tübingen larger surroundings that I had the pleasure to visit during my stay. I'll not include every single city and town, since you could easily track them in any tourist guide (e.g. the Baden-Württemberg Lonely Planet), but I'll cover some castles and some panoramic viewpoints.
 
@@ -220,6 +224,10 @@ Here there is the [Google Maps location](https://goo.gl/maps/35yLStsTYQt68JZH7).
 A great atmosphere can also be found in Schmitz Katze, along with excellent cocktails. This was my favourite choice for having a chat with a small group of people.
 
 Here there is the [Google Maps location](https://goo.gl/maps/rE6hkAXzCdvqKEsNA).
+
+### Cinema: Kino Atelier
+
+The [Kino Atelier](https://goo.gl/maps/swWjqZg1B3F4cBiYA) (similarly to the [Kino Arsenal](https://goo.gl/maps/MNXtowwStFfzeUqR7)) is a small and single-hall cinema, projecting mostly international and German independent films. For example, there I watched Everything Everywhere All at Once when it was first released, way before it won the Academy Award for Best Picture. The small hall contributes to an intimate and cosy atmosphere, making it a really nice experience. 
 
 ### Clubs
 

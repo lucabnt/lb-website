@@ -1,7 +1,7 @@
 ---
 title: "A Tübingen Experiential Guide for International Students"
 date: 2023-08-02T9:00:00+02:00 # date: 2020-11-02T17:03:46+01:00
-draft: true
+draft: false
 # weight: 1
 # aliases: ["/first"]
 tags: 
@@ -86,18 +86,25 @@ I already talked extensively about my hikes in the area, you can find everything
 
 ## Places
 
-I also wanted to point out a few places in the Tübingen larger surroundings that I had the pleasure to visit during my stay. I'll not include every single city and town, since you could easily track them in any turistic guide (e.g. from the Baden-Württemberg Lonely Planet), but I'll cover some castles and some panoramic viewpoints.
+I also wanted to point out a few places in the Tübingen larger surroundings that I had the pleasure to visit during my stay. I'll not include every single city and town, since you could easily track them in any tourist guide (e.g. from the Baden-Württemberg Lonely Planet), but I'll cover some castles and some panoramic viewpoints.
 
 ### Castles
 
+There are three major castles in the larger area surrounding Tübingen. The first one, which is also the easiest to reach, is the [Hohenzollernschloss Sigmaringen](https://goo.gl/maps/RNZVtBQEmvRm1Jdk9). I had the opportunity to visit the inside and it was worth it.
+
+The second castle is the majestic [Burg Hohenzollern](https://goo.gl/maps/eLSF5Fm7qGvVxZpC6), whose courtyard was really nice, way more than the inside. In this case, I would suggest an [hike](https://lucabontempi.com/blog/tuebingen_hiking_guide/#top-hike-around-burg-hohenzollern), since that would also give the opportunity to have a view of the castle from different perspectives.
+
+The third and last one is the [Schloss Lichtenstein](https://goo.gl/maps/6VP9AnW6mmYRyqJ47), which, more than any other, gives those fairy tale vibes. The small internal courtyard is actually very nice, with a great view of the castle laying on the rocks.
+
+![Tübingen Experiential Guide 10](/blog/tuebingen_experiential_guide/tuebingen_experiential_guide_11.webp)
 
 ### Panoramic Views
 
-I also wanted to point out some elevated viewpoints from which you could admire the Württemberg landscapes. The first, which is also my favourite one, is the [Schönbuchturm](https://goo.gl/maps/RF1kAE8EHus7BjDr6) in Herrenberg, about 15/20 km from Tübingen. From the top of the tower, there is a pretty good view of all the Schönbuch park.
+I also wanted to point out some elevated viewpoints from which you could admire the Württemberg landscapes. The first, which is also my favourite one, is the [Schönbuchturm](https://goo.gl/maps/RF1kAE8EHus7BjDr6) in Herrenberg, about 15/20 km from Tübingen. From the top of the tower, there is a pretty good view of Schönbuch park.
 
-The second is the TV Tower ([Fernsehturm](https://goo.gl/maps/c2qZwqdU85urgNP17)) in Stuttgart, which is more than 216 m high and from the observation decks there is a view of Stuttgart, going from the forests and vineyards in and around Stuttgart to the Swabian Jura and the Black Forest.
+The second is the TV Tower ([Fernsehturm](https://goo.gl/maps/c2qZwqdU85urgNP17)) in Stuttgart, which is more than 216 m high and, from the observation decks, there is a view of Stuttgart, going from the forests and vineyards in and around Stuttgart to the Swabian Jura and the Black Forest.
 
-The third and last is the [Rottweil Test Tower](https://goo.gl/maps/3p8JNYMpKXQp4pka6)
+The third and last is the [Rottweil Test Tower](https://goo.gl/maps/3p8JNYMpKXQp4pka6), which is also the tallest, standing at 246 m. At 232 m, the tower contains Germany's tallest observation deck.
 
 ## German Food
 

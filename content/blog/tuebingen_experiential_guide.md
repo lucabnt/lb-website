@@ -94,11 +94,13 @@ I also wanted to point out a few places in the Tübingen larger surroundings tha
 
 ### Castles
 
-There are three major castles in the larger area surrounding Tübingen. The first one, which is also the easiest to reach, is the [Hohenzollernschloss Sigmaringen](https://goo.gl/maps/RNZVtBQEmvRm1Jdk9). I had the opportunity to visit the inside and it was worth it.
+There are three (plus one) major castles in the larger area surrounding Tübingen. The first one, which is also the easiest to reach, is the [Hohenzollernschloss Sigmaringen](https://goo.gl/maps/RNZVtBQEmvRm1Jdk9). I had the opportunity to visit the inside and it was worth it.
 
 The second castle is the majestic [Burg Hohenzollern](https://goo.gl/maps/eLSF5Fm7qGvVxZpC6), whose courtyard was really nice, way more than the inside. In this case, I would suggest an [hike](https://lucabontempi.com/blog/tuebingen_hiking_guide/#top-hike-around-burg-hohenzollern), since that would also give the opportunity to have a view of the castle from different perspectives.
 
 The third and last one is the [Schloss Lichtenstein](https://goo.gl/maps/6VP9AnW6mmYRyqJ47), which, more than any other, gives those fairy tale vibes. The small internal courtyard is actually very nice, with a great view of the castle laying on the rocks.
+
+There is actually an addition to those three castles, even if it is more a palace than a castle. North of Stuttgart there is the [Residenzschloss Ludwigsburg](https://goo.gl/maps/gjbvvLe5kJofdjG48), a really nice palace with some amazing gardens. A visit in spring or summer is highly recommended, with particular attention to the plants and flowers in the park. Moreover, in summer, they also organize some music-themed fireworks displays that were surprisingly good.
 
 ![Tübingen Experiential Guide 10](/blog/tuebingen_experiential_guide/tuebingen_experiential_guide_11.webp)
 

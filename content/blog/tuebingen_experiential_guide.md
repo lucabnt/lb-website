@@ -112,7 +112,7 @@ The third and last is the [Rottweil Test Tower](https://goo.gl/maps/3p8JNYMpKXQp
 
 ## German Food
 
-I'll start with one of my favourite paragraphs: when I spent time in a place, I always try to dive deep into the local culture and, even if for some of my Italian friends was quite hard to adapt to the German dishes, I actually enjoyed them almost immediately.
+I'll start the food chapter with one of my favourite paragraphs: when I spent time in a place, I always try to dive deep into the local culture and, even if for some of my Italian friends was quite hard to adapt to the German dishes, I actually enjoyed them almost immediately.
 Therefore, I tried to create a shortlist including both affordable restaurants and some German-priced restaurants (that could be out of budget for students, but that I suggest trying at least once during your Tübingen experience). The secret, I believe, is to find a good recurring and low-priced solution that you will visit often and to choose wisely the more expensive places that deserve a shoot. 
 
 While typical food and I got along pretty quickly, the same cannot be said for drinks. I honestly didn't like Baden-Württemberg's beers, while I was able to find some acceptable wines. Not liking the bier in Germany could be a threat to your survival.

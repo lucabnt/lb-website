@@ -233,4 +233,4 @@ The [Kino Atelier](https://goo.gl/maps/swWjqZg1B3F4cBiYA) (similarly to the [Kin
 
 I will not hide my thoughts on this theme, the Tübingen clubs situation has some large margins of improvement. 
 
-[Schwarzes Schaf](https://goo.gl/maps/qQRVs9Wka18Fksq59) was funny, but only when with the right group of friends. The student-organized parties in [Clubhas](https://goo.gl/maps/fdxfSKo7Afw1QHjF7) are the best alternative to clubs in spring and summer, while [Kuckuck](https://goo.gl/maps/JVgqh8BxxU6reAdT6) is the best choice for those living in WHO. Of all the (few) other clubs I've been in, I actually didn't like the atmosphere enough to suggest them.
+[Schwarzes Schaf](https://goo.gl/maps/qQRVs9Wka18Fksq59) was funny, but only when with the right group of friends. The student-organized parties in [Clubhaus](https://goo.gl/maps/fdxfSKo7Afw1QHjF7) are the best alternative to clubs in spring and summer, while [Kuckuck](https://goo.gl/maps/JVgqh8BxxU6reAdT6) is the best choice for those living in WHO. Of all the (few) other clubs I've been in, I actually didn't like the atmosphere enough to suggest them.

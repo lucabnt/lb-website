@@ -7,7 +7,7 @@ disableShare: true
 ---
 ## Luca Bontempi
 
-E-mail: [luca@lucabontempi.com](mailto:luca@lucabontempi.com) | [LinkedIn](https://www.linkedin.com/in/lucabontempi1/)
+E-mail: [luca@lucabontempi.com](mailto:luca@lucabontempi.com) | [LinkedIn](https://www.linkedin.com/in/lucabontempi1/) | [Twitter](https://twitter.com/luca_bontempi1)
 
 ## Summary
 

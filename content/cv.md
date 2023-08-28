@@ -9,18 +9,25 @@ disableShare: true
 
 E-mail: [luca@lucabontempi.com](mailto:luca@lucabontempi.com) | [LinkedIn](https://www.linkedin.com/in/lucabontempi1/)
 
+## Summary
+
+As a Partner Technical Specialist at IBM, I enable the Partner Ecosystem to demonstrate and deploy IBM Technology at scale. I work with partners to identify their technical needs, provide training and support, and facilitate the adoption of IBM solutions. 
+
+I have an academic background in business and management, with a focus on digital transformation and innovation. I completed two Master of Science degrees in European Management and International Business and Entrepreneurship, from Eberhard Karls University of Tübingen and University of Pavia respectively. In my Master's Thesis, I conducted empirical analyses on the determinants of mobile app downloads and the impact of digital platforms on business models.  
+
 ## Experience
 
 #### PARTNER TECHNICAL SPECIALIST - PARTNER | IBM ITALIA SPA | JUN 2023 - PRESENT
 
 * Full-time
-* Technical-oriented Sales in IBM Ecosystem, IBM Technology, Italy
+* Covering the IBM Automation Portfolio.
+* In the Ecosystem GSI Integrated Unit, in IBM Ecosystem, IBM Technology, Italy
 * Segrate, Italy
 
 #### PARTNER TECHNICAL SPECIALIST - PARTNER | IBM ITALIA SPA | MAR 2023 - MAY 2023
 
 * Internship
-* Technical-oriented Sales in IBM Ecosystem, IBM Technology, Italy
+* Intern in the Ecosystem GSI Integrated Unit, in IBM Ecosystem, IBM Technology, Italy
 * Segrate, Italy
 
 #### ADMINISTRATION INTERN | NEW MASTER SRL | OCT 2019 – DEC 2019

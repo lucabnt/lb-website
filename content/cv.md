@@ -20,8 +20,7 @@ I have an academic background in business and management, with a focus on digita
 #### PARTNER TECHNICAL SPECIALIST - PARTNER | IBM ITALIA SPA | JUN 2023 - PRESENT
 
 * Full-time
-* Covering the IBM Automation Portfolio.
-* In the Ecosystem GSI Integrated Unit, in IBM Ecosystem, IBM Technology, Italy
+* Covering the IBM Automation Portfolio. In the Ecosystem GSI Integrated Unit, in IBM Ecosystem, IBM Technology, Italy
 * Segrate, Italy
 
 #### PARTNER TECHNICAL SPECIALIST - PARTNER | IBM ITALIA SPA | MAR 2023 - MAY 2023

@@ -17,7 +17,7 @@ Oltre a questo, puoi trovarmi a parlare di tecnologia, a giocare ai videogiochi,
 
 Per saperne di più, puoi dare un'occhiata al mio [curriculum vitae]( {{< ref "cv.md" >}} "Curriculum Vitae") riassuntivo e contattarmi attraverso la sezione [Contatti]( {{< ref "contacts.md" >}} "Contacts").
 
-# About me again, but in English
+## About me again, but in English
 
 Hey there, I'm Luca!
 

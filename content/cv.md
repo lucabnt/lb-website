@@ -79,16 +79,20 @@ Final Score: 76/100
 * Italian (native)
 * English (C1)
 
+#### PROJECT MANAGEMENT SKILLS
+
+* Introductory Certificate in Project Management by IPMA Italy
+
+#### SALES SKILLS
+
+* IBM Global Sales School - Sales Activation by IBM
+
 #### DIGITAL SKILLS
 
 * Programming Languages: Python (Basic)
 * Markup Languages: LaTeX (Basic)
 * Data Management: Microsoft Access (Basic), MySQL (Basic)
 * Office Automation: Office Suite, Word Processors, Spreadsheets, Presentation Software (Advanced)
-
-#### PROJECT MANAGEMENT SKILLS
-
-* Introductory Certificate in Project Management by IPMA Italy
 
 #### OTHER SKILLS
 

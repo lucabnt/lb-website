@@ -20,13 +20,13 @@ I have an academic background in business and management, with a focus on digita
 #### ASSOCIATE PARTNER TECHNICAL SPECIALIST - PARTNER | IBM ITALIA SPA | JUN 2023 - PRESENT
 
 * Full-time
-* Covering the IBM Automation Portfolio. In the Ecosystem GSI Integrated Unit, in IBM Ecosystem, IBM Technology, Italy
+* Role Specialty in IBM Automation Portfolio. In the Service Partners (GSIs) Integrated Unit, in IBM Ecosystem, IBM Technology, Italy
 * Segrate, Italy
 
-#### PARTNER TECHNICAL SPECIALIST - PARTNER | IBM ITALIA SPA | MAR 2023 - MAY 2023
+#### TECHNICAL SALES INTERN | IBM ITALIA SPA | MAR 2023 - MAY 2023
 
 * Internship
-* Intern in the Ecosystem GSI Integrated Unit, in IBM Ecosystem, IBM Technology, Italy
+* Intern as a Partner Technical Specialist - Partner in the Ecosystem GSI Integrated Unit, in IBM Ecosystem, IBM Technology, Italy
 * Segrate, Italy
 
 #### ADMINISTRATION INTERN | NEW MASTER SRL | OCT 2019 – DEC 2019
@@ -79,16 +79,11 @@ Final Score: 76/100
 * Italian (native)
 * English (C1)
 
-#### PROJECT MANAGEMENT SKILLS
+#### PROFESSIONAL SKILLS
 
-* Introductory Certificate in Project Management by IPMA Italy
-
-#### SALES SKILLS
-
-* IBM Global Sales School - Sales Activation by IBM
-
-#### DIGITAL SKILLS
-
+* [Introductory Certificate in Project Management](https://ipma.it/ipma_/index.php/certificati-ipma?livello=E&pag=44) by IPMA Italy
+* [IBM Global Sales School - Sales Activation](https://www.credly.com/badges/0cb94495-ce30-43ea-8654-338ad1a543d5/public_url) by IBM
+* [Architectural Thinking](https://www.credly.com/badges/1a57014b-1bed-41cb-a16f-3868208ebbbe/public_url) by IBM
 * Programming Languages: Python (Basic)
 * Markup Languages: LaTeX (Basic)
 * Data Management: Microsoft Access (Basic), MySQL (Basic)

@@ -81,9 +81,9 @@ Final Score: 76/100
 
 #### PROFESSIONAL SKILLS
 
-* [Introductory Certificate in Project Management](https://ipma.it/ipma_/index.php/certificati-ipma?livello=E&pag=44) by IPMA Italy
-* [IBM Global Sales School - Sales Activation](https://www.credly.com/badges/0cb94495-ce30-43ea-8654-338ad1a543d5/public_url) by IBM
-* [Architectural Thinking](https://www.credly.com/badges/1a57014b-1bed-41cb-a16f-3868208ebbbe/public_url) by IBM
+* Project Management: [Introductory Certificate in Project Management](https://ipma.it/ipma_/index.php/certificati-ipma?livello=E&pag=44) by IPMA Italy
+* Sales: [IBM Global Sales School - Sales Activation](https://www.credly.com/badges/0cb94495-ce30-43ea-8654-338ad1a543d5/public_url) by IBM
+* IT: [Architectural Thinking](https://www.credly.com/badges/1a57014b-1bed-41cb-a16f-3868208ebbbe/public_url) by IBM
 * Programming Languages: Python (Basic)
 * Markup Languages: LaTeX (Basic)
 * Data Management: Microsoft Access (Basic), MySQL (Basic)

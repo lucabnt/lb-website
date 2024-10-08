@@ -1,76 +1,49 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
   <url>
-    <loc>//localhost:1313/blog/tuebingen_experiential_guide/</loc>
-    <lastmod>2023-08-02T09:00:00+02:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/blog/</loc>
-    <lastmod>2023-08-02T09:00:00+02:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/eng/</loc>
-    <lastmod>2023-08-02T09:00:00+02:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/experience/</loc>
-    <lastmod>2023-08-02T09:00:00+02:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/food/</loc>
-    <lastmod>2023-08-02T09:00:00+02:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/</loc>
-    <lastmod>2023-08-02T09:00:00+02:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/</loc>
-    <lastmod>2023-08-02T09:00:00+02:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/t%C3%BCbingen/</loc>
-    <lastmod>2023-08-02T09:00:00+02:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/app-store/</loc>
-    <lastmod>2023-07-18T12:00:00+02:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/blog/determinants_of_download_on_mobile_app_stores/</loc>
-    <lastmod>2023-07-18T12:00:00+02:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/mobile-app/</loc>
-    <lastmod>2023-07-18T12:00:00+02:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/software/</loc>
-    <lastmod>2023-07-18T12:00:00+02:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/thesis/</loc>
-    <lastmod>2023-07-18T12:00:00+02:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/blog/tuebingen_hiking_guide/</loc>
-    <lastmod>2022-11-11T09:30:00+01:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/hiking/</loc>
-    <lastmod>2022-11-11T09:30:00+01:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/blog/tuebingen_collection/</loc>
-    <lastmod>2022-11-07T11:00:00+01:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/photography/</loc>
-    <lastmod>2022-11-07T11:00:00+01:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/about/</loc>
-  </url><url>
-    <loc>//localhost:1313/about/</loc>
-  </url><url>
-    <loc>//localhost:1313/blog/about/</loc>
-  </url><url>
-    <loc>//localhost:1313/categories/</loc>
-  </url><url>
-    <loc>//localhost:1313/contacts/</loc>
-  </url><url>
-    <loc>//localhost:1313/cv/</loc>
-  </url><url>
-    <loc>//localhost:1313/determinants_of_download_on_mobile_app_stores_doc/</loc>
-  </url><url>
-    <loc>//localhost:1313/tags/docs/</loc>
-  </url><url>
-    <loc>//localhost:1313/il_mercato_informatico/</loc>
-  </url><url>
-    <loc>//localhost:1313/tags/ita/</loc>
+    <loc>https://lucabontempi.com/about/</loc>
   </url>
+  
+  <url>
+    <loc>https://lucabontempi.com/tags/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lucabontempi.com/blog/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lucabontempi.com/blog/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lucabontempi.com/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lucabontempi.com/gen/cv_abbreviato/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lucabontempi.com/gen/cv_europass/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lucabontempi.com/gen/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lucabontempi.com/gen/il_mercato_informatico/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lucabontempi.com/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lucabontempi.com/tags/</loc>
+  </url>
+  
 </urlset>

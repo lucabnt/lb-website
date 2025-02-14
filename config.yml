@@ -20,6 +20,7 @@ params:
   title: Luca Bontempi
   description: "Ciao! Mi chiamo Luca Bontempi!"
   author: Luca Bontempi
+  #social: true 
   # author: ["Me", "You"] # multiple authors
 
   #images: ""

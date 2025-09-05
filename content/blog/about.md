@@ -4,6 +4,7 @@ title: "About me - Mi presento"
 tags: ["about", "ita"]
 hideMeta: false
 ---
+Un About me sempre aggiornato è disponibile [qui](https://lucabontempi.com/about/).
 
 Ciao, mi chiamo Luca Bontempi e sono uno studente!
 

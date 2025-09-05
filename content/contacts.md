@@ -7,11 +7,13 @@ disableShare: true
 ---
 You can contact me through the e-mail [luca@lucabontempi.com](mailto:luca@lucabontempi.com).
 
-You can also find me on [LinkedIn](https://www.linkedin.com/in/lucabontempi1/?locale=en_US/ "LinkedIn"), [Instagram](https://www.instagram.com/bonte.lu/ "Instagram"),  [Twitter](https://twitter.com/luca_bontempi1 "Twitter"), [Twitter (personal profile)](https://twitter.com/bontelu "Twitter"), Mastodon (instances [mastodon.uno](https://mastodon.uno/@bontelu "Mastodon.uno") and [mastodon.online](https://mastodon.online/@bontelu "Mastodon.online")), Pixelfed (instances [pixelfed.uno](https://pixelfed.uno/bonte.lu "Pixelfed.uno") and [pixelfed.social](https://pixelfed.social/bonte.lu "Pixelfed.social")), [Strava](https://www.strava.com/athletes/4403103 "Strava") and [Komoot](https://www.komoot.it/user/2218098976141 "Komoot").
-
-
-Potete contattarmi tramite la e-mail [luca@lucabontempi.com](mailto:luca@lucabontempi.com).
-
-Potete anche trovarmi su [LinkedIn](https://www.linkedin.com/in/lucabontempi1/ "LinkedIn"), [Instagram](https://www.instagram.com/bonte.lu/ "Instagram"), [Twitter](https://twitter.com/luca_bontempi1 "Twitter"), [Twitter (profilo personale)](https://twitter.com/bontelu "Twitter"), Mastodon (istanze [mastodon.uno](https://mastodon.uno/@bontelu "Mastodon.uno") e [mastodon.online](https://mastodon.online/@bontelu "Mastodon.online")), Pixelfed (istanze [pixelfed.uno](https://pixelfed.uno/bonte.lu "Pixelfed.uno") e [pixelfed.social](https://pixelfed.social/bonte.lu "Pixelfed.social")), [Strava](https://www.strava.com/athletes/4403103 "Strava") e [Komoot](https://www.komoot.it/user/2218098976141 "Komoot").
-
+You can also find me on:
+- [LinkedIn](https://www.linkedin.com/in/lucabontempi1/?locale=en_US/ "LinkedIn");
+- [Strava](https://www.strava.com/athletes/4403103 "Strava"); 
+- [Komoot](https://www.komoot.it/user/2218098976141 "Komoot");
+- [Flickr](https://www.flickr.com/photos/77058054@N07/ "Flickr");
+- [Twitter](https://twitter.com/luca_bontempi1 "Twitter") and [Twitter (personal profile)](https://twitter.com/bontelu "Twitter"); 
+- Mastodon (instances [mastodon.uno](https://mastodon.uno/@bontelu "Mastodon.uno") and [mastodon.online](https://mastodon.online/@bontelu "Mastodon.online"));
+- Pixelfed (instances [pixelfed.uno](https://pixelfed.uno/bonte.lu "Pixelfed.uno") and [pixelfed.social](https://pixelfed.social/bonte.lu "Pixelfed.social"));
+- [Instagram](https://www.instagram.com/bonte.lu/ "Instagram").
 

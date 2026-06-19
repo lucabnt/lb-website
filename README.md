@@ -1,24 +1,27 @@
 # Personal Website
 
-Questo repository contiene il codice sorgente del mio sito web personale e blog. Il sito è uno static site generato utilizzando [Hugo](https://gohugo.io/) e ospitato tramite deploy continuo.
+Questo repository contiene il codice sorgente del mio sito web personale e blog, disponibile online all'indirizzo:
+👉 **[lucabontempi.com](https://lucabontempi.com/)**
 
-## 🛠 Stack Tecnologico
+Il sito è un generatore di siti statici basato su [Hugo](https://gohugo.io/) con deploy continuo e gestione dei contenuti tramite interfaccia grafica.
+
+## 🛠️ Stack Tecnologico
 
 * **Generatore di siti statici:** [Hugo](https://gohugo.io/)
+* **CMS per i contenuti:** [Decap CMS](https://decapcms.org/) (accessibile da `/admin/`)
 * **Hosting e Deploy:** [Netlify](https://www.netlify.com/) (configurato tramite `netlify.toml`)
 * **Lingua principale:** Italiano (configurata in `i18n/it.yaml`)
 
 ## 🚀 Sviluppo in locale
 
-Se vuoi eseguire il sito in locale per testare delle modifiche o scrivere un nuovo articolo, segui questi passaggi:
+Se vuoi eseguire il sito in locale sul tuo computer per testare delle modifiche o vedere un'anteprima degli articoli, segui questi passaggi:
 
 ### Prerequisiti
-1. Assicurati di avere [Git](https://git-scm.com/) installato.
-2. Scarica e installa l'ultima versione "Extended" di [Hugo](https://gohugo.io/getting-started/installing/).
+Assicurati di avere installato Git e la versione *Extended* di Hugo sul tuo sistema.
 
-### Installazione
+### Installazione e Avvio
 
-1. Clona questo repository:
+1. Clona questo repository ed entra nella cartella del progetto:
    ```bash
    git clone [https://github.com/lucabnt/lbwebsite.git](https://github.com/lucabnt/lbwebsite.git)
    cd lbwebsite

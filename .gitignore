@@ -1,1 +1,10 @@
+# Cartella di build generata da Hugo
 public/
+
+# Cartella delle risorse generate e cache (opzionale ma consigliato escluderla)
+resources/_gen/
+.hugo_build.lock
+
+# File di sistema macOS/Windows
+.DS_Store
+Thumbs.db

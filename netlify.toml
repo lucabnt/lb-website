@@ -5,6 +5,7 @@
 [build.environment]
   HUGO_VERSION = "0.143.1"
   HUGO_ENABLEGITINFO = "true"
+  NODE_VERSION = "22"
 
 [context.production.environment]
   HUGO_ENV = "production"
@@ -19,9 +20,6 @@
   package = "netlify-plugin-hugo-cache-resources"
   [plugins.inputs]
     debug = true
-
-[build.environment]
-  NODE_VERSION = "22"
 
 #Additional redirects
 #CV

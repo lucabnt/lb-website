@@ -7,7 +7,7 @@ disableShare: true
 ---
 ## Luca Bontempi
 
-E-mail: [luca@lucabontempi.com](mailto:luca@lucabontempi.com) | [LinkedIn](https://www.linkedin.com/in/lucabontempi1/) | [Twitter](https://twitter.com/luca_bontempi1)
+📍 Milan Area, Italy | E-mail: [luca@lucabontempi.com](mailto:luca@lucabontempi.com) | [LinkedIn](https://www.linkedin.com/in/lucabontempi1/)
 
 ## Summary
 
@@ -17,79 +17,65 @@ I have an academic background in business and management, with a focus on digita
 
 ## Experience
 
-#### ASSOCIATE PARTNER TECHNICAL SPECIALIST - PARTNER | IBM ITALIA SPA | JUN 2023 - PRESENT
+### Associate Partner Technical Specialist | IBM
+*Segrate, Italy · Full-time* | **Jun 2023 – Present**
 
-* Full-time
-* Role Specialty in IBM Automation Portfolio. In the Ecosystem Technical Team, IBM Technology, Italy
-* Segrate, Italy
+* **Partner Enablement:** Drive technical enablement and solution activation for System Integrators (GSI), expanding their autonomous delivery capabilities in the IBM portfolio.
+* **Solution Architecture:** Collaborate with partners to identify technical requirements, architect integrated solutions, and facilitate joint client engagements to accelerate market adoption.
+* **Technical Advocacy:** Deliver tailored technical workshops and training sessions, actively supporting partner teams during the execution of Proofs of Concept (PoCs).
 
-#### TECHNICAL SALES INTERN | IBM ITALIA SPA | MAR 2023 - MAY 2023
+### Technical Sales Intern | IBM
+*Segrate, Italy · Internship* | **Mar 2023 – May 2023**
 
-* Internship
-* Intern as a Partner Technical Specialist - Partner in the Ecosystem GSI Integrated Unit, in IBM Ecosystem, IBM Technology, Italy
-* Segrate, Italy
+* **Internal Tooling:** Co-developed an internal analytics tool to track, assess, and optimize partner ecosystem skills, improving reporting efficiency across the unit.
+* **Pre-Sales Support:** Assisted the Ecosystem team in orchestrating technical enablement initiatives and preparing pre-sales assets for key partners.
 
-#### ADMINISTRATION INTERN | NEW MASTER SRL | OCT 2019 – DEC 2019
+### Administration Intern | New Master Srl
+*Magnago, Italy · Internship* | **Oct 2019 – Dec 2019**
 
-* Internship
-* Administration in Logistics and Transportation
-* Magnago, Italy
+* Intern in a transportation company serving the sport industry.
 
 
 ## Education
 
-#### MASTER'S DEGREE IN EUROPEAN MANAGEMENT | FEB 2023 | EBERHARD KARLS UNIVERSITY OF TÜBINGEN
+### Master's Degree in European Management | Eberhard Karls University of Tübingen
+*Feb 2023* · **Score:** Gut (1.57/1.0) 
 
-Final Degree Score: Gut (1.57/1)
+* **Master's Thesis:** Conducted empirical research on the market determinants of mobile app downloads and the impact of digital platforms on business models. ([Read Abstract](https://lucabontempi.com/blog/determinants_of_download_on_mobile_app_stores/))
+* **Program:** Double Degree with the University of Pavia.
+* **Attended courses:** Marketing-Mix Management, eBusiness, Innovation and Technological Change, Advanced Empirical Public Economics.
 
-Master's Thesis: "[Determinants of Download on Mobile App Stores - An Empirical Analysis](https://lucabontempi.com/blog/determinants_of_download_on_mobile_app_stores/ "Determinants of Download on Mobile App Stores - An Empirical Analysis")"
+### Master's Degree in International Business and Entrepreneurship | University of Pavia
+*Jul 2023* · **Score:** 110/110
 
-Double Degree program with University of Pavia. 
+* **Curriculum:** Digital Management.
+* **Attended courses:** Information Systems for Managers, Exponential Coding with AI, Business Analytics with Excel, Applied Project Management, Financial Innovation & Fintech, Capital Markets and EU Company Law.
 
-Attended courses: Marketing-Mix Management, eBusiness, Innovation and Technological Change, Master's Seminar in Advanced Empirical Public Economics.
-<!-- * Double Degree program with University of Pavia -->
+### Bachelor’s Degree in Business Administration | University of Brescia
+*Mar 2020* · **Score:** 102/110
 
-#### MASTER'S DEGREE IN INTERNATIONAL BUSINESS AND ENTERPRENEURSHIP | JUL 2023 | UNIVERSITY OF PAVIA
+* **Bachelor's Thesis:** "[The Information Technology Industry: Software as a Product and a Service]( {{< ref "il_mercato_informatico.md" >}} )" *(in Italian)*
 
-Final Degree Score: 110/110
-
-Curriculum in Digital Management. 
-
-Attended courses: Information Systems for Managers, Exponential Coding with AI, Business Analytics with Excel, Applied Project Management, Financial Innovation & Fintech, Capital Markets and EU Company Law, Innovation Management, Firm Valuation and Capital Market Instruments, Economics of Emerging Markets. 
-<!--* Curriculum in Digital Management-->
-
-#### BACHELOR’S DEGREE IN BUSINESS ADMINISTRATION | MAR 2020 | UNIVERSITY OF BRESCIA
-
-Final Degree Score: 102/110
-
-Bachelor's Thesis: "[The Information Technology Industry: Software as a Product and a Service]( {{< ref "il_mercato_informatico.md" >}} "Il mercato informatico: il software come prodotto e servizio")" (in Italian)
-<!--* Final Degree Score: 102/110
-* Bachelor's Thesis: "[The Information Technology Industry: Software as a Product and a Service]( {{< ref "il_mercato_informatico.md" >}} "Il mercato informatico: il software come prodotto e servizio")" (in Italian)-->
-
-#### SCIENTIFIC HIGH SCHOOL DIPLOMA | JUL 2016 | LICEO SCIENTIFICO ANTONIETTI ISEO
-
-Final Score: 76/100
-<!--* Final Score: 76/100-->
+### Scientific High School Diploma | Liceo Scientifico Antonietti (Iseo)
+*Jul 2016*
 
 
 ## Skills
 
-#### LANGUAGES
+#### Domain Expertise
+Technical Sales, Partner Enablement, Solution Architecture, B2B Enterprise Sales.
 
-* Italian (native)
-* English (C1)
+#### Tech & Data
+Python, SQL, Enterprise Software Architecture concepts, Digital Platform Models.
 
-#### PROFESSIONAL SKILLS
+#### Professional Certifications
+* **IT Architecture:** [Architectural Thinking](https://www.credly.com/badges/1a57014b-1bed-41cb-a16f-3868208ebbbe/public_url) *(IBM)*
+* **Sales:** [Global Sales School - Sales Activation](https://www.credly.com/badges/0cb94495-ce30-43ea-8654-338ad1a543d5/public_url) *(IBM)*
+* **Project Management:** [Introductory Certificate in Project Management](https://ipma.it/ipma_/index.php/certificati-ipma?livello=E&pag=44) *(IPMA Italy)*
 
-* Project Management: [Introductory Certificate in Project Management](https://ipma.it/ipma_/index.php/certificati-ipma?livello=E&pag=44) by IPMA Italy
-* Sales: [IBM Global Sales School - Sales Activation](https://www.credly.com/badges/0cb94495-ce30-43ea-8654-338ad1a543d5/public_url) by IBM
-* IT: [Architectural Thinking](https://www.credly.com/badges/1a57014b-1bed-41cb-a16f-3868208ebbbe/public_url) by IBM
-* Programming Languages: Python (Basic)
-* Markup Languages: LaTeX (Basic)
-* Data Management: Microsoft Access (Basic), MySQL (Basic)
-* Office Automation: Office Suite, Word Processors, Spreadsheets, Presentation Software (Advanced)
+#### Languages
+* **Italian:** Native
+* **English:** Full Professional Proficiency (C1)
 
-#### OTHER SKILLS
-
-* Sport Director and Trainer of a [Youth Cycling Team](https://www.asdprogettociclismorodengosaiano.net/ "A.S.D. Progetto Ciclismo - Rodengo Saiano") (since 2016)
-* Experience in Sports: Cycling, Running, Hiking
+#### Other Skills
+* **Sports Management:** Sport Director and Coach of a [Youth Cycling Team](https://www.asdprogettociclismorodengosaiano.net/) *(since 2016)*

@@ -13,7 +13,7 @@ disableShare: true
 
 I am a Partner Technical Specialist at IBM, operating at the intersection of enterprise technology and strategic business growth. My work focuses on empowering the Global System Integrators (GSIs) ecosystem, enabling partners to demonstrate, architect, and deploy IBM Automation solutions at scale. By translating complex technical architectures into clear commercial value, I help partners expand their autonomous delivery capabilities and drive joint client engagements.
 
-My practical approach to IT is grounded in a strong academic foundation in innovation economics. Holding two Master of Science degrees in European Management (Eberhard Karls University of Tübingen) and International Business and Entrepreneurship (University of Pavia), I focused my graduate research on platform economics—specifically analyzing the market determinants of mobile app adoption and the disruptive impact of digital platforms on traditional business models. 
+My practical approach to IT is grounded in a strong academic foundation in innovation economics. Holding two Master of Science degrees in European Management (Eberhard Karls University of Tübingen) and International Business and Entrepreneurship (University of Pavia), I focused my graduate research on platform economics, specifically analyzing the market determinants of mobile app adoption and the impact of digital platforms. 
 
 I combine this macro-level understanding of digital ecosystems with hands-on technical enablement. Whether orchestrating tailored technical workshops, supporting partner teams through Proofs of Concept (PoCs), or aligning cross-functional stakeholders, my goal is to turn emerging IT trends into high-quality, actionable market solutions.
 

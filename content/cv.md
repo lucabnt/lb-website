@@ -43,7 +43,7 @@ I combine this macro-level understanding of digital ecosystems with hands-on tec
 ### Master's Degree in European Management | Eberhard Karls University of Tübingen
 *Feb 2023* · **Score:** Gut (1.57/1.0) 
 
-* **Master's Thesis:** Conducted empirical research on the market determinants of mobile app downloads and the impact of digital platforms on business models. ([Determinants of Download on Mobile App Stores - An Empirical Analysis](https://lucabontempi.com/blog/determinants_of_download_on_mobile_app_stores/))
+* **Master's Thesis:** Conducted empirical research on the market determinants of mobile app downloads and the impact of digital platforms on business models ([Determinants of Download on Mobile App Stores - An Empirical Analysis](https://lucabontempi.com/blog/determinants_of_download_on_mobile_app_stores/)).
 * **Program:** Double Degree with the University of Pavia.
 * **Attended courses:** Marketing-Mix Management, eBusiness, Innovation and Technological Change, Advanced Empirical Public Economics.
 

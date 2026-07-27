@@ -27,7 +27,10 @@ I combine this macro-level understanding of digital ecosystems with hands-on tec
 * **Technical Advocacy:** Deliver tailored technical workshops and training sessions, actively supporting partner teams during the execution of Proofs of Concept (PoCs).
 
 ### Associate Partner Technical Specialist | IBM
-*Segrate, Italy · Full-time* | **Jun 2023 – Jun 2026**
+*Segrate, Italy · Full-time* | **Jan 2026 – Jun 2026**
+
+### Associate Partner Technical Specialist - Partner | IBM
+*Segrate, Italy · Full-time* | **Jun 2023 – Dec 2025**
 
 ### Technical Sales Intern | IBM
 *Segrate, Italy · Internship* | **Mar 2023 – May 2023**

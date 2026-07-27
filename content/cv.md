@@ -83,4 +83,4 @@ Python, SQL, Enterprise Software Architecture concepts, Digital Platform Models
 * **English:** Full Professional Proficiency (C1)
 
 #### Other Skills
-* **Sports Management:** Sport Director and Coach of a [Youth Cycling Team](https://www.asdprogettociclismorodengosaiano.net/) *(since 2016)*
+* **Sports Management:** Sport Director and Coach of a [Youth Cycling Team](https://www.asdprogettociclismorodengosaiano.it/) *(since 2016)*

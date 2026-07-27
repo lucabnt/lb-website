@@ -19,12 +19,15 @@ I combine this macro-level understanding of digital ecosystems with hands-on tec
 
 ## Experience
 
-### Associate Partner Technical Specialist | IBM
-*Segrate, Italy · Full-time* | **Jun 2023 – Present**
+### Partner Technical Specialist | IBM
+*Segrate, Italy · Full-time* | **Jul 2026 – Present**
 
 * **Partner Enablement:** Drive technical enablement and solution activation for System Integrators (GSI), expanding their autonomous delivery capabilities in the IBM portfolio.
 * **Solution Architecture:** Collaborate with partners to identify technical requirements, architect integrated solutions, and facilitate joint client engagements to accelerate market adoption.
 * **Technical Advocacy:** Deliver tailored technical workshops and training sessions, actively supporting partner teams during the execution of Proofs of Concept (PoCs).
+
+### Associate Partner Technical Specialist | IBM
+*Segrate, Italy · Full-time* | **Jun 2023 – Jun 2026**
 
 ### Technical Sales Intern | IBM
 *Segrate, Italy · Internship* | **Mar 2023 – May 2023**

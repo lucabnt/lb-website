@@ -30,7 +30,7 @@ Ho corso in bici per dieci anni, otto dei quali con la maglia di **<a href="http
 Il problema dello sport giovanile italiano, oggi, **non è la passione**: quella si vede ogni domenica mattina, in migliaia di società sparse ovunque. Il problema è che tutto questo si regge su **persone che ci mettono il proprio tempo gratis**, e che di persone disposte a farlo **se ne trovano sempre meno**. Da noi, in Progetto Ciclismo, non è la preoccupazione principale. Ma basta parlare con i dirigenti di qualsiasi altra società in qualsiasi altro sport per capire che è un privilegio e non la norma.
 
 
-In ogni caso il conto non cambia: **le ore di cui una società dispone in una stagione sono una risorsa limitata**, e quando una risorsa è limitata le strade sono due. **si rinuncia a fare delle cose, oppure si trova il modo di farle impiegandoci meno.** E la prima strada, in una società giovanile, significa quasi sempre rinunciare a quello che non si vede ma che tiene insieme il resto: la comunicazione, il rapporto con le famiglie, la programmazione, la memoria di quello che si è fatto negli anni scorsi.
+In ogni caso il conto non cambia: **le ore di cui una società dispone in una stagione sono una risorsa limitata**, e quando una risorsa è limitata le strade sono due: **si rinuncia a fare delle cose, oppure si trova il modo di farle impiegandoci meno.** E la prima strada, in una società giovanile, significa quasi sempre rinunciare a quello che non si vede ma che tiene insieme il resto: la comunicazione, il rapporto con le famiglie, la programmazione, la memoria di quello che si è fatto negli anni scorsi.
 
 
 L'intelligenza artificiale, in questo quadro, non è né una moda da cui tenersi alla larga né una promessa di rivoluzione. **È uno strumento**, e come tutti gli strumenti **va giudicato per le ore che restituisce**: sta cambiando il modo di lavorare in praticamente ogni settore, e non vedo ragione per cui un'associazione sportiva dilettantistica debba essere l'ultima ad accorgersene. Di questo, peraltro, mi occupo anche per lavoro: <a href="https://www.linkedin.com/in/lucabontempi1/" target="_blank" rel="noopener">da più di tre anni sono in IBM</a>, dove ho lavorato da vicino con l'AI generativa e, più di recente, con i sistemi agentici.
@@ -79,7 +79,7 @@ Il report si apre con i due test, uno per motore. Prima lo sprint:
 | RPM max              | 145                                 |
 
 
-*Il test dello sprint: misura quanta potenza l'atleta riesce a produrre in pochi secondi e quanto riesce a tenerla.*
+*Il test dello sprint su 15 secondi: misura quanta potenza l'atleta riesce a produrre in pochi secondi e quanto riesce a tenerla.*
 
 
 Poi il motore aerobico:
@@ -142,7 +142,7 @@ C'è una parte che non avevo previsto e che si è rivelata la più preziosa: ogn
 > **Coefficiente di transizione applicato (adattamento puberale in corso).** Per i test da Allievo è stato usato il 78% della MAP anziché il 75% previsto. Con il 75% la soglia risulterebbe 189 W, cioè un calo del 5% rispetto al test precedente pur in presenza di MAP in aumento: un calo puramente matematico e non fisiologico. La soglia reale è verosimilmente compresa tra 189 e 197 W.
 
 
-**Lo strumento dichiara di aver forzato una propria regola e spiega perché**: senza quella forzatura il report avrebbe comunicato un calo del 5% a un ragazzo che stava migliorando. Nessuna delle voci incluse in questa sezione è un'analisi: sono verifiche sulla qualità dei dati, il tipo di controllo che in tre anni non avevo mai fatto in modo sistematico.
+**Lo strumento dichiara di aver forzato una propria regola e spiega perché**: senza quella forzatura il report avrebbe comunicato un calo di qualche punto percentuale a un ragazzo che stava migliorando. Nessuna delle voci incluse in questa sezione è un'analisi: sono verifiche sulla qualità dei dati, il tipo di controllo che in tre anni non avevo mai fatto in modo sistematico.
 
 
 ## Secondo esperimento: da un messaggio WhatsApp a un post pubblicabile
@@ -228,7 +228,7 @@ Nei grafici che seguono, a sinistra le ore settimanali medie degli Allievi nel 2
 >}}
 
 
-Il primo grafico dice che un Allievo, da noi, si allena attorno alle sette ore e mezza a settimana, con punte oltre le undici; il secondo che un Esordiente esce in bici quattro volte e mezza a settimana, con settimane da sei e sette. Sono numeri che a un genitore fanno impressione, ma che permettono ad un tecnico di valutare quale sia il livello di carico.
+Il primo grafico dice che un Allievo, da noi, si allena attorno alle sette ore e mezza a settimana, con punte oltre le undici; il secondo che un Esordiente esce in bici quattro volte e mezza a settimana, con settimane da sei e sette. Sono numeri che a un genitore fanno impressione, ma che permettono a un tecnico di valutare quale sia il livello di carico.
 
 
 Quello che guardo io, però, sono **le settimane vuote**: quella da due ore e mezza a metà luglio, quella da quattro a inizio ottobre, la coda dell'anno che si abbassa. Quando a scendere è tutta la categoria insieme **la causa non sta nel singolo**, ed è quasi sempre una delle stesse: il maltempo, gli esami a scuola, un calendario che in quel periodo ha lasciato un vuoto, la stanchezza che si accumula, la voglia che cala tutta insieme dopo un blocco di gare. Sono le settimane su cui vale la pena intervenire l'anno dopo, ed è un'informazione che senza il grafico semplicemente non esisterebbe, perché a memoria, di quello fatto mesi fa, restano le gare.
@@ -255,10 +255,11 @@ Con i ragazzi il rischio è doppio, perché l'entusiasmo porta a spingere sempre
 ## Quanto costa, in euro
 
 
-Uso principalmente due servizi, scelti in base al lavoro da fare. Per le analisi dei test, compito complesso dove un errore ha conseguenze vere, uso Claude con il modello Opus 5, attorno ai venti euro al mese. Per la scrittura, cioè post e articoli, uso Gemini con il modello Pro: il compito è meno insidioso, i testi sono ottimi e il rapporto qualità-prezzo è nettamente migliore, sui cinque euro. A questi si aggiunge, solo nei periodi in cui metto mano al codice, alcuni assistenti di programmazione sui venti euro al mese: ho usato sia IBM Bob che Claude Code. 
+Uso assistenti e modelli diversi, scelti in base al lavoro da fare. Per le analisi dei test, che sono il compito più delicato e dove un errore ha conseguenze vere, mi affido a un modello di punta, cioè la fascia alta di Anthropic, Google o OpenAI (Opus 5, ad esempio): costano attorno ai venti euro al mese. Per la scrittura, cioè i post e gli articoli, ne basta uno di fascia inferiore: il compito è meno insidioso, i testi vengono comunque ottimi e il rapporto qualità-prezzo è nettamente migliore, sui cinque euro. A questi si aggiunge, solo nei periodi in cui metto mano al codice, un assistente di programmazione come Claude Code o IBM Bob: altri venti euro, per iniziare.
 
 
 Vale però la pena dire una cosa: **per buona parte di questo lavoro un piano gratuito basta**. Un post, un'anteprima del weekend, un articolo dei risultati sono compiti brevi e ripetitivi, e le versioni gratuite di questi servizi li reggono benissimo; i limiti stanno nel numero di richieste che si possono fare in un giorno e nell'accesso ai modelli più recenti, non nella qualità di un testo di dieci righe. Una società che parte da zero può cominciare così e mettere mano al portafoglio solo quando trova il muro, che arriva con i lavori più lunghi.
+
 
 La lezione, se ce n'è una, è che **non serve il modello più potente per tutto**: serve dove il rischio di sbagliare è alto, e ne basta uno economico, o gratuito, dove il compito è ripetitivo e si verifica a colpo d'occhio.
 
@@ -287,7 +288,7 @@ Quelle di cui ho parlato sono in uso da una stagione. **Queste no: sono solo del
 **L'archivio storico**: digitalizzare risultati e fotografie degli anni passati, con didascalie e ricerca. È memoria che altrimenti resta in una scatola in sede e sparisce il giorno in cui cambia il segretario.
 
 
-**La formazione di staff e genitori**: cosa aspettarsi da un Esordiente, perché certi allenamenti a quell'età non si fanno, come si sta a bordo strada senza mettere pressione. È il punto con il ritorno più alto della lista e la tecnologia meno interessante della lista.
+**La formazione di staff e genitori**: cosa aspettarsi da un Esordiente, perché certi allenamenti a quell'età non si fanno, come si sta a bordo strada senza mettere pressione. È il punto con il ritorno più alto e la tecnologia meno interessante della lista.
 
 
 **E, infine, una che non proverò: l'alimentazione**. È probabilmente il primo uso che verrebbe in mente a molti, ed è quello che eviterei con più decisione. Un piano alimentare per un ragazzo di tredici anni non è una questione di prestazione ma di crescita, e a quell'età i disturbi del comportamento alimentare non sono un'ipotesi da manuale. La strada resta quella di sempre, cioè il medico e la famiglia, e un modello linguistico lì non c'entra niente.

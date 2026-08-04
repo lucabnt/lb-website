@@ -148,7 +148,7 @@ La fascia cardio ha perso il contatto a tratti, e ogni buco nel tracciato vale z
 > **Anomalia End Power**. L'End Power (330,2 W) risulta superiore alla Potenza Media (321,7 W): la potenza era ancora in salita a fine prova, l'atleta ha iniziato in modo submassimale. L'Indice di Fatica va letto con questa cautela, perché parte del miglioramento apparente può derivare da un avvio più morbido.
 
 
-Il report segnala il progresso e poi, poche righe più sotto, se lo rimangia: il ragazzo non aveva imparato a non calare sotto sforzo, era semplicemente partito piano e stava ancora accelerando quando il test è finito. **I numeri erano giusti, era la lettura a essere sbagliata.**
+L'indice di fatica era crollato da 8,2 a 1,8 in cinque mesi, il miglioramento più netto del suo quadro. Poche righe più sotto il report se lo rimangia: il ragazzo non aveva imparato a non calare sotto sforzo, era semplicemente partito piano e stava ancora accelerando quando il test è finito. **I numeri erano giusti, era la lettura a essere sbagliata.**
 
 
 > **Coefficiente di transizione applicato (adattamento puberale in corso).** Usato il 78% della MAP anziché il 75% previsto: con il 75% la soglia risulterebbe 189 W, cioè un calo rispetto al test precedente pur con MAP in aumento. Un calo puramente matematico e non fisiologico.
@@ -187,7 +187,7 @@ Dieci secondi per scriverlo, mezz'ora buona per trasformarlo in qualcosa che un 
 > Complimenti a tutti: avete corso da squadra dal primo all'ultimo metro! 🚀
 
 
-Sembra una banalità, e invece dietro ci sono **alcune regole scritte nel documento**. La prima è che il risultato di squadra viene sempre prima di quelli individuali, perché in una società giovanile è quello che conta di più. La seconda è **la lista delle cose che il testo non farà mai**, cioè nessun commento fuori luogo, nessun dato sensibile, nessuna frase che leghi il valore di un ragazzo al suo piazzamento. Quelle regole stanno in un unico file condiviso dai due strumenti: **se le cambio, cambiano per tutti i casi d'uso**. 
+Sembra una banalità, e invece dietro ci sono **alcune regole scritte nel documento**. La prima è che il risultato di squadra viene sempre prima di quelli individuali, perché in una società giovanile è quello che conta di più. La seconda è **la lista delle cose che il testo non farà mai**, cioè nessun commento fuori luogo, nessun dato sensibile, nessuna frase che leghi il valore di un ragazzo al suo piazzamento. Quelle regole stanno in un unico file condiviso dai due strumenti: **se le cambio, cambiano per tutti i casi d'uso**.
 
 
 Le convenzioni, poi, non le ho inventate: le ho ricavate dagli articoli che la società ha davvero pubblicato in questi anni. Sono dettagli che nessuno nota finché ci sono e che tutti notano quando spariscono, ed è lì il guadagno vero: **conta più la costanza del tempo risparmiato**. Gli articoli di marzo e quelli di settembre sembrano scritti dalla stessa mano, anche quando le mani sono molte di più.
@@ -215,7 +215,7 @@ Alla fine della stagione ne esce una raccolta di grafici. La parte interessante 
 >}}
 
 
-Sono lo stesso dato e **raccontano due storie diverse**, ed è la ragione per cui li stampo sempre in coppia. La media è il totale diviso il numero dei ragazzi, e basta un atleta che si ferma a maggio per tirarla giù; la mediana è il valore di quello che sta esattamente a metà del gruppo, cioè **il ragazzo tipico**, e non prende in considerazione chi resta agli estremi.
+Sono lo stesso dato e **raccontano due storie diverse**, ed è la ragione per cui li stampo sempre in coppia. La media è il totale diviso il numero dei ragazzi, e basta un atleta che si ferma a maggio per tirarla giù; la mediana è il valore di quello che sta esattamente a metà del gruppo, cioè **il ragazzo tipico**, e non si lascia condizionare da chi sta agli estremi.
 
 
 Nel 2024 **la differenza è di mille chilometri**: la media dice 5.800, la mediana 6.850. Vuol dire che l'atleta tipico aveva già fatto quasi settemila chilometri e che a schiacciare la media era chi in quella stagione aveva pedalato poco. Nel 2025 le due curve si avvicinano e si scambiano di posto, il che è il segno di un gruppo più omogeneo.
@@ -245,6 +245,7 @@ Il primo grafico dice che un Allievo, da noi, si allena attorno alle sette ore e
 
 Quello che guardo io, però, sono **le settimane vuote**: quella da due ore e mezza a metà luglio, quella da quattro a inizio ottobre, la coda dell'anno che si abbassa. Quando a scendere è tutta la categoria insieme **la causa non sta nel singolo**, ed è quasi sempre una delle stesse: il maltempo, gli esami a scuola, un calendario che in quel periodo ha lasciato un vuoto, la stanchezza che si accumula, la voglia che cala tutta insieme dopo un blocco di gare. Sono le settimane su cui vale la pena intervenire l'anno dopo, ed è un'informazione che senza il grafico semplicemente non esisterebbe, perché a memoria, di quello fatto mesi fa, restano le gare.
 
+
 ### La distribuzione dell'intensità
 
 
@@ -258,7 +259,7 @@ Quello che guardo io, però, sono **le settimane vuote**: quella da due ore e me
 È forse **il grafico che andrebbe guardato per primo** e che invece nessuno guarda mai, perché è il meno spettacolare di tutti. Dice quanto tempo un ragazzo ha passato in ciascuna fascia di intensità nel corso dell'anno, dal fondo lentissimo agli sforzi massimali.
 
 
-I nostri Allievi hanno passato **quasi metà della stagione, il 48%, nelle due zone più leggere**. Sembra tanto finché non si ricorda che tutta la letteratura sull'allenamento di resistenza ne vorrebbe **attorno ai tre quarti**. Il resto è distribuito quasi uniformemente: un quarto abbondante nella terza zona, quella intermedia, e poco meno del 30% sopra la soglia. Detta in un altro modo, **un quarto dell'anno se n'è andato in quella fascia troppo intensa per essere davvero fondo e troppo blanda per allenare qualcosa di preciso**.
+I nostri Allievi hanno passato **quasi metà della stagione, il 48%, nelle due zone più leggere**. Sembra tanto finché non si ricorda che tutta la letteratura sull'allenamento di resistenza ne vorrebbe **attorno ai tre quarti**. Il resto è distribuito quasi uniformemente: quasi un quarto nella terza zona, quella intermedia, e poco meno del 30% sopra la soglia. Detta in un altro modo, **un quarto dell'anno se n'è andato in quella fascia troppo intensa per essere davvero fondo e troppo blanda per allenare qualcosa di preciso**.
 
 
 Con i ragazzi il rischio è doppio, perché l'entusiasmo porta a spingere sempre un po' più del dovuto. Vederlo scritto in un grafico non risolve niente da solo, ma è il tipo di domanda che cambia la programmazione dell'anno successivo.

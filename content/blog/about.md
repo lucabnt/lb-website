@@ -2,6 +2,7 @@
 author: "lb"
 title: "About me - Mi presento"
 tags: ["about", "ita"]
+draft: true
 hideMeta: false
 ---
 Un About me sempre aggiornato è disponibile [qui](https://lucabontempi.com/about/).

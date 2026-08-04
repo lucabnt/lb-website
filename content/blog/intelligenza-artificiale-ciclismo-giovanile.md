@@ -136,13 +136,25 @@ Tradotto: è un ragazzo che negli ultimi metri fa la differenza ma che nelle sal
 ### La sezione più utile è quella dei dubbi
 
 
-C'è una parte che non avevo previsto e che si è rivelata la più preziosa: ogni analisi si chiude con un'appendice dove finisce tutto ciò che rende i numeri meno affidabili di quanto sembrino. Ecco un esempio.
+C'è una parte che non avevo previsto e che si è rivelata la più preziosa. Ogni analisi si chiude con un'appendice che non parla dell'atleta né commenta le conclusioni: elenca quali dati, tra quelli ricevuti, sono meno solidi di quanto sembrino e perché. Tre esempi, da report di ragazzi diversi.
 
 
-> **Coefficiente di transizione applicato (adattamento puberale in corso).** Per i test da Allievo è stato usato il 78% della MAP anziché il 75% previsto. Con il 75% la soglia risulterebbe 189 W, cioè un calo rispetto al test precedente pur in presenza di MAP in aumento: un calo puramente matematico e non fisiologico. La soglia reale è verosimilmente compresa tra 189 e 197 W.
+> **Traccia cardio con interruzioni del segnale (fascia).** FC media 123 bpm e Lavoro/Battito 57 J non attendibili: il −16% di quella riga è un artefatto di misura.
 
 
-**Lo strumento dichiara di aver forzato una propria regola e spiega perché**: senza quella forzatura il report avrebbe comunicato un calo di qualche punto percentuale a un ragazzo che stava migliorando. Nessuna delle voci incluse in questa sezione è un'analisi: sono verifiche sulla qualità dei dati, il tipo di controllo che in tre anni non avevo mai fatto in modo sistematico.
+La fascia cardio ha perso il contatto a tratti, e ogni buco nel tracciato vale zero battiti: la media della seduta si abbassa da sola. Nella tabella storica quel test compariva con un calo del 16%, che non è mai avvenuto.
+
+
+> **Anomalia End Power**. L'End Power (330,2 W) risulta superiore alla Potenza Media (321,7 W): la potenza era ancora in salita a fine prova, l'atleta ha iniziato in modo submassimale. L'Indice di Fatica va letto con questa cautela, perché parte del miglioramento apparente può derivare da un avvio più morbido.
+
+
+Il report segnala il progresso e poi, poche righe più sotto, se lo rimangia: il ragazzo non aveva imparato a non calare sotto sforzo, era semplicemente partito piano e stava ancora accelerando quando il test è finito. **I numeri erano giusti, era la lettura a essere sbagliata.**
+
+
+> **Coefficiente di transizione applicato (adattamento puberale in corso).** Usato il 78% della MAP anziché il 75% previsto: con il 75% la soglia risulterebbe 189 W, cioè un calo rispetto al test precedente pur con MAP in aumento. Un calo puramente matematico e non fisiologico.
+
+
+Qui **lo strumento dichiara di aver forzato una propria regola e spiega perché**: senza, il report avrebbe comunicato un calo a un ragazzo che stava migliorando. Nessuna di queste voci è un'analisi: sono verifiche sulla qualità dei dati, il tipo di controllo che in tre anni non avevo mai fatto in modo sistematico.
 
 
 ## Secondo esperimento: da un messaggio WhatsApp a un post pubblicabile

@@ -69,7 +69,7 @@ Meglio mostrarlo che descriverlo. Quelle che seguono sono le tabelle di un atlet
 Il report si apre con i due test, uno per motore. Prima lo sprint:
 
 
-| Anaerobico (Wingate) | Valore                              |
+| Anaerobico (Wingate 15s) | Valore                              |
 | -------------------- | ----------------------------------- |
 | Picco di potenza     | 624,4 W (10,6 W/kg)                 |
 | Tempo al picco       | 7,7 s                               |

@@ -304,9 +304,6 @@ Quelle di cui ho parlato sono in uso da una stagione. **Queste no: sono solo del
 **La formazione di staff e genitori**: cosa aspettarsi da un Esordiente, perché certi allenamenti a quell'età non si fanno, come si sta a bordo strada senza mettere pressione. È il punto con il ritorno più alto e la tecnologia meno interessante della lista.
 
 
-**E, infine, una che non proverò: l'alimentazione**. È probabilmente il primo uso che verrebbe in mente a molti, ed è quello che eviterei con più decisione. Un piano alimentare per un ragazzo di tredici anni non è una questione di prestazione ma di crescita, e a quell'età i disturbi del comportamento alimentare non sono un'ipotesi da manuale. La strada resta quella di sempre, cioè il medico e la famiglia, e un modello linguistico lì non c'entra niente.
-
-
 ## Perché è tutto pubblico
 
 

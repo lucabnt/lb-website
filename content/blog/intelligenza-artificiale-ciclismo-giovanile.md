@@ -139,7 +139,7 @@ Tradotto: è un ragazzo che negli ultimi metri fa la differenza ma che nelle sal
 C'è una parte che non avevo previsto e che si è rivelata la più preziosa: ogni analisi si chiude con un'appendice dove finisce tutto ciò che rende i numeri meno affidabili di quanto sembrino. Ecco un esempio.
 
 
-> **Coefficiente di transizione applicato (adattamento puberale in corso).** Per i test da Allievo è stato usato il 78% della MAP anziché il 75% previsto. Con il 75% la soglia risulterebbe 189 W, cioè un calo del 5% rispetto al test precedente pur in presenza di MAP in aumento: un calo puramente matematico e non fisiologico. La soglia reale è verosimilmente compresa tra 189 e 197 W.
+> **Coefficiente di transizione applicato (adattamento puberale in corso).** Per i test da Allievo è stato usato il 78% della MAP anziché il 75% previsto. Con il 75% la soglia risulterebbe 189 W, cioè un calo rispetto al test precedente pur in presenza di MAP in aumento: un calo puramente matematico e non fisiologico. La soglia reale è verosimilmente compresa tra 189 e 197 W.
 
 
 **Lo strumento dichiara di aver forzato una propria regola e spiega perché**: senza quella forzatura il report avrebbe comunicato un calo di qualche punto percentuale a un ragazzo che stava migliorando. Nessuna delle voci incluse in questa sezione è un'analisi: sono verifiche sulla qualità dei dati, il tipo di controllo che in tre anni non avevo mai fatto in modo sistematico.

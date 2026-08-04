@@ -79,6 +79,9 @@ Il report si apre con i due test, uno per motore. Prima lo sprint:
 | RPM max              | 145                                 |
 
 
+*Il test dello sprint: misura quanta potenza l'atleta riesce a produrre in pochi secondi e quanto riesce a tenerla.*
+
+
 Poi il motore aerobico:
 
 
@@ -89,6 +92,9 @@ Poi il motore aerobico:
 | FTHR                    | 162 bpm (91% della FC massima)           |
 | Lavoro/battito          | 67 J medio (max 89 J)                    |
 | Cadenza                 | 89 rpm media, 143 rpm max                |
+
+
+*Il test aerobico: il carico sale a gradini fino a esaurimento. La MAP è il tetto, i watt soglia sono l'intensità che si può sostenere a lungo.*
 
 
 Presi da soli questi numeri dicono poco: **sono la fotografia di un pomeriggio**. Diventano qualcosa quando finiscono in fila con quelli di prima.
@@ -102,6 +108,9 @@ Presi da soli questi numeri dicono poco: **sono la fotografia di un pomeriggio**
 | ott 2025 | 57,0 kg | 248 W | 198 W  | 3,5         | 620 W        | 57 J           |
 | feb 2026 | 59,0 kg | 249 W | 194 W  | 3,3         | 605 W        | 67 J           |
 | lug 2026 | 59,0 kg | 252 W | 197 W  | 3,3         | 624 W        | 67 J           |
+
+
+*Due anni e mezzo di test dello stesso atleta, anonimizzato: sei sessioni, ridotte a colonne leggibili.*
 
 
 Anche senza sapere cosa sia la MAP (è la massima potenza aerobica, in pratica il tetto del motore) una cosa si legge subito: in poco più di due anni **il peso sale di nove chili e nessun valore assoluto arretra**, cioè il ragazzo ha attraversato la crescita senza pagarla. Si legge però anche la seconda, meno rassicurante: i watt di soglia per chilo scendono da 4,0 a 3,3 e la MAP è ferma da tre test. **Il motore aerobico non sta tenendo il passo del corpo.**
@@ -203,6 +212,9 @@ Nel 2024 **la differenza è di mille chilometri**: la media dice 5.800, la media
 C'è poi la lettura che conta di più per chi programma. Guardando la media si direbbe che la squadra è cresciuta ogni anno, e in effetti è così. Guardando la mediana, invece, il salto vero è tutto tra il 2023 e il 2024, mentre **nel 2025 il ragazzo tipico è praticamente fermo**: a far salire ancora la media sono stati quelli che già facevano tanto. Sono due informazioni diverse e servono entrambe, la prima per raccontare la stagione al direttivo, la seconda per decidere su chi lavorare l'anno dopo.
 
 
+La crescita non riguarda solo noi: nel ciclismo, come in tutti gli sport di resistenza, **i volumi di allenamento sono aumentati parecchio negli ultimi anni**, e quello che si fa ai piani alti scende ai dilettanti e poi, con qualche stagione di ritardo, arriva anche alle categorie giovanili. Una parte dei tremila chilometri in più che si vedono nel grafico è probabilmente anche questo.
+
+
 ### Come è fatta una settimana
 
 
@@ -219,8 +231,7 @@ Nei grafici che seguono, a sinistra le ore settimanali medie degli Allievi nel 2
 Il primo grafico dice che un Allievo, da noi, si allena attorno alle sette ore e mezza a settimana, con punte oltre le undici; il secondo che un Esordiente esce in bici quattro volte e mezza a settimana, con settimane da sei e sette. Sono numeri che a un genitore fanno impressione, ma che permettono ad un tecnico di valutare quale sia il livello di carico.
 
 
-Quello che guardo io, però, sono **le settimane vuote**: quella da due ore e mezza a metà luglio, quella da quattro a inizio ottobre, la coda dell'anno che si abbassa. Quando a scendere è tutta la categoria insieme **la causa sta dalla nostra parte**, ed è quasi sempre la stessa: il maltempo, gli esami a scuola, un calendario che in quel periodo ha lasciato un vuoto. Sono le settimane su cui vale la pena intervenire l'anno dopo, ed è un'informazione che senza il grafico semplicemente non esisterebbe, perché a memoria, di quello fatto mesi fa, restano le gare.
-
+Quello che guardo io, però, sono **le settimane vuote**: quella da due ore e mezza a metà luglio, quella da quattro a inizio ottobre, la coda dell'anno che si abbassa. Quando a scendere è tutta la categoria insieme **la causa non sta nel singolo**, ed è quasi sempre una delle stesse: il maltempo, gli esami a scuola, un calendario che in quel periodo ha lasciato un vuoto, la stanchezza che si accumula, la voglia che cala tutta insieme dopo un blocco di gare. Sono le settimane su cui vale la pena intervenire l'anno dopo, ed è un'informazione che senza il grafico semplicemente non esisterebbe, perché a memoria, di quello fatto mesi fa, restano le gare.
 
 ### La distribuzione dell'intensità
 

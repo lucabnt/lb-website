@@ -1,6 +1,6 @@
 ---
 title: "Le ore che non abbiamo più: cosa succede quando porti l'intelligenza artificiale in una squadra sportiva giovanile"
-date: 2026-08-04T10:17:38+02:00 # date: 2020-11-02T17:03:46+01:00
+date: 2026-08-05T10:17:38+02:00 # date: 2020-11-02T17:03:46+01:00
 draft: true
 # weight: 1
 # aliases: ["/first"]
@@ -33,7 +33,7 @@ Il problema dello sport giovanile italiano, oggi, **non è la passione**: quella
 In ogni caso il conto non cambia: **le ore di cui una società dispone in una stagione sono una risorsa limitata**, e quando una risorsa è limitata le strade sono due: **si rinuncia a fare delle cose, oppure si trova il modo di farle impiegandoci meno.** E la prima strada, in una società giovanile, significa quasi sempre rinunciare a quello che non si vede ma che tiene insieme il resto: la comunicazione, il rapporto con le famiglie, la programmazione, la memoria di quello che si è fatto negli anni scorsi.
 
 
-L'intelligenza artificiale, in questo quadro, non è né una moda da cui tenersi alla larga né una promessa di rivoluzione. **È uno strumento**, e come tutti gli strumenti **va giudicato per le ore che restituisce**: sta cambiando il modo di lavorare in praticamente ogni settore, e non vedo ragione per cui un'associazione sportiva dilettantistica debba essere l'ultima ad accorgersene. Di questo, peraltro, mi occupo anche per lavoro: <a href="https://www.linkedin.com/in/lucabontempi1/" target="_blank" rel="noopener">da più di tre anni sono in IBM</a>, dove ho lavorato da vicino con l'AI generativa e, più di recente, con i sistemi agentici.
+L'intelligenza artificiale, in questo quadro, non è né una moda da cui tenersi alla larga né una promessa di rivoluzione. **È uno strumento**, e come tutti gli strumenti **va giudicato per le ore che restituisce**: sta cambiando il modo di lavorare in praticamente ogni settore, e non vedo ragione per cui un'associazione sportiva dilettantistica debba essere l'ultima ad accorgersene. Di questo, peraltro, mi occupo anche per lavoro: <a href="https://www.linkedin.com/in/lucabontempi1/" target="_blank" rel="noopener">da più di tre anni lavoro in un contesto</a>, che mi ha permesso di vedere da vicino l'AI generativa e, più di recente, i sistemi agentici.
 
 
 Quello che segue è il racconto di un anno passato a portare le due cose sullo stesso tavolo.

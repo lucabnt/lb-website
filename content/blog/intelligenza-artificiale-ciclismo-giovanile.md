@@ -63,7 +63,7 @@ Da qui è nato **<a href="https://github.com/progetto-ciclismo/youth-cycling-coa
 ### Che aspetto ha un report
 
 
-Meglio mostrarlo che descriverlo. Quelle che seguono sono le tabelle di un atleta reale della squadra, anonimizzato, un Allievo al primo anno.
+Meglio mostrarlo che descriverlo. Quelle che seguono sono le tabelle di un atleta, anonimizzato.
 
 
 Il report si apre con i due test, uno per motore. Prima lo sprint:

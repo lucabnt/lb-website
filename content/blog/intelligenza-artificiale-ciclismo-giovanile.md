@@ -236,7 +236,7 @@ Nei grafici che seguono, a sinistra le ore settimanali medie degli Allievi nel 2
 {{< figure
   src="settimane-allievi-esordienti-2025.png"
   alt="A sinistra le ore settimanali medie degli Allievi nel 2025, a destra le uscite settimanali medie degli Esordienti"
-  caption="Due categorie diverse e due unità di misura diverse. A sinistra le ore di allenamento settimana per settimana dell'Allievo medio, con media stagionale poco sotto le sette e mezza; a destra le uscite settimanali dell'Esordiente medio, con media di quattro e mezza. In entrambi i grafici la riga rossa è la media della stagione."
+  caption="Due categorie diverse e due unità di misura diverse. A sinistra le ore di allenamento settimana per settimana dell'Allievo medio, con media stagionale poco sopra le sette e mezza; a destra le uscite settimanali dell'Esordiente medio, con media di quattro e mezza. In entrambi i grafici la riga rossa è la media della stagione."
 >}}
 
 

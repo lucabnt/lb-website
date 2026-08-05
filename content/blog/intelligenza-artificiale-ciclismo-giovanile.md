@@ -4,7 +4,7 @@ date: 2026-08-04T10:17:38+02:00 # date: 2020-11-02T17:03:46+01:00
 draft: true
 # weight: 1
 # aliases: ["/first"]
-tags: ["sport", "AI", "ita"]
+tags: ["sport", "ai", "ita"]
 author: "lb"
 # author: ["Me", "You"] # multiple authors
 showToc: true

@@ -90,7 +90,11 @@ params:
   cover:
       responsiveImages: false
       linkFullImages: true
-  
+
+  # GoatCounter (analytics gratuito, no cookie, non richiede privacy policy)
+  # Dashboard: https://lucabontempi.goatcounter.com
+  goatcounter: "lucabontempi"
+
 #googleAnalytics: G-XXPZ3HC2H9
 
 # analytics:

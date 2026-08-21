@@ -15,6 +15,11 @@ author: Luca Bontempi
 showToc: false
 hidemeta: true
 disableShare: true
+# Questa pagina è un embed della tesi (poco testo proprio) ed è duplicata
+# rispetto al post del blog: la teniamo fuori dall'indice dei motori di ricerca
+# per evitare contenuti duplicati/thin content.
+robotsNoIndex: true
+canonicalURL: "https://lucabontempi.com/blog/determinants_of_download_on_mobile_app_stores/"
 cover:
     image: /blog/determinants_of_download_on_mobile_app_stores/determinants_of_download_on_mobile_app_stores_1.webp
     relative: true

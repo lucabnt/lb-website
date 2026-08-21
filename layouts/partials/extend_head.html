@@ -5,4 +5,11 @@
     onload="renderMathInElement(document.body);"></script>
 {{ end }}
 
-<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+{{- /*
+  Il widget di Netlify Identity serve solo per intercettare i link di invito/recupero
+  password che Netlify può far puntare a qualunque pagina del sito, non solo a /admin/.
+  Per questo resta caricato su tutte le pagine, ma con "defer" per non bloccare il
+  rendering iniziale della pagina (la pagina /admin/ carica comunque una propria copia
+  sincrona dello script, necessaria per il login del CMS).
+*/}}
+<script defer src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>

@@ -15,4 +15,68 @@ collections:
       - {label: "Titolo", name: "title", widget: "string"}
       - {label: "Data", name: "date", widget: "datetime"}
       - {label: "Bozza", name: "draft", widget: "boolean", default: true}
+      - {label: "Descrizione (SEO / anteprima social)", name: "description", widget: "string", required: false, hint: "Se vuota, Hugo usa automaticamente le prime righe dell'articolo."}
+      - {label: "Autore", name: "author", widget: "string", default: "lb"}
+      - {label: "Tag", name: "tags", widget: "list", required: false}
+      - label: "Immagine di copertina"
+        name: "cover"
+        widget: "object"
+        required: false
+        fields:
+          - {label: "Immagine", name: "image", widget: "image", required: false}
+          - {label: "Testo alternativo (alt)", name: "alt", widget: "string", required: false}
+          - {label: "Percorso relativo alla pagina", name: "relative", widget: "boolean", default: true}
+      - {label: "Mostra indice (TOC)", name: "showToc", widget: "boolean", default: true, required: false}
       - {label: "Corpo dell'articolo", name: "body", widget: "markdown"}
+
+  - name: "pages"
+    label: "Pagine del sito"
+    files:
+      - label: "About"
+        name: "about"
+        file: "content/about.md"
+        fields:
+          - {label: "Titolo", name: "title", widget: "string"}
+          - {label: "Autore", name: "author", widget: "string"}
+          - {label: "Descrizione (SEO)", name: "description", widget: "string", required: false}
+          - {label: "Nascondi meta (data/autore)", name: "hideMeta", widget: "boolean", default: true}
+          - {label: "Nascondi pulsanti condivisione", name: "disableShare", widget: "boolean", default: true}
+          - {label: "Corpo", name: "body", widget: "markdown"}
+
+      - label: "Contatti"
+        name: "contacts"
+        file: "content/contacts.md"
+        fields:
+          - {label: "Titolo", name: "title", widget: "string"}
+          - {label: "Autore", name: "author", widget: "string"}
+          - {label: "Nascondi meta (data/autore)", name: "hideMeta", widget: "boolean", default: true}
+          - {label: "Nascondi pulsanti condivisione", name: "disableShare", widget: "boolean", default: true}
+          - {label: "Corpo", name: "body", widget: "markdown"}
+
+      - label: "Curriculum Vitae"
+        name: "cv"
+        file: "content/cv.md"
+        fields:
+          - {label: "Titolo", name: "title", widget: "string"}
+          - {label: "Autore", name: "author", widget: "string"}
+          - {label: "Nascondi meta (data/autore)", name: "hideMeta", widget: "boolean", default: true}
+          - {label: "Nascondi pulsanti condivisione", name: "disableShare", widget: "boolean", default: true}
+          - {label: "Corpo", name: "body", widget: "markdown"}
+
+      - label: "Il mercato informatico (tesi triennale)"
+        name: "il_mercato_informatico"
+        file: "content/il_mercato_informatico.md"
+        fields:
+          - {label: "Titolo", name: "title", widget: "string"}
+          - {label: "Autore", name: "author", widget: "string"}
+          - {label: "Tag", name: "tags", widget: "list", required: false}
+          - {label: "Nascondi meta (data/autore)", name: "hideMeta", widget: "boolean", default: true}
+          - {label: "Nascondi pulsanti condivisione", name: "disableShare", widget: "boolean", default: true}
+          - label: "Immagine di copertina"
+            name: "cover"
+            widget: "object"
+            required: false
+            fields:
+              - {label: "Immagine", name: "image", widget: "image", required: false}
+              - {label: "Percorso relativo alla pagina", name: "relative", widget: "boolean", default: true}
+          - {label: "Corpo", name: "body", widget: "markdown"}

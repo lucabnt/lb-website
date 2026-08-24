@@ -26,200 +26,200 @@
 [[redirects]]
   from = "https://lucabontempi.it/cv"
   to = "https://lucabontempi.com/cv"
-  status = 302
+  status = 301
   force = true
 
 [[redirects]]
   from = "https://www.lucabontempi.it/cv"
   to = "https://lucabontempi.com/cv"
-  status = 302
+  status = 301
   force = true
 
 [[redirects]]
   from = "https://lucabontempi.eu/cv"
   to = "https://lucabontempi.com/cv"
-  status = 302
+  status = 301
   force = true
 
 [[redirects]]
   from = "https://www.lucabontempi.eu/cv"
   to = "https://lucabontempi.com/cv"
-  status = 302
+  status = 301
   force = true
 
 [[redirects]]
   from = "https://bontempi.me/cv"
   to = "https://lucabontempi.com/cv"
-  status = 302
+  status = 301
   force = true
 
 [[redirects]]
   from = "https://www.bontempi.me/cv"
   to = "https://lucabontempi.com/cv"
-  status = 302
+  status = 301
   force = true
 
 [[redirects]]
   from = "https://bonte.lu/cv"
   to = "https://lucabontempi.com/cv/"
-  status = 302
+  status = 301
   force = true
 
 [[redirects]]
   from = "https://www.bonte.lu/cv"
   to = "https://lucabontempi.com/cv/"
-  status = 302
+  status = 301
   force = true
 
 #Il mercato informatico
 [[redirects]]
   from = "https://lucabontempi.it/il_mercato_informatico/"
   to = "https://lucabontempi.com/il_mercato_informatico/"
-  status = 302
+  status = 301
   force = true
 
 [[redirects]]
   from = "https://www.lucabontempi.it/il_mercato_informatico/"
   to = "https://lucabontempi.com/il_mercato_informatico/"
-  status = 302
+  status = 301
   force = true
 
 [[redirects]]
   from = "https://lucabontempi.eu/il_mercato_informatico/"
   to = "https://lucabontempi.com/il_mercato_informatico/"
-  status = 302
+  status = 301
   force = true
 
 [[redirects]]
   from = "https://www.lucabontempi.eu/il_mercato_informatico/"
   to = "https://lucabontempi.com/il_mercato_informatico/"
-  status = 302
+  status = 301
   force = true
 
 [[redirects]]
   from = "https://lucabontempi.com/ilmercatoinformatico/"
   to = "https://lucabontempi.com/il_mercato_informatico/"
-  status = 302
+  status = 301
   force = true
 
 [[redirects]]
   from = "https://www.lucabontempi.com/ilmercatoinformatico/"
   to = "https://lucabontempi.com/il_mercato_informatico/"
-  status = 302
+  status = 301
   force = true
 
 [[redirects]]
   from = "https://lucabontempi.it/ilmercatoinformatico/"
   to = "https://lucabontempi.com/il_mercato_informatico/"
-  status = 302
+  status = 301
   force = true
 
 [[redirects]]
   from = "https://www.lucabontempi.it/ilmercatoinformatico/"
   to = "https://lucabontempi.com/il_mercato_informatico/"
-  status = 302
+  status = 301
   force = true
 
 [[redirects]]
   from = "https://lucabontempi.eu/ilmercatoinformatico/"
   to = "https://lucabontempi.com/il_mercato_informatico/"
-  status = 302
+  status = 301
   force = true
 
 [[redirects]]
   from = "https://www.lucabontempi.eu/ilmercatoinformatico/"
   to = "https://lucabontempi.com/il_mercato_informatico/"
-  status = 302
+  status = 301
   force = true
 
 #Contacts
 [[redirects]]
   from = "https://lucabontempi.it/contacts/"
   to = "https://lucabontempi.com/contacts/"
-  status = 302
+  status = 301
   force = true
 
 [[redirects]]
   from = "https://www.lucabontempi.it/contacts/"
   to = "https://lucabontempi.com/contacts/"
-  status = 302
+  status = 301
   force = true
 
 [[redirects]]
   from = "https://lucabontempi.eu/contacts/"
   to = "https://lucabontempi.com/contacts/"
-  status = 302
+  status = 301
   force = true
 
 [[redirects]]
   from = "https://www.lucabontempi.eu/contacts/"
   to = "https://lucabontempi.com/contacts/"
-  status = 302
+  status = 301
   force = true
 
 [[redirects]]
   from = "https://bonte.lu/contacts"
   to = "https://lucabontempi.com/contacts/"
-  status = 302
+  status = 301
   force = true
 
 [[redirects]]
   from = "https://www.bonte.lu/contacts"
   to = "https://lucabontempi.com/contacts/"
-  status = 302
+  status = 301
   force = true
 
 # Fundamental Redirects
 [[redirects]]
   from = "https://lucabontempi.it/*"
   to = "https://lucabontempi.com"
-  status = 302
+  status = 301
   force = true
 
 [[redirects]]
   from = "https://www.lucabontempi.it/*"
   to = "https://lucabontempi.com"
-  status = 302
+  status = 301
   force = true
 
 [[redirects]]
   from = "https://lucabontempi.eu/*"
   to = "https://lucabontempi.com"
-  status = 302
+  status = 301
   force = true
 
 [[redirects]]
   from = "https://www.lucabontempi.eu/*"
   to = "https://lucabontempi.com"
-  status = 302
+  status = 301
   force = true
 
 [[redirects]]
   from = "https://lucabontempi.netlify.app/*"
   to = "https://lucabontempi.com"
-  status = 302
+  status = 301
   force = true
 
 [[redirects]]
   from = "https://bontempi.me/*"
   to = "https://lucabontempi.com"
-  status = 302
+  status = 301
   force = true
 
 [[redirects]]
   from = "https://www.bontempi.me/*"
   to = "https://lucabontempi.com"
-  status = 302
+  status = 301
   force = true
 
 [[redirects]]
   from = "https://bonte.lu/*"
   to = "https://lucabontempi.com"
-  status = 302
+  status = 301
   force = true
 
 [[redirects]]
   from = "https://www.bonte.lu/*"
   to = "https://lucabontempi.com"
-  status = 302
+  status = 301
   force = true

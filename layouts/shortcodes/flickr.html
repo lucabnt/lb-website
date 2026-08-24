@@ -1,6 +1,18 @@
+{{- /*
+  Embed di una foto Flickr senza JavaScript: l'immagine è servita
+  direttamente da live.staticflickr.com e linkata alla sua pagina Flickr.
+  Niente script esterni (che gli ad blocker spesso bloccano) e nessun
+  layout shift, dato che width/height sono noti in anticipo.
+
+  Uso: {{< flickr id="123" src="https://live.staticflickr.com/..." w="819" h="1024" alt="..." >}}
+*/ -}}
 {{- $id := .Get "id" -}}
-{{- $owner := .Get "owner" | default "77058054@N07" -}}
-{{- $album := .Get "album" | default "72177720328778423" -}}
-{{- $title := .Get "title" -}}
-{{- $href := printf "https://www.flickr.com/photos/%s/%s/in/album-%s/" $owner $id $album -}}
-<a data-flickr-embed="true" href="{{ $href }}" title="{{ $title }}">{{ with $title }}{{ . }}{{ else }}Foto su Flickr{{ end }}</a>
+{{- $src := .Get "src" -}}
+{{- $w := .Get "w" -}}
+{{- $h := .Get "h" -}}
+{{- $alt := .Get "alt" | default "" -}}
+{{- $owner := .Get "owner" | default site.Params.flickrOwner | default "77058054@N07" -}}
+{{- $album := .Get "album" | default site.Params.flickrAlbum | default "72177720328778423" -}}
+<a href="https://www.flickr.com/photos/{{ $owner }}/{{ $id }}/in/album-{{ $album }}/" target="_blank" rel="noopener noreferrer">
+  <img src="{{ $src }}" width="{{ $w }}" height="{{ $h }}" alt="{{ $alt }}" loading="lazy" style="max-width:100%;height:auto">
+</a>

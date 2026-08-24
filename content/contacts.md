@@ -2,7 +2,7 @@
 author: "Luca Bontempi"
 title: "Contacts"
 # tags: ["about"]
-description: "How to contact Luca Bontempi: email, LinkedIn, Strava, Komoot and Flickr — pick the channel that suits you best."
+description: "How to contact Luca Bontempi: email, LinkedIn, Strava, Komoot and Flickr - pick the channel that suits you best."
 hideDescription: true
 hideMeta: true
 disableShare: true

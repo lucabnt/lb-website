@@ -1,6 +1,7 @@
 ---
 title: Curriculum Vitae
 author: Luca Bontempi
+description: "Luca Bontempi's CV: Partner Technical Specialist at IBM, with graduate degrees in International Business (Pavia) and European Management (Tübingen)."
 hideMeta: true
 disableShare: true
 

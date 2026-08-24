@@ -2,6 +2,7 @@
 author: "Luca Bontempi"
 title: "Il mercato informatico: il software come prodotto e servizio"
 tags: ["thesis", "docs", "software", "ita"]
+description: "Tesi di laurea triennale sul mercato informatico: l'evoluzione del software da prodotto a servizio (SaaS) e le dinamiche del settore IT."
 hideMeta: true
 disableShare: true
 cover:

@@ -10,7 +10,7 @@ Il sito è un generatore di siti statici basato su [Hugo](https://gohugo.io/) co
 * **Generatore di siti statici:** [Hugo](https://gohugo.io/) (versione pinnata in `netlify.toml`, `HUGO_VERSION`)
 * **CMS per i contenuti:** [Decap CMS](https://decapcms.org/) (accessibile da `/admin/`)
 * **Hosting e Deploy:** [Netlify](https://www.netlify.com/) (configurato tramite `netlify.toml`)
-* **Analytics:** [GoatCounter](https://www.goatcounter.com/) — gratuito, senza cookie, non richiede privacy policy/cookie banner (dashboard: [lucabontempi.goatcounter.com](https://lucabontempi.goatcounter.com))
+* **Analytics:** [GoatCounter](https://www.goatcounter.com/) — gratuito, senza cookie, non richiede privacy policy/cookie banner (dashboard: [goatcounter.com](https://goatcounter.com))
 * **Lingua principale:** Italiano (configurata in `i18n/it.yaml`)
 
 ## 🚀 Sviluppo in locale

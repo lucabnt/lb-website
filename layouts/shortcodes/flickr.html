@@ -1,0 +1,6 @@
+{{- $id := .Get "id" -}}
+{{- $owner := .Get "owner" | default "77058054@N07" -}}
+{{- $album := .Get "album" | default "72177720328778423" -}}
+{{- $title := .Get "title" -}}
+{{- $href := printf "https://www.flickr.com/photos/%s/%s/in/album-%s/" $owner $id $album -}}
+<a data-flickr-embed="true" href="{{ $href }}" title="{{ $title }}">{{ with $title }}{{ . }}{{ else }}Foto su Flickr{{ end }}</a>

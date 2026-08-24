@@ -12,20 +12,6 @@
 {{ end }}
 
 {{- /*
-  Script ufficiale di embed Flickr (usato da {{< flickr >}}, vedi
-  layouts/shortcodes/flickr.html). Va qui in extend_head.html e non in
-  extend_footer.html perché baseof.html del tema chiama il footer con
-  "partialCached" (cache condivisa tra pagine con lo stesso Layout/Kind),
-  che ignorerebbe il parametro "flickr" specifico di questa pagina e
-  servirebbe l'output calcolato per un'altra pagina. head.html invece è
-  chiamato con "partial" (non cache), quindi qui il parametro per-pagina
-  viene sempre letto correttamente, come già per math/KaTeX sopra.
-*/}}
-{{ if or .Params.flickr .Site.Params.flickr }}
-<script async src="https://embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-{{ end }}
-
-{{- /*
   Il widget di Netlify Identity serve solo per intercettare i link di invito/recupero
   password che Netlify può far puntare a qualunque pagina del sito, non solo a /admin/.
   Per questo resta caricato su tutte le pagine, ma con "defer" per non bloccare il

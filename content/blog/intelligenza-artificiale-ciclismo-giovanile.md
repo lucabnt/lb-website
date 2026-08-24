@@ -209,7 +209,7 @@ Alla fine della stagione ne esce una raccolta di grafici. La parte interessante 
 
 
 {{< figure
-  src="Esordienti_Distanza_Media_Mediana.png"
+  src="Esordienti_Distanza_Media_Mediana.webp"
   alt="Distanza media e mediana cumulata degli Esordienti, confronto 2023-2024-2025"
   caption="La distanza media percorsa in un anno dagli Esordienti (circa 4.100 km nel 2023, 5.800 nel 2024, 7.350 nel 2025) e lo stesso dato, letto con la mediana (4.450 km nel 2023, 6.850 nel 2024, 7.150 nel 2025)."
 >}}
@@ -234,7 +234,7 @@ Nei grafici che seguono, a sinistra le ore settimanali medie degli Allievi nel 2
 
 
 {{< figure
-  src="settimane-allievi-esordienti-2025.png"
+  src="settimane-allievi-esordienti-2025.webp"
   alt="A sinistra le ore settimanali medie degli Allievi nel 2025, a destra le uscite settimanali medie degli Esordienti"
   caption="Due categorie diverse e due unità di misura diverse. A sinistra le ore di allenamento settimana per settimana dell'Allievo medio, con media stagionale poco sopra le sette e mezza; a destra le uscite settimanali dell'Esordiente medio, con media di quattro e mezza. In entrambi i grafici la riga rossa è la media della stagione."
 >}}
@@ -250,7 +250,7 @@ Quello che guardo io, però, sono **le settimane vuote**: quella da due ore e me
 
 
 {{< figure
-  src="Squadra_Distribuzione_FC_Allievi_2025.png"
+  src="Squadra_Distribuzione_FC_Allievi_2025.webp"
   alt="Distribuzione dell'intensità media della squadra Allievi nel 2025"
   caption="Quanto tempo ha passato in ciascuna zona di intensità, in media, un Allievo nel corso del 2025."
 >}}

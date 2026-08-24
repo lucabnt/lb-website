@@ -65,7 +65,7 @@ Basole and Karla (2012, p. 28) identified four groups of market participants, mo
 
 ##### Figure 1.1: Mobile OS market shares in 2022 and 2009 (Laricchia, 2022).
 
-![Figure 1.1: Mobile OS market shares in 2022 and 2009 (Laricchia, 2022).](/blog/determinants_of_download_on_mobile_app_stores/determinants_of_download_on_mobile_app_stores_2.png)
+![Figure 1.1: Mobile OS market shares in 2022 and 2009 (Laricchia, 2022).](/blog/determinants_of_download_on_mobile_app_stores/determinants_of_download_on_mobile_app_stores_2.webp)
 
 Interestingly, these two systems were both able to succeed with two different approaches: iOS is considered a relatively closed ecosystem ("walled garden"), while Android is a more open one ("open garden"). The unique role of Apple as both MPP and device manufacturer enables it to apply some restrictions, as, for example, the fact that apps can only be installed from the App Store, as sole source (Basole and Karla, 2012, p.36; Cortimiglia et al., 2011, p. 3), and this approach allows more strict testing and verification, that, in combination with the existence of only a few different hardware with that operative system (OS), may lead to a better user experience, with consequently improved customer loyalty and a premium brand image. On the other hand, Android is an open-source OS and the ecosystem is more open: this may lead to higher levels of competition both on software and hardware, with lower prices as result (Müller et al., 2011, p. 74). In terms of app distribution, both Apple and Google act as gatekeepers: they decide what gets published on their stores, also covering important roles in terms of quality assurance and pre-screening of dangerous apps (Müller et al., 2011, p. 73), but, while in Google case, these limits can be circumvented thanks to the presence of other app sources, this is (legally, at least) impossible on Apple's devices.
 
@@ -168,7 +168,7 @@ Apart from the three main variables, also involvement measures are included in t
 
 ##### Table 3.1: Summary of all variables with definitions and descriptive statistics.
 
-*Note: this table is also available as an [image](https://lucabontempi.com/blog/determinants_of_download_on_mobile_app_stores/determinants_of_download_on_mobile_app_stores_table_1.png "Table 3.1: Summary of all variables with definitions and descriptive statistics.").*
+*Note: this table is also available as an [image](https://lucabontempi.com/blog/determinants_of_download_on_mobile_app_stores/determinants_of_download_on_mobile_app_stores_table_1.webp "Table 3.1: Summary of all variables with definitions and descriptive statistics.").*
 
 | Variable              | Definition                                                                                                    | Descriptive Statistics |        |         |        |
 |-----------------------|---------------------------------------------------------------------------------------------------------------|:----------------------:|:------:|:-------:|:------:|
@@ -206,19 +206,19 @@ Since this data collection corresponds to a repeated measures experimental model
 
 Thereafter, in order to derive more precise results, three different linear regression models were used for each one of the focal variables, to cover all possibilities and for a total of nine regressions. Now, the simplest regression model (Model 1) can be defined as:
 
-![Model 1](/blog/determinants_of_download_on_mobile_app_stores/determinants_of_download_on_mobile_app_stores_formula_1.png)
+![Model 1](/blog/determinants_of_download_on_mobile_app_stores/determinants_of_download_on_mobile_app_stores_formula_1.webp)
 
 where *u* is the error term. The data set used for Model 1 (M1) for *i* includes only observations in which respondents were exposed to *i* before *j* and *k* (*n = 1*), in a way that the resulting ITD cannot be biased by comparison with other apps. In addition, it allows to verify the moderating effects of various measures of involvement on the relationship between the focal predictor and ITD. This model is the main source of evidence for the effects of the focal independent variable *x<sub>i</sub>* and the role of involvement as moderator.
 
 Then, Model 2 (M2) allows for two-way interactions also between different focal independent variables and takes into account only observations with *n = 3*, in the following way:
 
-![Model 2](/blog/determinants_of_download_on_mobile_app_stores/determinants_of_download_on_mobile_app_stores_formula_2.png)
+![Model 2](/blog/determinants_of_download_on_mobile_app_stores/determinants_of_download_on_mobile_app_stores_formula_2.webp)
 
 with *m =  1, 2*. The main objective of Model 2 is to explore whether there is any interaction between each couple of focal variables, reflecting comparison effects which depend on their alternatively high or low values.   
 
 Finally, Model 3 (M3) can be defined considering all observations in the sample, independently from any specific value of *n* and introducing the *comp<sub>i</sub>* variable and its interaction:
 
-![Model 3](/blog/determinants_of_download_on_mobile_app_stores/determinants_of_download_on_mobile_app_stores_formula_3.png)
+![Model 3](/blog/determinants_of_download_on_mobile_app_stores/determinants_of_download_on_mobile_app_stores_formula_3.webp)
 
 In the case of equation (3.3), differently from (3.1) and (3.2), *n* can take values which are not only *1* or *3*, meaning that, while it allows to use a larger sample, it needs to include the *comp<sub>i</sub>* variable (presented in Table 3.1), in order to take in account the possibility that results could be affected by comparison with *x<sub>j</sub>* and *x<sub>k</sub>*, which are not included in Model 3.  
 
@@ -236,7 +236,7 @@ Finally, regressions based on Model 3 included all observations, independently f
 
 ##### Table 3.2: Resulting coefficients and standard errors of all regressions.
 
-*Note: this table is also available as an [image](https://lucabontempi.com/blog/determinants_of_download_on_mobile_app_stores/determinants_of_download_on_mobile_app_stores_table_2.jpg "Table 3.2: Resulting coefficients and standard errors of all regressions.").*
+*Note: this table is also available as an [image](https://lucabontempi.com/blog/determinants_of_download_on_mobile_app_stores/determinants_of_download_on_mobile_app_stores_table_2.webp "Table 3.2: Resulting coefficients and standard errors of all regressions.").*
 
 |Model (*i*)                     |M1 (*rep*)              |M1 (*pop*)             |M1 (*brand*)          |M2 (*rep*)                   |M2 (*pop*)                |M2 (*brand*)                 |M3 (*rep*)                 |M3 (*pop*)                   |M3 (*brand*)                  |
 |------------------------------|----------------------|---------------------|--------------------|---------------------------|------------------------|---------------------------|-------------------------|---------------------------|----------------------------|
@@ -272,7 +272,7 @@ When users are exposed to information about multiple apps and they can consequen
 
 ##### Figure 3.1: Mean-centered ITD (*y<sub>i</sub>*) depending on high vs. low values (*x*) of developer's brand, reputation and popularity, with *n = 1* and *n = 3*.
 
-![Figure 3.1: Mean-centered ITD (y_i) depending on high vs. low values (x) of developer's brand, reputation and popularity, with n = 1 and n = 3.](/blog/determinants_of_download_on_mobile_app_stores/determinants_of_download_on_mobile_app_stores_3.png)
+![Figure 3.1: Mean-centered ITD (y_i) depending on high vs. low values (x) of developer's brand, reputation and popularity, with n = 1 and n = 3.](/blog/determinants_of_download_on_mobile_app_stores/determinants_of_download_on_mobile_app_stores_3.webp)
 
 Some other interesting evidence regards the moderation effects of involvement on the three focal variables. First, there is predictable and generalized evidence that higher involvement in apps as products corresponds to a higher effectiveness of all three reputation, popularity and brand levels in driving users' ITD (M2, M3). Second, when users are highly involved in the app download process, they tend to rely more on reputation, probably because they scrutinise information more closely. Last, when the involvement in the specific app category (mobile scanner apps, in this case) is high and users consequently perceive a higher risk in the app choice, also considering that scanner apps are productivity apps, frequently used for work (Sällberg et al., 2022, p. 10), they appear to preferably choose a strong and known brand (M1), which is a commonly used as a cue when attempting to mitigate it (Matzler et al., 2008, p. 158).
 
@@ -483,17 +483,17 @@ This online study involves the use of manipulated screenshots images of an app p
 
 ##### Figure A.1: Screenshot images of the app presentation page with variation in app reputation.
 
-![Figure A.1: Screenshot images of the app presentation page with variation in app reputation.](/blog/determinants_of_download_on_mobile_app_stores/determinants_of_download_on_mobile_app_stores_4.png)
+![Figure A.1: Screenshot images of the app presentation page with variation in app reputation.](/blog/determinants_of_download_on_mobile_app_stores/determinants_of_download_on_mobile_app_stores_4.webp)
 
 
 ##### Figure A.2: Screenshot images of the app presentation page with variation in app popularity.
 
-![Figure A.2: Screenshot images of the app presentation page with variation in app popularity.](/blog/determinants_of_download_on_mobile_app_stores/determinants_of_download_on_mobile_app_stores_5.png)
+![Figure A.2: Screenshot images of the app presentation page with variation in app popularity.](/blog/determinants_of_download_on_mobile_app_stores/determinants_of_download_on_mobile_app_stores_5.webp)
 
 
 ##### Figure A.3: Screenshot images of the app presentation page with variation in developer’s brand.
 
-![Figure A.3: Screenshot images of the app presentation page with variation in developer’s brand.](/blog/determinants_of_download_on_mobile_app_stores/determinants_of_download_on_mobile_app_stores_6.png)
+![Figure A.3: Screenshot images of the app presentation page with variation in developer’s brand.](/blog/determinants_of_download_on_mobile_app_stores/determinants_of_download_on_mobile_app_stores_6.webp)
 
 ## B Experimental Questionnaire
 

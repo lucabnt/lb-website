@@ -6,6 +6,7 @@ tags:
 - photography
 - eng
 author: lb
+flickr: true
 cover:
   image: /blog/tuebingen_collection/tuebingen_collection_1.webp
   relative: true

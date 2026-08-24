@@ -1,0 +1,12 @@
+{
+  "name": "lb-website",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Asset vendorizzati per il sito Hugo (es. KaTeX), non è un progetto npm applicativo.",
+  "scripts": {
+    "postinstall": "node scripts/copy-katex-assets.js"
+  },
+  "dependencies": {
+    "katex": "^0.18.4"
+  }
+}

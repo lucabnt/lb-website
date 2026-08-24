@@ -5,6 +5,10 @@ public/
 resources/_gen/
 .hugo_build.lock
 
+# Dipendenze npm e asset vendorizzati rigenerati da "npm install" (vedi package.json)
+node_modules/
+static/vendor/
+
 # File di sistema macOS/Windows
 .DS_Store
 Thumbs.db

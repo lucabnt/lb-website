@@ -1,8 +1,9 @@
 {{- /*
   Carica lo script ufficiale di embed di Flickr una sola volta per pagina,
-  solo sulle pagine che usano davvero lo shortcode {{< flickr >}} (vedi
-  layouts/shortcodes/flickr.html), invece che su tutto il sito.
+  solo sulle pagine che lo richiedono esplicitamente con "flickr: true" in
+  front matter (stesso pattern già usato per KaTeX con "math: true" in
+  extend_head.html), invece che su tutto il sito.
 */}}
-{{- if .Page.HasShortcode "flickr" }}
+{{- if or .Params.flickr .Site.Params.flickr }}
 <script async src="https://embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 {{- end }}

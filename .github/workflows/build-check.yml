@@ -1,0 +1,132 @@
+name: Build check
+
+# Rilancia la stessa identica build di produzione usata da Netlify
+# (hugo --gc --minify, con HUGO_ENV=production e HUGO_ENABLEGITINFO) e
+# verifica che tutte le pagine pubblicate vengano davvero scritte.
+#
+# Nasce da un bug intermittente scoperto ad agosto 2026: in alcune build
+# quel comando può fallire nel processare 4 post specifici senza far
+# fallire l'intera build (Hugo esce comunque con codice 0), lasciando
+# quelle pagine assenti dall'output — un 404 silenzioso in produzione,
+# mai segnalato da Netlify come errore. "hugo server", usato in sviluppo
+# locale, non riproduce il problema.
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  build-and-check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout (con submodule del tema)
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive
+          # storia completa: serve a HUGO_ENABLEGITINFO per le date dei contenuti
+          fetch-depth: 0
+
+      - name: Leggi le versioni pinnate in netlify.toml
+        id: versions
+        run: |
+          hugo_version=$(grep -oP 'HUGO_VERSION\s*=\s*"\K[^"]+' netlify.toml)
+          node_version=$(grep -oP 'NODE_VERSION\s*=\s*"\K[^"]+' netlify.toml)
+          echo "hugo=$hugo_version" >> "$GITHUB_OUTPUT"
+          echo "node=$node_version" >> "$GITHUB_OUTPUT"
+          echo "Hugo $hugo_version / Node $node_version (da netlify.toml)"
+
+      - name: Installa Hugo Extended
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: ${{ steps.versions.outputs.hugo }}
+          extended: true
+
+      - name: Installa Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ steps.versions.outputs.node }}
+          cache: npm
+
+      - name: npm ci (asset KaTeX)
+        run: npm ci
+
+      - name: Build di produzione (stesso comando di netlify.toml)
+        env:
+          HUGO_ENV: production
+          HUGO_ENABLEGITINFO: "true"
+        run: hugo --gc --minify -b "https://lucabontempi.com"
+
+      - name: Verifica che ogni pagina pubblicata sia stata generata
+        env:
+          HUGO_ENV: production
+        run: |
+          # L'elenco delle pagine attese lo fornisce Hugo stesso: così
+          # draft, contenuti con data futura, contenuti scaduti, slug
+          # personalizzati e page bundle sono gestiti automaticamente.
+          hugo list published -e production | python3 -c '
+          import csv, os, re, sys
+
+          missing, checked = [], 0
+          for row in csv.DictReader(sys.stdin):
+              permalink = re.sub(r"^[a-z]+://[^/]+", "", row["permalink"] or "")
+              if not permalink:
+                  continue
+              checked += 1
+              path = os.path.join("public", permalink.strip("/"), "index.html")
+              if not os.path.isfile(path):
+                  missing.append((path, row["path"]))
+
+          for path, src in missing:
+              print(f"::error file={src}::Pagina mancante nel risultato della build: {path}")
+          print(f"Pagine pubblicate attese: {checked} — mancanti: {len(missing)}")
+
+          if not checked:
+              print("::error::Nessuna pagina trovata: il controllo non ha funzionato.")
+              sys.exit(1)
+          sys.exit(1 if missing else 0)
+          '
+
+      - name: Link interni rotti (bloccante)
+        uses: lycheeverse/lychee-action@v2
+        with:
+          # --offline controlla solo i riferimenti locali: deterministico,
+          # nessuna dipendenza dalla rete, nessun falso positivo.
+          # --offline: nessuna richiesta di rete, quindi deterministico.
+          # --root-dir: indispensabile, altrimenti ogni link che parte da "/"
+          # (CSS, favicon, pagine interne) risulta irrisolvibile e il job
+          # fallirebbe con decine di falsi positivi.
+          # --exclude-path: esclude gli asset di terze parti (KaTeX), che
+          # portano con sé un README con link relativi a file non copiati.
+          args: >-
+            --offline
+            --no-progress
+            --root-dir "${{ github.workspace }}/public"
+            --exclude-path public/vendor
+            ./public
+          fail: true
+          output: lychee-internal.md
+
+      - name: Link esterni rotti (informativo, non bloccante)
+        continue-on-error: true
+        uses: lycheeverse/lychee-action@v2
+        with:
+          # Non bloccante: il link rot su siti di terzi non dipende da
+          # questo repository e non deve rendere rossa la CI. Il report
+          # resta consultabile nel riepilogo del job.
+          #
+          # Esclusi i pulsanti di condivisione generati dal tema PaperMod
+          # (presenti su ogni pagina) e i social: rispondono 403/999 alle
+          # richieste automatiche, generando solo rumore.
+          args: >-
+            --no-progress
+            --max-concurrency 4
+            --timeout 20
+            --retry-wait-time 5
+            --accept 200,206,429
+            --exclude-mail
+            --exclude "^https?://(www\.)?(facebook\.com/sharer|api\.whatsapp\.com/send|telegram\.me/share|reddit\.com/submit|news\.ycombinator\.com/submitlink)"
+            --exclude "^https?://(www\.)?(linkedin\.com|x\.com|twitter\.com|instagram\.com)"
+            --exclude-path public/vendor
+            ./public
+          fail: true
+          output: lychee-external.md

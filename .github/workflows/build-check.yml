@@ -123,7 +123,6 @@ jobs:
             --timeout 20
             --retry-wait-time 5
             --accept 200,206,429
-            --exclude-mail
             --exclude "^https?://(www\.)?(facebook\.com/sharer|api\.whatsapp\.com/send|telegram\.me/share|reddit\.com/submit|news\.ycombinator\.com/submitlink)"
             --exclude "^https?://(www\.)?(linkedin\.com|x\.com|twitter\.com|instagram\.com)"
             --exclude-path public/vendor

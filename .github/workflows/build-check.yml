@@ -20,7 +20,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout (con submodule del tema)
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           submodules: recursive
           # storia completa: serve a HUGO_ENABLEGITINFO per le date dei contenuti
@@ -42,7 +42,7 @@ jobs:
           extended: true
 
       - name: Installa Node.js
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v7
         with:
           node-version: ${{ steps.versions.outputs.node }}
           cache: npm
@@ -89,9 +89,8 @@ jobs:
       - name: Link interni rotti (bloccante)
         uses: lycheeverse/lychee-action@v2
         with:
-          # --offline controlla solo i riferimenti locali: deterministico,
-          # nessuna dipendenza dalla rete, nessun falso positivo.
-          # --offline: nessuna richiesta di rete, quindi deterministico.
+          # --offline controlla solo i riferimenti locali: nessuna richiesta
+          # di rete, quindi deterministico e senza falsi positivi.
           # --root-dir: indispensabile, altrimenti ogni link che parte da "/"
           # (CSS, favicon, pagine interne) risulta irrisolvibile e il job
           # fallirebbe con decine di falsi positivi.

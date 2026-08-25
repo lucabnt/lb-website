@@ -114,28 +114,30 @@ jobs:
           # resta consultabile nel riepilogo del job.
           #
           # Esclusi i pulsanti di condivisione generati dal tema PaperMod
-          # (presenti su ogni pagina) e i social: rispondono 403/999 alle
-          # richieste automatiche, generando solo rumore. Stessa ragione per
-          # i siti che bloccano i client automatici (TripAdvisor, Ericsson,
-          # ATP Tour) o che rispondono con redirect anti-bot (Statista).
+          # (presenti su ogni pagina) e i social: sono decine di richieste
+          # per run verso endpoint che non sono contenuto del sito.
           #
           # --root-dir serve anche qui: senza, ogni link che parte da "/"
           # (CSS, favicon, immagini) risulta irrisolvibile e riempie il
           # report di falsi positivi.
           #
-          # --accept include i codici di redirect: alcuni siti rispondono
-          # con catene di redirect che lychee non segue fino in fondo, ma
-          # il link resta valido.
+          # --accept: oltre ai redirect (alcuni siti rispondono con catene
+          # che lychee non segue fino in fondo), accetta anche 403. Molti
+          # siti editoriali rispondono 403 ai client automatici in modo
+          # intermittente pur essendo perfettamente raggiungibili da un
+          # browser: Bloomberg, ad esempio, è risultato prima valido e poi
+          # 403 sullo stesso identico link. Il link rot che conta davvero
+          # si manifesta con 404/410 o con un errore di rete, che restano
+          # segnalati.
           args: >-
             --no-progress
             --max-concurrency 4
             --timeout 20
             --retry-wait-time 5
-            --accept 200..=299,301,302,307,308,429
+            --accept 200..=299,301,302,307,308,403,429
             --root-dir "${{ github.workspace }}/public"
             --exclude "^https?://(www\.)?(facebook\.com/sharer|api\.whatsapp\.com/send|telegram\.me/share|reddit\.com/submit|news\.ycombinator\.com/submitlink)"
             --exclude "^https?://(www\.)?(linkedin\.com|x\.com|twitter\.com|instagram\.com)"
-            --exclude "^https?://(www\.)?(tripadvisor\.[a-z.]+|ericsson\.com|atptour\.com|statista\.com)"
             --exclude-path public/vendor
             ./public
           fail: true

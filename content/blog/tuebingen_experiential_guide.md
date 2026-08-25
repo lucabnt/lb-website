@@ -58,7 +58,7 @@ Overall, I had the opportunity to watch great tennis players live, such as Matte
 
 ### Stuttgarter Frühlingsfest
 
-Between the end of April and the beginning of May, in Cannstatt, there is the [Stuttgarter Frühlingsfest](https://www.stuttgarter-fruehlingsfest.de/de/home/) for about 20 days.
+Between the end of April and the beginning of May, in Cannstatt, there is the [Stuttgarter Frühlingsfest](https://www.stuttgarter-fruehlingsfest.de/) for about 20 days.
 
 The festival is full of luna park attractions, German traditional food and, obviously, beer. A German inevitable experience, I think. 
 

@@ -152,7 +152,7 @@ This is his [statue](https://goo.gl/maps/g7Y25aYv5PU3Xupp8) in Stuttgart.
 
 ### 17/
 
-The attractions at the [Stuttgarter Frühlingsfest](https://www.stuttgarter-fruehlingsfest.de/de/home/).
+The attractions at the [Stuttgarter Frühlingsfest](https://www.stuttgarter-fruehlingsfest.de/).
 
 {{< flickr id="54760469216" src="https://live.staticflickr.com/65535/54760469216_8e95ce235b_b.jpg" w="819" h="1024" alt="One year in Tübingen 17/" >}}
 

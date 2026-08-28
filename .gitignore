@@ -12,3 +12,10 @@ static/vendor/
 # File di sistema macOS/Windows
 .DS_Store
 Thumbs.db
+
+# Variabili d'ambiente e credenziali: nessuna è mai stata usata in questo
+# progetto (il deploy è configurato da Netlify), ma tenerle escluse evita
+# di committarle per errore se un giorno servissero in locale.
+.env
+.env.*
+!.env.example

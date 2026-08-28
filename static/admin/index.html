@@ -5,9 +5,34 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="robots" content="none" />
     <title>Content Manager</title>
+    <!--
+      Netlify Identity: servito da Netlify stessa, che ospita già questo sito,
+      su un endpoint "v1" senza numero di versione. Non è quindi pinnabile né
+      verificabile con SRI, ma il rapporto di fiducia con Netlify è comunque
+      implicito nel fatto che il sito gira sui suoi server.
+    -->
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   </head>
   <body>
-    <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
+    <!--
+      Decap CMS è bloccato a una versione esatta e verificato con Subresource
+      Integrity: se il file servito da unpkg cambiasse anche di un solo byte,
+      il browser rifiuterebbe di eseguirlo. Senza questi due accorgimenti la
+      pagina eseguirebbe qualunque cosa il CDN restituisca, in un contesto in
+      cui è presente la sessione autenticata di Netlify Identity.
+
+      MANUTENZIONE — per aggiornare Decap CMS:
+        1. npm view decap-cms version           (ultima versione disponibile)
+        2. node scripts/decap-sri.js <versione> (calcola src e integrity)
+        3. incolla qui sotto i due valori stampati
+      Dopo il deploy, apri /admin/ una volta per confermare che il CMS carichi.
+      Se l'hash non corrispondesse, lo script non parte e la pagina resta
+      vuota: il guasto è evidente e non silenzioso.
+    -->
+    <script
+      src="https://unpkg.com/decap-cms@3.15.1/dist/decap-cms.js"
+      integrity="sha384-in6eHztHveqQ7uMZ1fDaKlDmacQLFuLH2wWrFTiymyuS8zQ5bixwL8U3AeRi8h/L"
+      crossorigin="anonymous"
+    ></script>
   </body>
 </html>

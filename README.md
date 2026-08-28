@@ -49,3 +49,54 @@ Se vuoi eseguire il sito in locale sul tuo computer per testare delle modifiche 
 5. Apri [http://localhost:1313](http://localhost:1313) nel browser. Il sito si ricarica automaticamente ad ogni modifica dei contenuti o dei template.
 
 > Nota: alcune funzionalità (analytics, Open Graph, dati strutturati) sono attive solo in build "production" — per vederle in locale usa `hugo server --environment production`.
+
+## ✅ Controlli automatici
+
+Ad ogni push su `main`, il workflow `.github/workflows/build-check.yml` esegue la stessa build di produzione usata da Netlify e verifica che:
+
+* la build non produca errori;
+* **ogni pagina pubblicata sia effettivamente generata** — nasce da un bug intermittente di Hugo per cui la build può saltare una pagina senza fallire, lasciando un 404 silenzioso in produzione;
+* non ci siano **link interni rotti** (controllo bloccante);
+* non ci siano **link esterni rotti** (controllo informativo, non blocca la CI: il link rot su siti di terzi non dipende da questo repository).
+
+## 🔒 Manutenzione periodica
+
+Poche cose, ma vanno fatte a mano. Nessuna è urgente: sono tutte "quando capita".
+
+### Decap CMS (`static/admin/index.html`)
+
+Il bundle è caricato da unpkg **bloccato a una versione esatta e verificato con Subresource Integrity**: se il file servito dal CDN cambiasse, il browser si rifiuterebbe di eseguirlo. È la protezione più importante del sito, perché `/admin/` è l'unico punto in cui gira codice di terze parti insieme a una sessione autenticata con accesso in scrittura al repository.
+
+Il rovescio della medaglia è che gli aggiornamenti non sono automatici (Dependabot non sa aggiornare un hash dentro un file HTML). Per aggiornare:
+
+```bash
+npm view decap-cms version           # ultima versione disponibile
+node scripts/decap-sri.js <versione> # stampa src e integrity aggiornati
+```
+
+Incolla i due valori in `static/admin/index.html`, fai il deploy e **apri `/admin/` una volta** per confermare che il CMS carichi. Se l'hash fosse sbagliato la pagina resterebbe vuota: il guasto è evidente, non silenzioso.
+
+Cadenza consigliata: una o due volte l'anno, o quando serve una funzionalità nuova.
+
+### Versione di Hugo (`netlify.toml`)
+
+`HUGO_VERSION` determina sia la build di produzione sia quella della CI. Quando la aggiorni, **allinea anche il binario locale** alla stessa versione: un disallineamento fra locale e produzione è già stato causa di comportamenti divergenti difficili da diagnosticare.
+
+### Tema PaperMod (submodule git)
+
+È pinnato a un commit specifico, quindi non si aggiorna da solo. Per aggiornarlo:
+
+```bash
+cd themes/hugo-PaperMod && git fetch && git checkout <tag-o-commit> && cd ../..
+git add themes/hugo-PaperMod && git commit -m "Aggiorna PaperMod"
+```
+
+Il tema sovrascrive alcuni file in `layouts/partials/` (ci sono override locali di `head.html`, `footer.html`, `single.html`): dopo un aggiornamento conviene confrontarli con quelli nuovi del tema.
+
+### Dipendenze npm e GitHub Action
+
+Gestite da Dependabot (`.github/dependabot.yml`), che apre una pull request mensile. Le action sono pinnate al commit SHA — un tag come `v7` può essere spostato, un SHA no — e Dependabot aggiorna SHA e commento della versione insieme.
+
+### Da verificare su Netlify (non configurabile da questo repository)
+
+Che in **Netlify Identity** la registrazione sia impostata su *Invite only* e non *Open*: con *Open* chiunque potrebbe registrarsi e, a seconda della configurazione di git-gateway, ottenere accesso al CMS.

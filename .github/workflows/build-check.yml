@@ -15,12 +15,18 @@ on:
     branches: [main]
   workflow_dispatch:
 
+# Il job non scrive nulla nel repository: legge il codice, builda e
+# controlla. Restringere i permessi del GITHUB_TOKEN limita il danno nel
+# caso una delle action venisse compromessa.
+permissions:
+  contents: read
+
 jobs:
   build-and-check:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout (con submodule del tema)
-        uses: actions/checkout@v7
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
         with:
           submodules: recursive
           # storia completa: serve a HUGO_ENABLEGITINFO per le date dei contenuti
@@ -36,13 +42,13 @@ jobs:
           echo "Hugo $hugo_version / Node $node_version (da netlify.toml)"
 
       - name: Installa Hugo Extended
-        uses: peaceiris/actions-hugo@v3
+        uses: peaceiris/actions-hugo@2752ce1d29631191ea3f27c23495fa06139a5b78 # v3
         with:
           hugo-version: ${{ steps.versions.outputs.hugo }}
           extended: true
 
       - name: Installa Node.js
-        uses: actions/setup-node@v7
+        uses: actions/setup-node@820762786026740c76f36085b0efc47a31fe5020 # v7
         with:
           node-version: ${{ steps.versions.outputs.node }}
           cache: npm
@@ -87,7 +93,7 @@ jobs:
           '
 
       - name: Link interni rotti (bloccante)
-        uses: lycheeverse/lychee-action@v2
+        uses: lycheeverse/lychee-action@e7477775783ea5526144ba13e8db5eec57747ce8 # v2
         with:
           # --offline controlla solo i riferimenti locali: nessuna richiesta
           # di rete, quindi deterministico e senza falsi positivi.
@@ -107,7 +113,7 @@ jobs:
 
       - name: Link esterni rotti (informativo, non bloccante)
         continue-on-error: true
-        uses: lycheeverse/lychee-action@v2
+        uses: lycheeverse/lychee-action@e7477775783ea5526144ba13e8db5eec57747ce8 # v2
         with:
           # Non bloccante: il link rot su siti di terzi non dipende da
           # questo repository e non deve rendere rossa la CI. Il report

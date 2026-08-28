@@ -1,0 +1,27 @@
+# Aggiornamenti automatici delle dipendenze.
+#
+# Serve soprattutto alle GitHub Action, che in build-check.yml sono
+# pinnate al commit SHA per motivi di sicurezza (un tag come "v7" può
+# essere spostato, un SHA no). Il pinning però congela anche le
+# correzioni: Dependabot apre una pull request quando esce una nuova
+# versione, aggiornando SHA e commento della versione insieme, così non
+# serve seguirle a mano.
+#
+# Le pull request vanno riviste e unite manualmente. Il workflow gira
+# solo sui push a main, quindi non viene eseguito sulle PR di Dependabot:
+# la verifica avviene al momento del merge.
+version: 2
+updates:
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "monthly"
+    commit-message:
+      prefix: "ci"
+
+  - package-ecosystem: "npm"
+    directory: "/"
+    schedule:
+      interval: "monthly"
+    commit-message:
+      prefix: "deps"

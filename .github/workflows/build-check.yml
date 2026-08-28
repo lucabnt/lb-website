@@ -100,13 +100,16 @@ jobs:
           # --root-dir: indispensabile, altrimenti ogni link che parte da "/"
           # (CSS, favicon, pagine interne) risulta irrisolvibile e il job
           # fallirebbe con decine di falsi positivi.
-          # --exclude-path: esclude gli asset di terze parti (KaTeX), che
-          # portano con sé un README con link relativi a file non copiati.
+          # static/vendor NON è escluso di proposito: così il controllo
+          # verifica anche i font richiamati da katex.min.css, facendo da
+          # rete di sicurezza sulla lista di asset copiati da
+          # scripts/copy-katex-assets.js. Se un aggiornamento di KaTeX
+          # introducesse un file non previsto in quella lista, il job lo
+          # segnalerebbe invece di pubblicare un riferimento rotto.
           args: >-
             --offline
             --no-progress
             --root-dir "${{ github.workspace }}/public"
-            --exclude-path public/vendor
             ./public
           fail: true
           output: lychee-internal.md
@@ -144,7 +147,6 @@ jobs:
             --root-dir "${{ github.workspace }}/public"
             --exclude "^https?://(www\.)?(facebook\.com/sharer|api\.whatsapp\.com/send|telegram\.me/share|reddit\.com/submit|news\.ycombinator\.com/submitlink)"
             --exclude "^https?://(www\.)?(linkedin\.com|x\.com|twitter\.com|instagram\.com)"
-            --exclude-path public/vendor
             ./public
           fail: true
           output: lychee-external.md

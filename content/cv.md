@@ -20,8 +20,15 @@ This practical approach to IT is grounded in a background in innovation economic
 ## Experience
 
 ### Partner Technical Specialist | IBM
-*Segrate, Italy · Full-time* | **Jul 2026 – Present**  
-*Previously Associate Partner Technical Specialist* | **Jun 2023 – Jun 2026**
+*Segrate, Italy · Full-time* | **Jun 2023 – Present**
+
+**Role progression**
+
+* **Partner Technical Specialist** · *Jul 2026 – Present*
+* **Associate Partner Technical Specialist** · *Jan 2026 – Jun 2026*
+* **Associate Partner Technical Specialist - Partner** · *Jun 2023 – Dec 2025*
+
+**Responsibilities**
 
 * **Account Scope:** Progressed from enabling 13 partners on a single portfolio area to owning the technical relationship with three global and Italian System Integrators (GSI) across the full IBM technology portfolio.
 * **Partner Enablement:** Drive technical enablement and solution activation for strategic GSIs, expanding their autonomous delivery capabilities across the IBM portfolio.

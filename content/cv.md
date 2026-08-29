@@ -1,7 +1,7 @@
 ---
 title: Curriculum Vitae
 author: Luca Bontempi
-description: "Luca Bontempi's CV: Partner Technical Specialist at IBM, with graduate degrees in International Business (Pavia) and European Management (Tübingen)."
+description: "Luca Bontempi's CV: Technical Sales & Partner Specialist at IBM, with a double MSc in International Business (Pavia) and European Management (Tübingen)."
 hideDescription: true
 hideMeta: true
 disableShare: true
@@ -13,26 +13,20 @@ disableShare: true
 
 ## Summary
 
-I am a Partner Technical Specialist at IBM, operating at the intersection of enterprise technology and strategic business growth. My work focuses on empowering the Global System Integrators (GSIs) ecosystem, enabling partners to demonstrate, architect, and deploy IBM Automation solutions at scale. By translating complex technical architectures into clear commercial value, I help partners expand their autonomous delivery capabilities and drive joint client engagements.
+Technical Sales & Partner Specialist with a double MSc in International Business and European Management. Specialized in scaling the Partner Ecosystem by driving technical enablement, solution architecture, and joint client engagements. Combines business acumen with tech expertise in the enterprise software portfolio to turn complex enterprise technologies into actionable market solutions.
 
-My practical approach to IT is grounded in a strong academic foundation in innovation economics. Holding two Master of Science degrees in European Management (Eberhard Karls University of Tübingen) and International Business and Entrepreneurship (University of Pavia), I focused my graduate research on platform economics, specifically analyzing the market determinants of mobile app adoption and the impact of digital platforms. 
-
-I combine this macro-level understanding of digital ecosystems with hands-on technical enablement. Whether orchestrating tailored technical workshops, supporting partner teams through Proofs of Concept (PoCs), or aligning cross-functional stakeholders, my goal is to turn emerging IT trends into high-quality, actionable market solutions.
+This practical approach to IT is grounded in a background in innovation economics: my graduate research focused on platform economics, analyzing [the market determinants of mobile app adoption](https://lucabontempi.com/blog/determinants_of_download_on_mobile_app_stores/ "Determinants of Download on Mobile App Stores - An Empirical Analysis") and the impact of digital platforms on business models.
 
 ## Experience
 
 ### Partner Technical Specialist | IBM
-*Segrate, Italy · Full-time* | **Jul 2026 – Present**
+*Segrate, Italy · Full-time* | **Jul 2026 – Present**  
+*Previously Associate Partner Technical Specialist* | **Jun 2023 – Jun 2026**
 
-* **Partner Enablement:** Drive technical enablement and solution activation for System Integrators (GSI), expanding their autonomous delivery capabilities in the IBM portfolio.
-* **Solution Architecture:** Collaborate with partners to identify technical requirements, architect integrated solutions, and facilitate joint client engagements to accelerate market adoption.
+* **Account Scope:** Progressed from enabling 13 partners on a single portfolio area to owning the technical relationship with three global and Italian System Integrators (GSI) across the full IBM technology portfolio.
+* **Partner Enablement:** Drive technical enablement and solution activation for strategic GSIs, expanding their autonomous delivery capabilities across the IBM portfolio.
+* **Solution Architecture:** Work with partner architects to translate client requirements into integrated IBM solutions, and facilitate joint client engagements through to technical validation.
 * **Technical Advocacy:** Deliver tailored technical workshops and training sessions, actively supporting partner teams during the execution of Proofs of Concept (PoCs).
-
-### Associate Partner Technical Specialist | IBM
-*Segrate, Italy · Full-time* | **Jan 2026 – Jun 2026**
-
-### Associate Partner Technical Specialist - Partner | IBM
-*Segrate, Italy · Full-time* | **Jun 2023 – Dec 2025**
 
 ### Technical Sales Intern | IBM
 *Segrate, Italy · Internship* | **Mar 2023 – May 2023**
@@ -49,25 +43,30 @@ I combine this macro-level understanding of digital ecosystems with hands-on tec
 ## Education
 
 ### Master's Degree in European Management | Eberhard Karls University of Tübingen
-*Feb 2023* · **Score:** Gut (1.57/1.0) 
+*Tübingen, Germany · Double Degree Programme* | **Sep 2021 – Feb 2023** · **Score:** Gut (1.57/1.0)
 
 * **Master's Thesis:** Conducted empirical research on the market determinants of mobile app downloads and the impact of digital platforms on business models ([Determinants of Download on Mobile App Stores - An Empirical Analysis](https://lucabontempi.com/blog/determinants_of_download_on_mobile_app_stores/)).
-* **Program:** Double Degree with the University of Pavia.
 * **Attended courses:** Marketing-Mix Management, eBusiness, Innovation and Technological Change, Advanced Empirical Public Economics.
 
 ### Master's Degree in International Business and Entrepreneurship | University of Pavia
-*Jul 2023* · **Score:** 110/110
+*Pavia, Italy · Double Degree Programme* | **Sep 2020 – Jul 2023** · **Score:** 110/110
 
 * **Curriculum:** Digital Management.
 * **Attended courses:** Information Systems for Managers, Exponential Coding with AI, Business Analytics with Excel, Applied Project Management, Financial Innovation & Fintech, Capital Markets and EU Company Law.
 
 ### Bachelor’s Degree in Business Administration | University of Brescia
-*Mar 2020* · **Score:** 102/110
+*Brescia, Italy* | **Sep 2016 – Mar 2020** · **Score:** 102/110
 
 * **Bachelor's Thesis:** "[The Information Technology Industry: Software as a Product and a Service]( {{< ref "il_mercato_informatico.md" >}} )" *(in Italian)*.
 
-### Scientific High School Diploma | Liceo Scientifico Antonietti (Iseo)
-*Jul 2016*
+### Scientific High School Diploma | Liceo Scientifico Antonietti
+*Iseo, Italy* | **Sep 2011 – Jun 2016**
+
+
+## Languages
+
+* **Italian:** Native
+* **English:** Full Professional Proficiency (C1)
 
 
 ## Skills
@@ -78,14 +77,13 @@ Technical Sales, Partner Enablement, Solution Architecture, B2B Enterprise Sales
 #### Tech & Data
 Python, SQL, Enterprise Software Architecture concepts, Digital Platform Models
 
+#### Soft Skills
+Cross-functional collaboration, Technical training delivery, Stakeholder management
+
 #### Professional Certifications
 * **IT Architecture:** [Architectural Thinking](https://www.credly.com/badges/1a57014b-1bed-41cb-a16f-3868208ebbbe/public_url) *(IBM)*
 * **Sales:** [Global Sales School - Sales Activation](https://www.credly.com/badges/0cb94495-ce30-43ea-8654-338ad1a543d5/public_url) *(IBM)*
 * **Project Management:** [Introductory Certificate in Project Management](https://ipma.it/ipma_/index.php/certificati-ipma?livello=E&pag=44) *(IPMA Italy)*
 
-#### Languages
-* **Italian:** Native
-* **English:** Full Professional Proficiency (C1)
-
-#### Other Skills
+#### Leadership
 * **Sports Management:** Sport Director and Coach of a [Youth Cycling Team](https://www.asdprogettociclismorodengosaiano.it/) *(since 2016)*

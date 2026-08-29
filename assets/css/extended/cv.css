@@ -1,0 +1,35 @@
+/* Riga azienda/ateneo delle voci del CV, generata dallo shortcode "org".
+ *
+ * Perche' serve del CSS invece del solo markdown: nel tema PaperMod gli h4
+ * sono resi a 16px, cioe' piu' piccoli del testo corrente (18px). Usare
+ * "#### IBM" per dare risalto all'azienda otterrebbe l'effetto opposto, e
+ * un semplice **grassetto** la lascia indistinguibile dai grassetti che
+ * aprono ogni punto elenco. Serve quindi una regola dedicata.
+ *
+ * La dimensione (20px) sta volutamente sotto quella dei titoli h3 delle voci
+ * (24px): l'azienda deve emergere dal corpo del testo senza mettersi in
+ * concorrenza con il ruolo, che resta il titolo della voce.
+ *
+ * I colori usano le variabili del tema, quindi il blocco segue da solo il
+ * tema chiaro e quello scuro.
+ */
+
+.cv-org {
+  margin: 8px 0 16px;
+}
+
+.cv-org-name {
+  display: block;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 1.35;
+  color: var(--primary);
+}
+
+.cv-org-meta {
+  display: block;
+  margin-top: 2px;
+  font-size: 15px;
+  font-style: italic;
+  color: var(--secondary);
+}

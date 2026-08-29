@@ -1,0 +1,20 @@
+{{- /* Riga azienda/ateneo di una voce del CV.
+
+     Uso:  {{< org "IBM" "Segrate, Italy · Full-time" >}}
+           {{< org "University of Pavia" "Pavia, Italy · Double Degree Programme" >}}
+
+     Il secondo parametro (sede e tipo di rapporto) e' facoltativo.
+     Lo stile vive in assets/css/extended/cv.css.
+
+     Perche' uno shortcode e non del markdown: tenere il nome
+     dell'organizzazione dentro un elemento proprio e' cio' che permette di
+     dargli un peso tipografico diverso dal resto. In piu' rende la struttura
+     uniforme per costruzione — non e' possibile scrivere una voce con
+     l'azienda in un posto diverso dalle altre. */ -}}
+{{- $name := .Get 0 -}}
+{{- $meta := .Get 1 | default "" -}}
+{{- with $name -}}
+<p class="cv-org"><span class="cv-org-name">{{ . }}</span>{{ with $meta }}<span class="cv-org-meta">{{ . }}</span>{{ end }}</p>
+{{- else -}}
+{{- errorf "shortcode org: manca il nome dell'organizzazione (%s)" $.Position -}}
+{{- end -}}

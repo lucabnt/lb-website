@@ -13,9 +13,11 @@ disableShare: true
 
 ## Summary
 
-Technical Sales & Partner Specialist with a double MSc in International Business and European Management. Specialized in scaling the Partner Ecosystem by driving technical enablement, solution architecture, and joint client engagements. Combines business acumen with tech expertise in the enterprise software portfolio to turn complex enterprise technologies into actionable market solutions.
+I am a Partner Technical Specialist at IBM, operating at the intersection of enterprise technology and strategic business growth. My work focuses on empowering the Global System Integrators (GSIs) ecosystem, enabling partners to demonstrate, architect, and deploy solutions across the full IBM technology portfolio at scale. By translating complex technical architectures into clear commercial value, I help partners expand their autonomous delivery capabilities and drive joint client engagements.
 
-This practical approach to IT is grounded in a background in innovation economics: my graduate research focused on platform economics, analyzing [the market determinants of mobile app adoption](https://lucabontempi.com/blog/determinants_of_download_on_mobile_app_stores/ "Determinants of Download on Mobile App Stores - An Empirical Analysis") and the impact of digital platforms on business models.
+My practical approach to IT is grounded in a strong academic foundation in innovation economics. Holding two Master of Science degrees in European Management (Eberhard Karls University of Tübingen) and International Business and Entrepreneurship (University of Pavia), I focused my graduate research on platform economics, specifically analyzing [the market determinants of mobile app adoption](https://lucabontempi.com/blog/determinants_of_download_on_mobile_app_stores/ "Determinants of Download on Mobile App Stores - An Empirical Analysis") and the impact of digital platforms on business models.
+
+I combine this macro-level understanding of digital ecosystems with hands-on technical enablement. Whether orchestrating tailored technical workshops, supporting partner teams through Proofs of Concept (PoCs), or aligning cross-functional stakeholders, my goal is to turn emerging IT trends into high-quality, actionable market solutions.
 
 ## Experience
 

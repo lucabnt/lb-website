@@ -8,6 +8,14 @@
      Il corrispettivo per i social, og:locale, non richiede override: il
      partial del tema legge gia' ".Params.locale" prima della lingua del sito.
 
+     Rispetto al file del tema cambiano due cose soltanto: l'attributo lang
+     appena descritto, e ".Language.Direction" al posto di
+     ".Language.LanguageDirection", deprecato da Hugo 0.158. Resta un terzo
+     avviso di deprecazione, su .Language.LanguageCode, che pero' arriva da
+     rss.xml e da templates/opengraph.html del tema: sono file non
+     sovrascritti qui, e non vale la pena copiarli solo per zittire un
+     avviso — spariranno con un aggiornamento di PaperMod.
+
      Attenzione agli aggiornamenti del tema: questo file va riallineato a
      mano se baseof.html cambia (vedi README). */ -}}
 {{- if lt hugo.Version "0.146.0" }}
@@ -17,11 +25,11 @@
 <!DOCTYPE html>
 {{- $theme := site.Params.defaultTheme | default "auto" }}
 {{- if eq $theme "dark" }}
-<html lang="{{ .Params.lang | default site.Language }}" dir="{{ .Language.LanguageDirection | default "auto" }}" data-theme="dark">
+<html lang="{{ .Params.lang | default site.Language }}" dir="{{ .Language.Direction | default "auto" }}" data-theme="dark">
 {{- else if eq $theme "light" }}
-<html lang="{{ .Params.lang | default site.Language }}" dir="{{ .Language.LanguageDirection | default "auto" }}" data-theme="light">
+<html lang="{{ .Params.lang | default site.Language }}" dir="{{ .Language.Direction | default "auto" }}" data-theme="light">
 {{- else }}
-<html lang="{{ .Params.lang | default site.Language }}" dir="{{ .Language.LanguageDirection | default "auto" }}" data-theme="auto">
+<html lang="{{ .Params.lang | default site.Language }}" dir="{{ .Language.Direction | default "auto" }}" data-theme="auto">
 {{- end }}
 
 <head>

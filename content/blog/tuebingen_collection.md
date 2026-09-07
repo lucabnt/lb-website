@@ -17,8 +17,6 @@ I created a collection of 36 photos that, in my opinion, best represent my exper
 
 The collection is entitled "[One year in Tü. A Chapter.](https://www.flickr.com/photos/77058054@N07/albums/72177720328778423/)" and it is fully available on my [Flickr profile](https://www.flickr.com/photos/77058054@N07/). All the photos are published under the [CC BY-NC-SA license](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-This blog post is part of a Tübingen themed project made of three posts, so you may want to also visit the [Tübingen Experiential Guide for International Students](https://lucabontempi.com/blog/tuebingen_experiential_guide/) and the [Tübingen Hiking Guide](https://lucabontempi.com/blog/tuebingen_hiking_guide/). 
-
 Here you can view every photo with a little bit of commentary!
 
 ### 1/

@@ -22,7 +22,7 @@ cover:
     relative: true
 # comments: false
 ---
-*Note: While I'm publishing this blog post in August 2023, I started writing it in September 2022, when I still was living in Tübingen. This means that many things may have changed since then, mainly prices, affected by last year's inflation rates. However, I still decided to complete this post to conclude the triad of articles that I set out to do at the beginning, also featuring the [Tübingen Photo Collection](https://lucabontempi.com/blog/tuebingen_collection/) and the [Tübingen Hiking Guide](https://lucabontempi.com/blog/tuebingen_hiking_guide/).*
+*Note: While I'm publishing this blog post in August 2023, I started writing it in September 2022, when I still was living in Tübingen. This means that many things may have changed since then, mainly prices, affected by last year's inflation rates. However, I still decided to complete this post to conclude the triad of articles that I set out to do at the beginning.*
 
 After one year as a student in Tübingen, I'll try to share with you all the knowledge of the city and the surrounding area I gained. 
 

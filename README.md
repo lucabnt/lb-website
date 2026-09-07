@@ -11,7 +11,7 @@ Il sito è un generatore di siti statici basato su [Hugo](https://gohugo.io/) co
 * **CMS per i contenuti:** [Decap CMS](https://decapcms.org/) (accessibile da `/admin/`)
 * **Hosting e Deploy:** [Netlify](https://www.netlify.com/) (configurato tramite `netlify.toml`)
 * **Analytics:** [GoatCounter](https://www.goatcounter.com/) — gratuito, senza cookie, non richiede privacy policy/cookie banner
-* **Lingua principale:** Italiano (configurata in `i18n/it.yaml`)
+* **Lingua del sito:** inglese (`defaultContentLanguage` in `config.yml`); il contenuto è misto e le pagine italiane lo dichiarano una per una — vedi *Lingua delle pagine*
 
 ## 🚀 Sviluppo in locale
 
@@ -66,7 +66,9 @@ Oltre a `tags` (l'argomento) e `categories`, il sito ha una tassonomia `series` 
 ```yaml
 series: ["Ciclismo giovanile e professionismo"]
 series_weight: 1   # posizione nella serie
-tags: ["ciclismo-giovanile", "ita"]
+tags: ["ciclismo-giovanile"]
+lang: it           # la serie è in italiano, il sito è in inglese
+locale: it_IT
 ```
 
 `series_weight` — e non la data — determina l'ordine: una puntata pubblicata in ritardo o retrodatata resta comunque al posto giusto.
@@ -87,7 +89,40 @@ episodes_total: 9
 > url: /series/tuebingen/
 > ```
 
-Dentro i post non va scritto nulla: `layouts/partials/series_nav.html` aggiunge da sé la riga «Puntata N di M» sopra il testo e l'elenco delle puntate in fondo, con quella corrente evidenziata. Aggiungere o riordinare una puntata aggiorna tutte le altre.
+Dentro i post non va scritto nulla: `layouts/partials/series_nav.html` aggiunge da sé la riga «Part N of M» sopra il testo e l'elenco delle puntate in fondo, con quella corrente evidenziata. Aggiungere o riordinare una puntata aggiorna tutte le altre.
+
+## 🌍 Lingua delle pagine
+
+Il sito è **in inglese** (`defaultContentLanguage: en`, `languageCode: en-GB` in `config.yml`): da lì vengono l'attributo `lang` dell'HTML, `og:locale`, la lingua dichiarata nel feed RSS e le stringhe della cornice del tema (`i18n/en.yaml`).
+
+Il contenuto però è misto. Una pagina scritta in un'altra lingua **deve dichiararlo**, altrimenti gli screen reader leggono il testo italiano con la fonetica inglese:
+
+```yaml
+lang: it
+locale: it_IT
+```
+
+`lang` finisce nell'elemento `<html>`, `locale` in `og:locale` per le anteprime social. Vanno messi entrambi: sono due meccanismi diversi.
+
+> Questo non cambia la lingua della cornice: «Table of Contents», i pulsanti di condivisione e le etichette delle serie restano in inglese anche su una pagina italiana, perché seguono la lingua del *sito*. `i18n/it.yaml` esiste ma non è attivo, e lo dice nella propria intestazione.
+
+### Pagine con entrambe le lingue
+
+`/about/` ha la versione inglese e, sotto, quella italiana. In questi casi la pagina resta inglese — è la lingua prevalente e quella del titolo — e si marca **solo la parte italiana**, avvolgendola in un `div`:
+
+```markdown
+## About me again, but in Italian
+
+<div lang="it">
+
+Ciao, sono Luca!
+
+</div>
+```
+
+Le righe vuote dopo il tag di apertura e prima di quello di chiusura sono obbligatorie: senza, Hugo tratta tutto il blocco come HTML grezzo e non converte più il markdown al suo interno. Il titolo della sezione resta fuori dal `div` perché è scritto in inglese: è il cartello per il lettore inglese, e va letto come tale.
+
+Se un giorno la versione italiana crescesse al punto da meritare una pagina propria, la strada migliore diventa dividerla in due pagine collegate — una lingua per pagina è meglio anche per i motori di ricerca, che su una pagina bilingue devono sceglierne una.
 
 ## 🔒 Manutenzione periodica
 
@@ -121,7 +156,7 @@ cd themes/hugo-PaperMod && git fetch && git checkout <tag-o-commit> && cd ../..
 git add themes/hugo-PaperMod && git commit -m "Aggiorna PaperMod"
 ```
 
-Il tema sovrascrive alcuni file in `layouts/partials/` (ci sono override locali di `head.html`, `footer.html`, `single.html`): dopo un aggiornamento conviene confrontarli con quelli nuovi del tema.
+Il repository sovrascrive alcuni file del tema: `layouts/baseof.html`, `layouts/single.html` e i partial `head.html`, `footer.html`. Dopo un aggiornamento vanno confrontati con quelli nuovi del tema. `baseof.html` in particolare è una copia integrale con **una sola riga diversa** (l'attributo `lang`, vedi sopra): se il tema lo modifica, la copia va riallineata a mano.
 
 ### Dipendenze npm e GitHub Action
 

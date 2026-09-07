@@ -1,3 +1,10 @@
+# NON ATTIVO. Il sito e' in inglese (defaultContentLanguage: en in
+# config.yml), quindi Hugo usa i18n/en.yaml e questo file non viene mai
+# letto: e' la traduzione pronta nel caso un giorno il sito passasse
+# all'italiano. Le pagine italiane dichiarano la propria lingua nel front
+# matter, ma questo non cambia il file i18n usato — le stringhe della
+# cornice (indice, paginazione) restano quelle del sito.
+
 - id: prev_page
   translation: "Pagina precedente"
 

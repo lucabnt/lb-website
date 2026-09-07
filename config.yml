@@ -1,5 +1,15 @@
 baseURL: "/"
 
+# Lingua del sito. "defaultContentLanguage" determina l'attributo lang
+# dell'HTML e quale file i18n/ viene usato; "languageCode" alimenta og:locale
+# e il feed RSS. Inglese britannico perche' e' quello in cui e' scritto il
+# contenuto (favourite, colour, organise).
+#
+# Le singole pagine scritte in un'altra lingua la dichiarano nel proprio
+# front matter con "lang" e "locale" (vedi README).
+defaultContentLanguage: en
+languageCode: en-GB
+
 title: Luca Bontempi
 pagerSize: 5
 theme: hugo-PaperMod

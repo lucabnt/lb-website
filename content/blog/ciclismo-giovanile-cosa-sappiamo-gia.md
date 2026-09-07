@@ -47,7 +47,7 @@ Poi c'è il dato che torna ovunque, cioè che la stragrande maggioranza di chi v
 
 Sui test di laboratorio la letteratura è quasi unanime[^menaspa], e vale la pena dirlo perché suona strano: la soglia e i watt per chilo descrivono bene il livello di un ragazzo adesso, ma non aggiungono niente su dove arriverà. Uno studio norvegese[^svendsen] ha messo a confronto le due famiglie di predittori sulle stesse persone, e il piazzamento in gara a diciotto anni ha battuto tutte le variabili fisiologiche.
 
-L'ultimo punto riguarda il mese di nascita. In tutte le popolazioni giovanili studiate i nati nei primi mesi dell'anno sono più di quanti la demografia ne giustifichi, però il vantaggio si assottiglia salendo di categoria e fra i professionisti sparisce. Uno studio su quasi tremila corridori delle squadre Continental[^voet] lo dice nel modo più tagliente possibile: l'effetto si trova soprattutto fra chi non ce l'ha fatta. Chi seleziona presto premia in modo sistematico la maturità anagrafica, e quella maturità in carriera non si converte.
+L'ultimo punto riguarda il mese di nascita. In tutte le popolazioni giovanili studiate i nati nei primi mesi dell'anno sono più di quanti la demografia ne giustifichi, però il vantaggio si assottiglia salendo di categoria e fra i professionisti sparisce. Uno studio su quasi tremila corridori delle squadre Continental[^voet] lo dice nel modo più tagliente possibile: l'effetto si trova soprattutto fra chi non ce l'ha fatta. Chi seleziona presto premia in modo sistematico la maturità anagrafica, e quella maturità non si converte in una carriera di successo.
 
 ## Cosa questi studi non dicono
 
@@ -67,7 +67,7 @@ Manca infine il numero che servirebbe davvero. Gli studi riportano che la differ
 
 Ci sono poi due cose che quasi nessuno dichiara, e che ho scoperto provando a rifare i conti da capo. La prima è quanti fossero all'inizio: le percentuali si calcolano sempre su gruppi già selezionati, cioè chi era al Mondiale, chi aveva un top 10, chi era a ranking, senza mai dire quanti fossero i ragazzi da cui quel gruppo è stato tirato fuori. La seconda è che uscire da una classifica viene contato come smettere, e le due cose non coincidono.
 
-Non è una critica che posso fare dall'alto, perché **valgono in pieno anche per questo studio**: anche i miei numeri partono da un gruppo già scremato, e anch'io vedo sparire dei ragazzi dalla classifica senza sapere se abbiano smesso di correre. L'unica differenza che posso rivendicare è di averle misurate invece di lasciarle implicite, ed è il tema delle prossime due puntate.
+Non è una critica che posso fare dall'alto, perché **valgono in pieno anche per questo studio**: anche i miei numeri partono da un gruppo già scremato, e anch'io vedo sparire dei ragazzi dalla classifica senza sapere se abbiano smesso di correre o se il loro rendimento sia solo calato. L'unica differenza che posso rivendicare è di averle misurate invece di lasciarle implicite, ed è il tema delle prossime due puntate.
 
 <!-- IMMAGINE 2 (facoltativa) — un momento a bordo strada: un direttore sportivo, un ammiraglia,
      un ragazzo che rientra. Serve a spezzare il testo prima della chiusura, non a documentare.

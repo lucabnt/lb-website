@@ -5,11 +5,17 @@ name: Build check
 # verifica che tutte le pagine pubblicate vengano davvero scritte.
 #
 # Nasce da un bug intermittente scoperto ad agosto 2026: in alcune build
-# quel comando può fallire nel processare 4 post specifici senza far
-# fallire l'intera build (Hugo esce comunque con codice 0), lasciando
-# quelle pagine assenti dall'output — un 404 silenzioso in produzione,
-# mai segnalato da Netlify come errore. "hugo server", usato in sviluppo
-# locale, non riproduce il problema.
+# quel comando falliva nel processare i post del blog, lasciando quelle
+# pagine assenti dall'output — un 404 silenzioso in produzione, mai
+# segnalato da Netlify come errore.
+#
+# La causa è stata trovata a settembre 2026 ed è corretta in
+# layouts/partials/templates/schema_json.html: il template del tema
+# emetteva una virgola pendente nel JSON-LD quando site.GetPage non
+# risolveva la sezione padre, e il minificatore rifiutava la pagina.
+# Il controllo qui sotto resta comunque, come rete di sicurezza: una
+# pagina che sparisce dall'output senza far fallire la build è un guasto
+# che Netlify non segnala, e vale la pena continuare a cercarlo.
 on:
   push:
     branches: [main]

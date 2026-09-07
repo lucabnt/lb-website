@@ -55,7 +55,7 @@ Se vuoi eseguire il sito in locale sul tuo computer per testare delle modifiche 
 Ad ogni push su `main`, il workflow `.github/workflows/build-check.yml` esegue la stessa build di produzione usata da Netlify e verifica che:
 
 * la build non produca errori;
-* **ogni pagina pubblicata sia effettivamente generata** — nasce da un bug intermittente di Hugo per cui la build può saltare una pagina senza fallire, lasciando un 404 silenzioso in produzione;
+* **ogni pagina pubblicata sia effettivamente generata** — nasce da un bug intermittente per cui la build poteva saltare un post senza fallire, lasciando un 404 silenzioso in produzione. La causa è stata trovata e corretta (vedi *Tema PaperMod*), ma il controllo resta come rete di sicurezza: una pagina che sparisce senza far fallire la build è un guasto che Netlify non segnala;
 * non ci siano **link interni rotti** (controllo bloccante);
 * non ci siano **link esterni rotti** (controllo informativo, non blocca la CI: il link rot su siti di terzi non dipende da questo repository).
 
@@ -156,7 +156,9 @@ cd themes/hugo-PaperMod && git fetch && git checkout <tag-o-commit> && cd ../..
 git add themes/hugo-PaperMod && git commit -m "Aggiorna PaperMod"
 ```
 
-Il repository sovrascrive alcuni file del tema: `layouts/baseof.html`, `layouts/single.html` e i partial `head.html`, `footer.html`. Dopo un aggiornamento vanno confrontati con quelli nuovi del tema. `baseof.html` in particolare è una copia integrale con **una sola riga diversa** (l'attributo `lang`, vedi sopra): se il tema lo modifica, la copia va riallineata a mano.
+Il repository sovrascrive alcuni file del tema: `layouts/baseof.html`, `layouts/single.html` e i partial `head.html`, `footer.html`, `templates/schema_json.html`. Dopo un aggiornamento vanno confrontati con quelli nuovi del tema. `baseof.html` e `templates/schema_json.html` sono copie integrali con una sola modifica ciascuna — l'attributo `lang` nel primo, il blocco `BreadcrumbList` nel secondo — e vanno riallineate a mano se il tema le modifica. In entrambe la modifica è delimitata da un commento, così si vede subito cosa tenere.
+
+> Il perché di `schema_json.html`: il template del tema costruiva il JSON-LD del breadcrumb mettendo la virgola prima dell'ultimo elemento in base alla profondità del percorso, non al numero di elementi effettivamente scritti. Quando `site.GetPage` non risolveva la sezione padre usciva `"itemListElement": [, {...}]`, JSON non valido: il minificatore rifiutava la pagina e la build falliva. Colpiva solo i post del blog, perché sono le uniche pagine dentro una sezione.
 
 ### Dipendenze npm e GitHub Action
 

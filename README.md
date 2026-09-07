@@ -93,7 +93,7 @@ Dentro i post non va scritto nulla: `layouts/partials/series_nav.html` aggiunge 
 
 ## 🌍 Lingua delle pagine
 
-Il sito è **in inglese** (`defaultContentLanguage: en`, `languageCode: en-GB` in `config.yml`): da lì vengono l'attributo `lang` dell'HTML, `og:locale`, la lingua dichiarata nel feed RSS e le stringhe della cornice del tema (`i18n/en.yaml`).
+Il sito è **in inglese** (`defaultContentLanguage: en`, `locale: en-GB` in `config.yml`): da lì vengono l'attributo `lang` dell'HTML, `og:locale`, la lingua dichiarata nel feed RSS e le stringhe della cornice del tema (`i18n/en.yaml`).
 
 Il contenuto però è misto. Una pagina scritta in un'altra lingua **deve dichiararlo**, altrimenti gli screen reader leggono il testo italiano con la fonetica inglese:
 

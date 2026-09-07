@@ -101,6 +101,14 @@ params:
   # google:
     # SiteVerificationTag: "G-XXPZ3HC2H9"
 
+# Tassonomie. Attenzione: dichiarandone anche una sola, Hugo smette di
+# applicare quelle predefinite, quindi tag e categorie vanno riscritte qui
+# o sparirebbero dal sito.
+taxonomies:
+  tag: tags
+  category: categories
+  series: series
+
 # Pluralize titles in lists using inflect
 pluralizeListTitles: false
 

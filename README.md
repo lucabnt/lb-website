@@ -59,6 +59,36 @@ Ad ogni push su `main`, il workflow `.github/workflows/build-check.yml` esegue l
 * non ci siano **link interni rotti** (controllo bloccante);
 * non ci siano **link esterni rotti** (controllo informativo, non blocca la CI: il link rot su siti di terzi non dipende da questo repository).
 
+## 📚 Serie di articoli
+
+Oltre a `tags` (l'argomento) e `categories`, il sito ha una tassonomia `series` per i post che compongono una sequenza da leggere in ordine. Ogni puntata dichiara:
+
+```yaml
+series: ["Ciclismo giovanile e professionismo"]
+series_weight: 1   # posizione nella serie
+tags: ["ciclismo-giovanile", "ita"]
+```
+
+`series_weight` — e non la data — determina l'ordine: una puntata pubblicata in ritardo o retrodatata resta comunque al posto giusto.
+
+Ogni serie ha una pagina propria in `content/series/<slug>/_index.md`, che serve a due cose: dare alla serie un titolo scritto a mano (altrimenti Hugo lo genera mettendo in maiuscolo ogni parola, congiunzioni comprese) e un'introduzione. Se la serie esce a puntate, `episodes_total` fissa il totale finale, altrimenti il primo post annuncerebbe «puntata 1 di 1»:
+
+```yaml
+title: "Ciclismo giovanile e professionismo"
+episodes_total: 9
+```
+
+> ⚠️ **Il nome della cartella deve combaciare esattamente con lo slug del nome della serie** così come Hugo lo genera dal valore scritto in `series:` nei post. Se non combacia il guasto è silenzioso: Hugo costruisce due pagine separate, una con il titolo e l'introduzione ma senza post, e una con i post ma senza titolo e introduzione, e nessuna delle due segnala l'errore.
+>
+> Quando lo slug conterrebbe accenti o dieresi, la cartella deve tenerli lo stesso (`content/series/one-year-in-tübingen/`), altrimenti l'accoppiamento salta. Per pubblicare comunque un indirizzo pulito si usa `url:` — `slug:` sui termini di tassonomia viene ignorato:
+>
+> ```yaml
+> title: "One year in Tübingen"
+> url: /series/tuebingen/
+> ```
+
+Dentro i post non va scritto nulla: `layouts/partials/series_nav.html` aggiunge da sé la riga «Puntata N di M» sopra il testo e l'elenco delle puntate in fondo, con quella corrente evidenziata. Aggiungere o riordinare una puntata aggiorna tutte le altre.
+
 ## 🔒 Manutenzione periodica
 
 Poche cose, ma vanno fatte a mano. Nessuna è urgente: sono tutte "quando capita".

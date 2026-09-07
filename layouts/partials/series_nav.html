@@ -1,0 +1,60 @@
+{{- /* Navigatore di serie.
+
+     Rende nulla se il post non appartiene a una serie, quindi si puo'
+     chiamare incondizionatamente da single.html.
+
+     Parametri (dict):
+       page     la pagina corrente
+       compact  true  -> una riga sola: "Serie · Puntata N di M"
+                false -> il riquadro con l'elenco completo delle puntate
+
+     L'ordine delle puntate viene da "series_weight" nel front matter, non
+     dalle date: cosi' la serie si legge nell'ordine giusto anche se un post
+     viene pubblicato in ritardo o retrodatato. Il totale e' contato qui, non
+     scritto nel testo dei post: aggiungere o togliere una puntata aggiorna
+     da solo tutti gli altri. */ -}}
+
+{{- $page := .page -}}
+{{- $compact := .compact | default false -}}
+{{- $terms := $page.GetTerms "series" -}}
+
+{{- with $terms -}}
+{{- $term := index . 0 -}}
+{{- $episodes := $term.Pages -}}
+{{- /* Il totale e' il numero di puntate pubblicate, a meno che la pagina
+     della serie non dichiari "episodes_total". Serve mentre la serie esce a
+     puntate: senza, il primo post direbbe "puntata 1 di 1". */ -}}
+{{- $total := $term.Params.episodes_total | default (len $episodes) -}}
+
+{{- /* Posizione della puntata corrente nell'elenco */ -}}
+{{- $current := 0 -}}
+{{- range $i, $p := $episodes -}}
+  {{- if eq $p.Permalink $page.Permalink -}}{{- $current = add $i 1 -}}{{- end -}}
+{{- end -}}
+
+{{- if $compact -}}
+<p class="series-kicker">
+  <a href="{{ $term.Permalink }}">{{ $term.LinkTitle }}</a>
+  {{- if $current }} <span class="series-kicker-pos">{{ i18n "series_part" (dict "current" $current "total" $total) }}</span>{{ end -}}
+</p>
+{{- else -}}
+<nav class="series-box" aria-label="{{ i18n "series_episodes" (dict "name" $term.LinkTitle) }}">
+  <p class="series-box-title">
+    <span class="series-box-label">{{ i18n "series" }}</span>
+    <a href="{{ $term.Permalink }}">{{ $term.LinkTitle }}</a>
+  </p>
+  <ol class="series-box-list">
+    {{- range $i, $p := $episodes }}
+    {{- $isCurrent := eq $p.Permalink $page.Permalink }}
+    <li{{ if $isCurrent }} class="is-current" aria-current="true"{{ end }}>
+      {{- if $isCurrent -}}
+      <span>{{ $p.Title }}</span>
+      {{- else -}}
+      <a href="{{ $p.Permalink }}">{{ $p.Title }}</a>
+      {{- end -}}
+    </li>
+    {{- end }}
+  </ol>
+</nav>
+{{- end -}}
+{{- end -}}

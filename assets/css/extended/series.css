@@ -1,0 +1,70 @@
+/* Navigatore di serie (layouts/partials/series_nav.html).
+ * I colori usano le variabili del tema, quindi il blocco segue da solo il
+ * tema chiaro e quello scuro. */
+
+/* Riga sopra il contenuto: "Serie · Puntata N di M" */
+.series-kicker {
+  margin: 0 0 var(--content-gap);
+  font-size: 15px;
+  color: var(--secondary);
+}
+
+.series-kicker a {
+  color: var(--secondary);
+  text-decoration: underline;
+  text-underline-offset: 0.25rem;
+}
+
+.series-kicker-pos::before {
+  content: "·";
+  margin: 0 6px;
+}
+
+/* Riquadro in fondo al post con l'elenco delle puntate */
+.series-box {
+  margin: var(--content-gap) 0 0;
+  padding: 16px 20px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  background: var(--code-bg);
+}
+
+.series-box-title {
+  margin: 0 0 10px;
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.series-box-label {
+  display: block;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--secondary);
+}
+
+.series-box-title a {
+  color: var(--primary);
+}
+
+.series-box-list {
+  margin: 0;
+  padding-left: 1.4em;
+  font-size: 16px;
+}
+
+.series-box-list li {
+  margin: 4px 0;
+}
+
+.series-box-list li.is-current {
+  font-weight: 700;
+  color: var(--primary);
+}
+
+.series-box-list a {
+  color: var(--content);
+  text-decoration: underline;
+  text-underline-offset: 0.25rem;
+}

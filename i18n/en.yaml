@@ -1,0 +1,19 @@
+# Stringhe del navigatore di serie (layouts/partials/series_nav.html).
+#
+# Il sito gira attualmente come "en" (in config.yml non c'e'
+# defaultContentLanguage, e Hugo assume l'inglese), quindi sono queste le
+# stringhe che si vedono, in linea con il resto della cornice del tema, che
+# e' in inglese: date, "min", "Table of Contents".
+#
+# Gli stessi id esistono in it.yaml: se un giorno il sito venisse impostato
+# su "it", queste etichette passerebbero all'italiano insieme a quelle di
+# PaperMod, senza toccare i template.
+
+- id: series
+  translation: "Series"
+
+- id: series_part
+  translation: "Part {{ .current }} of {{ .total }}"
+
+- id: series_episodes
+  translation: "Episodes in the series {{ .name }}"

@@ -1,6 +1,8 @@
 ---
 title: A Tübingen Hiking Guide
 date: 2022-11-11T09:30:00+01:00
+series: ["One year in Tübingen"]
+series_weight: 2
 tags:
 - Tübingen
 - hiking

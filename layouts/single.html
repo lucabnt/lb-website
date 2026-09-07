@@ -40,6 +40,11 @@
   {{- partial "toc.html" . }}
   {{- end }}
 
+  {{- /* Riga "Serie · Puntata N di M": chi arriva da una ricerca su una
+     puntata centrale deve capire subito di essere dentro una serie, prima
+     di leggere. L'elenco completo sta in fondo, dove serve per proseguire. */}}
+  {{- partial "series_nav.html" (dict "page" . "compact" true) }}
+
   {{- if .Content }}
   <div class="post-content md-content">
     {{- if not (.Param "disableAnchoredHeadings") }}

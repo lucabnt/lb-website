@@ -14,3 +14,12 @@
 
 - id: translations
   translation: "Traduzioni"
+
+- id: series
+  translation: "Serie"
+
+- id: series_part
+  translation: "Puntata {{ .current }} di {{ .total }}"
+
+- id: series_episodes
+  translation: "Puntate della serie {{ .name }}"

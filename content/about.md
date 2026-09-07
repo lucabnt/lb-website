@@ -19,6 +19,8 @@ For more details, feel free to take a look at my concise [CV]( {{< ref "cv.md" >
 
 ## About me again, but in Italian
 
+<div lang="it">
+
 Ciao, sono Luca!
 
 Ho conseguito un Master in [International Business and Entrepreneurship](https://mibe.cdl.unipv.it/en) (M.Sc.) presso l’Università di Pavia, con un focus sul digitale, e un altro Master in [European Management](https://uni-tuebingen.de/de/33648) (M.Sc.) all’Università di Tübingen. Nella mia tesi ho analizzato [cosa spinge le persone a scaricare determinate app dagli store digitali](https://lucabontempi.com/blog/determinants_of_download_on_mobile_app_stores/ "Determinants of Download on Mobile App Stores - An Empirical Analysis").
@@ -30,3 +32,5 @@ Oggi faccio parte di IBM, dove aiuto i partner a valorizzare al massimo le tecno
 Fuori dal lavoro, mi piace parlare di tecnologia, videogiochi, film, serie TV e, a volte, di politica. Per ricaricarmi adoro [correre e andare in bici](https://www.strava.com/athletes/4403103 "Strava"): non c’è niente di meglio di una lunga corsa o pedalata per liberare la mente.
 
 Per saperne di più, puoi dare un'occhiata al mio [curriculum vitae]( {{< ref "cv.md" >}} "Curriculum Vitae") riassuntivo e contattarmi attraverso la sezione [Contatti]( {{< ref "contacts.md" >}} "Contacts").
+
+</div>

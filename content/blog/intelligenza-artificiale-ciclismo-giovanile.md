@@ -1,4 +1,6 @@
 ---
+lang: it
+locale: it_IT
 title: "Le ore che non abbiamo più: cosa succede quando porti l'intelligenza artificiale in una squadra sportiva giovanile"
 date: 2026-08-05T10:17:38+02:00 # date: 2020-11-02T17:03:46+01:00
 draft: true

@@ -1,0 +1,43 @@
+{{- /* Override di PaperMod: unica differenza rispetto al file del tema e'
+     l'attributo lang dell'elemento <html>, che nel tema e' fisso sulla lingua
+     del sito. Qui una pagina puo' dichiarare la propria con "lang" nel front
+     matter: il sito e' in inglese, ma alcune pagine sono in italiano, e un
+     lang sbagliato fa leggere il testo italiano agli screen reader con la
+     fonetica inglese.
+
+     Il corrispettivo per i social, og:locale, non richiede override: il
+     partial del tema legge gia' ".Params.locale" prima della lingua del sito.
+
+     Attenzione agli aggiornamenti del tema: questo file va riallineato a
+     mano se baseof.html cambia (vedi README). */ -}}
+{{- if lt hugo.Version "0.146.0" }}
+{{- errorf "=> hugo v0.146.0 or greater is required for hugo-PaperMod to build " }}
+{{- end -}}
+
+<!DOCTYPE html>
+{{- $theme := site.Params.defaultTheme | default "auto" }}
+{{- if eq $theme "dark" }}
+<html lang="{{ .Params.lang | default site.Language }}" dir="{{ .Language.LanguageDirection | default "auto" }}" data-theme="dark">
+{{- else if eq $theme "light" }}
+<html lang="{{ .Params.lang | default site.Language }}" dir="{{ .Language.LanguageDirection | default "auto" }}" data-theme="light">
+{{- else }}
+<html lang="{{ .Params.lang | default site.Language }}" dir="{{ .Language.LanguageDirection | default "auto" }}" data-theme="auto">
+{{- end }}
+
+<head>
+    {{- partial "head.html" . }}
+</head>
+
+{{- if (or (ne .Kind `page` ) (eq .Layout `archives`) (eq .Layout `search`)) }}
+<body class="list" id="top">
+{{- else }}
+<body id="top">
+{{- end }}
+    {{ partialCached "header.html" . .Page -}}
+    <main class="main">
+        {{- block "main" . }}{{ end }}
+    </main>
+    {{ partialCached "footer.html" . .Layout .Kind (.Param "hideFooter") (.Param "ShowCodeCopyButtons") -}}
+</body>
+
+</html>

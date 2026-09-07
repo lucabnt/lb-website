@@ -11,7 +11,23 @@ defaultContentLanguage: en
 languageCode: en-GB
 
 title: Luca Bontempi
-pagerSize: 5
+
+# Paginazione: il sito usa il valore predefinito di Hugo, 10 elementi per
+# pagina, e va bene cosi'.
+#
+# Qui c'era "pagerSize: 5", che non ha mai avuto effetto: a livello radice
+# non e' una chiave valida e Hugo la scartava in silenzio, senza alcun
+# avviso. Nemmeno "paginate", la vecchia chiave, funziona piu': e' stata
+# rimossa. L'unica forma riconosciuta oggi e':
+#
+#   pagination:
+#     pagerSize: 10
+#
+# Prima di introdurla, pero': vale per tutti gli elenchi, quindi un valore
+# sotto il numero di puntate di una serie spezzerebbe /series/<nome>/ su
+# piu' pagine. Il riquadro dentro i post non ne risente, perche' non passa
+# dal paginatore.
+
 theme: hugo-PaperMod
 
 enableRobotsTXT: true

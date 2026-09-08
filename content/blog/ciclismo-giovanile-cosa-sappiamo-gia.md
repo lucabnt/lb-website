@@ -32,7 +32,7 @@ cover:
 
 Ai Mondiali juniores su strada ogni nazione porta sei corridori. Sei, su tutti i diciassettenni e diciottenni tesserati in quel paese, e chi ha corso da Juniores ricorda benissimo quanto sia difficile strappare una convocazione. Se arrivi a quella linea di partenza vuol dire che hai superato ogni selezione che il ciclismo giovanile riesca a mettere in piedi: più predestinato di così non si può.
 
-Eppure anche vincerla, quella gara, non è una garanzia di niente. Da quando esiste il Mondiale juniores su strada, solo tre corridori hanno vinto sia quello sia il Mondiale élite: Greg LeMond (juniores nel 1979, élite nel 1983 e nel 1989), Mathieu van der Poel (juniores nel 2013, élite nel 2023) e Remco Evenepoel — che è anche il corridore sul podio nella foto di copertina di questo articolo, scattata proprio ai Mondiali juniores di Innsbruck del 2018, l'anno in cui li vinse. Il suo Mondiale élite sarebbe arrivato quattro anni dopo, nel 2022.
+Eppure anche vincerla, quella gara, non è una garanzia di niente. Da quando esiste il Mondiale juniores su strada, solo tre corridori hanno vinto sia quello sia il Mondiale élite: Greg LeMond (juniores nel 1979, élite nel 1983 e nel 1989), Mathieu van der Poel (juniores nel 2013, élite nel 2023) e Remco Evenepoel, che è anche il corridore sul podio nella foto di copertina di questo articolo, scattata proprio ai Mondiali juniores di Innsbruck del 2018, l'anno in cui li vinse. Il suo Mondiale élite sarebbe arrivato quattro anni dopo, nel 2022.
 
 Nel 2006 un gruppo di ricercatori tedeschi[^schumacher] ha preso gli elenchi dei partecipanti a quei Mondiali e si è messo a seguirli negli anni, per contare quanti fossero poi arrivati a correre il Mondiale da grandi. Trenta su cento. Poi hanno guardato la stessa cosa al contrario, partendo dai corridori del Mondiale élite e chiedendosi quanti fossero passati da quello juniores: 29,4 su cento.
 
@@ -97,13 +97,8 @@ Prima di dirti quanti ce la fanno, però, devo dirti quanti sono. E la risposta 
 
 > **Come lo sappiamo**
 >
-> Questo post non contiene dati originali: riassume ventidue studi pubblicati fra il 2006 e il 2025, raccolti in una rassegna che sta in [`docs/literature_review.md`](https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/docs/literature_review.md) con riferimento completo, DOI e limiti di ciascuno.
->
-> Cinque di quegli studi li ho letti per intero e ho riscritto le rispettive schede; per gli altri ho lavorato su abstract e citazioni incrociate, perché i testi integrali non sono pubblicamente accessibili, e la rassegna dichiara caso per caso quali siano stati verificati e quali no.
->
-> Il limite più serio di questa sintesi è che riguarda quasi soltanto atleti maschi, e un paese alla volta.
->
-> Il codice, i risultati e il documento tecnico completo di questa serie stanno in un repository pubblico: <https://github.com/lucabnt/ciclismo-giovanile-vs-pro>. Ogni cifra citata nei post rimanda al file che l'ha prodotta.
+> Questo post non contiene dati originali: riassume ventidue studi pubblicati fra il 2006 e il 2025.
+
 
 [^schumacher]: Schumacher Y.O. et al. (2006), *Success in elite cycling: a prospective and retrospective analysis of race results*, Journal of Sports Sciences 24(11), 1149-1156. DOI [10.1080/02640410500457299](https://doi.org/10.1080/02640410500457299).
 

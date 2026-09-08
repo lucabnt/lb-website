@@ -11,18 +11,28 @@ tags: ["ciclismo-giovanile", "sport"]
 author: "lb"
 showToc: true
 TocOpen: false
-# IMMAGINE DI COPERTINA — togliere il commento quando il file esiste.
-# Il file va in static/blog/ciclismo-giovanile-cosa-sappiamo-gia/
-# Soggetto adatto: una partenza di una gara giovanile, gruppo schierato.
-# cover:
-#     image: blog/ciclismo-giovanile-cosa-sappiamo-gia/nome-file.webp
-#     alt: "..."
-#     relative: true
+# Il file va in static/blog/ciclismo-giovanile-cosa-sappiamo-gia/, nome
+# da correggere qui sotto se sul disco è diverso da questo.
+#
+# Attribuzione richiesta dalla licenza CC BY-SA 4.0: testo nella caption,
+# non nei tre badge <img> che Openverse aggiunge di default — sarebbero
+# la sola dipendenza da un host esterno di tutto il sito a runtime, oltre
+# a GoatCounter e Netlify Identity, entrambe scelte deliberate. Il nome
+# dell'immagine originale, l'autore e la licenza restano tutti e tre
+# presenti come link, che è quanto la licenza richiede (TASL).
+cover:
+    image: blog/ciclismo-giovanile-cosa-sappiamo-gia/junior-world-championship-2018.webp
+    alt: "Cerimonia di premiazione della prova in linea Juniores maschile ai Mondiali UCI di Innsbruck 2018"
+    relative: true
+    caption: '"[20180927 UCI Road World Championships Innsbruck Men Juniors Road Race Award Ceremony 850 0668](https://commons.wikimedia.org/w/index.php?curid=73134755)" di [Granada](https://commons.wikimedia.org/wiki/User:Granada), ridimensionata e convertita in WebP, licenza [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).'
+
 ---
 
 *Questa serie parla dei ranking giovanili italiani e del passaggio al professionismo. Prima di tirare fuori i miei numeri mi sembrava giusto raccontare cosa la ricerca sa già, perché in vent'anni qualche risposta è arrivata, ed è abbastanza diversa da quella che si sente ripetere ai bordi delle strade.*
 
 Ai Mondiali juniores su strada ogni nazione porta sei corridori. Sei, su tutti i diciassettenni e diciottenni tesserati in quel paese, e chi ha corso da Juniores ricorda benissimo quanto sia difficile strappare una convocazione. Se arrivi a quella linea di partenza vuol dire che hai superato ogni selezione che il ciclismo giovanile riesca a mettere in piedi: più predestinato di così non si può.
+
+Eppure anche vincerla, quella gara, non è una garanzia di niente. Da quando esiste il Mondiale juniores su strada, solo tre corridori hanno vinto sia quello sia il Mondiale élite: Greg LeMond (juniores nel 1979, élite nel 1983 e nel 1989), Mathieu van der Poel (juniores nel 2013, élite nel 2023) e Remco Evenepoel — che è anche il corridore sul podio nella foto di copertina di questo articolo, scattata proprio ai Mondiali juniores di Innsbruck del 2018, l'anno in cui li vinse. Il suo Mondiale élite sarebbe arrivato quattro anni dopo, nel 2022.
 
 Nel 2006 un gruppo di ricercatori tedeschi[^schumacher] ha preso gli elenchi dei partecipanti a quei Mondiali e si è messo a seguirli negli anni, per contare quanti fossero poi arrivati a correre il Mondiale da grandi. Trenta su cento. Poi hanno guardato la stessa cosa al contrario, partendo dai corridori del Mondiale élite e chiedendosi quanti fossero passati da quello juniores: 29,4 su cento.
 

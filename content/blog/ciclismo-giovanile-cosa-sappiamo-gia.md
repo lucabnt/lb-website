@@ -38,10 +38,11 @@ Nel 2006 un gruppo di ricercatori tedeschi[^schumacher] ha preso gli elenchi dei
 
 Le due percentuali si somigliano per caso, però messe insieme dicono una cosa sola, e non è una cosa comoda. Andare forte da ragazzi non è indispensabile per arrivare, e non basta neanche lontanamente a garantirtelo. Sette predestinati su dieci non ce la fanno, e sette arrivati su dieci non erano predestinati. È il risultato più solido di tutta la ricerca sul tema ed è anche il più vecchio, visto che da allora nessuno è riuscito a smentirlo.
 
-<!-- IMMAGINE 1 — la griglia di partenza di una gara giovanile, o un gruppo in corsa.
-     Sta bene qui perché il testo appena letto parla della linea di partenza.
-     File: static/blog/ciclismo-giovanile-cosa-sappiamo-gia/nome-file.webp
-     Sostituire questo commento con: {{</* figure src="nome-file.webp" alt="..." caption="..." */>}} -->
+{{< figure
+  src="mondiale_juniores_2006.webp"
+  alt="Due barre orizzontali, una per ciascuna direzione del confronto, riempite per circa un terzo, con la domanda scritta sopra ciascuna."
+  caption="Le due percentuali rispondono a domande opposte e si somigliano: sette predestinati su dieci non arrivano, e sette arrivati su dieci non erano predestinati."
+>}}
 
 ## Cosa hanno stabilito vent'anni di ricerca
 

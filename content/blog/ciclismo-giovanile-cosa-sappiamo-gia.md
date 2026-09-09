@@ -32,7 +32,7 @@ Le due cifre rispondono a domande opposte e non misurano la stessa cosa, ma mess
 {{< figure
   src="mondiale_juniores_2006.webp"
   alt="Due barre orizzontali, una per ciascuna direzione del confronto, riempite per circa un terzo, con la domanda scritta sopra ciascuna."
-  caption="Le due percentuali rispondono a domande opposte, e nessuna delle due arriva a un terzo: la maggioranza resta fuori qualunque sia il lato da cui si guarda."
+  caption="Le due percentuali rispondono a domande opposte, e nessuna delle due va molto oltre un terzo: la maggioranza resta fuori qualunque sia il lato da cui si guarda."
 >}}
 
 ## Cosa hanno stabilito vent'anni di ricerca

@@ -11,15 +11,6 @@ tags: ["ciclismo-giovanile", "sport"]
 author: "lb"
 showToc: true
 TocOpen: false
-# Il file va in static/blog/ciclismo-giovanile-cosa-sappiamo-gia/, nome
-# da correggere qui sotto se sul disco è diverso da questo.
-#
-# Attribuzione richiesta dalla licenza CC BY-SA 4.0: testo nella caption,
-# non nei tre badge <img> che Openverse aggiunge di default — sarebbero
-# la sola dipendenza da un host esterno di tutto il sito a runtime, oltre
-# a GoatCounter e Netlify Identity, entrambe scelte deliberate. Il nome
-# dell'immagine originale, l'autore e la licenza restano tutti e tre
-# presenti come link, che è quanto la licenza richiede (TASL).
 cover:
     image: blog/ciclismo-giovanile-cosa-sappiamo-gia/junior-world-championship-2018.webp
     alt: "Cerimonia di premiazione della prova in linea Juniores maschile ai Mondiali UCI di Innsbruck 2018"
@@ -34,7 +25,7 @@ Al Mondiale juniores su strada ogni nazione porta una manciata di corridori: al 
 
 Eppure anche vincerla, quella gara, non è una garanzia di niente. Da quando esiste il Mondiale juniores su strada, **solo tre corridori hanno vinto sia quello sia il Mondiale élite**: Greg LeMond (juniores nel 1979, élite nel 1983 e nel 1989), Mathieu van der Poel (juniores nel 2013, élite nel 2023) e Remco Evenepoel, che è anche il corridore sul podio nella foto di copertina di questo articolo, scattata proprio ai Mondiali juniores di Innsbruck del 2018, l'anno in cui li vinse. Il suo Mondiale élite sarebbe arrivato quattro anni dopo, nel 2022.
 
-Nel 2006 un gruppo di ricercatori tedeschi[^schumacher] ha raccolto i risultati delle grandi gare di venticinque anni di ciclismo — 27 454 risultati di 8 004 atleti di 108 paesi, dal 1980 al 2004, e non solo su strada — e ha guardato la stessa storia dai due lati. In avanti: dei ragazzi passati dal Mondiale juniores, quanti hanno poi corso una grande gara fra i grandi? **Trentaquattro su cento**. All'indietro: fra gli atleti con risultati nelle grandi gare élite, quanti erano passati dal Mondiale juniores? 29,4 su cento.
+Nel 2006 un gruppo di ricercatori tedeschi[^schumacher] ha raccolto i risultati delle grandi gare di venticinque anni di ciclismo (27 454 risultati di 8 004 atleti di 108 paesi, dal 1980 al 2004, e non solo su strada) e ha guardato la stessa storia dai due lati. In avanti: dei ragazzi passati dal Mondiale juniores, quanti hanno poi corso una grande gara fra i grandi? **Trentaquattro su cento**. All'indietro: fra gli atleti con risultati nelle grandi gare élite, quanti erano passati dal Mondiale juniores? 29,4 su cento.
 
 Le due cifre rispondono a domande opposte e non misurano la stessa cosa, ma messe insieme dicono qualcosa che non è comodo. Andare forte da ragazzi non è indispensabile per arrivare in alto, e non basta neanche lontanamente a garantirtelo: **due predestinati su tre non correranno mai una grande gara da grandi, e sette su dieci di quelli che ci arrivano da quel Mondiale non erano passati**. È il risultato più replicato di tutta la ricerca sul tema ed è anche il più vecchio, e negli studi che ho letto nessuno lo ha smentito.
 
@@ -46,7 +37,7 @@ Le due cifre rispondono a domande opposte e non misurano la stessa cosa, ma mess
 
 ## Cosa hanno stabilito vent'anni di ricerca
 
-Dal 2006 a oggi la domanda è stata ripresa in Norvegia, in Belgio, in Spagna, in Olanda e due volte in Italia[^paesi], su campioni molto diversi fra loro — da ottomila atleti a poche decine. Le conclusioni si assomigliano parecchio, il che nella ricerca è una buona notizia, perché vuol dire che non dipendono da chi ha fatto i conti.
+Dal 2006 a oggi la domanda è stata ripresa in Norvegia, in Belgio, in Spagna, in Olanda e due volte in Italia[^paesi], su campioni molto diversi fra loro, da ottomila atleti a poche decine. Le conclusioni si assomigliano parecchio, il che nella ricerca è una buona notizia, perché vuol dire che non dipendono da chi ha fatto i conti.
 
 Il punto su cui si discute meno è che **i futuri professionisti andassero già meglio degli altri da ragazzi**. Vale in Italia, in Belgio e in Norvegia, misurato da gruppi diversi con metodi diversi, ed è il risultato più replicato del campo.
 
@@ -54,11 +45,11 @@ Il secondo è che **il segnale cresce man mano che ci si avvicina al traguardo**
 
 Sotto i quindici anni, invece, il sospetto è che non ci sia niente da vedere. Uno studio belga sui tredici e quattordicenni[^mostaert] ha misurato maturazione, coordinazione, capacità motorie e anche la storia di gare di ciascuno, e ha scoperto che tutto insieme spiegava poco più di un quinto delle differenze nel loro rendimento in gara due o tre anni dopo, con maturità e coordinazione attorno al 5 per cento ciascuna. Un quinto del rendimento a sedici anni, si badi, non delle differenze fra quei ragazzi in generale e tanto meno della loro carriera. La lettura che se ne è ricavata è che a quell'età **si stia misurando soprattutto chi si è sviluppato prima**.
 
-Poi c'è il dato che torna ovunque, cioè che **la stragrande maggioranza di chi va forte da giovane non arriva comunque**. Vale la pena elencare i numeri con il loro denominatore attaccato, perché la tentazione di metterli in fila come se misurassero la stessa cosa è forte e porta fuori strada: due su tre dei juniores del Mondiale non correranno una grande gara élite, il 15 per cento dei primi dieci della classifica Allievi italiana ha poi fatto punti nel World Tour[^cesanelli] — e quello studio legge la mia stessa fonte, la stessa classifica di ciclismo.info, solo qualche anno più in su, e cinque su quarantotto di un'intera annata olandese sono arrivati a una squadra Continental o superiore[^hasselaar]. Tre punti di partenza diversi — i convocati, i primi dieci, tutti — e tre traguardi diversi. Quello che si somiglia non è la scala, è la direzione: da qualunque lato si guardi, la maggioranza resta fuori.
+Poi c'è il dato che torna ovunque, cioè che **la stragrande maggioranza di chi va forte da giovane non arriva comunque**. Vale la pena elencare i numeri con il loro denominatore attaccato, perché la tentazione di metterli in fila come se misurassero la stessa cosa è forte e porta fuori strada: due su tre dei juniores del Mondiale non correranno una grande gara élite, il 15 per cento dei primi dieci della classifica Allievi italiana ha poi fatto punti nel World Tour[^cesanelli] (e quello studio legge la mia stessa fonte, la stessa classifica di ciclismo.info, solo qualche anno più in su), e cinque su quarantotto di un'intera annata olandese sono arrivati a una squadra Continental o superiore[^hasselaar]. Tre punti di partenza diversi (i convocati, i primi dieci, tutti) e tre traguardi diversi. Quello che si somiglia non è la scala, è la direzione: da qualunque lato si guardi, la maggioranza resta fuori.
 
 Sui test di laboratorio la letteratura tira quasi tutta nella stessa direzione[^menaspa], e vale la pena dirlo perché suona strano: la soglia e i watt per chilo descrivono bene il livello di un ragazzo adesso, ma **aggiungono poco su dove arriverà**. Uno studio norvegese[^svendsen] ha guardato le due famiglie di predittori sulle stesse persone e le ha trovate **entrambe** capaci di separare chi sarebbe arrivato da chi no; il confronto diretto fra le due, però, non l'ha fatto nessuno, perché i dati di laboratorio esistevano per una manciata di quegli atleti. È un buco della letteratura, non un verdetto a favore della gara.
 
-L'eccezione va nominata, perché è l'unica. Uno studio spagnolo su 65 Under 23[^valenzuela] ha trovato che una prova a cronometro di otto minuti separa bene chi diventerà professionista, e ha fatto una cosa che quasi nessuno fa, cioè dire quanti dei segnalati poi arrivano: il 54 per cento. Poco più della metà di quelli che il test manda avanti ce la fa, e si parla di ventenni già selezionatissimi, non di tredicenni. Regge quindi la frase prudente — a quell'età il laboratorio qualcosa dice — e non regge quella comoda, cioè che basti misurare.
+L'eccezione va nominata, perché è l'unica. Uno studio spagnolo su 65 Under 23[^valenzuela] ha trovato che una prova a cronometro di otto minuti separa bene chi diventerà professionista, e ha fatto una cosa che quasi nessuno fa, cioè dire quanti dei segnalati poi arrivano: il 54 per cento. Poco più della metà di quelli che il test manda avanti ce la fa, e si parla di ventenni già selezionatissimi, non di tredicenni. Regge quindi la frase prudente, cioè che a quell'età il laboratorio qualcosa dice, e non regge quella comoda, cioè che basti misurare.
 
 L'ultimo punto riguarda il mese di nascita, e va detto separando due cose che di solito si confondono. La prima è **chi entra**: nelle popolazioni giovanili studiate i nati nei primi mesi dell'anno sono più di quanti la demografia ne giustifichi, tanto più quanto più l'età è bassa, e già in Juniores lo squilibrio si assottiglia. La seconda è **chi arriva**: lì l'effetto non si trova, né fra i professionisti né nel confronto fra chi ha avuto successo e chi no. Uno studio su quasi tremila corridori delle squadre Continental[^voet] lo dice nel modo più tagliente possibile: l'effetto si trova soprattutto fra chi non ce l'ha fatta. Chi seleziona presto premia in modo sistematico la maturità anagrafica, e quella maturità non si converte in una carriera di successo.
 
@@ -74,7 +65,7 @@ C'è poi un problema più tecnico, e riguarda chi viene guardato. Uno studio ita
 
 **Nessuno ha mai guardato i tredici e quattordici anni partendo dai risultati di gara**, su una popolazione ampia e non preselezionata. Gli studi italiani cominciano dagli Allievi; quello belga include gli Under 15, ma soltanto per chi aveva già almeno un piazzamento nei primi dieci, cioè per un gruppo scelto in partenza; e lo studio sui tredicenni misurava soprattutto test motori, con un esito a due o tre anni invece che la carriera.
 
-C'è poi una domanda che gli studi non si pongono, ed è **quanto ogni categoria aggiunga a quella prima**. Sapere che il segnale cresce con l'età non ti dice se l'Under 23 porti informazione nuova oppure se sia lo stesso segnale visto più da vicino, e per chi deve decidere quando guardare le due cose hanno conseguenze opposte.
+C'è poi una domanda che gli studi non si pongono, ed è **quanto ogni categoria aggiunga a quella prima**. Sapere che il segnale cresce con l'età non ti dice se l'Under 23 porti informazione nuova oppure se sia lo stesso segnale visto più da vicino, e per chi deve decidere quando guardare, le due cose hanno conseguenze opposte.
 
 Manca infine il numero che servirebbe davvero. Gli studi riportano che la differenza è significativa, riportano odds ratio, ogni tanto correlazioni, ma nessuno studio basato sui risultati di gara **ha mai scritto quanti dei ragazzi segnalati poi arrivino**. È esattamente il numero che useresti per decidere, e in letteratura non c'è.
 
@@ -83,12 +74,6 @@ Una cosa che invece è stata provata, e conviene sapere com'è andata, è buttar
 Ci sono poi due cose che quasi nessuno dichiara, e che ho scoperto provando a rifare i conti da capo. La prima è quanti fossero all'inizio: le percentuali si calcolano sempre su gruppi già selezionati, cioè chi era al Mondiale, chi aveva un top 10, chi era a ranking, senza mai dire quanti fossero i ragazzi da cui quel gruppo è stato tirato fuori. La seconda è che **uscire da una classifica viene contato come smettere, e le due cose non coincidono**.
 
 Non è una critica che posso fare dall'alto, perché **valgono in pieno anche per questo studio**: anche i miei numeri partono da un gruppo già scremato, e anch'io vedo sparire dei ragazzi dalla classifica senza sapere se abbiano smesso di correre o se il loro rendimento sia solo calato. L'unica differenza che posso rivendicare è di averle misurate invece di lasciarle implicite, ed è il tema delle prossime due puntate.
-
-<!-- IMMAGINE 2 (facoltativa) — un momento a bordo strada: un direttore sportivo, un ammiraglia,
-     un ragazzo che rientra. Serve a spezzare il testo prima della chiusura, non a documentare.
-     Se una sola immagine basta, questa è quella da togliere.
-     File: static/blog/ciclismo-giovanile-cosa-sappiamo-gia/nome-file.webp
-     Sostituire questo commento con: {{</* figure src="nome-file.webp" alt="..." caption="..." */>}} -->
 
 ## Cosa te ne porti a casa
 
@@ -103,6 +88,7 @@ Prima di dirti quanti ce la fanno, però, devo dirti quanti sono. E la risposta 
 > **Come lo sappiamo**
 >
 > Questo post non contiene dati originali: riassume ventidue studi pubblicati fra il 2006 e il 2025.
+
 
 [^schumacher]: Schumacher Y.O. et al. (2006), *Success in elite cycling: a prospective and retrospective analysis of race results*, Journal of Sports Sciences 24(11), 1149-1156. DOI [10.1080/02640410500457299](https://doi.org/10.1080/02640410500457299).
 

@@ -21,7 +21,7 @@ cover:
 
 *Questa serie parla dei ranking giovanili italiani e del passaggio al professionismo. Prima di tirare fuori i miei numeri mi sembrava giusto raccontare cosa la ricerca sa già, perché in vent'anni qualche risposta è arrivata, ed è abbastanza diversa da quella che si sente ripetere ai bordi delle strade.*
 
-Al Mondiale juniores su strada ogni nazione porta una manciata di corridori: al massimo **sei**, e ci arrivano solo le nazioni in cima al ranking, mentre le altre ne portano meno. Una manciata su tutti i diciassettenni e diciottenni tesserati in quel paese, e chi ha corso da Juniores ricorda benissimo quanto sia difficile strappare una convocazione. Se arrivi a quella linea di partenza vuol dire che hai superato ogni selezione che il ciclismo giovanile riesca a mettere in piedi: più predestinato di così non si può.
+Al Mondiale juniores su strada ogni nazione porta una manciata di corridori: al massimo **sei**, e ci arrivano solo le nazioni in cima al ranking, mentre le altre ne portano meno. Una manciata su tutti i diciassettenni e diciottenni tesserati in quel paese, e chi ha corso da Juniores (la categoria dei diciassette e diciotto anni, che nella notazione internazionale è l'Under 19) ricorda benissimo quanto sia difficile strappare una convocazione. Se arrivi a quella linea di partenza vuol dire che hai superato ogni selezione che il ciclismo giovanile riesca a mettere in piedi: più predestinato di così non si può.
 
 Eppure anche vincerla, quella gara, non è una garanzia di niente. Da quando esiste il Mondiale juniores su strada, **solo tre corridori hanno vinto sia quello sia il Mondiale élite**: Greg LeMond (juniores nel 1979, élite nel 1983 e nel 1989), Mathieu van der Poel (juniores nel 2013, élite nel 2023) e Remco Evenepoel, che è anche il corridore sul podio nella foto di copertina di questo articolo, scattata proprio ai Mondiali juniores di Innsbruck del 2018, l'anno in cui li vinse. Il suo Mondiale élite sarebbe arrivato quattro anni dopo, nel 2022.
 
@@ -31,7 +31,7 @@ Le due cifre rispondono a domande opposte e non misurano la stessa cosa, ma mess
 
 {{< figure
   src="mondiale_juniores_2006.webp"
-  alt="Due barre orizzontali, una per ciascuna direzione del confronto, riempite per circa un terzo, con la domanda scritta sopra ciascuna."
+  alt="Due barre orizzontali con la domanda scritta sopra ciascuna: il 34% dei juniores del Mondiale ha poi corso una grande gara élite, e il 29,4% degli atleti élite era passato dal Mondiale juniores."
   caption="Le due percentuali rispondono a domande opposte, e nessuna delle due va molto oltre un terzo: la maggioranza resta fuori qualunque sia il lato da cui si guarda."
 >}}
 

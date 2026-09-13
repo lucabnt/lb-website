@@ -14,10 +14,10 @@ TocOpen: false
 # riassume da sola l'idea centrale (una conclusione che appare solo in un
 # angolo del grafico è una scelta, non un risultato). Togliere il commento
 # quando il file esiste, in static/blog/reopening-my-thesis/.
-# cover:
-#     image: blog/reopening-my-thesis/nome-file.webp
-#     alt: "..."
-#     relative: true
+cover:
+    image: blog/reopening-my-thesis/master-thesis.webp
+    alt: "..."
+    relative: true
 ---
 
 This whole project started from a question that has nothing to do with app stores. When I wrote the thesis it revisits, my university's policy on generative AI was simple: don't. Large language models were brand new as a public product (ChatGPT had been out for about two months), and a rule against using them in a thesis felt uncontroversial enough that nobody really argued about it.

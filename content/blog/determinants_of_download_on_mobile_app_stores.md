@@ -10,6 +10,8 @@ tags:
 - mobile app
 - software
 - eng
+series: ["The Download Decision"]
+series_weight: 1
 author: lb
 # author: ["Me", "You"] # multiple authors
 showToc: true

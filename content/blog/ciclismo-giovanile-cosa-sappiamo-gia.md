@@ -3,11 +3,11 @@ lang: it
 locale: it_IT
 title: "Ciclismo giovanile e professionismo: cosa sappiamo già, e cosa no"
 description: "Vent'anni di studi sul passaggio dal ciclismo giovanile al professionismo: due predestinati su tre non arrivano, e sette arrivati su dieci non lo erano."
-date: 2026-09-07T10:00:00+02:00
+date: 2026-09-21T10:00:00+02:00
 draft: true
 series: ["Ciclismo giovanile e professionismo"]
 series_weight: 1
-tags: ["ciclismo-giovanile", "sport"]
+tags: ["ciclismo-giovanile", "sport", "ita"]
 author: "lb"
 showToc: true
 TocOpen: false

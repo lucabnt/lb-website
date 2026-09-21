@@ -29,6 +29,8 @@ cover:
 
 This blog post contains the full text of my Master Thesis, written at the **Eberhard Karls University of Tübingen** and at the **University of Pavia** and submitted for the first time during **February 2023**. 
 
+In **September 2026** I reopened this work and reanalyzed the original data. That second pass found **three mistakes in the analysis** (none of them in the data itself), and is documented in [I Asked an AI to Review My Thesis](https://lucabontempi.com/blog/reopening-my-thesis/ "I Asked an AI to Review My Thesis. It Found Three Mistakes I Could Have Found Myself"). The text below is the thesis as it was submitted, left unchanged.
+
 The research question investigates which characteristic out of **reputation**, **popularity** and **developer's brand**, reflected in some elements in the **presentation page** on **app stores**, is the most effective in predicting **user's choice to download an app**.
 
 ![Figure 1.1: Mobile OS market shares in 2022 and 2009 (Laricchia, 2022).](/blog/determinants_of_download_on_mobile_app_stores/determinants_of_download_on_mobile_app_stores_extra_1.webp)

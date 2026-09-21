@@ -3,7 +3,7 @@ lang: it
 locale: it_IT
 title: "Ciclismo giovanile e professionismo: cosa sappiamo già, e cosa no"
 description: "Vent'anni di studi sul passaggio dal ciclismo giovanile al professionismo: due predestinati su tre non arrivano, e sette arrivati su dieci non lo erano."
-date: 2026-09-21T10:00:00+02:00
+date: 2026-09-22T10:00:00+02:00
 draft: true
 series: ["Ciclismo giovanile e professionismo"]
 series_weight: 1
@@ -75,7 +75,7 @@ Ci sono poi due cose che quasi nessuno dichiara, e che ho scoperto provando a ri
 
 Non è una critica che posso fare dall'alto, perché **valgono in pieno anche per questo studio**: anche i miei numeri partono da un gruppo già scremato, e anch'io vedo sparire dei ragazzi dalla classifica senza sapere se abbiano smesso di correre o se il loro rendimento sia solo calato. L'unica differenza che posso rivendicare è di averle misurate invece di lasciarle implicite, ed è il tema delle prossime due puntate.
 
-## Cosa te ne porti a casa
+## Cosa resta
 
 Se alleni, la letteratura ti dà tre affermazioni oneste. Il risultato dei tuoi ragazzi qualcosa lo dice davvero. **La maggioranza di quelli forti non arriverà comunque, e non sarà colpa tua né loro.** E i valori di laboratorio, per quanto rassicuranti da misurare, aggiungono poco a quello che già vedi in gara.
 

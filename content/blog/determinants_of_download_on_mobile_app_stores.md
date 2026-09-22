@@ -1,5 +1,6 @@
 ---
 title: "Determinants of Download on Mobile App Stores - An Empirical Analysis"
+description: "My master's thesis on what makes people install an app: the review rating, the download count or the developer's brand. Full text, method and results."
 date: 2023-07-18T12:00:00+02:00 # date: 2020-11-02T17:03:46+01:00
 draft: false
 # weight: 1
@@ -21,7 +22,7 @@ math: true
 # disableShare: false
 cover:
     image: /blog/determinants_of_download_on_mobile_app_stores/determinants_of_download_on_mobile_app_stores_1.webp
-    relative: true
+    alt: "Title page of the thesis, with the Eberhard Karls Universität Tübingen and Università di Pavia logos above the title 'Determinants of Download on Mobile App Stores - An Empirical Analysis'."
 # comments: false
 ---
 

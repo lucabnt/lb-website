@@ -2,6 +2,7 @@
 lang: it
 locale: it_IT
 title: "Le ore che non abbiamo più: cosa succede quando porti l'intelligenza artificiale in una squadra sportiva giovanile"
+description: "Un anno di esperimenti con l'AI in una società ciclistica giovanile: quali ore di lavoro volontario si recuperano davvero, con gli output veri e i costi."
 date: 2026-08-05T10:17:38+02:00 # date: 2020-11-02T17:03:46+01:00
 draft: true
 # weight: 1
@@ -17,7 +18,6 @@ cover:
     image: blog/intelligenza-artificiale-ciclismo-giovanile/esordienti-progetto-ciclismo.webp
     alt: "Gli Esordienti di Progetto Ciclismo in allenamento"
 #    caption: "<text>"
-    relative: true
 # comments: false
 ---
 **Lo sport giovanile, in Italia, si regge su volontari, e le ore a disposizione sono sempre meno. Racconto di un anno passato a capire quali ore si possono recuperare, con gli output veri e le stime dei costi.**

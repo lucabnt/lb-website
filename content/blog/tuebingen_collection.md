@@ -1,5 +1,6 @@
 ---
 title: One year in Tübingen. A Chapter. A Photo Collection
+description: "A collection of 36 photos from a year in Tübingen, from October 2021 to September 2022, each with a short commentary on what it shows and where it was taken."
 date: 2022-11-07T11:00:00+01:00
 series: ["One year in Tübingen"]
 series_weight: 1
@@ -10,7 +11,7 @@ tags:
 author: lb
 cover:
   image: /blog/tuebingen_collection/tuebingen_collection_1.webp
-  relative: true
+  alt: "A grid of thumbnails from the photo collection, showing Tübingen's old town, castles, sports events and countryside."
 
 ---
 I created a collection of 36 photos that, in my opinion, best represent my experience in Tübingen (Germany). These pictures cover a period from October 2021 to September 2022 and were mainly taken in Tübingen and in the surrounding area, with just few exceptions coming from some other attractive German cities.

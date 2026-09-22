@@ -1,5 +1,6 @@
 ---
 title: "A Tübingen Experiential Guide for International Students"
+description: "A guide to a year as an international student in Tübingen: sports, events, food and trips around the city, with practical costs and student discounts."
 date: 2023-08-02T9:00:00+02:00 # date: 2020-11-02T17:03:46+01:00
 draft: false
 # weight: 1
@@ -19,7 +20,7 @@ TocOpen: false
 # disableShare: false
 cover:
     image: /blog/tuebingen_experiential_guide/tuebingen_experiential_guide_1.webp
-    relative: true
+    alt: "The colourful gabled houses of Tübingen's Neckarfront seen from the river, with a church tower rising behind them."
 # comments: false
 ---
 *Note: While I'm publishing this blog post in August 2023, I started writing it in September 2022, when I still was living in Tübingen. This means that many things may have changed since then, mainly prices, affected by last year's inflation rates. However, I still decided to complete this post to conclude the triad of articles that I set out to do at the beginning.*

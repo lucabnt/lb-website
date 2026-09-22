@@ -14,7 +14,6 @@ TocOpen: false
 cover:
     image: blog/ciclismo-giovanile-cosa-sappiamo-gia/junior-world-championship-2018.webp
     alt: "Cerimonia di premiazione della prova in linea Juniores maschile ai Mondiali UCI di Innsbruck 2018"
-    relative: true
     caption: '"[20180927 UCI Road World Championships Innsbruck Men Juniors Road Race Award Ceremony 850 0668](https://commons.wikimedia.org/w/index.php?curid=73134755)" di [Granada](https://commons.wikimedia.org/wiki/User:Granada), ridimensionata e convertita in WebP, licenza [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).'
 
 ---

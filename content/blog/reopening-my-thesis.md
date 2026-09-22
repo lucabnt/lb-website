@@ -1,6 +1,6 @@
 ---
 title: "I Asked an AI to Review My Thesis. It Found Three Mistakes I Could Have Found Myself"
-description: "A reanalysis of my 2023 thesis on mobile app store downloads, three years later: what changed, what three mistakes I found, and what an AI-assisted second look could and couldn't catch."
+description: "A reanalysis of my 2023 thesis on app store downloads: the three mistakes I found three years later, and what an AI review could and couldn't catch."
 date: 2026-09-21T10:00:00+02:00
 draft: false
 series: ["The Download Decision"]
@@ -12,7 +12,6 @@ TocOpen: false
 cover:
     image: blog/reopening-my-thesis/master-thesis.webp
     alt: "The bound copy of the thesis, a dark blue hardcover stamped in silver with the University of Pavia seal and the title 'Determinants of Download on Mobile App Stores – An Empirical Analysis', held up in front of Pavia's covered bridge over the Ticino on a sunny day."
-    relative: true
 ---
 
 This whole project started from a question that has nothing to do with app stores. When I wrote the thesis it revisits, my university's policy on generative AI was simple: don't. Large language models were brand new as a public product (ChatGPT had been out for about two months), and a rule against using them in a thesis felt uncontroversial enough that nobody really argued about it.

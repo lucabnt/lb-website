@@ -1,5 +1,6 @@
 ---
 title: A Tübingen Hiking Guide
+description: "Every hike I did around Tübingen, with the best ones picked out: Strava and Komoot links for each, so you can download the GPX and repeat the route."
 date: 2022-11-11T09:30:00+01:00
 series: ["One year in Tübingen"]
 series_weight: 2
@@ -11,7 +12,7 @@ author: lb
 showToc: true
 cover:
   image: /blog/tuebingen_hiking_guide/tuebingen_hiking_guide_1.webp
-  relative: true
+  alt: "Hohenzollern Castle on its wooded hilltop, seen from a distance with the Swabian plain stretching out behind it."
 
 ---
 During my stay in Tübingen (Germany), hiking was one of my favourite activities and I have to admit the surrounding area is very suitable to hike.

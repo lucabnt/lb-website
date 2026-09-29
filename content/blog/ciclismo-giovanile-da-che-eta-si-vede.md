@@ -3,7 +3,7 @@ lang: it
 locale: it_IT
 title: "Ciclismo giovanile e professionismo: da che età si vede qualcosa"
 description: "A tredici anni mi aspettavo di non vedere niente. Invece il piazzamento separa già i futuri professionisti nel 74% dei casi, e non è la data di nascita."
-date: 2026-09-22T10:00:00+02:00
+date: 2026-10-09T10:00:00+02:00
 draft: true
 series: ["Ciclismo giovanile e professionismo"]
 series_weight: 2

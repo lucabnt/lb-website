@@ -1,7 +1,7 @@
-{{- /* Override di PaperMod: rispetto al file del tema cambia soltanto il
-     blocco BreadcrumbList, segnalato piu' sotto. Tutto il resto — schema
-     della home e BlogPosting — e' identico e va riallineato a mano se il
-     tema cambia (vedi README). */ -}}
+{{- /* Override di PaperMod: rispetto al file del tema cambiano due cose,
+     entrambe segnalate piu' sotto — il blocco BreadcrumbList e la riga
+     "inLanguage". Tutto il resto — schema della home e BlogPosting — e'
+     identico e va riallineato a mano se il tema cambia (vedi README). */ -}}
 {{ if .IsHome }}
 <script type="application/ld+json">
 {
@@ -95,7 +95,18 @@
   ],
   "articleBody": {{ .Content | safeJS | htmlUnescape | plainify }},
   "wordCount" : "{{ .WordCount }}",
-  "inLanguage": {{ .Language.Lang | default "en-us" }},
+  {{- /* Seconda parte modificata rispetto al file del tema.
+
+       Il tema legge qui la lingua del sito, che e' sempre "en": una pagina
+       italiana finiva dichiarata inglese nei dati strutturati, in contrasto
+       con l'attributo lang di <html>, che baseof.html ricava gia' dal front
+       matter. Si usa la stessa precedenza di baseof.html: prima "lang" della
+       pagina, poi la lingua del sito.
+
+       Il valore non va messo fra virgolette: dentro
+       <script type="application/ld+json"> le aggiunge Go da se', come fa per
+       headline e description poco sopra. */ -}}
+  "inLanguage": {{ .Params.lang | default .Language.Lang | default "en-us" }},
   {{ if .Params.cover.image -}}
   "image":
     {{- if (ne .Params.cover.relative true) -}}

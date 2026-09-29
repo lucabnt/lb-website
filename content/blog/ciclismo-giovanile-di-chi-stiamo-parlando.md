@@ -1,9 +1,9 @@
 ---
 lang: it
 locale: it_IT
-title: "Ciclismo giovanile: di chi stiamo parlando"
+title: "Ciclismo giovanile e professionismo: di chi stiamo parlando"
 description: "Cosa dicono vent'anni di ricerca sul passaggio al professionismo, e di chi parlano davvero i numeri: in classifica ci finisce circa un tesserato su sette."
-date: 2026-09-22T10:00:00+02:00
+date: 2026-10-02T10:00:00+02:00
 draft: true
 series: ["Ciclismo giovanile e professionismo"]
 series_weight: 1
@@ -14,7 +14,7 @@ TocOpen: false
 cover:
     image: blog/ciclismo-giovanile-di-chi-stiamo-parlando/junior-world-championship-2018.webp
     alt: "Cerimonia di premiazione della prova in linea Juniores maschile ai Mondiali UCI di Innsbruck 2018"
-    caption: '"[20180927 UCI Road World Championships Innsbruck Men Juniors Road Race Award Ceremony 850 0668](https://commons.wikimedia.org/w/index.php?curid=73134755)" di [Granada](https://commons.wikimedia.org/wiki/User:Granada), ridimensionata e convertita in WebP, licenza [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).'
+    caption: '"<a href="https://commons.wikimedia.org/w/index.php?curid=73134755" target="_blank" rel="noopener">20180927 UCI Road World Championships Innsbruck Men Juniors Road Race Award Ceremony 850 0668</a>" di <a href="https://commons.wikimedia.org/wiki/User:Granada" target="_blank" rel="noopener">Granada</a>, ridimensionata e convertita in WebP, licenza <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">CC BY-SA 4.0</a>.'
 ---
 
 *Questa serie parla dei ranking giovanili italiani e del passaggio al professionismo. Prima di tirare fuori i miei numeri mi sembrava giusto raccontare cosa la ricerca sa già, e soprattutto dire di chi parlano i numeri che leggerai nelle prossime puntate: è la parte che di solito si salta, ed è quella in cui si annidano quasi tutti gli errori.*
@@ -110,7 +110,7 @@ Il numero che userò per tutta la serie, quindi, porta la sua etichetta attaccat
 
 La prima è che **sparire da una classifica non significa aver smesso**. Il 30,6% degli atleti salta almeno una stagione e poi ricompare, e il 6,7% torna dopo un'assenza di due stagioni o più[^attrito]. Ogni singolo rientro è la prova che l'assenza dell'anno prima non era un abbandono. Accanto ai 77 professionisti delle coorti ci sono poi **108 atleti ancora a punti dopo i ventidue anni** che professionisti non sono diventati: sono più numerosi dei professionisti stessi, e non tutto ciò che non è professionismo è abbandono. Torna utile nella seconda puntata, quando l'assenza da una classifica diventerà un'informazione da maneggiare con cura.
 
-*Per approfondire, nel documento tecnico: [Uscire dalla classifica non è smettere](https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#uscire-dalla-classifica-non-è-smettere), [Quando si smette](https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#quando-si-smette) e [Il passaggio di categoria è una rottura?](https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#il-passaggio-di-categoria-è-una-rottura).*
+*Per approfondire, nel documento tecnico: <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#uscire-dalla-classifica-non-%C3%A8-smettere" target="_blank" rel="noopener">Uscire dalla classifica non è smettere</a>, <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#quando-si-smette" target="_blank" rel="noopener">Quando si smette</a> e <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#il-passaggio-di-categoria-%C3%A8-una-rottura" target="_blank" rel="noopener">Il passaggio di categoria è una rottura?</a>.*
 
 La seconda riguarda **come sono fatte le categorie**, e quasi nessuno la sa. Negli Esordienti la fonte pubblica due classifiche separate, una per annata: primo e secondo anno corrono gare loro e non si fanno concorrenza, perché lo impongono le norme federali. Dagli Allievi in su la classifica è una sola e le due annate ci convivono, correndo le stesse gare. La conseguenza si vede nei posti a punti, e il numero che conta non è quello che ci si aspetta[^posti].
 
@@ -137,13 +137,13 @@ Che sia davvero questo il meccanismo lo dice il ciclismo femminile, dove la font
   caption="Stessa categoria e stessa età, prima e dopo il cambio di regolamento: il numero che porta l'informazione è il 28,5% di sinistra, cioè quanto raccoglie il primo anno quando la lista è una sola."
 >}}
 
-*Per approfondire, nel documento tecnico: [Ma il primo anno non sparisce per mancanza di posti](https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#ma-il-primo-anno-non-sparisce-per-mancanza-di-posti), [Quanto sono concentrati i punti](https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#quanto-sono-concentrati-i-punti) e [Un cambio di regolamento che vale un esperimento](https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#un-cambio-di-regolamento-che-vale-un-esperimento).*
+*Per approfondire, nel documento tecnico: <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#ma-il-primo-anno-non-sparisce-per-mancanza-di-posti" target="_blank" rel="noopener">Ma il primo anno non sparisce per mancanza di posti</a>, <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#quanto-sono-concentrati-i-punti" target="_blank" rel="noopener">Quanto sono concentrati i punti</a> e <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#un-cambio-di-regolamento-che-vale-un-esperimento" target="_blank" rel="noopener">Un cambio di regolamento che vale un esperimento</a>.*
 
 La terza cosa è che **il calendario si sta accorciando**. Da circa 639 classificazioni di gara per stagione in Esordienti si scende a 146 in Under 23, e soprattutto, fra il 2009 e il 2025, le gare che la classifica registra calano del 40% negli Esordienti e del 58% in Under 23. Non è colpa della pandemia, perché il calo era cominciato prima e dopo il 2020 non si è tornati ai valori di prima. Nella finestra in cui possiamo confrontare, i tesserati Esordienti calano di circa un decimo e le gare di quasi un quinto: il movimento si restringe, e il calendario si restringe più in fretta.
 
 E non è il ciclismo giovanile in generale, è il movimento maschile. Nelle due categorie in cui il confronto regge, cioè quelle in cui anche le ragazze hanno una classifica sola, fra il 2011 e il 2025 le gare maschili calano di oltre un terzo in tutte e due (da 505 a 309 in Allievi, da 313 a 199 in Juniores), mentre quelle femminili no: le Allieve perdono l'**11,6%** e le Juniores guadagnano il **28,8%**[^ragazze]. In assoluto restano pochissime, 67 e 41 gare contro 309 e 199, ma il divario si è ristretto: da una gara femminile ogni sette maschili a una ogni cinque in Allievi, e da una ogni dieci a una ogni cinque in Juniores.
 
-*Per approfondire, nel documento tecnico: [Quanti posti c'erano prima](https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#quanti-posti-cerano-prima) e [L'attrito della classifica e quello vero](https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#lattrito-della-classifica-e-quello-vero).*
+*Per approfondire, nel documento tecnico: <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#quanti-posti-cerano-prima" target="_blank" rel="noopener">Quanti posti c'erano prima</a> e <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#lattrito-della-classifica-e-quello-vero" target="_blank" rel="noopener">L'attrito della classifica e quello vero</a>.*
 
 ## Cosa misura quel punteggio
 
@@ -153,7 +153,7 @@ Sulla classifica italiana quella critica è disinnescata a metà, perché il reg
 
 Resta in piedi l'altra metà della critica: un ranking premia comunque chi va forte nelle tipologie di gara più frequenti in calendario, per cui uno scalatore, in un calendario fatto di percorsi veloci, ha meno occasioni di andare a punti. Per correggerlo servirebbe il dettaglio gara per gara, che non è pubblico.
 
-*Per approfondire, nel documento tecnico: [Lo stesso punteggio è lo stesso risultato?](https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#lo-stesso-punteggio-è-lo-stesso-risultato) e [Ma i pari merito sono moltissimi](https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#ma-i-pari-merito-sono-moltissimi).*
+*Per approfondire, nel documento tecnico: <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#lo-stesso-punteggio-%C3%A8-lo-stesso-risultato" target="_blank" rel="noopener">Lo stesso punteggio è lo stesso risultato?</a> e <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#ma-i-pari-merito-sono-moltissimi" target="_blank" rel="noopener">Ma i pari merito sono moltissimi</a>.*
 
 ## Cosa resta
 
@@ -161,7 +161,7 @@ Tre cose, e valgono per tutto il resto della serie.
 
 Ogni percentuale che leggerai ha come denominatore un settimo dei ragazzi tesserati e non la loro totalità, per cui le quote vere sono più basse di quelle scritte. Di quanto esattamente non lo so, e chi dice di saperlo sta estrapolando.
 
-*Per approfondire, nel documento tecnico: [Si possono stimare gli anni che mancano?](https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#si-possono-stimare-gli-anni-che-mancano).*
+*Per approfondire, nel documento tecnico: <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#si-possono-stimare-gli-anni-che-mancano" target="_blank" rel="noopener">Si possono stimare gli anni che mancano?</a>.*
 
 L'imbuto non è una catena: una parte consistente di chi si trova in una categoria non c'era in quella prima, ed entrare tardi è normalissimo. Un professionista su sette, a tredici anni, non era in classifica.
 
@@ -177,20 +177,20 @@ Adesso che sai di chi parliamo, la domanda vera: a che età quel piazzamento com
 >
 > La letteratura è riassunta in una rassegna di ventidue studi pubblicati fra il 2006 e il 2025, con riferimento completo, DOI e limiti di ciascuno. Cinque li ho letti per intero; per gli altri ho lavorato su abstract e citazioni incrociate, e la rassegna dichiara caso per caso quali siano stati verificati.
 
-[^schumacher]: Schumacher Y.O. et al. (2006), *Success in elite cycling: a prospective and retrospective analysis of race results*, Journal of Sports Sciences 24(11), 1149-1156. DOI [10.1080/02640410500457299](https://doi.org/10.1080/02640410500457299).
+[^schumacher]: Schumacher Y.O. et al. (2006), *Success in elite cycling: a prospective and retrospective analysis of race results*, Journal of Sports Sciences 24(11), 1149-1156. DOI <a href="https://doi.org/10.1080/02640410500457299" target="_blank" rel="noopener">10.1080/02640410500457299</a>.
 
-[^rassegna]: Tutti gli studi citati in questa sezione, con riferimenti e limiti, stanno in [docs/literature_review.md](https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/docs/literature_review.md).
+[^rassegna]: Tutti gli studi citati in questa sezione, con riferimenti e limiti, stanno in <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/docs/literature_review.md" target="_blank" rel="noopener">docs/literature_review.md</a>.
 
 [^norme]: Federazione Ciclistica Italiana, *Norme Attuative 2027, Cat. Esordienti / Allievi / Donne Esordienti / Donne Allieve*, art. 4.4.21 per la scala dei punti e artt. 4.2.1 e 4.2.5 per le due annate che corrono separate.
 
-[^copertura]: Calcolo in [report/moduli/copertura.py](https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/report/moduli/copertura.py), dai tesserati raccolti in [riferimenti/tesserati_fci.csv](https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/riferimenti/tesserati_fci.csv).
+[^copertura]: Calcolo in <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/report/moduli/copertura.py" target="_blank" rel="noopener">report/moduli/copertura.py</a>, dai tesserati raccolti in <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/riferimenti/tesserati_fci.csv" target="_blank" rel="noopener">riferimenti/tesserati_fci.csv</a>.
 
-[^provenienza]: Calcolo in [report/moduli/provenienza.py](https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/report/moduli/provenienza.py).
+[^provenienza]: Calcolo in <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/report/moduli/provenienza.py" target="_blank" rel="noopener">report/moduli/provenienza.py</a>.
 
-[^attrito]: Calcolo in [report/moduli/attrito.py](https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/report/moduli/attrito.py).
+[^attrito]: Calcolo in <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/report/moduli/attrito.py" target="_blank" rel="noopener">report/moduli/attrito.py</a>.
 
-[^posti]: Calcolo in [report/moduli/posti.py](https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/report/moduli/posti.py). I posti sono stimati dai piazzamenti nei primi cinque, cinque per gara.
+[^posti]: Calcolo in <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/report/moduli/posti.py" target="_blank" rel="noopener">report/moduli/posti.py</a>. I posti sono stimati dai piazzamenti nei primi cinque, cinque per gara.
 
-[^ragazze]: Calcolo in [report/moduli/ragazze.py](https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/report/moduli/ragazze.py).
+[^ragazze]: Calcolo in <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/report/moduli/ragazze.py" target="_blank" rel="noopener">report/moduli/ragazze.py</a>.
 
-[^misura]: Calcolo in [R/30_misura.R](https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/R/30_misura.R), reso da [report/moduli/misura.py](https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/report/moduli/misura.py).
+[^misura]: Calcolo in <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/R/30_misura.R" target="_blank" rel="noopener">R/30_misura.R</a>, reso da <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/report/moduli/misura.py" target="_blank" rel="noopener">report/moduli/misura.py</a>.

@@ -1,9 +1,9 @@
 ---
 lang: it
 locale: it_IT
-title: "Ciclismo giovanile: dove sei e dove stai andando"
+title: "Ciclismo giovanile e professionismo: dove sei e dove stai andando"
 description: "Livello e direzione insieme: fra i ragazzi forti, chi stava calando è arrivato dieci volte meno. E tre cose che tutti danno per scontate, ma che non contano."
-date: 2026-10-06T10:00:00+02:00
+date: 2026-10-16T10:00:00+02:00
 draft: true
 series: ["Ciclismo giovanile e professionismo"]
 series_weight: 3
@@ -79,7 +79,7 @@ Una precauzione tecnica, perché è il motivo per cui l'analisi non è banale. U
 
 Il modello che ho usato non stima le rette una per una ma tutte insieme, e tira quelle basate su pochi dati verso la media della popolazione: a chi ha due stagioni assegna una pendenza prudente, a chi ne ha sei crede molto di più. È il comportamento giusto, e va saputo per due ragioni. La prima è che le traiettorie più marcate che vedi nella tabella arrivano quasi tutte da ragazzi di cui ho molte osservazioni. La seconda è che, se rifacessi il conto a mano con una retta per ciascuno, otterresti pendenze molto più estreme e molto meno affidabili: la tabella delle nove caselle sembrerebbe più netta di quanto i dati consentano.
 
-*Per approfondire, nel documento tecnico: [Conta il livello o il miglioramento?](https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#conta-il-livello-o-il-miglioramento) e [La stessa risposta senza coefficienti](https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#la-stessa-risposta-senza-coefficienti).*
+*Per approfondire, nel documento tecnico: <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#conta-il-livello-o-il-miglioramento" target="_blank" rel="noopener">Conta il livello o il miglioramento?</a> e <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#la-stessa-risposta-senza-coefficienti" target="_blank" rel="noopener">La stessa risposta senza coefficienti</a>.*
 
 ## Non sarà di nuovo la durata della carriera?
 
@@ -89,7 +89,7 @@ Il controllo si fa aggiungendo al modello il numero di stagioni osservate: se il
 
 Restano tre limiti, e vanno detti. Il primo: le pendenze sono stimate su chi ha almeno due stagioni in classifica, cioè **1&nbsp;903 ragazzi, fra cui 74 professionisti**, e di un ragazzo alla sua prima stagione a punti questo post non dice niente. È la situazione di quasi un ragazzo su tre. Il secondo: chi ha almeno due stagioni non è un campione a caso, perché restare in classifica dipende anche dall'andare forte, quindi la risposta esatta è «fra i ragazzi di cui posso osservare una traiettoria, la direzione aggiunge informazione». Il terzo riguarda cosa ci sia dentro una pendenza: salire di percentile può voler dire essere cresciuti, aver cominciato ad allenarsi sul serio, essere passati a una squadra che ti porta alle gare giuste, o semplicemente che chi ti stava davanti ha smesso, e il modello non le distingue.
 
-*Per approfondire, nel documento tecnico: [Non sarà di nuovo la durata della carriera?](https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#non-sarà-di-nuovo-la-durata-della-carriera) e [Il modello si sta giudicando troppo bene?](https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#il-modello-si-sta-giudicando-troppo-bene).*
+*Per approfondire, nel documento tecnico: <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#non-sar%C3%A0-di-nuovo-la-durata-della-carriera" target="_blank" rel="noopener">Non sarà di nuovo la durata della carriera?</a> e <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#il-modello-si-sta-giudicando-troppo-bene" target="_blank" rel="noopener">Il modello si sta giudicando troppo bene?</a>.*
 
 ## Tre cose che sembrano contare
 
@@ -99,7 +99,7 @@ Sono tre affermazioni ragionevoli. Due si vedono chiaramente nei dati. **E nessu
 
 **Il mese di nascita** l'ho già raccontato nella seconda puntata, e lo riassumo in due righe perché serve al confronto. Il vantaggio di chi è nato a inizio anno è grosso e si spegne con l'età: a tredici anni i nati nel primo trimestre sono 2,13 volte quelli dell'ultimo, in Under 23 il rapporto scende a 1,09. Fra chi arriva, invece, non si vede: 1,5 contro l'1,7 di tutti i classificati, uno scarto che non si distingue dal caso. E il confronto con le ragazze, che maturano prima e a tredici anni hanno uno squilibrio più basso, dice che quel vantaggio è soprattutto sviluppo. È un vantaggio di accesso, non di talento, e chi seleziona a tredici anni sta in parte selezionando la data di nascita.
 
-*Per approfondire, nel documento tecnico: [L'effetto dell'età relativa](https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#leffetto-delletà-relativa) e [Chi arriva, fra quelli entrati](https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#chi-arriva-fra-quelli-entrati).*
+*Per approfondire, nel documento tecnico: <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#leffetto-dellet%C3%A0-relativa" target="_blank" rel="noopener">L'effetto dell'età relativa</a> e <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#chi-arriva-fra-quelli-entrati" target="_blank" rel="noopener">Chi arriva, fra quelli entrati</a>.*
 
 ## Cambiare società, che sembra un fattore dieci
 
@@ -109,7 +109,7 @@ Basta però guardare la colonna che nessuno guarda, quella delle stagioni corse:
 
 E c'è una seconda ragione per non costruirci niente sopra: il cambio è in larga parte obbligato, perché non tutte le società sono attive in tutte le categorie. Da Juniores a Under 23 cambia squadra il **96,3%** dei ragazzi. Quanto in quel numero sia scelta e quanto necessità non è misurabile con questi dati, quindi la mobilità resta una variabile che descrive quanto lontano sei arrivato, non una che lo spieghi.
 
-*Per approfondire, nel documento tecnico: [Lo stesso confronto, a parità di carriera](https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#lo-stesso-confronto-a-parità-di-carriera) e [Cambiare società spesso non è una scelta](https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#cambiare-società-spesso-non-è-una-scelta).*
+*Per approfondire, nel documento tecnico: <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#lo-stesso-confronto-a-parit%C3%A0-di-carriera" target="_blank" rel="noopener">Lo stesso confronto, a parità di carriera</a> e <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#cambiare-societ%C3%A0-spesso-non-%C3%A8-una-scelta" target="_blank" rel="noopener">Cambiare società spesso non è una scelta</a>.*
 
 ## La società di partenza e la regione
 
@@ -119,7 +119,7 @@ La società da cui parti dice pochissimo: si va dal **2,90%** di professionisti 
 
 La regione è la più frustrante, perché è l'unica domanda a cui non posso rispondere. La concentrazione geografica esiste ed è forte, visto che Lombardia, Veneto e Toscana da sole raccolgono circa il **51%** dei ragazzi in classifica, ma i tassi di professionismo per regione restano illeggibili anche allargando a nove annate e 4&nbsp;823 atleti: si va dal 6,32% del Trentino Alto Adige allo 0% della Campania, e bastano due o tre ragazzi in più o in meno per riordinare la classifica. Per fare la domanda giusta, cioè se a parità di corridori e di gare disponibili la regione aggiunga qualcosa, servirebbe sapere quanti tesserati ci sono in ogni regione: quel dato non è pubblicamente disponibile, e dichiararlo è più utile che riempire il vuoto con una classifica che non significa niente.
 
-*Per approfondire, nel documento tecnico: [Regione e società di partenza](https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#regione-e-società-di-partenza).*
+*Per approfondire, nel documento tecnico: <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#regione-e-societ%C3%A0-di-partenza" target="_blank" rel="noopener">Regione e società di partenza</a>.*
 
 ## Quando una variabile racconta l'esito due volte
 
@@ -147,6 +147,6 @@ A questo punto sembrerebbe esserci tutto per costruire un criterio di selezione:
 >
 > Società e regione non entrano come variabili di controllo in nessun modello dello studio. I cambi avvengono durante la carriera, spesso in risposta ai risultati, quindi stanno sul percorso fra rendimento ed esito, e inserirli fra i controlli sottrarrebbe parte dell'effetto che si vuole misurare.
 
-[^traiettorie]: Modello misto in [R/21_traiettorie.R](https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/R/21_traiettorie.R), reso da [report/moduli/traiettorie.py](https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/report/moduli/traiettorie.py).
+[^traiettorie]: Modello misto in <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/R/21_traiettorie.R" target="_blank" rel="noopener">R/21_traiettorie.R</a>, reso da <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/report/moduli/traiettorie.py" target="_blank" rel="noopener">report/moduli/traiettorie.py</a>.
 
-[^contesto]: Calcolo in [report/moduli/contesto.py](https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/report/moduli/contesto.py). Il confronto fra la fascia più bassa e quella più alta della società di partenza è un test esatto di Fisher, p = 0,43.
+[^contesto]: Calcolo in <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/report/moduli/contesto.py" target="_blank" rel="noopener">report/moduli/contesto.py</a>. Il confronto fra la fascia più bassa e quella più alta della società di partenza è un test esatto di Fisher, p = 0,43.

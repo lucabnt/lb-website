@@ -1,9 +1,9 @@
 ---
 lang: it
 locale: it_IT
-title: "Ciclismo giovanile: da che età si vede qualcosa"
+title: "Ciclismo giovanile e professionismo: da che età si vede qualcosa"
 description: "A tredici anni mi aspettavo di non vedere niente. Invece il piazzamento separa già i futuri professionisti nel 74% dei casi, e non è la data di nascita."
-date: 2026-09-29T10:00:00+02:00
+date: 2026-09-22T10:00:00+02:00
 draft: true
 series: ["Ciclismo giovanile e professionismo"]
 series_weight: 2
@@ -65,7 +65,7 @@ A tredici anni le mediane sono 49, 69 e 89 per i primi tre gruppi[^punteggi]. No
 
 L'ultimo gradino però la rompe: la mediana di chi è arrivato nei primi cento del mondo, a tredici anni, è 84, cioè sotto quella del gruppo precedente. Sono sei atleti, e con sei atleti una mediana può fare qualunque cosa. Lo scrivo perché è l'unica riga che va contro l'argomento che sto usando.
 
-*Per approfondire, nel documento tecnico: [Il gradiente per livello raggiunto](https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#il-gradiente-per-livello-raggiunto).*
+*Per approfondire, nel documento tecnico: <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#il-gradiente-per-livello-raggiunto" target="_blank" rel="noopener">Il gradiente per livello raggiunto</a>.*
 
 ## È rendimento, o è la data di nascita?
 
@@ -121,7 +121,7 @@ Su come si legge questa tabella devo essere pignolo, perché la scorciatoia como
 
 Il peso cresce con l'età, da 1,40 a 2,28, ma non in modo regolare, e le due righe che scendono non vanno lette come cali del segnale: a ogni passaggio di categoria cambia la popolazione. In Juniores primo anno i professionisti sono già il 9,7% della lista contro il 4,5% della cella precedente, e in Under 23 sono il 37%. Confrontare quei numeri fra loro come se misurassero la stessa cosa è il primo modo di sbagliare la lettura.
 
-*Per approfondire, nel documento tecnico: [Perché la colonna «% pro» non va letta come un segnale](https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#perché-la-colonna--pro-non-va-letta-come-un-segnale).*
+*Per approfondire, nel documento tecnico: <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#perch%C3%A9-la-colonna--pro-non-va-letta-come-un-segnale" target="_blank" rel="noopener">Perché la colonna «% pro» non va letta come un segnale</a>.*
 
 C'è poi un dettaglio che sembra un risultato e non lo è. Nelle categorie a lista unica la percentuale di futuri professionisti è più alta al primo anno che al secondo, e sembrerebbe che il primo anno selezioni meglio. In realtà, come ho raccontato nella prima puntata, al primo anno i posti a punti sono pochi, quindi i classificati sono in media 181 contro 320: chi c'è è già più selezionato, e un gruppo più selezionato contiene per forza una quota maggiore di futuri professionisti. Alla domanda vera, cioè se il primo anno predica meglio, si risponde solo confrontando le stesse persone, e la risposta è no: il secondo anno discrimina meglio in tutte le categorie, 81% contro 70% in Esordienti, 85% contro 81% in Allievi, 87% contro 78% in Juniores.
 
@@ -153,7 +153,7 @@ Poteva essere una stranezza di quel sottocampione, quindi ho fatto la stessa dom
 
 Tre strade diverse, la stessa conclusione: quasi tutta l'informazione utile sta nell'ultima misura che hai. Non tre prove indipendenti, va detto, perché due delle tre girano su quasi lo stesso gruppo di atleti. Le stagioni precedenti non si sommano all'ultima, sono in gran parte la stessa cosa vista da più lontano.
 
-*Per approfondire, nel documento tecnico: [Quanto si somigliano le categorie](https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#quanto-si-somigliano-le-categorie), [Un modello più complicato farebbe meglio?](https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#un-modello-più-complicato-farebbe-meglio) e [E se si usassero tutte le categorie insieme?](https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#e-se-si-usassero-tutte-le-categorie-insieme).*
+*Per approfondire, nel documento tecnico: <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#quanto-si-somigliano-le-categorie" target="_blank" rel="noopener">Quanto si somigliano le categorie</a>, <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#un-modello-pi%C3%B9-complicato-farebbe-meglio" target="_blank" rel="noopener">Un modello più complicato farebbe meglio?</a> e <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#e-se-si-usassero-tutte-le-categorie-insieme" target="_blank" rel="noopener">E se si usassero tutte le categorie insieme?</a>.*
 
 ## E se contassi anche chi in classifica non c'era
 
@@ -163,7 +163,7 @@ La risposta dipende dall'età in un modo che non mi aspettavo. A diciotto anni m
 
 Non esserci è un'informazione, insomma, ma lo diventa tardi. È anche la misura più precisa di una cosa detta nella prima puntata: l'assenza di un nome dalla classifica non è un giudizio su quel nome, e quasi un terzo di chi sparisce ricompare.
 
-*Per approfondire, nel documento tecnico: [Le conclusioni dipendono dalle scelte di disegno?](https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#le-conclusioni-dipendono-dalle-scelte-di-disegno).*
+*Per approfondire, nel documento tecnico: <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#le-conclusioni-dipendono-dalle-scelte-di-disegno" target="_blank" rel="noopener">Le conclusioni dipendono dalle scelte di disegno?</a>.*
 
 ## Cosa resta
 
@@ -185,12 +185,12 @@ La parte operativa è l'ultima. Se quasi tutta l'informazione utile sta nella mi
 >
 > Le percentuali di coppie sono l'area sotto la curva ROC detta in italiano: la quota di coppie, formate da un futuro professionista e da un futuro non professionista, in cui il modello mette davanti quello giusto.
 
-[^punteggi]: Calcolo in [report/moduli/punteggi.py](https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/report/moduli/punteggi.py).
+[^punteggi]: Calcolo in <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/report/moduli/punteggi.py" target="_blank" rel="noopener">report/moduli/punteggi.py</a>.
 
-[^univariati]: Modelli in [R/16_univariati.R](https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/R/16_univariati.R), resi da [report/moduli/univariati.py](https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/report/moduli/univariati.py).
+[^univariati]: Modelli in <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/R/16_univariati.R" target="_blank" rel="noopener">R/16_univariati.R</a>, resi da <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/report/moduli/univariati.py" target="_blank" rel="noopener">report/moduli/univariati.py</a>.
 
-[^annidati]: Modelli in [R/18_annidati.R](https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/R/18_annidati.R). Foresta casuale in [R/27_confronto_ml.R](https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/R/27_confronto_ml.R), regressione penalizzata in [R/17_penalizzato.R](https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/R/17_penalizzato.R).
+[^annidati]: Modelli in <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/R/18_annidati.R" target="_blank" rel="noopener">R/18_annidati.R</a>. Foresta casuale in <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/R/27_confronto_ml.R" target="_blank" rel="noopener">R/27_confronto_ml.R</a>, regressione penalizzata in <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/R/17_penalizzato.R" target="_blank" rel="noopener">R/17_penalizzato.R</a>.
 
-[^rae]: Calcolo in [report/moduli/rae.py](https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/report/moduli/rae.py). Le nascite attese vengono da Eurostat, tavola `demo_fmonth`.
+[^rae]: Calcolo in <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/report/moduli/rae.py" target="_blank" rel="noopener">report/moduli/rae.py</a>. Le nascite attese vengono da Eurostat, tavola `demo_fmonth`.
 
-[^sensibilita]: Analisi di sensibilità in [scripts/10_sensibilita.py](https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/scripts/10_sensibilita.py).
+[^sensibilita]: Analisi di sensibilità in <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/scripts/10_sensibilita.py" target="_blank" rel="noopener">scripts/10_sensibilita.py</a>.

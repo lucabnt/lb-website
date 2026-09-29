@@ -1,9 +1,9 @@
 ---
 lang: it
 locale: it_IT
-title: "Ciclismo giovanile: predire non è selezionare"
+title: "Ciclismo giovanile e professionismo: predire non è selezionare"
 description: "Seguendo il dieci per cento migliore a diciotto anni intercetti il 59% dei futuri professionisti, ma il 52% dei selezionati non arriverà. Nessuna soglia lo risolve."
-date: 2026-10-13T10:00:00+02:00
+date: 2026-10-23T10:00:00+02:00
 draft: true
 series: ["Ciclismo giovanile e professionismo"]
 series_weight: 4
@@ -55,7 +55,7 @@ Ne segue una conseguenza pratica: il numero da chiedere a chiunque proponga un c
 
 C'è anche una riga che sembra ottima e non lo è: in Under 23, selezionando il dieci per cento migliore, arriva il 93% dei selezionati. Sembrerebbe che a quell'età il criterio funzioni benissimo, e invece funziona esattamente come prima. È cambiato il gruppo: in Under 23 chi è ancora in classifica ha già superato tre selezioni, e i professionisti sono più di un terzo della lista. Ogni volta che una percentuale sembra migliorare, chiediti se sia migliorata la misura o se sia cambiato il gruppo.
 
-*Per approfondire, nel documento tecnico: [Se il ranking si usasse per selezionare](https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#se-il-ranking-si-usasse-per-selezionare).*
+*Per approfondire, nel documento tecnico: <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#se-il-ranking-si-usasse-per-selezionare" target="_blank" rel="noopener">Se il ranking si usasse per selezionare</a>.*
 
 ## Quanto vale, in probabilità
 
@@ -87,7 +87,7 @@ Nel modello che descrive questo percorso c'è un coefficiente che domina tutti g
 
 Per chi invece c'è tutti gli anni, i numeri sono questi: **11,1%** di probabilità di arrivare al professionismo con un rendimento nella media della classifica, 30,9% con venti posizioni percentuali in più, 3,7% con venti in meno.
 
-*Per approfondire, nel documento tecnico: [Quando si diventa professionisti](https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#quando-si-diventa-professionisti) e [Cosa sposta il rischio](https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#cosa-sposta-il-rischio).*
+*Per approfondire, nel documento tecnico: <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#quando-si-diventa-professionisti" target="_blank" rel="noopener">Quando si diventa professionisti</a> e <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#cosa-sposta-il-rischio" target="_blank" rel="noopener">Cosa sposta il rischio</a>.*
 
 ## Oltre la porta, il ranking non vede più
 
@@ -111,7 +111,7 @@ La classifica giovanile italiana predice bene chi entrerà; su quello che succed
 
 Una spiegazione parziale c'è, e viene da un'osservazione che mi è stata proposta. Le squadre professionistiche italiane hanno bisogno di corridori italiani, quindi i migliori juniores nazionali sono il bacino da cui pescano: il ranking potrebbe predire l'ingresso semplicemente perché ordina bene quel bacino. Separando chi debutta in una squadra a maggioranza italiana da chi debutta in una straniera, il percentile predice le due cose praticamente allo stesso modo (0,863 contro 0,867), quindi la versione forte non regge. Ma le due porte non portano allo stesso posto: di chi entra da una squadra italiana arriva nel top 500 il **33%**, di chi entra da una straniera il **59%**, e il 60% dei professionisti entra dalla prima. Quindi «diventare professionista» non è un evento solo, e metterne insieme due così diversi spiega una parte di quello che il ranking non riesce a predire. Con una cautela che i dati non sciolgono: la differenza potrebbe dipendere non dalla porta ma da chi la sceglie, perché chi è già più forte tende a partire per l'estero.
 
-*Per approfondire, nel documento tecnico: [Non solo se si arriva, ma fino a dove](https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#non-solo-se-si-arriva-ma-fino-a-dove), [La catena delle probabilità](https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#la-catena-delle-probabilità) e [Da quale porta si entra](https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#da-quale-porta-si-entra).*
+*Per approfondire, nel documento tecnico: <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#non-solo-se-si-arriva-ma-fino-a-dove" target="_blank" rel="noopener">Non solo se si arriva, ma fino a dove</a>, <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#la-catena-delle-probabilit%C3%A0" target="_blank" rel="noopener">La catena delle probabilità</a> e <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#da-quale-porta-si-entra" target="_blank" rel="noopener">Da quale porta si entra</a>.*
 
 ## Le ragazze, per quello che si può dire
 
@@ -127,7 +127,7 @@ Una cosa invece non cambia, ed è quella che mi aspettavo cambiasse: la forma de
 
 Sull'esito, la ragione per cui non posso dirti niente è cambiata mentre scrivevo. Gli esiti li ho scaricati, e fra questi ci sono **51 atlete italiane** nelle squadre di prima e seconda divisione fra il 2020 e il 2025. Il problema è un altro, e non si risolve scaricando di più: le divisioni professionistiche femminili sono nate ieri, la prima nel 2020 e la seconda nel 2025. Prima del 2020 c'era una categoria unica, quindi «professionista» come lo definisco per i maschi nel femminile non è una cosa che si possa dire allo stesso modo. Si può fare uno studio, ma è uno studio diverso, su molte meno persone, e merita di essere impostato come tale invece che presentato come lo stesso lavoro.
 
-*Per approfondire, nel documento tecnico: [Le ragazze](https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#le-ragazze) e [Le cose che non cambiano](https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#le-cose-che-non-cambiano).*
+*Per approfondire, nel documento tecnico: <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#le-ragazze" target="_blank" rel="noopener">Le ragazze</a> e <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#le-cose-che-non-cambiano" target="_blank" rel="noopener">Le cose che non cambiano</a>.*
 
 ## Quanto puoi fidarti di tutto questo
 
@@ -143,7 +143,7 @@ Una cosa che non è una verifica statistica ma pesa quanto le altre: tutto lo st
 
 E poi c'è quello che non posso sapere. Nessuna fonte pubblica altezza, peso, specialità, allenamento o numero di gare corse, per cui di ogni ragazzo so dove è arrivato e non come ci è arrivato. I risultati ottenuti all'estero entrano in classifica solo se è il corridore a segnalarli, le gare su pista restano fuori, e i ragazzi tesserati con società straniere non entrano affatto. Sulla regione manca il denominatore. Ogni conclusione vale quindi a parità di ciò che la classifica registra, che è molto meno di quello che un allenatore vede da bordo strada.
 
-*Per approfondire, nel documento tecnico: [Quanto regge tutto questo](https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#quanto-regge-tutto-questo) e [Quanti professionisti, e perché i conteggi non coincidono](https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#quanti-professionisti-e-perché-i-conteggi-non-coincidono).*
+*Per approfondire, nel documento tecnico: <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#quanto-regge-tutto-questo" target="_blank" rel="noopener">Quanto regge tutto questo</a> e <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#quanti-professionisti-e-perch%C3%A9-i-conteggi-non-coincidono" target="_blank" rel="noopener">Quanti professionisti, e perché i conteggi non coincidono</a>.*
 
 ## Cosa cambia, a seconda di dove stai
 
@@ -177,16 +177,16 @@ E che la cosa più importante che questi dati hanno da dire non riguarda lui, ma
 >
 > Tutti i numeri di questa serie si rigenerano con un comando, e il documento tecnico completo (con i metodi, gli intervalli di confidenza e i limiti sezione per sezione) è pubblico insieme al codice che lo produce: <https://github.com/lucabnt/ciclismo-giovanile-vs-pro>. I post no, perché sono scritti a mano, ed è la ragione per cui ogni loro cifra viene confrontata con l'archivio dei risultati prima della pubblicazione.
 
-[^metriche]: Calcolo in [R/19_metriche.R](https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/R/19_metriche.R), reso da [report/moduli/metriche.py](https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/report/moduli/metriche.py).
+[^metriche]: Calcolo in <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/R/19_metriche.R" target="_blank" rel="noopener">R/19_metriche.R</a>, reso da <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/report/moduli/metriche.py" target="_blank" rel="noopener">report/moduli/metriche.py</a>.
 
-[^qualita]: Modello ordinale e catena degli stadi in [R/22_qualita_carriera.R](https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/R/22_qualita_carriera.R); il confronto fra le porte d'ingresso è in [report/moduli/porta.py](https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/report/moduli/porta.py).
+[^qualita]: Modello ordinale e catena degli stadi in <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/R/22_qualita_carriera.R" target="_blank" rel="noopener">R/22_qualita_carriera.R</a>; il confronto fra le porte d'ingresso è in <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/report/moduli/porta.py" target="_blank" rel="noopener">report/moduli/porta.py</a>.
 
-[^sopravvivenza]: Modello di sopravvivenza in [R/20_sopravvivenza.R](https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/R/20_sopravvivenza.R).
+[^sopravvivenza]: Modello di sopravvivenza in <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/R/20_sopravvivenza.R" target="_blank" rel="noopener">R/20_sopravvivenza.R</a>.
 
-[^ragazze]: Calcolo in [report/moduli/ragazze.py](https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/report/moduli/ragazze.py).
+[^ragazze]: Calcolo in <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/report/moduli/ragazze.py" target="_blank" rel="noopener">report/moduli/ragazze.py</a>.
 
-[^validazione]: Correzione dell'ottimismo e verifica temporale in [R/24_validazione.R](https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/R/24_validazione.R).
+[^validazione]: Correzione dell'ottimismo e verifica temporale in <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/R/24_validazione.R" target="_blank" rel="noopener">R/24_validazione.R</a>.
 
-[^sensibilita]: Analisi di sensibilità in [scripts/10_sensibilita.py](https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/scripts/10_sensibilita.py).
+[^sensibilita]: Analisi di sensibilità in <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/scripts/10_sensibilita.py" target="_blank" rel="noopener">scripts/10_sensibilita.py</a>.
 
-[^provenienza]: Conteggio degli abbinamenti in [report/moduli/provenienza.py](https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/report/moduli/provenienza.py); la procedura è in [scripts/05_match_pcs.py](https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/scripts/05_match_pcs.py).
+[^provenienza]: Conteggio degli abbinamenti in <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/report/moduli/provenienza.py" target="_blank" rel="noopener">report/moduli/provenienza.py</a>; la procedura è in <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/scripts/05_match_pcs.py" target="_blank" rel="noopener">scripts/05_match_pcs.py</a>.

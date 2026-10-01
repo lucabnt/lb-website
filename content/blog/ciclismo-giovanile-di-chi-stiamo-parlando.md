@@ -2,7 +2,7 @@
 lang: it
 locale: it_IT
 title: "Ciclismo giovanile e professionismo: di chi stiamo parlando"
-description: "Cosa dicono vent'anni di ricerca sul passaggio al professionismo, e di chi parlano davvero i numeri: in classifica ci finisce circa un tesserato su sette."
+description: "Un futuro professionista su sette, a tredici anni, non era fra i più forti. Cosa dicono vent'anni di ricerca, e di chi parlano davvero questi numeri."
 date: 2026-10-02T10:00:00+02:00
 draft: true
 series: ["Ciclismo giovanile e professionismo"]

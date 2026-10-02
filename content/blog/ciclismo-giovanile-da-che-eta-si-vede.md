@@ -18,19 +18,21 @@ TocOpen: false
 #     alt: "..."
 ---
 
-*Seconda di quattro puntate. Nella [prima](/blog/ciclismo-giovanile-di-chi-stiamo-parlando/) ho detto di chi parlano questi numeri: di un settimo dei tesserati, quelli che almeno una volta sono arrivati nei primi cinque. Qui rispondo alla domanda per cui è nato tutto lo studio, cioè da che età il risultato in gara dica qualcosa sul futuro.*
+*Seconda di quattro puntate. Nella [prima](/blog/ciclismo-giovanile-di-chi-stiamo-parlando/) ho detto di chi parlano questi numeri: un settimo dei tesserati, quelli arrivati almeno una volta nei primi cinque. Qui rispondo alla domanda da cui è nato tutto lo studio: da che età il risultato in gara dice qualcosa sul futuro?*
 
 Quando ho cominciato ero convinto che a tredici anni non ci fosse niente da vedere.
 
-Lo lasciava pensare la letteratura, perché alle età più basse è difficile separare la prestazione dalla maturazione. Lo diceva anche il buon senso, visto che un ragazzino di prima media che vince una gara Esordienti (così si chiamano in Italia i tredici e quattordici anni, gli Under 15 della letteratura) sta battendo dei coetanei con un anno di pubertà in meno. E lo diceva l'esperienza: avevo in testa una lunga fila di campioncini di quell'età che poi non si sono più visti.
+Lo lasciava pensare la letteratura, perché alle età più basse è difficile separare la prestazione dalla maturazione. Lo diceva il buon senso: un ragazzino di terza media che vince una gara Esordienti (così si chiamano in Italia i tredici e quattordici anni, gli Under 15 della letteratura) sta battendo dei coetanei con un anno di pubertà in meno. E lo diceva l'esperienza. Avevo in testa una lunga fila di campioncini di quell'età che poi non si sono più visti.
+
+<!-- DA COMPLETARE: un episodio concreto, anche senza nomi, se ne hai uno -->
 
 Mi aspettavo di trovare zero, e di poterlo dire con precisione. **È andata diversamente.**
 
 ## Guardare, prima di modellare
 
-Il modo più semplice di rispondere non richiede statistica: prendi i ragazzi che poi sono diventati professionisti, guardi dove stavano in classifica a tredici anni e lo confronti con dove stavano tutti gli altri.
+Per la risposta più semplice la statistica non serve. Prendi i ragazzi che poi sono diventati professionisti, guardi dove stavano in classifica a tredici anni e lo confronti con dove stavano tutti gli altri.
 
-Il piazzamento è in percentile, cioè su una scala in cui 100 è il primo della classifica, 50 è a metà e 0 è l'ultimo. Serve a rendere confrontabili stagioni e categorie con un numero diverso di partecipanti.
+Il piazzamento è in percentile: una scala in cui 100 è il primo della classifica, 50 è a metà e 0 è l'ultimo. Serve a rendere confrontabili stagioni e categorie con un numero diverso di partecipanti.
 
 | a tredici anni (Esordienti, primo anno) | posizione tipica |
 |---|---|
@@ -41,7 +43,7 @@ Il piazzamento è in percentile, cioè su una scala in cui 100 è il primo della
 
 A diciotto anni la distanza si allarga ancora, da 47 a 94.
 
-C'è un modo elegante di riassumere quanto due gruppi si separino: prendi tutte le coppie possibili formate da un futuro professionista e da un futuro non professionista, e conti quante volte il professionista sta davanti. A tredici anni succede nel **74% dei casi**, a diciotto nell'89%[^punteggi]. Sulle scale convenzionali la separazione a tredici anni sta appena sopra il confine fra «media» e «grande»: non è un segnale enorme, ma è molto lontano dal niente che mi aspettavo.
+Quanto si separano due gruppi si può riassumere in modo elegante. Prendi tutte le coppie possibili formate da un futuro professionista e da un futuro non professionista, e conti quante volte il professionista sta davanti. A tredici anni succede nel **74% dei casi**, a diciotto nell'89%[^punteggi]. Sulle scale convenzionali la separazione a tredici anni sta appena sopra il confine fra «media» e «grande». Un segnale enorme non è, ma è molto lontano dal niente che mi aspettavo.
 
 {{< figure
   src="punteggi_delta.webp"
@@ -49,45 +51,45 @@ C'è un modo elegante di riassumere quanto due gruppi si separino: prendi tutte 
   caption="Le due curve sono i percentili mediani dei due gruppi, e il gruppo si conosce solo guardando indietro: a tredici anni nessuno sapeva chi fosse chi."
 >}}
 
-Su quel 74% servono due precisazioni, perché due equivoci sono in agguato.
+Su quel 74% servono due precisazioni, perché è facile leggerlo male.
 
-Il primo: il confronto è **fra chi era in classifica quell'anno**, non fra tutti i ragazzi. Chi a tredici anni non ha mai fatto un punto non entra né fra i professionisti né fra gli altri, quindi la cifra dice quanto la classifica separa dentro di sé, non quanto separi il mondo.
+La prima: il confronto è **fra chi era in classifica quell'anno**, non fra tutti i ragazzi. Chi a tredici anni non ha mai fatto un punto non entra né fra i professionisti né fra gli altri. La cifra dice dunque quanto la classifica separa al suo interno; su tutti gli altri ragazzi non dice niente.
 
-Il secondo: i professionisti del confronto sono i **futuri** professionisti, cioè ragazzi di cui oggi conosciamo l'esito e che a tredici anni non lo avevano scritto in fronte. È un confronto costruito guardando indietro, ed è l'unico modo onesto di farlo.
+La seconda: i professionisti del confronto sono i **futuri** professionisti, cioè ragazzi di cui oggi conosciamo l'esito e che a tredici anni non lo avevano scritto in fronte. È un confronto costruito guardando indietro, e un altro modo onesto di farlo non c'è.
 
-E il 74% con l'89% non si confrontano direttamente, perché non riguardano le stesse persone: a tredici anni il conto gira su tutti quelli che erano in classifica allora, a diciotto solo su quelli che ci sono ancora, che sono molti meno e già selezionati. Il paragone pulito, sulle stesse persone a ogni età, arriva più avanti in questa puntata.
+Inoltre il 74% e l'89% non si confrontano direttamente, perché non riguardano le stesse persone: a tredici anni il conto gira su tutti quelli che erano in classifica allora, a diciotto solo su quelli che ci sono ancora, molti meno e già selezionati. Il paragone pulito, sulle stesse persone a ogni età, arriva più avanti.
 
 ## Non è un confronto fra due gruppi soltanto
 
-C'è un secondo modo di guardare gli stessi dati che trovo più convincente del primo. Invece di dividere i ragazzi in arrivati e non arrivati, li divido in quattro secondo quanto lontano sono andati: chi non è diventato professionista, chi lo è diventato senza mai entrare nei primi cinquecento del mondo, chi in quei cinquecento c'è entrato, e chi è arrivato nei primi cento.
+C'è un secondo modo di guardare gli stessi dati, e mi convince più del primo. Invece di dividere i ragazzi in arrivati e non arrivati, li divido in quattro secondo quanto lontano sono andati: chi non è diventato professionista, chi lo è diventato senza mai entrare nei primi cinquecento del mondo, chi in quei cinquecento c'è entrato, e chi è arrivato nei primi cento.
 
-A tredici anni le mediane sono 49, 69 e 89 per i primi tre gruppi[^punteggi]. Non è più un confronto fra due mucchi, è una **scala ordinata**: più uno è andato lontano, più stava avanti già a tredici anni. Un rumore casuale non produce una scala del genere, ed è la ragione principale per cui non credo che il 74% sia un artefatto.
+A tredici anni le mediane dei primi tre gruppi sono 49, 69 e 89[^punteggi]. Viene fuori una **scala ordinata**: più uno è andato lontano, più stava avanti già a tredici anni. Un rumore casuale non produce una scala del genere, ed è la ragione principale per cui non credo che il 74% sia un artefatto.
 
-L'ultimo gradino però la rompe: la mediana di chi è arrivato nei primi cento del mondo, a tredici anni, è 84, cioè sotto quella del gruppo precedente. Sono sei atleti, e con sei atleti una mediana può fare qualunque cosa. Lo scrivo perché è l'unica riga che va contro l'argomento che sto usando.
+L'ultimo gradino però la rompe. La mediana di chi è arrivato nei primi cento del mondo, a tredici anni, è 84: sotto quella del gruppo precedente. Sono sei atleti, e con sei atleti una mediana può fare qualunque cosa. Lo scrivo perché è l'unica riga che va contro il mio argomento.
 
 *Per approfondire, nel documento tecnico: <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#il-gradiente-per-livello-raggiunto" target="_blank" rel="noopener">Il gradiente per livello raggiunto</a>.*
 
 ## È rendimento, o è la data di nascita?
 
-Qui va chiuso il dubbio dell'apertura, perché è il più ragionevole che si possa avere.
+È il dubbio più ragionevole che si possa avere, e va chiuso.
 
-Fra ragazzi della stessa annata, chi è nato a gennaio ha fino a dodici mesi di sviluppo in più di chi è nato a dicembre, e la cosa si vede benissimo nei dati: nella classifica Esordienti i nati nel primo trimestre sono **2,13 volte** quelli dell'ultimo, tenuto conto di come sono distribuite le nascite in Italia[^rae]. Se il piazzamento a tredici anni fosse in buona parte una misura di quanto presto uno è cresciuto, il 74% racconterebbe soprattutto quello.
+Fra ragazzi della stessa annata, chi è nato a gennaio ha fino a dodici mesi di sviluppo in più di chi è nato a dicembre. Nei dati si vede benissimo: nella classifica Esordienti i nati nel primo trimestre sono **2,13 volte** quelli dell'ultimo, tenuto conto di come sono distribuite le nascite in Italia[^rae]. Se il piazzamento a tredici anni misurasse in buona parte quanto presto uno è cresciuto, il 74% racconterebbe soprattutto quello.
 
-Il modo diretto di verificarlo è rifare il modello con l'età relativa dentro, contata in giorni fra la nascita e la fine dell'anno, e guardare che fine fa il peso del piazzamento. **Non gli succede niente**: il vantaggio di dieci punti di percentile è 1,40 prima e 1,40 dopo, e la capacità di distinguere passa da 0,736 a 0,738, cioè si muove nella terza cifra decimale. E l'età relativa da sola, usata come unico predittore, arriva a **0,513**: praticamente una monetina.
+Per verificarlo rifaccio il modello con l'età relativa dentro, contata in giorni fra la nascita e la fine dell'anno, e guardo che fine fa il peso del piazzamento. **Non gli succede niente.** Il vantaggio di dieci punti di percentile è 1,40 prima e 1,40 dopo, e la capacità di distinguere passa da 0,736 a 0,738: si muove nella terza cifra decimale. L'età relativa da sola, usata come unico predittore, arriva a **0,513**. Praticamente una monetina.
 
-Questo non vuol dire che nascere a gennaio non serva. Serve moltissimo, ma serve **prima**, per entrare in classifica: il rapporto di due a uno fra primo e ultimo trimestre dice proprio quello. Fra i ragazzi che in classifica ci sono già, invece, la data di nascita non distingue più chi arriverà, e infatti fra i professionisti quel rapporto scende a 1,5 contro l'1,7 di tutti i classificati, uno scarto che su 77 atleti non si distingue dal caso. **È un vantaggio di accesso, non di talento.**
+Nascere a gennaio serve, dunque? Serve moltissimo, ma **prima**, per entrare in classifica: il rapporto di due a uno fra primo e ultimo trimestre dice proprio quello. Fra i ragazzi che in classifica ci sono già, invece, la data di nascita non distingue più chi arriverà. Infatti fra i professionisti quel rapporto scende a 1,5 contro l'1,7 di tutti i classificati, uno scarto che su 77 atleti non si distingue dal caso. **È un vantaggio che fa entrare, e che con il talento non c'entra.**
 
 {{< figure
   src="rae_gradiente.webp"
   alt="Linea discendente del rapporto fra nati nel primo e nell'ultimo trimestre: 2,13 in Esordienti, 1,75 in Allievi, 1,35 in Juniores, 1,09 in Under 23."
-  caption="L'atteso non è il 25% per trimestre: in Italia si nasce di più fra maggio e settembre, e la figura tiene conto della stagionalità reale delle nascite."
+  caption="In Italia si nasce di più fra maggio e settembre, quindi l'atteso si scosta dal 25% per trimestre: la figura tiene conto della stagionalità reale delle nascite."
 >}}
 
-C'è poi un modo indipendente di mettere alla prova quella spiegazione, e viene dal ciclismo femminile. È una delle poche domande di tutta la serie a cui posso rispondere per le ragazze esattamente come per i ragazzi: tutte quelle sulla previsione hanno bisogno di sapere chi è arrivato, e gli esiti di carriera femminili non li ho raccolti, mentre qui basta la data di nascita. Il ragionamento è questo: le ragazze maturano prima, e a tredici anni molte hanno già attraversato la pubertà, mentre fra i coetanei maschi la differenza di sviluppo fra chi è nato a gennaio e chi a dicembre è al suo massimo. Se il vantaggio è di maturazione e non di talento, fra le atlete deve essere più debole.
+C'è poi un modo indipendente di mettere alla prova quella spiegazione, e viene dal ciclismo femminile. È una delle poche domande della serie a cui posso rispondere per le ragazze esattamente come per i ragazzi. Tutte quelle sulla previsione hanno bisogno di sapere chi è arrivato, e un esito femminile confrontabile con quello maschile non c'è, per ragioni che racconto nella quarta puntata; qui basta la data di nascita. Il ragionamento è questo. Le ragazze maturano prima, e a tredici anni molte hanno già attraversato la pubertà, mentre fra i coetanei maschi la differenza di sviluppo fra chi è nato a gennaio e chi a dicembre è al suo massimo. Se il vantaggio viene dalla maturazione, fra le atlete deve essere più debole.
 
-**Lo è.** A tredici anni, sulle stesse annate di nascita e con lo stesso atteso demografico, i nati nel primo trimestre sono **1,98 volte** quelli dell'ultimo fra i maschi e **1,51 volte** fra le femmine, e la differenza fra i due sessi regge a un test (p = 0,007)[^rae]. Il numero maschile non è il 2,13 di prima perché qui le annate sono soltanto quelle in cui anche le ragazze sono osservate: 5&nbsp;544 atleti e 874 atlete.
+**Lo è.** A tredici anni, sulle stesse annate di nascita e con lo stesso atteso demografico, i nati nel primo trimestre sono **1,98 volte** quelli dell'ultimo fra i maschi e **1,51 volte** fra le femmine, e la differenza fra i due sessi regge a un test (p = 0,007)[^rae]. Il numero maschile è diverso dal 2,13 di prima perché qui le annate sono soltanto quelle in cui anche le ragazze sono osservate: 5&nbsp;544 atleti e 874 atlete.
 
-Dopo i quattordici anni, però, le due linee smettono di somigliarsi, e conviene dirlo perché è la parte che non torna. Fra i maschi lo squilibrio cala di categoria in categoria. Fra le femmine scende più in fretta, tanto che in Allieve non si distingue più dall'atteso demografico (1,20 con p = 0,14), e poi risale in Juniores (1,42), dove torna a distinguersene. Su 681 e 370 atlete quelle due cifre hanno intervalli larghi, e non ci costruirei sopra niente: quello che si può dire con ragionevole sicurezza riguarda i tredici anni, dove le atlete sono 874 e la distanza dai coetanei è netta.
+Dopo i quattordici anni, però, le due linee smettono di somigliarsi. È la parte che non torna. Fra i maschi lo squilibrio cala di categoria in categoria. Fra le femmine scende più in fretta, tanto che in Allieve non si distingue più dall'atteso demografico (1,20 con p = 0,14), e poi risale in Juniores (1,42), dove torna a distinguersene. Su 681 e 370 atlete quelle due cifre hanno intervalli larghi, e non ci costruirei sopra niente. Con ragionevole sicurezza si può parlare solo dei tredici anni, dove le atlete sono 874 e la distanza dai coetanei è netta.
 
 {{< figure
   src="rae_sessi.webp"
@@ -95,11 +97,11 @@ Dopo i quattordici anni, però, le due linee smettono di somigliarsi, e conviene
   caption="A tredici anni lo squilibrio fra le atlete c'è, ma è più contenuto di quello fra i coetanei. Dopo, i valori femminili poggiano su poche centinaia di atlete e non seguono una linea."
 >}}
 
-È una conferma indiretta e non una prova, perché i due movimenti differiscono in molte altre cose oltre all'età della pubertà. Ma è la seconda volta che il femminile fa da controllo a un risultato maschile: nella prima puntata era un cambio di regolamento a dire perché il primo anno di una categoria prende pochi posti, qui è una differenza di maturazione a dire perché nascere a gennaio conta, e perché poi smette.
+È una conferma indiretta, perché i due movimenti differiscono in molte altre cose oltre all'età della pubertà: una prova sarebbe un'altra cosa. Tuttavia è la seconda volta che il femminile fa da controllo a un risultato maschile. Nella prima puntata era un cambio di regolamento a dire perché il primo anno di una categoria prende pochi posti; qui è una differenza di maturazione a dire perché nascere a gennaio conta, e perché poi smette.
 
 ## Di quanto conta, esattamente
 
-Un modello permette di mettere un numero sul vantaggio, rispondendo alla domanda su quanto conti salire di dieci posizioni percentuali[^univariati].
+Un modello permette di mettere un numero sul vantaggio: quanto conta salire di dieci posizioni percentuali[^univariati]?
 
 | categoria | età | quanto moltiplica le odds |
 |---|---|---|
@@ -117,19 +119,19 @@ Un modello permette di mettere un numero sul vantaggio, rispondendo alla domanda
   caption="Ogni riga è un modello a sé, con l'intervallo al 95% e la scala logaritmica, perché un odds ratio si legge in rapporti e non in differenze."
 >}}
 
-Su come si legge questa tabella devo essere pignolo, perché la scorciatoia comoda è sbagliata. Il numero non è una probabilità in più, sono **odds** in più: fra due Esordienti che differiscono di dieci posizioni percentuali, quello davanti ha il 40% di odds in più di arrivare al professionismo, cioè il rapporto fra la sua probabilità di farcela e quella di non farcela è 1,40 volte quello dell'altro. Con un esito raro come questo le due cose non si somigliano affatto, e chiamare «40% di probabilità in più» un odds ratio di 1,40 gonfia parecchio il risultato.
+Su come si legge questa tabella devo essere pignolo, perché la scorciatoia comoda è sbagliata. Il numero moltiplica le **odds**, non la probabilità. Fra due Esordienti che differiscono di dieci posizioni percentuali, quello davanti ha il 40% di odds in più di arrivare al professionismo: il rapporto fra la sua probabilità di farcela e quella di non farcela è 1,40 volte quello dell'altro. Con un esito raro come questo anche la probabilità cresce di quasi il 40%, e fin qui la scorciatoia regge. Il guaio è leggere quel 40% come quaranta punti percentuali: si passa da circa il 2,7% a circa il 3,7%, un punto in più.
 
-Il peso cresce con l'età, da 1,40 a 2,28, ma non in modo regolare, e le due righe che scendono non vanno lette come cali del segnale: a ogni passaggio di categoria cambia la popolazione. In Juniores primo anno i professionisti sono già il 9,7% della lista contro il 4,5% della cella precedente, e in Under 23 sono il 37%. Confrontare quei numeri fra loro come se misurassero la stessa cosa è il primo modo di sbagliare la lettura.
+Il peso cresce con l'età, da 1,40 a 2,28, ma non in modo regolare. Le due righe che scendono non vanno lette come cali del segnale: a ogni passaggio di categoria cambia la popolazione. In Juniores primo anno i professionisti sono già il 9,7% della lista contro il 4,5% della cella precedente, e in Under 23 sono il 37%. Chi confronta quei numeri come se misurassero la stessa cosa ha già sbagliato la lettura.
 
 *Per approfondire, nel documento tecnico: <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#perch%C3%A9-la-colonna--pro-non-va-letta-come-un-segnale" target="_blank" rel="noopener">Perché la colonna «% pro» non va letta come un segnale</a>.*
 
-C'è poi un dettaglio che sembra un risultato e non lo è. Nelle categorie a lista unica la percentuale di futuri professionisti è più alta al primo anno che al secondo, e sembrerebbe che il primo anno selezioni meglio. In realtà, come ho raccontato nella prima puntata, al primo anno i posti a punti sono pochi, quindi i classificati sono in media 181 contro 320: chi c'è è già più selezionato, e un gruppo più selezionato contiene per forza una quota maggiore di futuri professionisti. Alla domanda vera, cioè se il primo anno predica meglio, si risponde solo confrontando le stesse persone, e la risposta è no: il secondo anno discrimina meglio in tutte le categorie, 81% contro 70% in Esordienti, 85% contro 81% in Allievi, 87% contro 78% in Juniores.
+C'è poi un dettaglio che sembra un risultato e non lo è. Nelle categorie a lista unica la percentuale di futuri professionisti è più alta al primo anno che al secondo: sembrerebbe che il primo anno selezioni meglio. In realtà, come ho raccontato nella prima puntata, al primo anno i posti a punti sono pochi, e i classificati sono in media 181 contro 320. Chi c'è è già più selezionato, e un gruppo più selezionato contiene per forza una quota maggiore di futuri professionisti. Il primo anno predice meglio, allora? Si risponde solo confrontando le stesse persone, e la risposta è no: il secondo anno discrimina meglio in tutte le categorie, 81% contro 70% in Esordienti, 85% contro 81% in Allievi, 87% contro 78% in Juniores.
 
 ## L'informazione non si accumula come ti aspetteresti
 
-Qui arriva il risultato più utile del post, e per capirlo bisogna cambiare la domanda: non quanto dica il piazzamento in Allievi, ma quanto dica **quello che non era già negli Esordienti**.
+Per il risultato più utile di questa puntata bisogna cambiare domanda. Quanto dice il piazzamento in Allievi lo abbiamo visto; ora chiedo quanto dica **quello che non era già negli Esordienti**.
 
-Prendo i ragazzi osservati in tutte le categorie, che sono 102, un gruppo piccolo e molto selezionato ma l'unico su cui il confronto sia legittimo, e aggiungo una categoria alla volta guardando quanto migliori la previsione[^annidati].
+Prendo i ragazzi osservati in tutte le categorie. Sono 102: un gruppo piccolo e molto selezionato, ma l'unico su cui il confronto sia legittimo. Aggiungo una categoria alla volta e guardo quanto migliora la previsione[^annidati].
 
 | il modello conosce… | quanto ci prende | entro che margine |
 |---|---|---|
@@ -145,35 +147,35 @@ Prendo i ragazzi osservati in tutte le categorie, che sono 102, un gruppo piccol
   caption="Il confronto regge solo perché i 102 atleti sono sempre gli stessi: cambiando gruppo a ogni passo si misurerebbe chi è rimasto, non l'informazione aggiunta."
 >}}
 
-La terza colonna è quella che di solito non si mette in un post divulgativo, e invece qui serve: gli intervalli sono larghi fra i sedici e i ventitré punti, e i primi tre si sovrappongono abbondantemente. Non ci sono quattro gradini puliti, ce n'è uno solo che si stacca davvero, ed è l'ultimo osservabile: **gli Juniores da soli aggiungono quanto tutte le categorie precedenti messe insieme**, e sono anche l'unico passaggio in cui il guadagno si distingue dal caso.
+La terza colonna di solito in un post divulgativo non si mette. Qui serve: gli intervalli sono larghi fra i sedici e i ventitré punti, e i primi tre si sovrappongono abbondantemente. Di gradini che si staccano davvero ce n'è uno solo, l'ultimo osservabile. **Gli Juniores da soli aggiungono quanto tutte le categorie precedenti messe insieme**, e sono anche l'unico passaggio in cui il guadagno si distingue dal caso.
 
-Attenzione però a non trasformare i passi non significativi in zeri. Esordienti e Allievi migliorano l'adattamento del modello in modo distinguibile dal caso, semplicemente non cambiano l'ordine in cui i ragazzi vengono messi in fila. Sono due domande diverse: una chiede quanto il modello sia in accordo con i dati, l'altra se, dati due ragazzi, ci azzecchi su chi mettere davanti.
+Attenzione però a non trasformare i passi non significativi in zeri. Esordienti e Allievi migliorano l'adattamento del modello in modo distinguibile dal caso; semplicemente non cambiano l'ordine in cui i ragazzi vengono messi in fila. Sono due domande diverse: una chiede quanto il modello sia in accordo con i dati, l'altra se, dati due ragazzi, ci azzecchi su chi mettere davanti.
 
-Poteva essere una stranezza di quel sottocampione, quindi ho fatto la stessa domanda in altri due modi. Una foresta casuale, cioè un algoritmo che si arrangia da solo a trovare le combinazioni utili, ha ricevuto diciassette variabili invece delle due del modello semplice e ha guadagnato **2,0 punti percentuali** di capacità predittiva, con in cima alla sua classifica di importanza proprio il piazzamento in Juniores. Una regressione penalizzata, che mette tutte le categorie in un modello solo e butta via quelle che non si guadagnano il posto, ne ha tenute **2 su 8**: Juniores secondo anno e Under 23.
+Poteva essere una stranezza di quel sottocampione, quindi ho fatto la stessa domanda in altri due modi. Una foresta casuale, cioè un algoritmo che si arrangia da solo a trovare le combinazioni utili, ha ricevuto diciassette variabili invece delle due del modello semplice e ha guadagnato **2,0 punti percentuali** di capacità predittiva. In cima alla sua classifica di importanza c'è proprio il piazzamento in Juniores. Una regressione penalizzata, che mette tutte le categorie in un modello solo e butta via quelle che non si guadagnano il posto, ne ha tenute **2 su 8**: Juniores secondo anno e Under 23.
 
-Tre strade diverse, la stessa conclusione: quasi tutta l'informazione utile sta nell'ultima misura che hai. Non tre prove indipendenti, va detto, perché due delle tre girano su quasi lo stesso gruppo di atleti. Le stagioni precedenti non si sommano all'ultima, sono in gran parte la stessa cosa vista da più lontano.
+Tre strade diverse, la stessa conclusione: quasi tutta l'informazione utile sta nell'ultima misura che hai. Tre prove indipendenti però non sono, perché due delle tre girano su quasi lo stesso gruppo di atleti. Le stagioni precedenti non si sommano all'ultima: sono in gran parte la stessa cosa vista da più lontano.
 
 *Per approfondire, nel documento tecnico: <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#quanto-si-somigliano-le-categorie" target="_blank" rel="noopener">Quanto si somigliano le categorie</a>, <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#un-modello-pi%C3%B9-complicato-farebbe-meglio" target="_blank" rel="noopener">Un modello più complicato farebbe meglio?</a> e <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#e-se-si-usassero-tutte-le-categorie-insieme" target="_blank" rel="noopener">E se si usassero tutte le categorie insieme?</a>.*
 
 ## E se contassi anche chi in classifica non c'era
 
-Una scelta di questo studio è contare solo chi è in classifica. L'alternativa è trattare l'assenza come un rendimento peggiore di qualunque presenza, e ho provato anche quella.
+Questo studio conta solo chi è in classifica. L'alternativa è trattare l'assenza come un rendimento peggiore di qualunque presenza, e ho provato anche quella.
 
 La risposta dipende dall'età in un modo che non mi aspettavo. A diciotto anni mettere gli assenti in fondo **alza** la capacità di distinguere, dall'89% al **94%**: a quell'età non essere in classifica è già un segnale forte, e in effetti dei 77 futuri professionisti soltanto 3 non c'erano. A tredici anni invece la **abbassa**, dal 74% al **69%**, perché in classifica a quell'età ci sono 59 dei 77 futuri professionisti, e gli altri diciotto finirebbero in fondo pur essendo destinati ad arrivare[^sensibilita].
 
-Non esserci è un'informazione, insomma, ma lo diventa tardi. È anche la misura più precisa di una cosa detta nella prima puntata: l'assenza di un nome dalla classifica non è un giudizio su quel nome, e quasi un terzo di chi sparisce ricompare.
+Non esserci è un'informazione, ma lo diventa tardi. Ed è la misura più precisa di una cosa detta nella prima puntata: un nome che manca dalla classifica non è stato bocciato da nessuno, e quasi un terzo di chi sparisce ricompare.
 
 *Per approfondire, nel documento tecnico: <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#le-conclusioni-dipendono-dalle-scelte-di-disegno" target="_blank" rel="noopener">Le conclusioni dipendono dalle scelte di disegno?</a>.*
 
 ## Cosa resta
 
-Il risultato a tredici anni non è privo di informazione, e chi lo dice per prudenza ti sta dicendo una cosa gentile e falsa: se guardi i piazzamenti dei tuoi Esordienti stai guardando qualcosa che in media ha a che fare con il futuro, dentro la popolazione osservata.
+Il risultato a tredici anni un'informazione la porta, e chi lo nega per prudenza ti sta dicendo una cosa gentile e falsa. Se guardi i piazzamenti dei tuoi Esordienti stai guardando qualcosa che in media ha a che fare con il futuro, dentro la popolazione osservata.
 
 Non lo leggerei però come «la letteratura si sbagliava». Gli studi precedenti facevano pensare a un segnale debole alle età più basse, e le due cose stanno insieme: qui il campione è italiano, ampio e non limitato a chi era già competitivo a livello internazionale, ed è proprio il tipo di popolazione in cui un segnale precoce ha modo di vedersi.
 
-E non è la data di nascita travestita. Nascere a gennaio aiuta a entrare in classifica, non aiuta ad arrivare: **chi seleziona a tredici anni sta in parte selezionando la data di nascita, e lo sta facendo a vuoto.**
+E la data di nascita non c'entra. Nascere a gennaio aiuta a entrare in classifica e non ad arrivare: **chi seleziona a tredici anni sta in parte selezionando la data di nascita, e lo sta facendo a vuoto.**
 
-La parte operativa è l'ultima. Se quasi tutta l'informazione utile sta nella misura più recente, tenersi l'archivio di quello che un ragazzo faceva tre anni fa serve meno di quanto si creda. Ammesso che la domanda sia dove sta un ragazzo oggi: perché se la domanda è in che direzione sta andando, la cartella serve eccome. È il tema della prossima puntata.
+Resta la parte operativa. Se quasi tutta l'informazione utile sta nella misura più recente, l'archivio di quello che un ragazzo faceva tre anni fa serve meno di quanto si creda. Sempre che la domanda sia dove sta un ragazzo oggi. Se invece la domanda è in che direzione sta andando, la cartella serve eccome. È il tema della prossima puntata.
 
 ---
 

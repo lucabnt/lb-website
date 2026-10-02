@@ -3,8 +3,8 @@ lang: it
 locale: it_IT
 title: "Ciclismo giovanile e professionismo: di chi stiamo parlando"
 description: "Un futuro professionista su sette, a tredici anni, non era fra i più forti. Cosa dicono vent'anni di ricerca, e di chi parlano davvero questi numeri."
-date: 2026-10-02T09:00:00+02:00
-draft: true
+date: 2026-10-02T10:00:00+02:00
+draft: false
 series: ["Ciclismo giovanile e professionismo"]
 series_weight: 1
 tags: ["ciclismo-giovanile", "sport", "ita"]

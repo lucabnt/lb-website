@@ -61,7 +61,7 @@ Non posso farne una critica dall'alto, perché **valgono in pieno anche per ques
 
 ## La classifica da cui parte tutto
 
-Lo studio parte dalla classifica che ciclismo.info pubblica ogni anno per ogni categoria giovanile. Nel periodo considerato, dal 2007 al 2025, raccoglie 28&nbsp;037 piazzamenti stagionali di 11&nbsp;094 ragazzi[^provenienza]. Ragazzi e non ragazze, e la ragione sono i numeri: le atlete in classifica sono fra un settimo e un decimo degli atleti, le divisioni professionistiche femminili esistono solo dal 2020 e la classifica Under 23 femminile, che nel maschile è quella che dice di più, non esiste. Dove la domanda non ha bisogno di sapere chi ce l'ha fatta, invece, le ragazze ci sono: due volte in questa puntata, una nella seconda, e la quarta fa il punto.
+Lo studio parte dalla classifica che <a href="https://www.ciclismo.info/" target="_blank" rel="noopener">ciclismo.info</a> pubblica ogni anno per ogni categoria giovanile. Nel periodo considerato, dal 2007 al 2025, raccoglie 28&nbsp;037 piazzamenti stagionali di 11&nbsp;094 ragazzi[^provenienza]. Ragazzi e non ragazze, e la ragione sono i numeri: le atlete in classifica sono fra un settimo e un decimo degli atleti, le divisioni professionistiche femminili esistono solo dal 2020 e la classifica Under 23 femminile, che nel maschile è quella che dice di più, non esiste. Dove la domanda non ha bisogno di sapere chi ce l'ha fatta, invece, le ragazze ci sono: due volte in questa puntata, una nella seconda, e la quarta fa il punto.
 
 È l'archivio più completo che esista sul ciclismo giovanile italiano. Una precisazione, però, va fatta subito: l'archivio ufficiale della federazione è un'altra cosa, questo è un portale che raccoglie e ordina i risultati per conto proprio. E dentro non ci sono tutti i giovani ciclisti italiani. Per entrarci devi aver fatto almeno un punto, e i punti li prendono solo i primi cinque di ogni gara: cinque alla vittoria e a scendere fino a uno al quinto posto[^norme].
 
@@ -183,7 +183,7 @@ Adesso sai di chi parliamo. A che età quel piazzamento comincia a dire qualcosa
 
 > **Come lo sappiamo**
 >
-> Le classifiche vengono da ciclismo.info, stagioni 2007-2025. I tesserati vengono dai dati statistici pubblicati dalla Federazione Ciclistica Italiana e coprono le stagioni 2018-2025. Le due serie non sono perfettamente allineate, perché il tesseramento è per categoria e non per specialità: la copertura calcolata è quindi un limite inferiore.
+> Le classifiche vengono da <a href="https://www.ciclismo.info/" target="_blank" rel="noopener">ciclismo.info</a>, stagioni 2007-2025. I tesserati vengono dai dati statistici pubblicati dalla Federazione Ciclistica Italiana e coprono le stagioni 2018-2025. Le due serie non sono perfettamente allineate, perché il tesseramento è per categoria e non per specialità: la copertura calcolata è quindi un limite inferiore.
 >
 > La letteratura è riassunta in una rassegna di ventidue studi pubblicati fra il 2006 e il 2025, con riferimento completo, DOI e limiti di ciascuno. Cinque li ho letti per intero; per gli altri ho lavorato su abstract e citazioni incrociate.
 

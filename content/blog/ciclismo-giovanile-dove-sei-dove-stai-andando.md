@@ -3,7 +3,7 @@ lang: it
 locale: it_IT
 title: "Ciclismo giovanile e professionismo: dove sei e dove stai andando"
 description: "Livello e direzione insieme: fra i ragazzi forti, chi stava calando è arrivato dieci volte meno. E tre cose che tutti danno per scontate, ma che non contano."
-date: 2026-10-16T10:00:00+02:00
+date: 2026-10-23T10:00:00+02:00
 draft: true
 series: ["Ciclismo giovanile e professionismo"]
 series_weight: 3

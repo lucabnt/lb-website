@@ -1,7 +1,7 @@
 ---
 lang: it
 locale: it_IT
-title: "Ciclismo giovanile e professionismo: di chi stiamo parlando"
+title: "Ciclismo giovanile e professionismo: il panorama attuale"
 description: "Un futuro professionista su sette, a tredici anni, non era fra i più forti. Cosa dicono vent'anni di ricerca, e di chi parlano davvero questi numeri."
 date: 2026-10-02T10:00:00+02:00
 draft: false
@@ -177,9 +177,7 @@ L'altra metà della critica resta in piedi. Un ranking premia comunque chi va fo
 
 ## Cosa resta
 
-Ogni percentuale che leggerai nelle prossime puntate ha come denominatore un settimo dei ragazzi tesserati e non la loro totalità, per cui le quote vere sono più basse di quelle scritte. Di quanto, esattamente, non lo so. Chi dice di saperlo sta estrapolando.
-
-*Per approfondire, nel documento tecnico: <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#si-possono-stimare-gli-anni-che-mancano" target="_blank" rel="noopener">Si possono stimare gli anni che mancano?</a>.*
+Ogni percentuale che leggerai nelle prossime puntate ha come denominatore un settimo dei ragazzi tesserati e non la loro totalità, per cui le quote vere sono più basse di quelle scritte. Di quanto, esattamente, non lo so.
 
 L'imbuto non è lo stesso gruppo che si assottiglia: in ogni categoria c'è una quota consistente di ragazzi che negli Esordienti non c'erano, ed entrare tardi è normalissimo. Un futuro professionista su sette, a tredici anni, non era in classifica, ed è un settimo diverso da quello dei tesserati qui sopra, che è la quota di chi in classifica ci entra.
 

@@ -3,7 +3,7 @@ lang: it
 locale: it_IT
 title: "Ciclismo giovanile e professionismo: predire non è selezionare"
 description: "Seguendo il dieci per cento migliore a diciotto anni intercetti il 59% dei futuri professionisti, ma il 52% dei selezionati non arriverà. Nessuna soglia lo risolve."
-date: 2026-10-23T10:00:00+02:00
+date: 2026-10-30T10:00:00+02:00
 draft: true
 series: ["Ciclismo giovanile e professionismo"]
 series_weight: 4

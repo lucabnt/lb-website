@@ -21,9 +21,7 @@ cover:
 
 ## Vent'anni di ricerca, in poche righe
 
-Al Mondiale juniores su strada ogni nazione porta al massimo **sei** corridori, e a portarne sei sono solo le nazioni in cima al ranking. Gli Juniores sono la categoria dei diciassette e diciotto anni, che negli studi internazionali si chiama Under 19. Chi ci ha corso ricorda benissimo quanto sia difficile strappare una convocazione. Chi arriva su quella linea di partenza ha superato ogni selezione che il ciclismo giovanile riesca a mettere in piedi. Più predestinato di così non si può.
-
-<!-- DA COMPLETARE: un tuo ricordo o un episodio su una convocazione, se ne hai uno -->
+Al Mondiale juniores su strada ogni nazione porta al massimo **sei** corridori, e a portarne sei sono solo le nazioni in cima al ranking. Gli Juniores (o Under 19) sono la categoria dei diciassette e diciotto anni. Chi ci ha corso ricorda benissimo quanto sia difficile strappare una convocazione. Chi arriva su quella linea di partenza ha superato ogni selezione che il ciclismo giovanile riesca a mettere in piedi. Più predestinato di così non si può.
 
 Eppure nemmeno vincerla, quella gara, garantisce qualcosa. Da quando esiste il Mondiale juniores su strada, **solo tre corridori hanno vinto sia quello sia il Mondiale élite**: Greg LeMond (juniores nel 1979, élite nel 1983 e nel 1989), Mathieu van der Poel (juniores nel 2013, élite nel 2023) e Remco Evenepoel. È lui il corridore sul podio nella foto di copertina, scattata ai Mondiali juniores di Innsbruck del 2018, l'anno in cui li vinse. Il Mondiale élite lo avrebbe vinto quattro anni dopo, nel 2022.
 
@@ -43,29 +41,29 @@ Il segnale cresce man mano che ci si avvicina al traguardo. Lo studio italiano p
 
 Sotto i quindici anni, invece, il sospetto è che ci sia poco da vedere. Uno studio belga sui tredici e quattordicenni ha misurato maturazione, coordinazione e capacità motorie: tutto insieme spiegava poco più di un quinto delle differenze nel rendimento in gara due o tre anni dopo. La lettura che se ne è ricavata è che a quell'età si misuri soprattutto chi si è sviluppato prima.
 
-Poi ci sono i test di laboratorio, e qui suona strano. Soglia e watt per chilo descrivono bene il livello di un ragazzo adesso, ma aggiungono poco su dove arriverà. Fa eccezione uno studio spagnolo su 65 Under 23, dove una prova a cronometro di otto minuti separa bene chi diventerà professionista. Quanto bene? Il 54 per cento di quelli che la prova indicava come futuri professionisti ce la fa davvero. Poco più della metà, e si parla di ventenni già selezionatissimi.
+Poi ci sono i test di laboratorio, e qui suona strano: soglia e watt per chilo descrivono bene il livello di un ragazzo adesso, ma aggiungono poco su dove arriverà. Fa eccezione uno studio spagnolo su 65 Under 23, dove una prova a cronometro di otto minuti separa bene chi diventerà professionista. Quanto bene? Il 54 per cento di quelli che la prova indicava come futuri professionisti ce la fa davvero. Poco più della metà, e si parla di ventenni già selezionatissimi.
 
-Infine il mese di nascita. Nelle popolazioni giovanili i nati a inizio anno sono più di quanti la demografia ne giustifichi, tanto più quanto più l'età è bassa, mentre fra chi arriva l'effetto non si trova. Uno studio su quasi tremila corridori delle squadre Continental dice che l'effetto si vede soprattutto fra chi non ce l'ha fatta. Nella seconda puntata rifaccio quel conto sui miei dati, perché è il dubbio più ragionevole che si possa avere su un risultato a tredici anni.
+Infine il mese di nascita: nelle popolazioni giovanili i nati a inizio anno sono più di quanti la demografia ne giustifichi, tanto più quanto più l'età è bassa, mentre fra chi arriva l'effetto non si trova. Uno studio su quasi tremila corridori delle squadre Continental dice che l'effetto si vede soprattutto fra chi non ce l'ha fatta. Nella seconda puntata rifaccio quel conto sui miei dati, perché è il dubbio più ragionevole che si possa avere su un risultato a tredici anni.
 
 C'è poi un dato che torna ovunque: la stragrande maggioranza di chi va forte da giovane non arriva comunque. I numeri vanno letti con il loro denominatore attaccato, perché metterli in fila come se misurassero la stessa cosa porta fuori strada. Due su tre dei juniores del Mondiale non correranno una grande gara élite. Il 15 per cento dei primi dieci della classifica Allievi italiana, cioè i quindici e sedici anni, ha poi fatto punti nel World Tour, il circuito di primo livello. Cinque su quarantotto di un'intera annata olandese sono arrivati a una squadra Continental, il gradino più basso del professionismo, o superiore[^rassegna]. I punti di partenza sono diversi (i convocati, i primi dieci, tutti) e lo sono anche i traguardi. La scala cambia ogni volta, la direzione resta la stessa.
 
 Restano fuori due cose, e sono il buco che questa serie prova a riempire. Nessuno ha mai guardato i tredici e quattordici anni partendo dai risultati di gara su una popolazione ampia e non preselezionata: gli studi italiani cominciano dagli Allievi, quello belga include gli Under 15 ma solo per chi aveva già un piazzamento nei primi dieci. E nessuno studio basato sui risultati di gara ha mai scritto **quanti dei ragazzi segnalati poi arrivino**. Eppure è esattamente il numero che useresti per decidere.
 
-Ci sono poi due cose che gli studi non dichiarano mai. Non le ho trovate in nessuno dei ventidue che ho riassunto[^rassegna], e me ne sono accorto provando a rifare i conti da capo.
+Ci sono poi due cose che gli studi non dichiarano mai. Non le ho trovate in nessuno dei ventidue che ho riassunto[^rassegna], e me ne sono accorto provando a rifare i conti.
 
 La prima è da quanti si parte. I convocati al Mondiale, i primi dieci, i ragazzi a ranking sono già il risultato di una selezione, e quanti fossero prima non lo scrive nessuno. Senza quel numero due percentuali di due studi diversi non si possono mettere in fila: sotto hanno popolazioni diverse.
 
-La seconda è che un ragazzo che smette di comparire nelle classifiche viene contato come se avesse smesso di correre. Gli imbuti di questa letteratura si costruiscono così, e chi non compare più nella categoria successiva finisce fra i persi. Nessuno ha verificato quanta parte di quelle sparizioni sia invece gente che continua a correre senza più andare a punti, o che rientra l'anno dopo. Quanti rientrano lo misuro più avanti in questa puntata. Non sono pochi.
+La seconda è che spesso un ragazzo che smette di comparire nelle classifiche viene contato come se avesse smesso di correre. Gli imbuti di questa letteratura si costruiscono così, e chi non compare più nella categoria successiva finisce fra i persi. Nessuno ha verificato quanta parte di quelle sparizioni sia invece gente che continua a correre senza più andare a punti, o che rientra l'anno dopo. Quanti rientrano lo misuro più avanti in questa puntata. Non sono pochi.
 
 Non posso farne una critica dall'alto, perché **valgono in pieno anche per questo studio**. Anche i miei numeri partono da un gruppo già scremato, e anch'io vedo sparire dei ragazzi dalla classifica senza sapere se abbiano smesso di correre o se vadano soltanto più piano. L'unica differenza che posso rivendicare è di averle misurate invece di lasciarle implicite. Il resto della puntata parla di questo.
 
 ## La classifica da cui parte tutto
 
-Lo studio parte dalla classifica che <a href="https://www.ciclismo.info/" target="_blank" rel="noopener">ciclismo.info</a> pubblica ogni anno per ogni categoria giovanile. Nel periodo considerato, dal 2007 al 2025, raccoglie 28&nbsp;037 piazzamenti stagionali di 11&nbsp;094 ragazzi[^provenienza]. Ragazzi e non ragazze, e la ragione sono i numeri: le atlete in classifica sono fra un settimo e un decimo degli atleti, le divisioni professionistiche femminili esistono solo dal 2020 e la classifica Under 23 femminile, che nel maschile è quella che dice di più, non esiste. Dove la domanda non ha bisogno di sapere chi ce l'ha fatta, invece, le ragazze ci sono: due volte in questa puntata, una nella seconda, e la quarta fa il punto.
+Lo studio parte dalla classifica che <a href="https://www.ciclismo.info/" target="_blank" rel="noopener">ciclismo.info</a> pubblica ogni anno per ogni categoria giovanile. Nel periodo considerato, dal 2007 al 2025, raccoglie 28&nbsp;037 piazzamenti stagionali di 11&nbsp;094 ragazzi[^provenienza]. Ragazzi e non ragazze, e la ragione sono i numeri: le atlete in classifica sono fra un settimo e un decimo degli atleti, le divisioni professionistiche femminili esistono solo dal 2020 e la classifica Under 23 femminile, che nel maschile è quella che dice di più, non esiste. Dove la domanda non ha bisogno di sapere chi ce l'ha fatta, invece, le ragazze ci sono.
 
-È l'archivio più completo che esista sul ciclismo giovanile italiano. Una precisazione, però, va fatta subito: l'archivio ufficiale della federazione è un'altra cosa, questo è un portale che raccoglie e ordina i risultati per conto proprio. E dentro non ci sono tutti i giovani ciclisti italiani. Per entrarci devi aver fatto almeno un punto, e i punti li prendono solo i primi cinque di ogni gara: cinque alla vittoria e a scendere fino a uno al quinto posto[^norme].
+<a href="https://www.ciclismo.info/" target="_blank" rel="noopener">ciclismo.info</a> è l'archivio più completo che esista sul ciclismo giovanile italiano. Una precisazione, però, va fatta subito: l'archivio ufficiale della federazione è un'altra cosa, questo è un portale che raccoglie e ordina i risultati per conto proprio. E dentro non ci sono tutti i giovani ciclisti italiani. Per entrarci devi aver fatto almeno un punto, e i punti li prendono solo i primi cinque di ogni gara: cinque alla vittoria e a scendere fino a uno al quinto posto[^norme].
 
-Quanto pesa questo filtro? Si può misurare, perché la federazione pubblica ogni anno quanti sono i tesserati per categoria[^copertura]. I numeri che seguono sono medie fra le stagioni.
+Quanto pesa questo filtro? Si può misurare, perché la federazione pubblica ogni anno quanti sono i tesserati per categoria[^copertura]. I numeri che seguono sono medie fra alcune stagioni.
 
 | categoria | tesserati per stagione | in classifica | quota |
 |---|---|---|---|
@@ -88,7 +86,7 @@ Quell'uno su sette **sottostima** quanti dei ciclisti su strada finiscono in cla
 
 Le coorti principali, cioè i gruppi di nati negli stessi anni che seguo nel tempo, sono i nati fra il 1996 e il 2000. Hanno avuto tutti il tempo di arrivare o di non arrivare. Sono **2&nbsp;813 ragazzi, 77 professionisti**. Professionista, in tutta la serie, vuol dire aver corso in una squadra di primo livello (WorldTeam) o di secondo (ProTeam) entro i venticinque anni. La finestra d'età serve a rendere confrontabili annate diverse; chi arriva più tardi qui non risulta.
 
-Di quei 2&nbsp;813, però, soltanto 2&nbsp;183 erano in classifica già da Esordienti, la categoria dei tredici e quattordici anni, l'Under 15 della letteratura. (L'Under 23, invece, copre quattro annate, dai diciannove ai ventidue.) È dagli Esordienti che parte l'imbuto[^attrito].
+Di quei 2&nbsp;813, però, soltanto 2&nbsp;183 erano in classifica già da Esordienti, la categoria dei tredici e quattordici anni, l'Under 15 della letteratura. L'Under 23, invece, copre quattro annate, dai diciannove ai ventidue. È dagli Esordienti che parte l'imbuto[^attrito].
 
 | categoria | atleti in classifica | di cui partiti dagli Esordienti | quota dei 2&nbsp;183 |
 |---|---|---|---|
@@ -110,7 +108,7 @@ Guardiamo l'ultima riga. I professionisti delle coorti sono 77, ma solo **66** e
 
 Letto al contrario, è il numero più utile di questa puntata: **uno su sette dei futuri professionisti, a tredici anni, in classifica non c'era**. Se guardi una lista di Esordienti sapendo che i migliori d'Italia sono lì dentro, ricordati che uno su sette di quelli che arriveranno, in quel momento, non c'è ancora.
 
-<!-- DA COMPLETARE: il nome di uno degli 11 entrati dopo, se vuoi un esempio -->
+Tra quegli undici ci sono anche **Christian Scaroni**, vincitore di una tappa al Giro d’Italia 2025, e **Jonathan Milan**, due volte maglia ciclamino al Giro e maglia verde al Tour 2025: entrambi compaiono nelle nostre classifiche soltanto da Allievi di secondo anno.
 
 Sembra un imbuto, e in parte lo è. Ha però una proprietà che rovina le letture semplici: non è lo stesso gruppo che si assottiglia. Fra un quarto e un terzo degli atleti di ogni categoria non è mai comparso in Esordienti, e in Under 23 sono più di uno su tre. Chi legge l'imbuto come «di quei duemila ne sono rimasti trecento» conta fra i sopravvissuti gente che non era mai partita.
 
@@ -131,7 +129,7 @@ La seconda: **come sono fatte le categorie**. Negli Esordienti la fonte pubblica
 | Juniores, classifica unica | 33,3% |
 | Under 23, classifica unica | 11,8% |
 
-*il 33,3% degli Juniores rompe la discesa, e non so dire perché: in quella categoria quelli del primo anno sono una fetta più grossa del gruppo che in Allievi, ma è un indizio e niente di più*
+*il 33,3% degli Juniores rompe la discesa, e non so dire perché: in quella categoria quelli del primo anno sono una fetta più grossa del gruppo che in Allievi*
 
 {{< figure
   src="posti_quote.webp"
@@ -139,11 +137,11 @@ La seconda: **come sono fatte le categorie**. Negli Esordienti la fonte pubblica
   caption="Il 49,7% degli Esordienti è quello che ci si aspetta da due classifiche separate. Il numero da guardare è quanto resta al primo anno dove la lista è una sola."
 >}}
 
-Che con due classifiche separate le annate si dividano i posti a metà è ovvio, e vale anche fra le ragazze: ciascuna corre contro le proprie coetanee. La domanda interessante è un'altra. Quanto riescono a raccogliere i più piccoli dove la lista è una sola e le gare sono le stesse per tutti? **Poco più di un quarto** in Allievi, un terzo in Juniores, un ottavo in Under 23. Il metro è la parità: con due annate sarebbe metà; in Under 23, che di annate ne ha quattro, un quarto. Il primo anno prende insomma circa la metà di quanto gli spetterebbe. I posti non spariscono: li vincono i più grandi. Chi legge la classifica di un quindicenne al primo anno di Allievi sta guardando un ragazzo che corre contro avversari con un anno di sviluppo in più.
+Che con due classifiche separate le annate si dividano i posti a metà è ovvio, e vale anche fra le ragazze: ciascuna corre contro le proprie coetanee. La domanda interessante è un'altra. Quanto riescono a raccogliere i più piccoli dove la classifica è una sola e le gare sono le stesse per tutti? **Poco più di un quarto** in Allievi, un terzo in Juniores, un ottavo in Under 23. Il metro è la parità: con due annate sarebbe metà; in Under 23, che di annate ne ha quattro, un quarto. Il primo anno prende insomma circa la metà di quanto gli spetterebbe. I posti nella top 5 ovviamente non spariscono: li vincono i più grandi. Chi legge la classifica di un quindicenne al primo anno di Allievi sta guardando un ragazzo che corre contro avversari con un anno di sviluppo in più.
 
-<!-- DA COMPLETARE: un caso che hai visto di persona, per esempio un Allievo al primo anno, se ne hai uno -->
+Eppure qualcuno riesce a emergere già contro i più grandi: **Filippo Ganna**, nel 2011, da Allievo di primo anno raccolse 65 punti e sei vittorie, chiudendo settimo nella classifica delle due annate. Sarebbe poi diventato due volte campione del mondo a cronometro.
 
-Che il meccanismo sia davvero questo lo dice il ciclismo femminile, dove la fonte ha cambiato struttura in corsa. Fino al 2021 le Esordienti avevano una classifica sola, e in quel periodo il primo anno raccoglieva il **28,5%** dei posti: lo stesso ordine di grandezza del 26,7% maschile, in un'altra categoria e in un altro movimento. Dal 2022 le classifiche sono due e la quota sale a metà[^ragazze], come c'era da aspettarsi.
+Che il meccanismo sia davvero questo lo dice anche il ciclismo femminile, dove la fonte ha cambiato struttura in corsa. Fino al 2021 le Esordienti avevano una classifica sola, e in quel periodo il primo anno raccoglieva il **28,5%** dei posti: lo stesso ordine di grandezza del 26,7% maschile, in un'altra categoria e in un altro movimento. Dal 2022 le classifiche sono due e la quota sale a metà[^ragazze], come c'era da aspettarsi.
 
 {{< figure
   src="ragazze_separazione.webp"
@@ -171,7 +169,7 @@ Un'ultima cosa sullo strumento. Nel 2025 due ricercatori olandesi hanno pubblica
 
 Sulla classifica italiana quella critica è disinnescata a metà, perché il regolamento le gare le pesa. Lo si vede indirettamente dividendo i punti per il numero di piazzamenti: 2,67 punti per piazzamento in Esordienti, 2,73 in Allievi, 3,02 in Juniores e 4,17 in Under 23[^misura]. Il salto cade esattamente dove entrano in funzione i moltiplicatori del regolamento, che fanno valere di più le gare di livello alto: dagli Juniores in su. In Esordienti e Allievi la scala è piatta, e torna con il fatto che a quelle età un calendario internazionale non esiste.
 
-L'altra metà della critica resta in piedi. Un ranking premia comunque chi va forte nelle gare più frequenti in calendario: uno scalatore, in un calendario fatto di percorsi veloci, ha meno occasioni di andare a punti. Per correggerlo servirebbe sapere com'era fatta ogni gara, e quel dato non esiste. Nessuno classifica i percorsi delle gare giovanili italiane.
+L'altra metà della critica resta in piedi. Un ranking premia comunque chi va forte nelle gare più frequenti in calendario: uno scalatore, in un calendario fatto di percorsi veloci, ha meno occasioni di andare a punti. Per correggerlo servirebbe sapere com'era fatta ogni gara, e quel dato non esiste.
 
 *Per approfondire, nel documento tecnico: <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#lo-stesso-punteggio-%C3%A8-lo-stesso-risultato" target="_blank" rel="noopener">Lo stesso punteggio è lo stesso risultato?</a> e <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#ma-i-pari-merito-sono-moltissimi" target="_blank" rel="noopener">Ma i pari merito sono moltissimi</a>.*
 

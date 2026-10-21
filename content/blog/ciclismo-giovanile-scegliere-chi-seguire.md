@@ -1,24 +1,25 @@
 ---
 lang: it
 locale: it_IT
-title: "Ciclismo giovanile e professionismo: predire non è selezionare"
+title: "Scegliere chi seguire nel ciclismo giovanile"
 description: "Seguendo il dieci per cento migliore a diciotto anni intercetti il 59% dei futuri professionisti, ma il 52% dei selezionati non arriverà. Nessuna soglia lo risolve."
-date: 2026-10-30T10:00:00+02:00
+date: 2026-10-16T10:00:00+02:00
 draft: true
 series: ["Ciclismo giovanile e professionismo"]
+aliases: ["/blog/ciclismo-giovanile-predire-non-e-selezionare/"]
 series_weight: 4
 tags: ["ciclismo-giovanile", "sport", "ita"]
 author: "lb"
 showToc: true
 TocOpen: false
 # COPERTINA: nessun file ancora caricato. Togliere il commento quando il file
-# esiste, in static/blog/ciclismo-giovanile-predire-non-e-selezionare/.
+# esiste, in static/blog/ciclismo-giovanile-scegliere-chi-seguire/.
 # cover:
-#     image: blog/ciclismo-giovanile-predire-non-e-selezionare/nome-file.webp
+#     image: blog/ciclismo-giovanile-scegliere-chi-seguire/nome-file.webp
 #     alt: "..."
 ---
 
-*Ultima di quattro puntate. Le tre precedenti hanno misurato quanto il rendimento giovanile predica il professionismo, [da che età](/blog/ciclismo-giovanile-da-che-eta-si-vede/) e [con quali dimensioni](/blog/ciclismo-giovanile-dove-sei-dove-stai-andando/). Qui provo a usare quella misura per scegliere, che è una cosa molto diversa. Poi dico quanto puoi fidarti di tutto il resto.*
+*Ultima di quattro puntate. Le [tre precedenti](/series/ciclismo-giovanile-e-professionismo/) hanno misurato quanto il rendimento giovanile predica il professionismo, [da che età](/blog/ciclismo-giovanile-a-che-eta-si-riconosce-un-futuro-professionista/) e [con quali dimensioni](/blog/ciclismo-giovanile-conta-di-piu-quanto-vai-forte-o-quanto-migliori/). Qui provo a usare quella misura per scegliere, che è una cosa molto diversa. Poi dico quanto puoi fidarti di tutto il resto.*
 
 Prendiamo la categoria in cui la previsione funziona meglio, i Juniores di secondo anno, diciotto anni, e applichiamo il criterio più naturale che una società possa adottare: seguo il dieci per cento migliore. Su 901 ragazzi in classifica ne seleziono 91[^metriche].
 
@@ -39,7 +40,7 @@ Sono vere tutte e due, e quasi sempre te ne citano una alla volta. Chi vuole dif
 
 A tredici anni va peggio. Quanto? Selezionando il dieci per cento migliore degli Esordienti di primo anno, cioè dei tredicenni, intercetti il **32%** dei futuri professionisti, e di quei 168 ragazzi ne arriverà l'**11%**. Nove ragazzi su dieci fra i migliori d'Italia a tredici anni non diventeranno professionisti, e due futuri professionisti su tre in quel momento non sono nel gruppo dei migliori.
 
-Nella seconda puntata ho scritto che a tredici anni si vede già qualcosa, e resta vero. Il segnale c'è, tanto che selezionare triplica la quota di chi arriva, dal 3,5% di tutta la classifica all'11% dei prescelti. Con numeri del genere, però, puoi decidere chi seguire. Per decidere chi scartare non bastano.
+Nella [seconda puntata](/blog/ciclismo-giovanile-a-che-eta-si-riconosce-un-futuro-professionista/) ho scritto che a tredici anni si vede già qualcosa, e resta vero. Il segnale c'è, tanto che selezionare triplica la quota di chi arriva, dal 3,5% di tutta la classifica all'11% dei prescelti. Con numeri del genere, però, puoi decidere chi seguire. Per decidere chi scartare non bastano.
 
 ## Perché non è colpa del criterio
 
@@ -83,7 +84,7 @@ Prima dei diciannove anni non passa professionista nessuno[^sopravvivenza]. Più
   caption="Prima dei diciannove anni il rischio è zero per regolamento; dai ventuno resta alto fino all'ultima età osservata. La curva finisce a ventitré anni perché lì finisce la classifica giovanile; i passaggi continuano."
 >}}
 
-Nel modello che descrive questo percorso un coefficiente domina tutti gli altri, e riguarda il restare in classifica più che il rendimento: un atleta che l'anno prima non era in classifica ha un rischio di passare professionista venti volte più basso di uno che c'era. Va letto con cautela. Come ho raccontato nella prima puntata, sparire dalla classifica non significa smettere di correre, quindi quel coefficiente misura in buona parte quanto sia difficile rientrare una volta usciti dal gruppo osservato. Un dato, poi, lo rende meno drammatico: nell'**87,4%** delle stagioni a rischio l'atleta non era in classifica l'anno prima. In Under 23 l'assenza è la condizione normale.
+Nel modello che descrive questo percorso un coefficiente domina tutti gli altri, e riguarda il restare in classifica più che il rendimento: un atleta che l'anno prima non era in classifica ha un rischio di passare professionista venti volte più basso di uno che c'era. Va letto con cautela. Come ho raccontato nella [prima puntata](/blog/ciclismo-giovanile-di-chi-stiamo-parlando/), sparire dalla classifica non significa smettere di correre, quindi quel coefficiente misura in buona parte quanto sia difficile rientrare una volta usciti dal gruppo osservato. Un dato, poi, lo rende meno drammatico: nell'**87,4%** delle stagioni a rischio l'atleta non era in classifica l'anno prima. In Under 23 l'assenza è la condizione normale.
 
 Per chi invece c'è tutti gli anni, i numeri sono questi: **11,1%** di probabilità di arrivare al professionismo con un rendimento nella media della classifica, 30,9% con venti posizioni percentuali in più, 3,7% con venti in meno.
 
@@ -121,9 +122,9 @@ La domanda che mi hanno fatto più spesso è perché lo studio riguardi solo i m
 
 Moltissime domande, però, non hanno bisogno di sapere chi ce l'ha fatta, e su quelle il femminile si studia benissimo. Quante sono, quante gare corrono, come sono fatte le classifiche, chi entra: si misura tutto guardando la classifica e la demografia.
 
-Due di queste le ho già raccontate accanto al risultato maschile corrispondente, perché è lì che significano qualcosa: il cambio di regolamento delle Esordienti nella [prima puntata](/blog/ciclismo-giovanile-di-chi-stiamo-parlando/), e il peso del mese di nascita nella [seconda](/blog/ciclismo-giovanile-da-che-eta-si-vede/). Qui resta quello che riguarda il movimento in sé.
+Due di queste le ho già raccontate accanto al risultato maschile corrispondente, perché è lì che significano qualcosa: il cambio di regolamento delle Esordienti nella [prima puntata](/blog/ciclismo-giovanile-di-chi-stiamo-parlando/), e il peso del mese di nascita nella [seconda](/blog/ciclismo-giovanile-a-che-eta-si-riconosce-un-futuro-professionista/). Qui resta quello che riguarda il movimento in sé.
 
-Il movimento è più piccolo di quanto si pensi e, soprattutto, corre molto meno. Le atlete in Esordienti sono **864** contro 6&nbsp;356 atleti, circa un settimo (nella seconda puntata ne ho contate 874: lì il perimetro è quello del confronto fra i sessi, qui sono tutte le stagioni buone), e diventano un decimo da Juniores. Dove il conteggio delle gare si può confrontare, cioè in Allievi e Juniores, le gare femminili sono **fra sei e otto volte meno**, in media sulle stagioni[^ragazze]. Sono poche, e corrono anche molto meno spesso. Inoltre manca del tutto la categoria che nel maschile porta quasi tutta l'informazione utile: nel periodo studiato una classifica Under 23 femminile non esiste.
+Il movimento è più piccolo di quanto si pensi e, soprattutto, corre molto meno. Le atlete in Esordienti sono **864** contro 6&nbsp;356 atleti, circa un settimo (nella [seconda puntata](/blog/ciclismo-giovanile-a-che-eta-si-riconosce-un-futuro-professionista/) ne ho contate 874: lì il perimetro è quello del confronto fra i sessi, qui sono tutte le stagioni buone), e diventano un decimo da Juniores. Dove il conteggio delle gare si può confrontare, cioè in Allievi e Juniores, le gare femminili sono **fra sei e otto volte meno**, in media sulle stagioni[^ragazze]. Sono poche, e corrono anche molto meno spesso. Inoltre manca del tutto la categoria che nel maschile porta quasi tutta l'informazione utile: nel periodo studiato una classifica Under 23 femminile non esiste.
 
 Una cosa invece non cambia, ed è quella che mi aspettavo cambiasse: la forma della classifica. Il dieci per cento migliore raccoglie fra il 41% e il 44% dei punti fra le ragazze, e fra il 40% e il 45% fra i ragazzi, categoria per categoria[^ragazze]. Cambia quante sono, quante gare corrono, come sono fatte le liste. La concentrazione dei punti resta la stessa.
 

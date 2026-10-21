@@ -1,34 +1,35 @@
 ---
 lang: it
 locale: it_IT
-title: "Ciclismo giovanile e professionismo: dove sei e dove stai andando"
-description: "Livello e direzione insieme: fra i ragazzi forti, chi stava calando è arrivato dieci volte meno. E tre cose che tutti danno per scontate, ma che non contano."
-date: 2026-10-23T10:00:00+02:00
+title: "Nel ciclismo giovanile conta di più quanto vai forte o quanto migliori?"
+description: "Livello corrente e direzione insieme: fra i ragazzi forti, chi cala di rendimento diventa professionista dieci volte meno."
+date: 2026-10-16T10:00:00+02:00
 draft: true
 series: ["Ciclismo giovanile e professionismo"]
+aliases: ["/blog/ciclismo-giovanile-dove-sei-dove-stai-andando/"]
 series_weight: 3
 tags: ["ciclismo-giovanile", "sport", "ita"]
 author: "lb"
 showToc: true
 TocOpen: false
 # COPERTINA: nessun file ancora caricato. Togliere il commento quando il file
-# esiste, in static/blog/ciclismo-giovanile-dove-sei-dove-stai-andando/.
+# esiste, in static/blog/ciclismo-giovanile-conta-di-piu-quanto-vai-forte-o-quanto-migliori/.
 # cover:
-#     image: blog/ciclismo-giovanile-dove-sei-dove-stai-andando/nome-file.webp
+#     image: blog/ciclismo-giovanile-conta-di-piu-quanto-vai-forte-o-quanto-migliori/nome-file.webp
 #     alt: "..."
 ---
 
-*Terza di quattro puntate. Nella [seconda](/blog/ciclismo-giovanile-da-che-eta-si-vede/) ho misurato quanto il piazzamento in classifica predica il professionismo, e da che età. Qui aggiungo la direzione in cui un ragazzo si sta muovendo, e poi smonto tre cose che nel ciclismo giovanile tutti danno per scontate.*
+*Terza di quattro puntate. Nella [seconda](/blog/ciclismo-giovanile-a-che-eta-si-riconosce-un-futuro-professionista/) ho misurato quanto il piazzamento in classifica predica il professionismo, e da che età. Qui aggiungo la direzione in cui un ragazzo si sta muovendo, e poi smonto tre cose che nel ciclismo giovanile molti danno per scontate.*
 
-Due ragazzi, sedici anni tutti e due. Il primo è sempre stato lì, da tre stagioni attorno al settantacinquesimo percentile della sua categoria: regolare, nessuna sorpresa, nessun crollo. Il secondo tre anni fa era al quarantesimo, poi al cinquantacinquesimo, poi al settantesimo, e adesso è al novantesimo. Dovendo puntare su uno solo, quale sceglieresti?
+Due ragazzi, sedici anni tutti e due. Il primo ha avuto un rendimento costante, da tre stagioni attorno al settantacinquesimo percentile della sua categoria: regolare, nessuna sorpresa, nessun crollo. Il secondo tre anni fa era al quarantesimo, poi al cinquantacinquesimo, poi al settantesimo, e adesso è al novantesimo. Dovendo puntare su uno solo, quale sceglieresti?
 
-Per una volta i dati possono rispondere. Le classifiche giovanili sono una serie storica, e da una serie storica si legge dove uno sta e anche dove sta andando. I due ragazzi dell'esempio non esistono; i numeri che seguono sì.
+Per una volta i dati possono rispondere. Le classifiche giovanili sono una serie storica, e da una serie storica si legge dove uno sta e anche dove sta andando.
 
 Prima però mettiamoci d'accordo su cosa significhi «migliorare», perché la parola promette più di quanto misuri. Qui vuol dire **salire di percentile**, cioè guadagnare posizioni rispetto ai propri coetanei in classifica. Andare più forte in assoluto è un'altra cosa. Le due viaggiano spesso insieme, ma la classifica si rinnova ogni anno, e la traiettoria tipica di un ragazzo che resta è leggermente in discesa, di quasi un punto di percentile all'anno[^traiettorie], perché dietro arrivano quelli nuovi. Salire, in un movimento del genere, è già andare controcorrente.
 
 ## La risposta senza coefficienti
 
-Anche qui si può cominciare senza statistica: dividi i ragazzi in tre gruppi per livello e in tre per direzione, e conti quanti sono arrivati in ciascuna delle nove caselle[^traiettorie].
+Anche qui si può cominciare senza statistica: dividi i ragazzi in tre gruppi per livello e in tre per direzione, e conti quanti sono arrivati al professionismo in ciascuna delle nove caselle[^traiettorie].
 
 | | miglioramento basso | medio | alto |
 |---|---|---|---|
@@ -36,19 +37,19 @@ Anche qui si può cominciare senza statistica: dividi i ragazzi in tre gruppi pe
 | **livello medio** | 0,0% (0 su 214) | 0,9% (2 su 234) | 5,9% (11 su 186) |
 | **livello basso** | 1,1% (1 su 88) | 0,0% (0 su 250) | 0,7% (2 su 297) |
 
-*quota di futuri professionisti in ciascuna casella, e fra parentesi i conteggi da cui viene. Cinque caselle contengono meno di cinque professionisti, due delle quali nessuno: li riporto lo stesso, perché mascherarli con la percentuale e il numero di atleti lì accanto sarebbe una finzione*
+*quota di futuri professionisti in ciascuna casella, e fra parentesi i conteggi da cui viene. Cinque caselle contengono meno di cinque professionisti, due delle quali nessuno*
 
 {{< figure
   src="traiettorie_incrocio.webp"
   alt="Barre raggruppate per livello e per miglioramento: 20,5% dove livello alto e forte crescita coincidono, 13,3% per il livello alto con miglioramento medio, 5,9% per il livello medio in forte crescita, 2,1% per il livello alto in calo."
-  caption="Il fondo del grafico non è schiacciato per caso: nel terzo più basso il miglioramento non salva quasi nessuno, ed è la lettura in verticale a dirlo."
+  caption="Il fondo del grafico non è schiacciato per caso: nel terzo più basso il miglioramento non salva quasi nessuno."
 >}}
 
 La tabella si legge in due direzioni, e la risposta sta nelle due letture insieme.
 
 In orizzontale, lungo la riga alta: fra i ragazzi di livello alto, chi stava anche migliorando è diventato professionista nel **20,5%** dei casi, chi stava calando si è fermato al **2,1%**. Quasi dieci volte meno, a parità di livello.
 
-Quel salto però non è distribuito lungo la riga, ed è la cosa che mi ha sorpreso di più. Sta quasi tutto fra chi calava e chi teneva. Già il gruppo di livello alto con un miglioramento soltanto **medio** arriva al **13,3%**, sei volte il gruppo in calo; da lì al 20,5% dei più in crescita si guadagna appena una volta e mezza. Per stare fra i ragazzi che arrivano una gran pendenza non serve. Basta non scendere.
+Quel salto però non è distribuito lungo la riga, ed è la cosa che mi ha sorpreso di più. Sta quasi tutto fra chi calava e chi teneva. Già il gruppo di livello alto con un miglioramento soltanto **medio** arriva al **13,3%**, sei volte in più del gruppo in calo; da lì al 20,5% dei più in crescita si guadagna appena una volta e mezza. Per stare fra i ragazzi che arrivano una gran pendenza non serve. Basta non scendere.
 
 In verticale si vede quanto pesi il livello, e i conteggi lo dicono meglio delle percentuali. I tre terzi contengono praticamente lo stesso numero di ragazzi, 634, 634 e 635, e i settantaquattro futuri professionisti si dividono così: **58 nel terzo alto, 13 in quello medio, 3 in quello basso**. Quattro su cinque vengono dal terzo superiore. La riga bassa, poi, è piatta: fra i ragazzi in forte crescita si passa dallo 0,7% del livello basso al 20,5% di quello alto, e nel terzo più basso il miglioramento non salva quasi nessuno. Chi parte da lontano, salendo, cambia la propria posizione in classifica molto più di quanto cambi l'esito.
 
@@ -99,7 +100,7 @@ Chi frequenta il ciclismo giovanile sa benissimo che contano tre cose. I ragazzi
 
 Sono tre affermazioni ragionevoli. Due si vedono chiaramente nei dati. **E nessuna delle tre significa quello che sembra.**
 
-**Il mese di nascita** l'ho già raccontato nella seconda puntata, e lo riprendo in breve perché serve al confronto. Il vantaggio di chi è nato a inizio anno è grosso e si spegne con l'età: a tredici anni i nati nel primo trimestre sono 2,13 volte quelli dell'ultimo, in Under 23 il rapporto scende a 1,09. Fra chi arriva, invece, non si vede: 1,5 contro l'1,7 di tutti i classificati, uno scarto che non si distingue dal caso. E il confronto con le ragazze, che maturano prima e a tredici anni hanno uno squilibrio più basso, dice che quel vantaggio è soprattutto sviluppo. Fa entrare in classifica, e con il talento non c'entra: chi seleziona a tredici anni sta in parte selezionando la data di nascita.
+**Il mese di nascita** l'ho già raccontato nella [seconda puntata](/blog/ciclismo-giovanile-a-che-eta-si-riconosce-un-futuro-professionista/), e lo riprendo in breve perché serve al confronto. Il vantaggio di chi è nato a inizio anno è grosso e si spegne con l'età: a tredici anni i nati nel primo trimestre sono 2,13 volte quelli dell'ultimo, in Under 23 il rapporto scende a 1,09. Fra chi arriva, invece, non si vede: 1,5 contro l'1,7 di tutti i classificati, uno scarto che non si distingue dal caso. E il confronto con le ragazze, che maturano prima e a tredici anni hanno uno squilibrio più basso, dice che quel vantaggio è soprattutto sviluppo. Fa entrare in classifica, e con il talento non c'entra: chi seleziona a tredici anni sta in parte selezionando la data di nascita.
 
 *Per approfondire, nel documento tecnico: <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#leffetto-dellet%C3%A0-relativa" target="_blank" rel="noopener">L'effetto dell'età relativa</a> e <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#chi-arriva-fra-quelli-entrati" target="_blank" rel="noopener">Chi arriva, fra quelli entrati</a>.*
 
@@ -137,7 +138,7 @@ In pratica, quando guardi una scheda: **prima il livello, poi la direzione**. Il
 
 Anche il risultato negativo è servito: senza il controllo sulle stagioni corse avrei pubblicato che cambiare squadra aiuta, con un fattore dieci a sostegno, e sarebbe stato falso.
 
-A questo punto sembrerebbe esserci tutto per costruire un criterio di selezione: prendi i più forti, e fra questi i più in crescita. Nella prossima puntata provo a farlo davvero, e a contare quanti ne prenderesti a vuoto.
+A questo punto sembrerebbe esserci tutto per costruire un criterio di selezione: prendi i più forti, e fra questi i più in crescita. Nella [prossima puntata](/blog/ciclismo-giovanile-scegliere-chi-seguire/) provo a farlo davvero, e a contare quanti ne prenderesti a vuoto.
 
 ---
 

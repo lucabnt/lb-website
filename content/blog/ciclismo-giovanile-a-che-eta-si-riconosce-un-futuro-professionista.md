@@ -3,16 +3,17 @@ lang: it
 locale: it_IT
 title: "A che età si riconosce un futuro professionista nel ciclismo?"
 description: "A tredici anni mi aspettavo non si vedesse niente. Invece il piazzamento separa già i futuri professionisti nel 74% dei casi."
-date: 2026-10-23T10:00:00+02:00
+date: 2026-10-21T10:00:00+02:00
 draft: false
 series: ["Ciclismo giovanile e professionismo"]
+aliases: ["/blog/ciclismo-giovanile-da-che-eta-si-vede/"]
 series_weight: 2
 tags: ["ciclismo-giovanile", "sport", "ita"]
 author: "lb"
 showToc: true
 TocOpen: false
 cover:
-    image: /blog/ciclismo-giovanile-da-che-eta-si-vede/esordienti-progetto-ciclismo.webp
+    image: /blog/ciclismo-giovanile-a-che-eta-si-riconosce-un-futuro-professionista/esordienti-progetto-ciclismo.webp
     alt: "Gli Esordienti di Progetto Ciclismo - Rodengo Saiano in allenamento"
 ---
 
@@ -83,7 +84,7 @@ Nascere a gennaio serve, dunque? Serve moltissimo, ma **prima**, per entrare in 
   caption="In Italia si nasce di più fra maggio e settembre, quindi l'atteso si scosta dal 25% per trimestre: la figura tiene conto della stagionalità reale delle nascite."
 >}}
 
-C'è poi un modo indipendente di mettere alla prova quella spiegazione, e viene dal ciclismo femminile. È una delle poche domande della serie a cui posso rispondere per le ragazze esattamente come per i ragazzi. Tutte quelle sulla previsione hanno bisogno di sapere chi è arrivato, e un esito femminile confrontabile con quello maschile non c'è, per ragioni che racconto nella quarta puntata; qui basta la data di nascita. Il ragionamento è questo. Le ragazze maturano prima, e a tredici anni molte hanno già attraversato la pubertà, mentre fra i coetanei maschi la differenza di sviluppo fra chi è nato a gennaio e chi a dicembre è al suo massimo. Se il vantaggio viene dalla maturazione, fra le atlete deve essere più debole.
+C'è poi un modo indipendente di mettere alla prova quella spiegazione, e viene dal ciclismo femminile. È una delle poche domande della serie a cui posso rispondere per le ragazze esattamente come per i ragazzi. Tutte quelle sulla previsione hanno bisogno di sapere chi è arrivato, e un esito femminile confrontabile con quello maschile non c'è, per ragioni che racconto nella [quarta puntata](/blog/ciclismo-giovanile-scegliere-chi-seguire/); qui basta la data di nascita. Il ragionamento è questo. Le ragazze maturano prima, e a tredici anni molte hanno già attraversato la pubertà, mentre fra i coetanei maschi la differenza di sviluppo fra chi è nato a gennaio e chi a dicembre è al suo massimo. Se il vantaggio viene dalla maturazione, fra le atlete deve essere più debole.
 
 **Lo è**: a tredici anni, sulle stesse annate di nascita e con lo stesso atteso demografico, i nati nel primo trimestre sono **1,98 volte** quelli dell'ultimo fra i maschi e **1,51 volte** fra le femmine, e la differenza fra i due sessi regge a un test (p = 0,007)[^rae]. Il numero maschile è diverso dal 2,13 di prima perché qui le annate sono soltanto quelle in cui anche le ragazze sono osservate: 5&nbsp;544 atleti e 874 atlete.
 
@@ -123,7 +124,7 @@ Il peso cresce con l'età, da 1,40 a 2,28, ma non in modo regolare. Le due righe
 
 *Per approfondire, nel documento tecnico: <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#perch%C3%A9-la-colonna--pro-non-va-letta-come-un-segnale" target="_blank" rel="noopener">Perché la colonna «% pro» non va letta come un segnale</a>.*
 
-C'è poi un dettaglio che sembra un risultato e non lo è. Nelle categorie a lista unica la percentuale di futuri professionisti è più alta al primo anno che al secondo: sembrerebbe che il primo anno selezioni meglio. In realtà, come ho raccontato nella prima puntata, al primo anno i posti a punti sono pochi, e i classificati sono in media 181 contro 320. Chi c'è è già più selezionato, e un gruppo più selezionato contiene per forza una quota maggiore di futuri professionisti. Il primo anno predice meglio, allora? Si risponde solo confrontando le stesse persone, e la risposta è no: il secondo anno discrimina meglio in tutte le categorie, 81% contro 70% in Esordienti, 85% contro 81% in Allievi, 87% contro 78% in Juniores.
+C'è poi un dettaglio che sembra un risultato e non lo è. Nelle categorie a lista unica la percentuale di futuri professionisti è più alta al primo anno che al secondo: sembrerebbe che il primo anno selezioni meglio. In realtà, come ho raccontato nella [prima puntata](/blog/ciclismo-giovanile-di-chi-stiamo-parlando/), al primo anno i posti a punti sono pochi, e i classificati sono in media 181 contro 320. Chi c'è è già più selezionato, e un gruppo più selezionato contiene per forza una quota maggiore di futuri professionisti. Il primo anno predice meglio, allora? Si risponde solo confrontando le stesse persone, e la risposta è no: il secondo anno discrimina meglio in tutte le categorie, 81% contro 70% in Esordienti, 85% contro 81% in Allievi, 87% contro 78% in Juniores.
 
 ## Quanto aggiungono i risultati più recenti
 
@@ -161,7 +162,7 @@ Questo studio conta solo chi è in classifica. L'alternativa è trattare l'assen
 
 La risposta dipende dall'età in un modo che non mi aspettavo. A diciotto anni mettere gli assenti in fondo **alza** la capacità di distinguere, dall'89% al **94%**: a quell'età non essere in classifica è già un segnale forte, e in effetti dei 77 futuri professionisti soltanto 3 non c'erano. A tredici anni invece la **abbassa**, dal 74% al **69%**, perché in classifica a quell'età ci sono 59 dei 77 futuri professionisti, e gli altri diciotto finirebbero in fondo pur essendo destinati ad arrivare[^sensibilita].
 
-Non esserci è un'informazione, ma lo diventa tardi. Ed è la misura più precisa di una cosa detta nella prima puntata: un nome che manca dalla classifica non è stato bocciato da nessuno, e quasi un terzo di chi sparisce ricompare.
+Non esserci è un'informazione, ma lo diventa tardi. Ed è la misura più precisa di una cosa detta nella [prima puntata](/blog/ciclismo-giovanile-di-chi-stiamo-parlando/): un nome che manca dalla classifica non è stato bocciato da nessuno, e quasi un terzo di chi sparisce ricompare.
 
 *Per approfondire, nel documento tecnico: <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#le-conclusioni-dipendono-dalle-scelte-di-disegno" target="_blank" rel="noopener">Le conclusioni dipendono dalle scelte di disegno?</a>.*
 
@@ -173,7 +174,7 @@ Non lo leggerei però come «la letteratura si sbagliava». Gli studi precedenti
 
 E la data di nascita non c'entra. Nascere a gennaio aiuta a entrare in classifica e non a diventare professionista: **chi seleziona a tredici anni sta in parte selezionando la data di nascita, e lo sta facendo a vuoto.**
 
-Cosa significa, in pratica? Per prevedere chi diventerà professionista, i risultati più recenti contano molto più di quelli ottenuti tre anni prima. Ma i risultati passati possono servire a rispondere a un’altra domanda: il ragazzo sta migliorando o peggiorando? È il tema della prossima puntata.
+Cosa significa, in pratica? Per prevedere chi diventerà professionista, i risultati più recenti contano molto più di quelli ottenuti tre anni prima. Ma i risultati passati possono servire a rispondere a un’altra domanda: il ragazzo sta migliorando o peggiorando? È il tema della [prossima puntata](/blog/ciclismo-giovanile-conta-di-piu-quanto-vai-forte-o-quanto-migliori/).
 
 ---
 

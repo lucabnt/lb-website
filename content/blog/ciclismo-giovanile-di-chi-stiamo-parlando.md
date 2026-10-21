@@ -43,7 +43,7 @@ Sotto i quindici anni, invece, il sospetto è che ci sia poco da vedere. Uno stu
 
 Poi ci sono i test di laboratorio, e qui suona strano: soglia e watt per chilo descrivono bene il livello di un ragazzo adesso, ma aggiungono poco su dove arriverà. Fa eccezione uno studio spagnolo su 65 Under 23, dove una prova a cronometro di otto minuti separa bene chi diventerà professionista. Quanto bene? Il 54 per cento di quelli che la prova indicava come futuri professionisti ce la fa davvero. Poco più della metà, e si parla di ventenni già selezionatissimi.
 
-Infine il mese di nascita: nelle popolazioni giovanili i nati a inizio anno sono più di quanti la demografia ne giustifichi, tanto più quanto più l'età è bassa, mentre fra chi arriva l'effetto non si trova. Uno studio su quasi tremila corridori delle squadre Continental dice che l'effetto si vede soprattutto fra chi non ce l'ha fatta. Nella seconda puntata rifaccio quel conto sui miei dati, perché è il dubbio più ragionevole che si possa avere su un risultato a tredici anni.
+Infine il mese di nascita: nelle popolazioni giovanili i nati a inizio anno sono più di quanti la demografia ne giustifichi, tanto più quanto più l'età è bassa, mentre fra chi arriva l'effetto non si trova. Uno studio su quasi tremila corridori delle squadre Continental dice che l'effetto si vede soprattutto fra chi non ce l'ha fatta. Nella [seconda puntata](/blog/ciclismo-giovanile-a-che-eta-si-riconosce-un-futuro-professionista/) rifaccio quel conto sui miei dati, perché è il dubbio più ragionevole che si possa avere su un risultato a tredici anni.
 
 C'è poi un dato che torna ovunque: la stragrande maggioranza di chi va forte da giovane non arriva comunque. I numeri vanno letti con il loro denominatore attaccato, perché metterli in fila come se misurassero la stessa cosa porta fuori strada. Due su tre dei juniores del Mondiale non correranno una grande gara élite. Il 15 per cento dei primi dieci della classifica Allievi italiana, cioè i quindici e sedici anni, ha poi fatto punti nel World Tour, il circuito di primo livello. Cinque su quarantotto di un'intera annata olandese sono arrivati a una squadra Continental, il il terzo livello delle squadre UCI, o superiore[^rassegna]. I punti di partenza sono diversi (i convocati, i primi dieci, tutti) e lo sono anche i traguardi. La scala cambia ogni volta, la direzione resta la stessa.
 
@@ -116,7 +116,7 @@ Il numero che userò per tutta la serie porta allora la sua etichetta attaccata:
 
 ## Tre cose da sapere prima di leggere una classifica
 
-La prima: **sparire da una classifica non significa aver smesso**. Il 30,6% degli atleti salta almeno una stagione e poi ricompare; il 6,7% del totale torna dopo un’assenza di almeno due stagioni.[^attrito]. Un rientro dimostra che quell'assenza non era un abbandono. Inoltre, accanto ai 77 professionisti delle coorti ci sono **108 atleti ancora a punti dopo i ventidue anni** che professionisti non sono diventati. Sono più dei professionisti stessi. Chi non diventa professionista non ha per forza smesso. Tornerà utile nella seconda puntata, quando l'assenza da una classifica diventerà un'informazione da maneggiare con cura.
+La prima: **sparire da una classifica non significa aver smesso**. Il 30,6% degli atleti salta almeno una stagione e poi ricompare; il 6,7% del totale torna dopo un’assenza di almeno due stagioni.[^attrito]. Un rientro dimostra che quell'assenza non era un abbandono. Inoltre, accanto ai 77 professionisti delle coorti ci sono **108 atleti ancora a punti dopo i ventidue anni** che professionisti non sono diventati. Sono più dei professionisti stessi. Chi non diventa professionista non ha per forza smesso. Tornerà utile nella [seconda puntata](/blog/ciclismo-giovanile-a-che-eta-si-riconosce-un-futuro-professionista/), quando l'assenza da una classifica diventerà un'informazione da maneggiare con cura.
 
 *Per approfondire, nel documento tecnico: <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#uscire-dalla-classifica-non-%C3%A8-smettere" target="_blank" rel="noopener">Uscire dalla classifica non è smettere</a>, <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#quando-si-smette" target="_blank" rel="noopener">Quando si smette</a> e <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#il-passaggio-di-categoria-%C3%A8-una-rottura" target="_blank" rel="noopener">Il passaggio di categoria è una rottura?</a>.*
 
@@ -179,7 +179,7 @@ Ogni percentuale che leggerai nelle prossime puntate ha come denominatore un set
 
 L'imbuto non è lo stesso gruppo che si assottiglia: in ogni categoria c'è una quota consistente di ragazzi che negli Esordienti non c'erano, ed entrare tardi è normalissimo. Un futuro professionista su sette, a tredici anni, non era in classifica, ed è un settimo diverso da quello dei tesserati qui sopra, che è la quota di chi in classifica ci entra.
 
-Adesso sai di chi parliamo. A che età quel piazzamento comincia a dire qualcosa sul futuro? È il tema della prossima puntata.
+Adesso sai di chi parliamo. A che età quel piazzamento comincia a dire qualcosa sul futuro? È il tema della [prossima puntata](/blog/ciclismo-giovanile-a-che-eta-si-riconosce-un-futuro-professionista/).
 
 ---
 

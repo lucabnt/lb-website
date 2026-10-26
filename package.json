@@ -8,6 +8,6 @@
     "check:navigation": "node scripts/check-site-navigation.cjs"
   },
   "dependencies": {
-    "katex": "^0.18.4"
+    "katex": "^0.19.0"
   }
 }

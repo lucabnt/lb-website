@@ -11,7 +11,6 @@ tags:
 - Tübingen
 - experience
 - food
-- eng
 author: lb
 # author: ["Me", "You"] # multiple authors
 showToc: true

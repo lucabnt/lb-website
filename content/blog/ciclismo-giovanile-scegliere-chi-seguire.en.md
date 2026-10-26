@@ -5,7 +5,7 @@ date: 2026-10-16T10:00:00+02:00
 draft: true
 series: ["Ciclismo giovanile e professionismo"]
 series_weight: 4
-tags: ["ciclismo-giovanile", "sport", "eng"]
+tags: ["ciclismo-giovanile", "sport"]
 author: "lb"
 showToc: true
 TocOpen: false

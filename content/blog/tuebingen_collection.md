@@ -7,7 +7,6 @@ series_weight: 1
 tags:
 - Tübingen
 - photography
-- eng
 author: lb
 cover:
   image: /blog/tuebingen_collection/tuebingen_collection_1.webp

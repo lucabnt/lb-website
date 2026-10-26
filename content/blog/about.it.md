@@ -5,7 +5,7 @@ url: /blog/about/
 author: "lb"
 title: "About me - Mi presento"
 description: "Chi sono: studente di International Business and Entrepreneurship fra Pavia e Tübingen, dopo Economia a Brescia. Appassionato di tecnologia e sport."
-tags: ["about", "ita"]
+tags: ["about"]
 draft: true
 hideMeta: false
 ---

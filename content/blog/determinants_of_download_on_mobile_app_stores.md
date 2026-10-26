@@ -10,7 +10,6 @@ tags:
 - app store
 - mobile app
 - software
-- eng
 series: ["The Download Decision"]
 series_weight: 1
 author: lb

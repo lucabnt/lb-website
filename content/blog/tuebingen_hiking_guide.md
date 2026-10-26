@@ -7,7 +7,6 @@ series_weight: 2
 tags:
 - Tübingen
 - hiking
-- eng
 author: lb
 showToc: true
 cover:

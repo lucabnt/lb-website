@@ -9,7 +9,7 @@ draft: false
 series: ["Ciclismo giovanile e professionismo"]
 aliases: ["/blog/ciclismo-giovanile-da-che-eta-si-vede/"]
 series_weight: 2
-tags: ["ciclismo-giovanile", "sport", "ita"]
+tags: ["ciclismo-giovanile", "sport"]
 author: "lb"
 showToc: true
 TocOpen: false

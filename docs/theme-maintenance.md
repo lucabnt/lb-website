@@ -48,6 +48,9 @@ I contatti HTTP/HTTPS si aprono in una nuova scheda con
 Non sono necessarie librerie o font esterni.
 
 - Home, Blog e Tags sono ingressi neutri: nessun selettore lingua globale.
+- Tags conserva l'indice nativo PaperMod per ciascuna lingua. I tag
+  `ita` e `eng` sono stati rimossi: la lingua è già gestita da Hugo
+  e dal filtro del Blog. Usare i tag soltanto per gli argomenti.
 - Il filtro English / Italiano nel Blog sceglie la versione degli articoli.
   È indipendente dal selettore dell'header.
 - Il selettore dell'header compare solo se la pagina è una pagina di contenuto

@@ -2,7 +2,7 @@
 author: "lb"
 title: "About me"
 description: "About me as a student of International Business and Entrepreneurship in Pavia and Tübingen, after Business Administration in Brescia. Technology and sport enthusiast."
-tags: ["about", "eng"]
+tags: ["about"]
 draft: true
 hideMeta: false
 lang: en

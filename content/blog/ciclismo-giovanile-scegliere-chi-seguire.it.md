@@ -9,7 +9,7 @@ draft: true
 series: ["Ciclismo giovanile e professionismo"]
 aliases: ["/blog/ciclismo-giovanile-predire-non-e-selezionare/"]
 series_weight: 4
-tags: ["ciclismo-giovanile", "sport", "ita"]
+tags: ["ciclismo-giovanile", "sport"]
 author: "lb"
 showToc: true
 TocOpen: false

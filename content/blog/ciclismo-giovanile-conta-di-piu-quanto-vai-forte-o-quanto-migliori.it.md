@@ -9,7 +9,7 @@ draft: true
 series: ["Ciclismo giovanile e professionismo"]
 aliases: ["/blog/ciclismo-giovanile-dove-sei-dove-stai-andando/"]
 series_weight: 3
-tags: ["ciclismo-giovanile", "sport", "ita"]
+tags: ["ciclismo-giovanile", "sport"]
 author: "lb"
 showToc: true
 TocOpen: false

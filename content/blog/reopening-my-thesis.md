@@ -5,7 +5,7 @@ date: 2026-09-21T10:00:00+02:00
 draft: false
 series: ["The Download Decision"]
 series_weight: 2
-tags: ["app store", "mobile app", "software", "eng"]
+tags: ["app store", "mobile app", "software"]
 author: "lb"
 showToc: true
 TocOpen: false

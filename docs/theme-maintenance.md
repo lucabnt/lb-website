@@ -22,6 +22,31 @@ stesso partial nei percorsi vecchi e nuovi.
 
 ## Navigazione e traduzioni
 
+### Icone della homepage e dei contatti
+
+Il pulsante Esplora usa `icon: compass` in `config.yml`: il Profile Mode
+carica `assets/icons/compass.svg`, con colore `currentColor` e un'etichetta
+accessibile sul collegamento. Gli altri pulsanti restano testuali.
+Il social `name: x` usa l'icona già inclusa in PaperMod.
+
+La pagina Contacts usa lo shortcode `contact`, con parametri `icon`, `label`
+e `url`. Le icone provengono dal partial nativo `svg.html`; nomi e URL
+rimangono nel Markdown. Lo stile in `assets/css/extended/contacts.css`
+uniforma icone a 24 px, spaziatura e focus con i colori del tema.
+Lo shortcode contenitore `contacts` dispone i canali in due colonne e in
+una sola sotto 560 px; l'email resta un collegamento separato a tutta larghezza.
+Il parametro opzionale `description` aggiunge una breve descrizione al canale.
+La classe `button-icon` centra la bussola in un box flex con altezza coerente
+con la riga di testo degli altri pulsanti, evitando l'allineamento sulla baseline.
+Gli altri pulsanti conservano l'allineamento nativo di PaperMod.
+In `assets/css/extended/profile.css` il contenitore del profilo e il titolo
+occupano la larghezza disponibile, così titolo, social e pulsanti condividono
+lo stesso centro. La fila dei pulsanti resta larga al massimo 400 px e può
+andare a capo senza allargare il profilo sugli schermi stretti.
+I contatti HTTP/HTTPS si aprono in una nuova scheda con
+`rel="noopener noreferrer"`; il collegamento email rimane `mailto:`.
+Non sono necessarie librerie o font esterni.
+
 - Home, Blog e Tags sono ingressi neutri: nessun selettore lingua globale.
 - Il filtro English / Italiano nel Blog sceglie la versione degli articoli.
   È indipendente dal selettore dell'header.
@@ -54,7 +79,7 @@ non dai prefissi delle traduzioni `/it/blog/` o `/en/blog/`.
 | `_partials/language_switch.html` | Logica locale del selettore di pagina; riusa il markup del tema. |
 | `_partials/head.html` | Head PaperMod; l'icona Safari viene emessa solo se configurata, evitando il riferimento a un file assente. Titolo, ricerca, SEO e asset restano nativi. |
 | `_partials/extend_head.html` | Hook nativo: KaTeX locale, Netlify Identity e GoatCounter in produzione. Analytics è qui, non inserito nella copia di `head.html`. |
-| `_partials/index_profile.html` | Profile Mode nativo; aggiunge soltanto titolo ed etichetta accessibile configurabili ai pulsanti. |
+| `_partials/index_profile.html` | Profile Mode nativo; aggiunge titolo, etichetta accessibile e un'icona SVG locale opzionale ai pulsanti. |
 | `_partials/footer.html` | Footer e script nativi, con la frase personale dei crediti. |
 | `_partials/templates/schema_json.html` | JSON-LD del tema con correzione delle virgole del breadcrumb e lingua della pagina. |
 | `_partials/extend_post_content.html` | Hook nativo che aggiunge il navigatore completo della serie. |

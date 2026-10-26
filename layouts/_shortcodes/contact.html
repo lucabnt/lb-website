@@ -1,0 +1,7 @@
+{{- /* Keep contact URLs and labels in Markdown; reuse PaperMod's bundled icons. */ -}}
+{{- $url := .Get "url" -}}
+{{- $external := in (slice "http" "https") (urls.Parse $url).Scheme -}}
+  <a class="contact-link" href="{{ $url | safeURL }}"{{ if $external }} target="_blank" rel="noopener noreferrer"{{ end }}>
+    <span class="contact-icon" aria-hidden="true">{{ partial "svg.html" (dict "name" (.Get "icon")) }}</span>
+    <span class="contact-text"><span class="contact-label">{{ .Get "label" }}</span>{{ with .Get "description" }}<span class="contact-description">{{ . }}</span>{{ end }}</span>
+  </a>

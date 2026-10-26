@@ -210,4 +210,4 @@ le bozze non appaiono in produzione. Le pagine delle serie sono collegate come
 traduzioni native. La struttura condivisa evita duplicazioni del layout.
 
 Dopo un aggiornamento del tema confrontare anche index_profile.html: l'override
-aggiunge solo etichette accessibili ai pulsanti della homepage.
+aggiunge etichette accessibili e un'icona SVG locale opzionale ai pulsanti della homepage.

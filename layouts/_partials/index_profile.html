@@ -37,9 +37,13 @@
         {{- with .buttons }}
         <div class="buttons">
             {{- range . }}
-            <a class="button" href="{{ trim .url " " }}" rel="noopener" title="{{ .label | default .name }}" aria-label="{{ .label | default .name }}">
+            <a class="button{{ with .icon }} button-icon{{ end }}" href="{{ trim .url " " }}" rel="noopener" title="{{ .label | default .name }}" aria-label="{{ .label | default .name }}">
                 <span class="button-inner">
+                    {{- with .icon }}
+                    {{- with resources.Get (printf "icons/%s.svg" .) }}{{ .Content | safeHTML }}{{ end }}
+                    {{- else }}
                     {{ .name }}
+                    {{- end }}
                     {{- if (findRE "://" .url) }}&nbsp;
                     <svg fill="none" shape-rendering="geometricPrecision" stroke="currentColor" stroke-linecap="round"
                         stroke-linejoin="round" stroke-width="2.5" viewBox="0 0 24 24" height="14" width="14">

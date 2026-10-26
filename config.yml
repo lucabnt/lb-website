@@ -90,6 +90,7 @@ params:
     # imageTitle: my image
     buttons:
       - name: "⌖"
+        icon: compass
         label: "Explore / Esplora"
         url: /explore/
       - name: Blog
@@ -111,7 +112,7 @@ params:
       url: "mailto:luca@lucabontempi.com"
     - name: 'linkedin'
       url: 'https://linkedin.com/in/lucabontempi1/'
-    - name: 'twitter'
+    - name: 'x'
       url: 'https://twitter.com/luca_bontempi1'
 #    - name: 'instagram'
 #      url: 'https://instagram.com/bonte.lu'
@@ -130,7 +131,7 @@ params:
 #    - name: strava
 #      url: 'https://www.strava.com/athletes/4403103'
     - name: Contacts
-      url: contacts
+      url: /contacts/
 
   cover:
       responsiveImages: false

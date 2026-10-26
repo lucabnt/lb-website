@@ -1,0 +1,19 @@
+/* Keep the title, social links and navigation on one shared centre line.
+   Constrain the flex items so narrow viewports wrap instead of overflowing. */
+.profile .profile_inner {
+  width: 100%;
+  min-width: 0;
+}
+.profile .profile_inner > h1 {
+  width: 100%;
+  text-align: center;
+}
+.profile .buttons {
+  width: 100%;
+  max-width: 400px;
+  min-width: 0;
+  justify-content: center;
+}
+.profile .button-icon { display: inline-flex; align-items: center; justify-content: center; }
+.profile .button-icon .button-inner { display: flex; align-items: center; justify-content: center; min-height: 1.6em; }
+.profile .button-icon svg { display: block; width: 24px; height: 24px; flex-shrink: 0; }

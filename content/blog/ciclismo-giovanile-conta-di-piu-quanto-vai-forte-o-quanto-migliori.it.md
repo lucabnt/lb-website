@@ -1,4 +1,5 @@
 ---
+url: /blog/ciclismo-giovanile-conta-di-piu-quanto-vai-forte-o-quanto-migliori/
 lang: it
 locale: it_IT
 title: "Nel ciclismo giovanile conta di più quanto vai forte o quanto migliori?"

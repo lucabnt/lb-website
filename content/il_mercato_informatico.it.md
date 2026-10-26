@@ -1,4 +1,5 @@
 ---
+url: /il_mercato_informatico/
 lang: it
 locale: it_IT
 author: "Luca Bontempi"

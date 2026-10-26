@@ -1,4 +1,5 @@
 ---
+url: /blog/ciclismo-giovanile-a-che-eta-si-riconosce-un-futuro-professionista/
 lang: it
 locale: it_IT
 title: "A che età si riconosce un futuro professionista nel ciclismo?"

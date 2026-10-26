@@ -1,0 +1,32 @@
+- series: /series/ciclismo-giovanile-e-professionismo
+  image: /blog/ciclismo-giovanile-di-chi-stiamo-parlando/junior-world-championship-2018.webp
+  en:
+    title: Cycling and data
+    description: "What do youth results really tell us about a professional career? A series on performance, development and the limits of selection, grounded in Italian cycling rankings."
+    alt: "Podium ceremony at the 2018 junior road World Championships in Innsbruck."
+  it:
+    title: Ciclismo e dati
+    description: "Cosa dicono davvero i risultati giovanili sul futuro di un corridore? Un percorso su rendimento, crescita e limiti della selezione, a partire dalle classifiche del ciclismo italiano."
+    alt: "La premiazione del Mondiale juniores su strada di Innsbruck del 2018."
+- series: /series/the-download-decision
+  image: /blog/determinants_of_download_on_mobile_app_stores/determinants_of_download_on_mobile_app_stores_1.webp
+  imageFit: contain
+  en:
+    title: Technology and decisions
+    description: "What makes someone download an app? From my original thesis to a reanalysis three years later: brand, reputation, statistical mistakes and what changes when you question your own conclusions."
+    alt: "Title page of Determinants of Download on Mobile App Stores – An Empirical Analysis, with the University of Tübingen and University of Pavia logos."
+  it:
+    title: Tecnologia e decisioni
+    description: "Cosa spinge a scaricare un'app? Dalla tesi originale alla revisione tre anni dopo: brand, reputazione, errori statistici e cosa cambia quando metti in discussione le tue conclusioni."
+    alt: "Frontespizio di Determinants of Download on Mobile App Stores – An Empirical Analysis, con i loghi delle università di Tübingen e Pavia."
+- series: /series/one-year-in-tübingen
+  image: /blog/tuebingen_hiking_guide/tuebingen_hiking_guide_1.webp
+  imagePosition: center 55%
+  en:
+    title: Places and photography
+    description: "A year in Tübingen, told through photographs, walks and everyday discoveries. Three ways to explore the city and its surroundings through my experience as an international student."
+    alt: "Hohenzollern Castle on a wooded hill, photographed from a hiking trail near Tübingen."
+  it:
+    title: Luoghi e fotografie
+    description: "Un anno a Tübingen, raccontato attraverso fotografie, camminate e scoperte quotidiane. Tre modi per conoscere la città e i dintorni attraverso la mia esperienza da studente internazionale."
+    alt: "Il castello di Hohenzollern su una collina boscosa, fotografato durante un'escursione nei dintorni di Tübingen."

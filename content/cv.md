@@ -69,7 +69,7 @@ Associate Partner Technical Specialist - Partner · *Jun 2023 – Dec 2025*
 {{< org "University of Brescia" "Brescia, Italy" >}}
 
 * **Score:** 102/110.
-* **Bachelor's Thesis:** "[The Information Technology Industry: Software as a Product and a Service]( {{< ref "il_mercato_informatico.md" >}} )" *(in Italian)*.
+* **Bachelor's Thesis:** "[The Information Technology Industry: Software as a Product and a Service]( {{< ref path="il_mercato_informatico" lang="it" >}} )" *(in Italian)*.
 
 ### Scientific High School Diploma · Sep 2011 – Jun 2016
 

@@ -1,0 +1,16 @@
+{{- $url := urls.Parse .Destination -}}
+{{- $pending := false -}}
+{{- if and .PageInner.Params.aiTranslated (not $url.IsAbs) (findRE "^/(en|it)/blog/[^/]+/$" $url.Path) -}}
+  {{- $found := false -}}
+  {{- range hugo.Sites -}}
+    {{- range .RegularPages -}}
+      {{- if eq .RelPermalink $url.Path }}{{ $found = true }}{{ end -}}
+    {{- end -}}
+  {{- end -}}
+  {{- $pending = not $found -}}
+{{- end -}}
+{{- if $pending -}}
+  <span>{{ .Text | safeHTML }} <small>({{ if eq .PageInner.Lang "it" }}prossimamente{{ else }}forthcoming{{ end }})</small></span>
+{{- else -}}
+  <a href="{{ .Destination | safeURL }}"{{ with .Title }} title="{{ . }}"{{ end }}>{{ .Text | safeHTML }}</a>
+{{- end -}}

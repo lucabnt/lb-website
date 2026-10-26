@@ -10,13 +10,17 @@ collections:
     label: "Articoli Blog"
     folder: "content/blog" # La cartella dove Hugo salva i tuoi post
     create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}.{{lang}}"
     fields:
       - {label: "Titolo", name: "title", widget: "string"}
       - {label: "Data", name: "date", widget: "datetime"}
       - {label: "Bozza", name: "draft", widget: "boolean", default: true}
       - {label: "Descrizione (SEO / anteprima social)", name: "description", widget: "string", required: false, hint: "Se vuota, Hugo usa automaticamente le prime righe dell'articolo."}
       - {label: "Autore", name: "author", widget: "string", default: "lb"}
+      - {label: "Lingua", name: "lang", widget: "select", options: ["en", "it"], default: "en", hint: "Lingua del testo: il blog mostra entrambe per impostazione predefinita."}
+      - {label: "Locale", name: "locale", widget: "select", options: ["en-GB", "it_IT"], default: "en-GB", hint: "Scegli it_IT per gli articoli italiani."}
+      - {label: "Chiave traduzione", name: "translationKey", widget: "string", required: false, hint: "Usa la stessa chiave nelle due versioni di un articolo (es. app-store-review). Lascia vuoto per gli articoli monolingua."}
+      - {label: "Traduzione AI", name: "aiTranslated", widget: "boolean", default: false, required: false, hint: "Mostra la nota sulla traduzione. Queste versioni sono visibili nel blog selezionando la lingua; inizialmente compaiono solo gli originali."}
       - {label: "Tag", name: "tags", widget: "list", required: false}
       - label: "Immagine di copertina"
         name: "cover"
@@ -32,6 +36,15 @@ collections:
   - name: "pages"
     label: "Pagine del sito"
     files:
+      - label: "About (Italiano)"
+        name: "about_it"
+        file: "content/about.it.md"
+        fields:
+          - {label: "Titolo", name: "title", widget: "string"}
+          - {label: "Lingua", name: "lang", widget: "hidden", default: "it"}
+          - {label: "Nascondi meta", name: "hideMeta", widget: "hidden", default: true}
+          - {label: "Nascondi condivisione", name: "disableShare", widget: "hidden", default: true}
+          - {label: "Corpo", name: "body", widget: "markdown"}
       - label: "About"
         name: "about"
         file: "content/about.md"
@@ -65,7 +78,7 @@ collections:
 
       - label: "Il mercato informatico (tesi triennale)"
         name: "il_mercato_informatico"
-        file: "content/il_mercato_informatico.md"
+        file: "content/il_mercato_informatico.it.md"
         fields:
           - {label: "Titolo", name: "title", widget: "string"}
           - {label: "Autore", name: "author", widget: "string"}

@@ -1,0 +1,10 @@
+.blog-tools { display: flex; gap: 1.25rem; margin-bottom: 1.5rem; }
+.blog-tools a { box-shadow: 0 1px var(--primary); }
+.language-filter { display: flex; gap: .6rem; margin-bottom: 1.5rem; }
+.language-filter button { border: 1px solid var(--border); border-radius: 999px; padding: .5rem 1.15rem; background: var(--entry); color: var(--secondary); font: inherit; font-size: .9rem; cursor: pointer; transition: background .15s, color .15s; }
+.language-filter button:hover { border-color: var(--secondary); color: var(--primary); }
+.language-filter button[aria-pressed="true"] { background: var(--primary); color: var(--theme); border-color: var(--primary); }
+.language-filter button:focus-visible { outline: 2px solid var(--primary); outline-offset: 3px; }
+.language-empty { margin: 1.5rem 0; }
+[data-content-language][hidden], .language-filter[hidden], .language-empty[hidden] { display: none; }
+.series-rss { display: inline-block; margin-top: .75rem; font-size: .9rem; }

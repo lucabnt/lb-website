@@ -10,7 +10,7 @@ name: Build check
 # segnalato da Netlify come errore.
 #
 # La causa è stata trovata a settembre 2026 ed è corretta in
-# layouts/partials/templates/schema_json.html: il template del tema
+# layouts/_partials/templates/schema_json.html: il template del tema
 # emetteva una virgola pendente nel JSON-LD quando site.GetPage non
 # risolveva la sezione padre, e il minificatore rifiutava la pagina.
 # Il controllo qui sotto resta comunque, come rete di sicurezza: una
@@ -67,6 +67,9 @@ jobs:
           HUGO_ENV: production
           HUGO_ENABLEGITINFO: "true"
         run: hugo --gc --minify -b "https://lucabontempi.com"
+
+      - name: Verifica selettori lingua e collegamenti di ritorno
+        run: node scripts/check-site-navigation.cjs public
 
       - name: Verifica che ogni pagina pubblicata sia stata generata
         env:

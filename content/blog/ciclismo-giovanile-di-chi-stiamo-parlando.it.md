@@ -1,4 +1,5 @@
 ---
+url: /blog/ciclismo-giovanile-di-chi-stiamo-parlando/
 lang: it
 locale: it_IT
 title: "Ciclismo giovanile e professionismo: il panorama attuale"

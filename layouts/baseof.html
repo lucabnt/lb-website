@@ -1,23 +1,6 @@
-{{- /* Override di PaperMod: unica differenza rispetto al file del tema e'
-     l'attributo lang dell'elemento <html>, che nel tema e' fisso sulla lingua
-     del sito. Qui una pagina puo' dichiarare la propria con "lang" nel front
-     matter: il sito e' in inglese, ma alcune pagine sono in italiano, e un
-     lang sbagliato fa leggere il testo italiano agli screen reader con la
-     fonetica inglese.
-
-     Il corrispettivo per i social, og:locale, non richiede override: il
-     partial del tema legge gia' ".Params.locale" prima della lingua del sito.
-
-     Rispetto al file del tema cambiano due cose soltanto: l'attributo lang
-     appena descritto, e ".Language.Direction" al posto di
-     ".Language.LanguageDirection", deprecato da Hugo 0.158. Resta un terzo
-     avviso di deprecazione, su .Language.LanguageCode, che pero' arriva da
-     rss.xml e da templates/opengraph.html del tema: sono file non
-     sovrascritti qui, e non vale la pena copiarli solo per zittire un
-     avviso — spariranno con un aggiornamento di PaperMod.
-
-     Attenzione agli aggiornamenti del tema: questo file va riallineato a
-     mano se baseof.html cambia (vedi README). */ -}}
+{{- /* PaperMod base layout. Local differences: explicit page lang override
+     and the current .Language.Direction property. All other structure and
+     caching follow the theme. See docs/theme-maintenance.md. */ -}}
 {{- if lt hugo.Version "0.146.0" }}
 {{- errorf "=> hugo v0.146.0 or greater is required for hugo-PaperMod to build " }}
 {{- end -}}

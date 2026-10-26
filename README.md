@@ -5,6 +5,9 @@ Questo repository contiene il codice sorgente del mio sito web personale e blog,
 
 Il sito è un generatore di siti statici basato su [Hugo](https://gohugo.io/) con deploy continuo e gestione dei contenuti tramite interfaccia grafica.
 
+La struttura dei template, gli override rispetto a PaperMod e le verifiche del
+cambio lingua sono descritti in [docs/theme-maintenance.md](docs/theme-maintenance.md).
+
 ## 🛠️ Stack Tecnologico
 
 * **Generatore di siti statici:** [Hugo](https://gohugo.io/) (versione pinnata in `netlify.toml`, `HUGO_VERSION`)
@@ -89,40 +92,28 @@ episodes_total: 9
 > url: /series/tuebingen/
 > ```
 
-Dentro i post non va scritto nulla: `layouts/partials/series_nav.html` aggiunge da sé la riga «Part N of M» sopra il testo e l'elenco delle puntate in fondo, con quella corrente evidenziata. Aggiungere o riordinare una puntata aggiorna tutte le altre.
+Dentro i post non va scritto nulla: `layouts/_partials/series_nav.html` aggiunge da sé la riga «Part N of M» sopra il testo e l'elenco delle puntate in fondo, con quella corrente evidenziata. Aggiungere o riordinare una puntata aggiorna tutte le altre.
 
 ## 🌍 Lingua delle pagine
 
-Il sito è **in inglese** (`defaultContentLanguage: en`, `locale: en-GB` in `config.yml`): da lì vengono l'attributo `lang` dell'HTML, `og:locale`, la lingua dichiarata nel feed RSS e le stringhe della cornice del tema (`i18n/en.yaml`).
+Hugo usa ora il multilingua nativo `en` e `it`. I nomi dei file determinano
+la lingua: `articolo.md` o `articolo.en.md` per inglese, `articolo.it.md`
+per italiano. `lang` e `locale` descrivono anche HTML e anteprime social.
+Le pagine italiane esistenti mantengono il loro URL con `url: /blog/.../`.
 
-Il contenuto però è misto. Una pagina scritta in un'altra lingua **deve dichiararlo**, altrimenti gli screen reader leggono il testo italiano con la fonetica inglese:
+Per aggiungere una traduzione con un nome diverso, dare alle due versioni
+lo stesso `translationKey`, ad esempio `translationKey: app-store-review`.
+Hugo collega le pagine e PaperMod mostra il selettore verso la versione reale,
+sia nell'header sia nei metadati. I contenuti monolingua non hanno selettore.
+La homepage non mostra il selettore e Home rimanda sempre alla radice. Un pulsante a bussola apre Explore / Esplora.
+About e ora separato in due versioni, riusando i testi esistenti.
 
-```yaml
-lang: it
-locale: it_IT
-```
-
-`lang` finisce nell'elemento `<html>`, `locale` in `og:locale` per le anteprime social. Vanno messi entrambi: sono due meccanismi diversi.
-
-> Questo non cambia la lingua della cornice: «Table of Contents», i pulsanti di condivisione e le etichette delle serie restano in inglese anche su una pagina italiana, perché seguono la lingua del *sito*. `i18n/it.yaml` esiste ma non è attivo, e lo dice nella propria intestazione.
-
-### Pagine con entrambe le lingue
-
-`/about/` ha la versione inglese e, sotto, quella italiana. In questi casi la pagina resta inglese — è la lingua prevalente e quella del titolo — e si marca **solo la parte italiana**, avvolgendola in un `div`:
-
-```markdown
-## About me again, but in Italian
-
-<div lang="it">
-
-Ciao, sono Luca!
-
-</div>
-```
-
-Le righe vuote dopo il tag di apertura e prima di quello di chiusura sono obbligatorie: senza, Hugo tratta tutto il blocco come HTML grezzo e non converte più il markdown al suo interno. Il titolo della sezione resta fuori dal `div` perché è scritto in inglese: è il cartello per il lettore inglese, e va letto come tale.
-
-Se un giorno la versione italiana crescesse al punto da meritare una pagina propria, la strada migliore diventa dividerla in due pagine collegate — una lingua per pagina è meglio anche per i motori di ricerca, che su una pagina bilingue devono sceglierne una.
+Le traduzioni AI vengono scritte e revisionate come normali pagine Markdown:
+nessuna traduzione automatica lato lettore. Non creare versioni vuote o copie
+nella lingua sbagliata. I nuovi file italiani hanno normalmente URL `/it/.../`;
+`url` con slash iniziale permette di mantenere un indirizzo preesistente.
+Per i riferimenti ad altre lingue usare, ad esempio,
+`{{< ref path="cv" lang="en" >}}`.
 
 ## 🔒 Manutenzione periodica
 
@@ -156,7 +147,10 @@ cd themes/hugo-PaperMod && git fetch && git checkout <tag-o-commit> && cd ../..
 git add themes/hugo-PaperMod && git commit -m "Aggiorna PaperMod"
 ```
 
-Il repository sovrascrive alcuni file del tema: `layouts/baseof.html`, `layouts/single.html` e i partial `head.html`, `footer.html`, `templates/schema_json.html`. Dopo un aggiornamento vanno confrontati con quelli nuovi del tema. `baseof.html` e `templates/schema_json.html` sono copie integrali con una sola modifica ciascuna — l'attributo `lang` nel primo, il blocco `BreadcrumbList` nel secondo — e vanno riallineate a mano se il tema le modifica. In entrambe la modifica è delimitata da un commento, così si vede subito cosa tenere.
+L’inventario degli override, le differenze rispetto al tema e i controlli
+da eseguire dopo un aggiornamento sono nella
+[guida di manutenzione](docs/theme-maintenance.md). I file del submodule
+non vengono modificati.
 
 > Il perché di `schema_json.html`: il template del tema costruiva il JSON-LD del breadcrumb mettendo la virgola prima dell'ultimo elemento in base alla profondità del percorso, non al numero di elementi effettivamente scritti. Quando `site.GetPage` non risolveva la sezione padre usciva `"itemListElement": [, {...}]`, JSON non valido: il minificatore rifiutava la pagina e la build falliva. Colpiva solo i post del blog, perché sono le uniche pagine dentro una sezione.
 
@@ -167,3 +161,53 @@ Gestite da Dependabot (`.github/dependabot.yml`), che apre una pull request mens
 ### Da verificare su Netlify (non configurabile da questo repository)
 
 Che in **Netlify Identity** la registrazione sia impostata su *Invite only* e non *Open*: con *Open* chiunque potrebbe registrarsi e, a seconda della configurazione di git-gateway, ottenere accesso al CMS.
+
+## Ricerca, RSS e filtro delle lingue
+
+La homepage resta in Profile Mode e non mostra RSS o selezione della lingua.
+Il blog e le serie espongono il proprio RSS, collegato anche dal riquadro
+in fondo alle puntate. Il pulsante apre XML; l'iscrizione si effettua nel
+proprio lettore RSS. Il feed del blog unisce gli originali nelle due lingue, senza duplicarli con le traduzioni;
+i feed delle serie seguono la lingua della serie. Le bozze sono escluse.
+`layouts/rss.xml` personalizza il feed per evitare che il multilingua escluda
+le pubblicazioni italiane dal feed comune.
+
+La ricerca nativa PaperMod in `/search/` legge `layouts/index.json`, che
+include i contenuti pubblicati di tutti i siti lingua, senza le bozze.
+
+`layouts/blog/list.html` deriva da PaperMod e aggrega entrambe le lingue.
+Mostra tutti i post senza paginazione per filtrare l'intero archivio.
+I pulsanti English e Italiano partono entrambi inattivi: si vedono solo le
+versioni originali, una scheda per articolo. Un clic mostra le versioni nella
+lingua scelta; un secondo clic sul pulsante attivo ripristina gli originali.
+Anche senza JavaScript le traduzioni sono nascoste e restano gli originali.
+
+Decap crea nuovi post con suffisso `.en.md` o `.it.md` secondo il campo lingua.
+La chiave traduzione collega articoli che hanno titoli o nomi di file diversi.
+Gli override `layouts/blog/list.html` e `layouts/_partials/header.html` vanno
+confrontati con il tema dopo un aggiornamento di PaperMod. L'header cambia
+solo Home (sempre radice) e il selettore (solo traduzioni della pagina).
+
+
+## Traduzioni AI ed Esplora
+
+Ogni post ha una versione nell'altra lingua, comprese le bozze, che restano
+bozze. Le traduzioni hanno aiTranslated: true e originalLanguage nel front
+matter. La nota in layouts/_partials/translation_notice.html appare solo sulle
+versioni tradotte e rimanda all'originale. Il campo e disponibile in Decap.
+
+La versione italiana di determinants_of_download_on_mobile_app_stores traduce
+soltanto la Premessa: titolo e testo da Abstract in poi sono conservati, con
+marcatura della lingua per gli screen reader. Gli altri post sono tradotti
+integralmente, incluse note e didascalie. I testi dentro le immagini restano
+quelli dei grafici originali. Le traduzioni usano gli stessi asset, con percorsi
+assoluti per evitare immagini rotte negli URL tradotti.
+
+Explore (/explore/) ed Esplora (/it/explore/) usano layouts/explore.html e
+data/explore.yaml. Mostrano solo tre percorsi, senza selezione iniziale. Gli
+elenchi provengono dalle serie della lingua corrente, ordinati con series_weight;
+le bozze non appaiono in produzione. Le pagine delle serie sono collegate come
+traduzioni native. La struttura condivisa evita duplicazioni del layout.
+
+Dopo un aggiornamento del tema confrontare anche index_profile.html: l'override
+aggiunge solo etichette accessibili ai pulsanti della homepage.

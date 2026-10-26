@@ -19,3 +19,7 @@
   sincrona dello script, necessaria per il login del CMS).
 */}}
 <script defer src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+{{- /* Analytics uses the native head extension hook. */}}
+{{- if hugo.IsProduction | or (eq site.Params.env "production") }}
+{{- partial "goatcounter.html" . }}
+{{- end }}

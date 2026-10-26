@@ -1,0 +1,17 @@
+{{- /* Keep PaperMod's markup/styles, but link page translations only.
+     Lists and the neutral homepage must never offer a site-language switch. */ -}}
+{{- if and .IsPage .IsTranslated (not (.Param "disableLangToggle")) -}}
+  {{- if or site.Params.label.text site.Title (not site.Params.disableThemeToggle) }}
+  <span class="nav-sep">|</span>
+  {{- end }}
+  <ul class="lang-menu">
+    {{- range .Translations }}
+    <li>
+      <a href="{{ .RelPermalink }}" lang="{{ .Lang }}" hreflang="{{ .Lang }}"
+         title="{{ .Language.Label }}" aria-label="{{ .Language.Label }}">
+        {{- if site.Params.displayFullLangName }}{{ .Language.Label }}{{ else }}{{ .Lang | title }}{{ end -}}
+      </a>
+    </li>
+    {{- end }}
+  </ul>
+{{- end -}}

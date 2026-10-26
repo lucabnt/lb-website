@@ -7,7 +7,7 @@
 // script contrib che qui non servono e un README (quest'ultimo faceva pure
 // inciampare il controllo dei link della CI, per via di riferimenti relativi a
 // file non copiati). Si copia quindi solo ciò che le pagine richiedono davvero,
-// elencato in ASSETS: i tre file referenziati da layouts/partials/extend_head.html
+// elencato in ASSETS: i tre file referenziati da layouts/_partials/extend_head.html
 // più la cartella dei font, a cui katex.min.css punta con URL relativi.
 //
 // Se in futuro servisse un'estensione KaTeX (per esempio contrib/mhchem.min.js

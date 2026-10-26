@@ -1,4 +1,5 @@
 ---
+url: /series/ciclismo-giovanile-e-professionismo/
 title: "Ciclismo giovanile e professionismo"
 # Totale dichiarato: la serie esce a puntate, e senza questo il primo post
 # annuncerebbe "puntata 1 di 1".

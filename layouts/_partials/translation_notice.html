@@ -1,0 +1,14 @@
+{{- if .Params.aiTranslated }}
+<aside class="translation-notice" aria-label="{{ if eq .Lang "it" }}Nota sulla traduzione{{ else }}Translation note{{ end }}">
+  {{- if eq .Lang "it" }}
+  Tradotto con AI, potrebbe contenere imprecisioni.
+  {{- else }}
+  Translated with AI; may contain inaccuracies.
+  {{- end }}
+  {{- range .Translations }}
+    {{- if not .Params.aiTranslated }}
+    <a href="{{ .RelPermalink }}" hreflang="{{ .Lang }}">{{ if eq $.Lang "it" }}Leggi l'originale{{ else }}Read the original{{ end }}</a>
+    {{- end }}
+  {{- end }}
+</aside>
+{{- end }}

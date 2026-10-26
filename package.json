@@ -4,7 +4,8 @@
   "version": "1.0.0",
   "description": "Asset vendorizzati per il sito Hugo (es. KaTeX), non è un progetto npm applicativo.",
   "scripts": {
-    "postinstall": "node scripts/copy-katex-assets.js"
+    "postinstall": "node scripts/copy-katex-assets.js",
+    "check:navigation": "node scripts/check-site-navigation.cjs"
   },
   "dependencies": {
     "katex": "^0.18.4"

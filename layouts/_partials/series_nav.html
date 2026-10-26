@@ -55,6 +55,9 @@
     </li>
     {{- end }}
   </ol>
+  {{- with $term.OutputFormats.Get "rss" }}
+  <a class="series-rss" href="{{ .RelPermalink }}">RSS · {{ $term.LinkTitle }}</a>
+  {{- end }}
 </nav>
 {{- end -}}
 {{- end -}}

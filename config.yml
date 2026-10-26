@@ -11,6 +11,16 @@ baseURL: "/"
 defaultContentLanguage: en
 locale: en-GB
 
+languages:
+  en:
+    label: English
+    locale: en-GB
+    weight: 1
+  it:
+    label: Italiano
+    locale: it-IT
+    weight: 2
+
 title: Luca Bontempi
 
 # Paginazione: il sito usa il valore predefinito di Hugo, 10 elementi per
@@ -30,6 +40,10 @@ title: Luca Bontempi
 # dal paginatore.
 
 theme: hugo-PaperMod
+
+# PaperMod search reads the JSON index; keep the standard HTML and RSS.
+outputs:
+  home: [HTML, RSS, JSON]
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -54,6 +68,7 @@ params:
 
   ShowReadingTime: true
   ShowShareButtons: true
+  ShowRssButtonInSectionTermList: true
   comments: false
   defaultTheme: auto
   disableThemeToggle : false
@@ -74,6 +89,9 @@ params:
     # imageUrl: '<img location>'
     # imageTitle: my image
     buttons:
+      - name: "⌖"
+        label: "Explore / Esplora"
+        url: /explore/
       - name: Blog
         url: blog
       - name: Tags

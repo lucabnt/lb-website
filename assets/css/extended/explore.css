@@ -1,0 +1,17 @@
+.translation-notice { margin: 1.25rem 0; padding: .8rem 1rem; border-left: 3px solid var(--secondary); border-radius: 0 var(--radius) var(--radius) 0; background: var(--entry); color: var(--secondary); font-size: .85rem; }
+.translation-notice a { display: inline-block; margin-left: .35rem; color: var(--primary); text-decoration: underline; text-underline-offset: 3px; }
+.explore-intro { max-width: 42rem; margin-bottom: 2rem; color: var(--secondary); }
+.explore-path { margin-bottom: 1.5rem; border: 1px solid var(--border); border-radius: var(--radius); background: var(--entry); overflow: hidden; }
+.explore-path-image { width: 100%; height: 210px; object-fit: cover; object-position: center 25%; }
+.explore-path-image--contain { object-fit: contain; background: #fff; }
+.explore-path-body { padding: 1.5rem; }
+.explore-path-number { font-size: .75rem; color: var(--secondary); letter-spacing: .12em; }
+.explore-path h2 { font-size: 1.65rem; margin: .45rem 0 .65rem; }
+.explore-path-description { color: var(--secondary); margin-bottom: 1.1rem; line-height: 1.65; }
+.explore-path-list { list-style: none; padding: 0; }
+.explore-path-list li { border-top: 1px solid var(--border); padding: .8rem 0; line-height: 1.5; }
+.explore-path-list a { text-decoration: underline; text-decoration-color: var(--border); text-underline-offset: 4px; }
+.explore-path-list a:hover { text-decoration-color: var(--primary); }
+.explore-series-link { display: inline-block; margin-top: 1rem; font-weight: 600; }
+.explore-footer { margin: 2rem 0; display: flex; gap: 1.5rem; color: var(--secondary); }
+@media (max-width: 600px) { .explore-path-image { height: 165px; } .explore-path-body { padding: 1.15rem; } .explore-path h2 { font-size: 1.4rem; } }

@@ -1,0 +1,30 @@
+{{ define "main" }}
+<header class="page-header"><h1>{{ .Title }}</h1></header>
+<p class="explore-intro">{{ .Description }}</p>
+{{ $page := . }}
+{{ range $index, $path := hugo.Data.explore }}
+  {{ $text := index $path $page.Lang }}
+  {{ with $page.Site.GetPage $path.series }}
+  <section class="explore-path" aria-labelledby="path-{{ $index }}">
+    <img class="explore-path-image{{ if eq $path.imageFit "contain" }} explore-path-image--contain{{ end }}" src="{{ $path.image | relURL }}" alt="{{ $text.alt }}" loading="lazy" width="720" height="210"{{ with $path.imagePosition }} style="object-position: {{ . | safeCSS }}"{{ end }}>
+    <div class="explore-path-body">
+      <span class="explore-path-number">{{ printf "%02d" (add $index 1) }}</span>
+      <h2 id="path-{{ $index }}">{{ $text.title }}</h2>
+      <p class="explore-path-description">{{ $text.description }}</p>
+      <ol class="explore-path-list">
+      {{ range .Pages.ByParam "series_weight" }}
+        <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+      {{ end }}
+      </ol>
+      <a class="explore-series-link" href="{{ .RelPermalink }}">{{ if eq $page.Lang "it" }}Il percorso completo{{ else }}The full series{{ end }} →</a>
+    </div>
+  </section>
+  {{ else }}
+    {{ errorf "Explore: missing series %s for %s" $path.series $page.Lang }}
+  {{ end }}
+{{ end }}
+<nav class="explore-footer" aria-label="Blog">
+  <a href="{{ "blog/" | relURL }}">{{ if eq .Lang "it" }}Tutti gli articoli{{ else }}All articles{{ end }} →</a>
+  <a href="{{ "search/" | relURL }}">{{ if eq .Lang "it" }}Cerca{{ else }}Search{{ end }}</a>
+</nav>
+{{ end }}

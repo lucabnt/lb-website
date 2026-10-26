@@ -1,4 +1,5 @@
 ---
+url: /blog/ciclismo-giovanile-scegliere-chi-seguire/
 lang: it
 locale: it_IT
 title: "Scegliere chi seguire nel ciclismo giovanile"

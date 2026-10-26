@@ -223,3 +223,9 @@
   to = "https://lucabontempi.com"
   status = 301
   force = true
+
+# Vecchio alias italiano: Hugo prefissa gli alias con /it/ in multilingua.
+[[redirects]]
+  from = "/blog/ciclismo-giovanile-da-che-eta-si-vede/"
+  to = "/blog/ciclismo-giovanile-a-che-eta-si-riconosce-un-futuro-professionista/"
+  status = 301

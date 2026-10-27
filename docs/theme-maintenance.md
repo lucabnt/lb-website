@@ -2,9 +2,17 @@
 
 Il tema rimane un submodule, senza modifiche ai suoi file. La revisione di
 riferimento di questa revisione del sito è
-`154d006e0182dfc7da38008323976b02e6bfab4a`; Hugo è fissato in `netlify.toml`.
+`118119693d8b5ac211b939775678310973bcb232`; Hugo è fissato in `netlify.toml`.
 Configurazione, contenuti e CSS aggiuntivo hanno precedenza sulle copie di
 template: creare un override solo quando non esiste un'opzione o un hook.
+
+Aggiornamento del 27 ottobre 2026: riportati negli override gli aggiornamenti
+upstream a header, immagini WebP, requisito minimo Hugo 0.158 e script del
+footer (scroll e focus da tastiera). Conservati i link lingua alle pagine,
+il credito personale e la bussola della homepage. La correzione locale dei
+breadcrumb JSON-LD e il codice lingua ISO restano intenzionali.
+Verificati build di produzione senza avvisi, navigazione, riferimenti locali,
+JSON-LD e XML. La verifica visiva nel browser resta da eseguire.
 
 ## Struttura dei template
 

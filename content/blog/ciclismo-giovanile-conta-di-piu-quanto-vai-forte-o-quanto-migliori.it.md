@@ -4,7 +4,7 @@ lang: it
 locale: it_IT
 title: "Nel ciclismo giovanile conta di più quanto vai forte o quanto migliori?"
 description: "Quanto aggiunge la crescita al livello? Seguiamo i percorsi nelle classifiche giovanili per capire cosa raccontano sul futuro professionistico."
-date: 2026-10-16T10:00:00+02:00
+date: 2026-11-07T10:00:00+02:00
 draft: true
 series: ["Ciclismo giovanile e professionismo"]
 aliases: ["/blog/ciclismo-giovanile-dove-sei-dove-stai-andando/"]
@@ -69,7 +69,7 @@ A ogni ragazzo si può adattare una retta che descrive il suo percentile in funz
 
 Tre punti di percentile all’anno sembrano pochi. Accumulati in tre anni, sono circa nove punti: il passaggio dal settantesimo al settantanovesimo percentile. Parliamo quindi anche di progressi graduali, che diventano visibili seguendo più stagioni.
 
-Contano tutti e due, e il miglioramento non è il parente povero. Un modello che conosce solo il livello mette davanti il futuro professionista in circa 85 **coppie** su 100; aggiungendo la pendenza si sale a 92. Sapere dove sta andando un ragazzo dice dunque qualcosa che il suo livello attuale non dice. Guarda però l'ampiezza del secondo intervallo, da 2,54 a 4,51: il coefficiente su cui si regge il titolo del post è anche il meno preciso dei due, e va letto come «grande» più che come «3,35».
+Contano tutti e due, e il miglioramento non è il parente povero. Un modello che conosce solo il livello mette davanti il futuro professionista in circa 85 **coppie** su 100; aggiungendo la pendenza si sale a 92. La direzione del percorso aggiunge quindi informazione rispetto al solo livello stimato. Consideriamo però l'ampiezza del secondo intervallo, da 2,54 a 4,51: il coefficiente su cui si regge il titolo del post è anche il meno preciso dei due, e va letto come «grande» più che come «3,35».
 
 Con due sole stagioni, una giornata storta o un calendario diverso possono far sembrare un ragazzo in forte crescita o in forte calo. Per questo usiamo un modello più prudente quando le osservazioni sono poche: avvicina quelle traiettorie all’andamento medio e lascia più spazio alle differenze sostenute da molte stagioni.
 
@@ -111,9 +111,9 @@ Questi dati ci aiutano a descrivere il contesto; non permettono di stabilire qua
 
 ## Quando una variabile racconta l'esito due volte
 
-Il meccanismo è sempre lo stesso, e lo ritrovi dappertutto. Una variabile misura quanto lontano sei arrivato; la osservi accanto all'esito; vedi una correlazione forte; e la leggi come se spiegasse quanto lontano arriverai.
+Ritroviamo lo stesso meccanismo in diversi confronti. Una variabile misura quanto lontano è arrivato un atleta; la osserviamo accanto all’esito, vediamo una correlazione forte e la leggiamo come se spiegasse quanto lontano arriverà.
 
-Vale per i cambi di società, per il numero di stagioni corse, per il numero di gare, e per qualunque cosa che, per accumularsi, richieda di essere ancora in gioco. Per difenderti, prima di credere a un gradiente chiediti **cosa servisse per finire nella casella più alta**. Se serviva arrivare lontano, quel gradiente sta raccontando l'esito due volte.
+Vale per i cambi di società, per il numero di stagioni corse, per il numero di gare, e per qualunque cosa che, per accumularsi, richieda di essere ancora in gioco. Per interpretare un gradiente, chiediamoci prima **cosa servisse per finire nella casella più alta**. Se serviva arrivare lontano, quel gradiente sta raccontando l'esito due volte.
 
 ## Cosa resta
 
@@ -129,7 +129,7 @@ Resta una domanda pratica: quanto possiamo fidarci di una lista di ragazzi da se
 
 > **Come lo sappiamo**
 >
-> Le traiettorie vengono da un modello a effetti misti stimato su 7&nbsp;595 osservazioni di 2&nbsp;743 atleti, che assegna a ciascuno un livello e una pendenza individuali applicando lo *shrinkage*, cioè tirando verso la media le stime basate su poche stagioni. La finestra si ferma a diciotto anni, perché oltre comincia l'Under 23, dove alcuni atleti sono già professionisti: includere quelle stagioni significherebbe prevedere l'esito con osservazioni raccolte dopo che l'esito si è verificato.
+> Le traiettorie vengono da un modello a effetti misti stimato su 7&nbsp;595 osservazioni di 2&nbsp;743 atleti, che assegna a ciascuno un livello e una pendenza individuali applicando lo *shrinkage*, cioè tirando verso la media le stime basate su poche stagioni. Il confronto sul professionismo riguarda i 1&nbsp;903 atleti con almeno due stagioni in classifica. La finestra si ferma a diciotto anni, perché oltre comincia l'Under 23, dove alcuni atleti sono già professionisti: includere quelle stagioni significherebbe prevedere l'esito con osservazioni raccolte dopo che l'esito si è verificato.
 >
 > Livello e pendenza entrano sempre insieme nel modello, essendo correlati per costruzione: il percentile ha un tetto a 100, quindi chi parte alto ha meno spazio per salire.
 >

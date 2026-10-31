@@ -1,6 +1,6 @@
 ---
 title: "Youth cycling and professional careers: the current landscape"
-description: "Who appears in Italy's youth cycling rankings, what research says about reaching the professional ranks, and why every percentage needs its denominator."
+description: "One in seven future professionals was absent from the rankings at both thirteen and fourteen. What twenty years of research tell us, and whom these numbers actually describe."
 date: 2026-10-02T10:00:00+02:00
 draft: false
 series: ["Ciclismo giovanile e professionismo"]
@@ -12,7 +12,7 @@ TocOpen: false
 cover:
     image: blog/ciclismo-giovanile-di-chi-stiamo-parlando/junior-world-championship-2018.webp
     alt: "Podium ceremony for the junior men's road race at the 2018 UCI World Championships in Innsbruck."
-    caption: '"<a href="https://commons.wikimedia.org/w/index.php?curid=73134755" target="_blank" rel="noopener">20180927 UCI Road World Championships Innsbruck Men Juniors Road Race Award Ceremony 850 0668</a>" di <a href="https://commons.wikimedia.org/wiki/User:Granada" target="_blank" rel="noopener">Granada</a>, ridimensionata e convertita in WebP, licenza <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">CC BY-SA 4.0</a>.'
+    caption: '"<a href="https://commons.wikimedia.org/w/index.php?curid=73134755" target="_blank" rel="noopener">20180927 UCI Road World Championships Innsbruck Men Juniors Road Race Award Ceremony 850 0668</a>" by <a href="https://commons.wikimedia.org/wiki/User:Granada" target="_blank" rel="noopener">Granada</a>, resized and converted to WebP, licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">CC BY-SA 4.0</a>.'
 lang: en
 locale: en-GB
 url: /en/blog/ciclismo-giovanile-di-chi-stiamo-parlando/
@@ -20,7 +20,7 @@ aiTranslated: true
 originalLanguage: it
 ---
 
-*This series looks at Italian youth cycling rankings and the transition to professional racing. Before turning to the results, we look at what research already knows and, above all, who the numbers in the following instalments describe. That is where almost all the mistakes lie.*
+*This series looks at Italian youth cycling rankings and the transition to professional racing. Before turning to the results, we look at what research has already established and, above all, who the numbers in the following instalments refer to. That is where almost all the mistakes lie.*
 
 ## Twenty years of research in a few paragraphs
 
@@ -28,7 +28,7 @@ At the junior road World Championships each nation can enter at most **six** rid
 
 Yet even winning that race guarantees nothing. Since the junior road World Championships began, **only three riders have won both the junior and elite titles**: Greg LeMond, junior champion in 1979 and elite champion in 1983 and 1989; Mathieu van der Poel, junior champion in 2013 and elite champion in 2023; and Remco Evenepoel. He is the rider on the podium in the cover photo, taken at the 2018 junior Worlds in Innsbruck, which he won. His elite world title would follow four years later, in 2022.
 
-In 2006 a German research group[^schumacher] collected results from major competitions across twenty-five years of cycling: 27,454 results from 8,004 athletes in 108 countries, between 1980 and 2004, including disciplines beyond road racing. They then examined the same story in both directions. Looking forwards: how many junior Worlds riders subsequently contested a major senior event, meaning one of the races the study includes, from the Worlds to the Grand Tours? **Thirty-four in a hundred**. Looking backwards: among athletes with results in major elite events, how many had competed at the junior Worlds? 29.4 in a hundred.
+In 2006 a German research group collected results from major competitions across twenty-five years of cycling: 27,454 results from 8,004 athletes in 108 countries, between 1980 and 2004, including disciplines beyond road racing.[^schumacher] They then examined the same story in both directions. Looking forwards: how many junior Worlds riders subsequently contested a major senior event, meaning one of the races the study includes, from the Worlds to the Grand Tours? **Thirty-four in a hundred**. Looking backwards: among athletes with results in major elite events, how many had competed at the junior Worlds? 29.4 in a hundred.
 
 {{< figure
   src="/blog/ciclismo-giovanile-di-chi-stiamo-parlando/mondiale_juniores_2006.webp"
@@ -36,7 +36,7 @@ In 2006 a German research group[^schumacher] collected results from major compet
   caption="The percentages answer opposite questions, and neither goes much beyond a third: the majority is left out whichever direction you look."
 >}}
 
-These figures answer opposite questions and measure different things. Together, though, they say something uncomfortable: being fast as a youngster is neither essential for reaching the top nor remotely enough to guarantee it. **Two in three apparent prodigies will never contest a major senior event, and seven in ten of those who reach those events never rode that junior championship.** The question has since been revisited in Norway, Belgium, Spain, the Netherlands and twice in Italy, with very different samples and remarkably similar conclusions[^rassegna]. There are five main findings.
+These figures answer opposite questions and measure different things. Together, though, they say something uncomfortable: being fast as a youngster is neither essential for reaching the top nor remotely enough to guarantee it. **Two in three apparent prodigies will never contest a major senior event, and seven in ten of those who reach those events never rode that junior championship.** The question has since been revisited in Norway, Belgium, Spain, the Netherlands and twice in Italy, with very different samples and remarkably similar conclusions.[^rassegna] There are five main findings.
 
 Future professionals were already performing better than their peers as youngsters. This is the most replicated finding in the field, reached by different groups using different methods.
 
@@ -48,25 +48,25 @@ Then there are laboratory tests, where the finding sounds odd: threshold and wat
 
 Finally, birth month: youth populations contain more riders born early in the year than demographics would predict, particularly at younger ages, while the effect is absent among those who make it. A study of almost three thousand Continental-team riders finds it mainly among those who did not succeed. In the [second instalment](/en/blog/ciclismo-giovanile-a-che-eta-si-riconosce-un-futuro-professionista/) we repeat that calculation using the study data, because it is the most reasonable doubt to raise about a finding at thirteen.
 
-One finding recurs everywhere: the overwhelming majority of successful youngsters still do not make it. Every number needs its denominator attached; lining them up as though they measured the same thing is misleading. Two in three junior Worlds riders never contest a major elite event. Fifteen per cent of the top ten in Italy's Allievi ranking, for fifteen- and sixteen-year-olds, subsequently scored WorldTour points, at the sport's highest level. Five out of forty-eight riders in a complete Dutch year group reached a Continental team, the third UCI tier, or higher[^rassegna]. Both the starting populations, selected riders, the top ten or everyone, and the destinations differ. The scale changes each time; the direction stays the same.
+One finding recurs everywhere: the overwhelming majority of successful youngsters still do not make it. Every number needs its denominator attached; lining them up as though they measured the same thing is misleading. Two in three junior Worlds riders never contest a major elite event. Fifteen per cent of the top ten in Italy's Allievi ranking, for fifteen- and sixteen-year-olds, subsequently scored WorldTour points, at the sport's highest level. Five out of forty-eight riders in a complete Dutch year group reached a Continental team, the third UCI tier, or higher.[^rassegna] Both the starting populations, selected riders, the top ten or everyone, and the destinations differ. The scale changes each time; the direction stays the same.
 
-Two gaps remain, and this series tries to fill them. The studies examined do not appear to include an analysis of thirteen- and fourteen-year-olds using race results from a large population without prior selection: the Italian studies begin with Allievi, while the Belgian study includes Under 15s only if they had already achieved a top-ten finish. And in the consulted materials from race-results studies, we have not found a measure of **how many of the youngsters identified actually make it**. Yet that is precisely the number you would use to make a decision.
+Two gaps remain, and this series tries to fill them. The studies examined do not appear to include an analysis of thirteen- and fourteen-year-olds using race results from a large population without prior selection: the Italian studies begin with Allievi, while the Belgian study includes Under 15s only if they had already achieved a top-ten finish. And in the materials consulted for race-results studies, we have not found a measure of **how many of the youngsters identified actually make it**. Yet that is precisely the number you would use to make a decision.
 
-There are also two aspects that, as far as the materials consulted for the review of twenty-two studies[^rassegna] show, are not always explicit. They are worth considering when we interpret and compare results.
+There are also two aspects that are not always explicit in the materials consulted for the review of twenty-two studies.[^rassegna] They are worth considering when we interpret and compare results.
 
 The first is how many riders there were to begin with. Worlds selections, the top ten and ranked youngsters are already products of selection, and the size of the original population is not always stated. Without that number, percentages from different studies are difficult to compare: they rest on different populations.
 
-The second concerns youngsters who stop appearing in rankings. In funnels based on presence in successive categories, anyone who no longer appears is counted as lost, but this does not establish that they stopped racing. The consulted materials do not show a systematic count of those who continue without scoring points or return later. In this instalment we count how many reappear in the study data. It is not a small number.
+The second concerns youngsters who stop appearing in rankings. In funnels based on presence in successive categories, anyone who no longer appears is counted as lost, but this does not establish that they stopped racing. The materials consulted do not show a systematic count of those who continue without scoring points or return later. In this instalment we count how many reappear in the study data. It is not a small number.
 
 These limitations **apply fully to this study too**. Here too, we start with an already filtered group and see youngsters disappear from rankings without knowing whether they stopped racing or simply became slower. We can, however, measure some aspects of these limitations rather than leaving them implicit. That is what the rest of this instalment is about.
 
 ## The ranking behind everything
 
-The study starts with the ranking published annually for every youth category by <a href="https://www.ciclismo.info/" target="_blank" rel="noopener">ciclismo.info</a>. For 2007–2025 it contains 28,037 rider-season ranking entries for 11,094 boys[^provenienza]. Boys rather than girls, because of the numbers: female ranked riders number between a seventh and a tenth of male riders, women's professional divisions have existed only since 2020, and there is no women's Under 23 ranking, the most informative category among men. Where the question does not require knowing who made it, however, girls are included.
+The study starts with the ranking published annually for every youth category by <a href="https://www.ciclismo.info/" target="_blank" rel="noopener">ciclismo.info</a>. For 2007–2025 it contains 28,037 rider-season ranking entries for 11,094 boys.[^provenienza] Boys rather than girls, because of the numbers: there are between a seventh and a tenth as many ranked girls as boys, women's professional divisions have existed only since 2020, and there is no women's Under 23 ranking, the most informative category among men. Where the question does not require knowing who made it, however, girls are included.
 
-<a href="https://www.ciclismo.info/" target="_blank" rel="noopener">ciclismo.info</a> is the most complete archive of Italian youth cycling available. One clarification is necessary: it is not the federation's official archive, but an independent portal collecting and organising results. Nor does it include every young Italian cyclist. To enter, you need at least one point, and only the first five in each race score: five for the winner, down to one for fifth[^norme].
+<a href="https://www.ciclismo.info/" target="_blank" rel="noopener">ciclismo.info</a> is the most complete archive of Italian youth cycling available. One clarification is necessary: it is not the federation's official archive, but an independent portal collecting and organising results. Nor does it include every young Italian cyclist. To enter, you need at least one point, and only the first five in each race score: five for the winner, down to one for fifth.[^norme]
 
-How much does that filter matter? We can measure it, because the federation publishes membership totals by category each year[^copertura]. The following figures are averages across several seasons.
+How much does that filter matter? We can measure it, because the federation publishes membership totals by category each year.[^copertura] The following figures are averages across several seasons.
 
 | category | registered riders per season | ranked | share |
 |---|---|---|---|
@@ -87,9 +87,9 @@ One in seven **underestimates** the share of road cyclists who become ranked, be
 
 ## The cohorts, and the number we will keep using
 
-The main cohorts, groups born in the same years whom we follow over time, are riders born between 1996 and 2000. All have had time to make it or not. There are **2,813 riders and 77 professionals**. Throughout this series, professional means having raced for a first-tier WorldTeam or second-tier ProTeam by age twenty-five. The age window makes birth cohorts comparable; anyone who makes it later is not counted here.
+The main cohorts are the groups of riders born between 1996 and 2000 whom we follow over time. All have had time to make it or not. There are **2,813 riders and 77 professionals**. Throughout this series, professional means having raced for a first-tier WorldTeam or second-tier ProTeam by age twenty-five. The age window makes birth cohorts comparable; anyone who makes it later is not counted here.
 
-Of those 2,813, however, only 2,183 were already ranked as Esordienti, the thirteen- and fourteen-year-old category, or Under 15s in the literature. Under 23 spans four birth years, from nineteen to twenty-two. The funnel starts with Esordienti[^attrito].
+Of those 2,813, however, only 2,183 were already ranked as Esordienti, the thirteen- and fourteen-year-old category, or Under 15s in the literature. Under 23 spans four birth years, from nineteen to twenty-two. The funnel starts with Esordienti.[^attrito]
 
 | category | ranked riders | of whom ranked as Esordienti | share of the 2,183 |
 |---|---|---|---|
@@ -107,7 +107,7 @@ Of those 2,813, however, only 2,183 were already ranked as Esordienti, the thirt
   caption="The first step already consists of riders with at least one top-five finish at thirteen or fourteen; there are many more young Italian cyclists. The fall to the final step is thirty-threefold, far less than three orders of magnitude."
 >}}
 
-Look at the final row. The cohorts produced 77 professionals, but only **66** were already ranked as Esordienti; the other 11 entered later. Dividing 77 by 2,183 would put people in the numerator who are absent from the denominator. The share uses the sixty-six who actually started there: **three in a hundred**.
+Look at the final row. The cohorts produced 77 professionals, but only **66** were already ranked as Esordienti; the other 11 entered later. Dividing 77 by 2,183 would put people in the numerator who are absent from the denominator. The proportion is based on the sixty-six who actually started there: **three in a hundred**.
 
 Read backwards, this is the most useful number in this instalment: **one in seven future professionals was absent from the rankings at both thirteen and fourteen**. Those lists contain riders who are already competitive, but not everyone who will make it: some first appear in later categories.
 
@@ -123,7 +123,7 @@ First: **disappearing from a ranking does not mean quitting**. Some 30.6% of rid
 
 *For more detail in the technical document, in Italian: <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#uscire-dalla-classifica-non-%C3%A8-smettere" target="_blank" rel="noopener">Leaving the ranking is not quitting</a>, <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#quando-si-smette" target="_blank" rel="noopener">When riders quit</a> and <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#il-passaggio-di-categoria-%C3%A8-una-rottura" target="_blank" rel="noopener">Is moving category a break?</a>.*
 
-Second: **how the categories work**. For Esordienti the source publishes two separate rankings, one per birth year: first- and second-year riders have separate races and do not compete against each other. From Allievi onwards there is one ranking, with both birth years racing together. The consequence appears in the point-scoring places, the five finishes in each race that earn points[^posti].
+Second: **how the categories work**. For Esordienti the source publishes two separate rankings, one per birth year: first- and second-year riders have separate races and do not compete against each other. From Allievi onwards there is one ranking, with both birth years racing together. The consequence appears in the point-scoring places, the five finishes in each race that earn points.[^posti]
 
 | category | share of places taken by first-year riders |
 |---|---|
@@ -144,7 +144,7 @@ With separate rankings, an even split between birth years is unsurprising, and h
 
 Yet some already stand out against older riders: in 2011, **Filippo Ganna** collected 65 points and six wins as a first-year Allievo, finishing seventh in the combined ranking. He would go on to become twice world time-trial champion.
 
-Women's cycling also supports this explanation, because the source changed its structure along the way. Until 2021 female Esordienti had a single ranking, in which first-year riders took **28.5%** of the places, similar to the men's 26.7% in a different category and population. From 2022 there were two rankings and the share rose to half[^ragazze], as expected.
+Women's cycling also supports this explanation, because the source changed its structure along the way. Until 2021 female Esordienti had a single ranking, in which first-year riders took **28.5%** of the places, similar to the men's 26.7% in a different category and population. From 2022 there were two rankings and the share rose to half,[^ragazze] as expected.
 
 {{< figure
   src="/blog/ciclismo-giovanile-di-chi-stiamo-parlando/ragazze_separazione.webp"
@@ -162,15 +162,15 @@ Third: **the racing calendar is shrinking**. In an average season the rankings r
   caption="From 2007 to 2025: Esordienti fall from 433 races in 2009 to 261, Allievi from 642 to 309, juniors from 430 to 199, and Under 23s from 222 to 88, with a shared collapse in 2020."
 >}}
 
-Fewer races mean fewer point-scoring places, so the ranking thins by itself: distant year groups cannot be compared as though nothing had changed. The decline concerns men's cycling, however, rather than all youth cycling. Where comparison is valid, among Allievi and juniors, men's races fell by over a third between 2011 and 2025 while women's held steady, narrowing the gap: **from one women's race per seven men's races to one per five** among Allievi, and from one per ten to one per five among juniors[^ragazze].
+Fewer races mean fewer point-scoring places, so the ranking thins by itself: seasons far apart cannot be compared as though nothing had changed. The decline concerns men's cycling, however, rather than all youth cycling. Where comparison is valid, among Allievi and juniors, men's races fell by over a third between 2011 and 2025 while women's held steady, narrowing the gap: **from one women's race per seven men's races to one per five** among Allievi, and from one per ten to one per five among juniors.[^ragazze]
 
 *For more detail in the technical document, in Italian: <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#quanti-posti-cerano-prima" target="_blank" rel="noopener">How many places there used to be</a> and <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#lattrito-della-classifica-e-quello-vero" target="_blank" rel="noopener">Ranking attrition and real attrition</a>.*
 
 ## What the score measures
 
-One last point about the instrument. In 2025 two Dutch researchers published the strongest criticism one could make of this kind of study: a federation ranking that does not weight races by level treats international races and local events alike.
+One last point about the measure. In 2025 two Dutch researchers published the strongest criticism one could make of this kind of study: a federation ranking that does not weight races by level treats international races and local events alike.
 
-For the Italian ranking, half that criticism is addressed, because the rules do weight races. Dividing points by the number of placings shows this indirectly: 2.67 points per placing among Esordienti, 2.73 among Allievi, 3.02 among juniors and 4.17 among Under 23s[^misura]. The jump occurs exactly where the rules' multipliers start giving higher-level races more weight, from juniors onwards. For Esordienti and Allievi the scale is flat, consistent with the lack of an international calendar at those ages.
+For the Italian ranking, half that criticism is addressed, because the rules do weight races. Dividing points by the number of placings shows this indirectly: 2.67 points per placing among Esordienti, 2.73 among Allievi, 3.02 among juniors and 4.17 among Under 23s.[^misura] The jump occurs exactly where the rules' multipliers start giving higher-level races more weight, from juniors onwards. For Esordienti and Allievi the scale is flat, consistent with the lack of an international calendar at those ages.
 
 The other half still stands. A ranking rewards riders suited to the races most common on the calendar: a climber facing mostly fast courses has fewer opportunities to score. Correcting for that would require knowing each race's characteristics, and those data do not exist.
 

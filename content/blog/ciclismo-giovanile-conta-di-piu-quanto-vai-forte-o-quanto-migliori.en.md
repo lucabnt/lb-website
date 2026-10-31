@@ -1,7 +1,7 @@
 ---
 title: "In youth cycling, does performance or improvement matter more?"
 description: "How much does improvement add to level? We follow riders through youth rankings to see what their trajectories tell us about future professional careers."
-date: 2026-10-16T10:00:00+02:00
+date: 2026-11-07T10:00:00+02:00
 draft: true
 series: ["Ciclismo giovanile e professionismo"]
 series_weight: 3
@@ -27,13 +27,13 @@ One rider is among the best in his category but has been losing ground for sever
 
 For once, the data can answer. Youth rankings form a time series, and a time series shows both where someone stands and where they are heading.
 
-First, though, we need to agree on what ‘improving’ means, because the word promises more than it measures. Here it means **rising in percentile**, gaining places relative to ranked peers. Getting faster in absolute terms is different. The two often coincide, but the ranking renews itself each year, and the typical trajectory of a rider who stays is slightly downwards, by almost one percentile point a year[^traiettorie], as newcomers arrive behind them. Moving upwards in that population already means swimming against the current.
+First, though, we need to agree on what ‘improving’ means, because the word promises more than it measures. Here it means **rising in percentile**, gaining places relative to ranked peers. Getting faster in absolute terms is different. The two often coincide, but the ranking renews itself each year, and the typical trajectory of a rider who stays is slightly downwards, by almost one percentile point a year, as newcomers arrive behind them.[^traiettorie] Moving upwards in that population already means swimming against the current.
 
 ## The answer without coefficients
 
 We use two measures to describe each trajectory: estimated level around fifteen and the direction of ranking position over the seasons observed up to eighteen. Later we will see how they are derived.
 
-We begin with the most readable result: divide riders into three groups by level and three by improvement, then count how many became professionals in each of the nine combinations[^traiettorie].
+We begin with the most readable result: divide riders into three groups by level and three by improvement, then count how many became professionals in each of the nine combinations.[^traiettorie]
 
 | | low improvement | medium | high |
 |---|---|---|---|
@@ -59,7 +59,7 @@ We cannot use these frequencies to choose confidently between two individual rid
 
 ## The same numbers, with a model
 
-A line can describe each rider's percentile as a function of age. Two numbers summarise it: level, where the line passes around fifteen, and slope, how much it rises or falls each year[^traiettorie].
+A line can describe each rider's percentile as a function of age. Two numbers summarise it: level, where the line passes around fifteen, and slope, how much it rises or falls each year.[^traiettorie]
 
 | | odds multiplier |
 |---|---|
@@ -70,7 +70,7 @@ A line can describe each rider's percentile as a function of age. Two numbers su
 
 Three percentile points a year sound modest. Over three years they add up to about nine points: a move from the 70th to the 79th percentile. We are therefore also talking about gradual progress that becomes visible over several seasons.
 
-Both matter, and improvement is no poor relation. A model knowing only level ranks the future professional ahead in around 85 **pairs** out of 100; adding slope raises that to 92. Direction therefore tells us something current level does not. Notice, however, the second interval's width, from 2.54 to 4.51: the coefficient supporting this post's title is also the less precise of the two. Read it as ‘large’ rather than ‘3.35’.
+Both matter, and improvement is no poor relation. A model knowing only level ranks the future professional ahead in around 85 **pairs** out of 100; adding slope raises that to 92. The direction of the trajectory therefore adds information beyond estimated level alone. Let us also consider the second interval's width, from 2.54 to 4.51: the coefficient supporting this post's title is also the less precise of the two. We should read it as ‘large’ rather than ‘3.35’.
 
 With only two seasons, a bad day or a different calendar can make a rider look as though he is improving or declining sharply. That is why we use a model that is more cautious when observations are few: it pulls those trajectories towards the average and gives more scope to differences supported by many seasons.
 
@@ -92,7 +92,7 @@ So far we have looked at trajectories in the ranking. Now we also consider conte
 
 ## Does changing teams help?
 
-Among riders who never changed clubs, **0.68%** become professionals; among those who changed three times, **7.32%**[^contesto]. Looking only at these percentages, we might think that changing teams helps riders turn professional.
+Among riders who never changed clubs, **0.68%** become professionals; among those who changed three times, **7.32%**.[^contesto] Looking only at these percentages, we might think that changing teams helps riders turn professional.
 
 But consider the observed seasons too: an average of **1.8** for riders who never changed clubs and **6.0** for those who changed three times. Riders who remain in cycling longer also have more opportunities to change teams. When we compare pathways of the same duration, at most 1.16 percentage points of the original 6.64-point gap remain.
 
@@ -110,15 +110,15 @@ These figures help us describe the context; they do not establish how much start
 
 *For more detail in the technical document, in Italian: <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#regione-e-societ%C3%A0-di-partenza" target="_blank" rel="noopener">Region and starting club</a>.*
 
-## When a variable tells the outcome twice
+## When a variable reflects the outcome
 
-The mechanism is always the same, and appears everywhere. A variable measures how far you got; you compare it with the outcome; you see a strong correlation; you read it as an explanation of how far you will go.
+We find the same mechanism in several comparisons. A variable measures how far a rider has progressed; we examine it alongside the outcome, see a strong correlation and read it as an explanation of how far the rider will go.
 
-It applies to team changes, seasons raced, race counts and anything that requires staying in the game to accumulate. Before believing a gradient, ask **what it took to reach its highest cell**. If it required getting far, that gradient is telling the outcome twice.
+It applies to team changes, seasons raced, race counts and anything that requires staying in the game to accumulate. To interpret a gradient, let us first ask **what it took to enter the group with the highest values**. If it required getting far, the gradient may be reflecting the outcome rather than explaining it.
 
 ## What remains
 
-Let us return to the two riders at the start. The data do not choose for a coach, but help us understand why both are worth following: level and trajectory describe different aspects of development.
+Let us return to the two riders at the start. The data do not make the decision for a coach, but help us understand why both are worth following: level and trajectory describe different aspects of development.
 
 When we assess a rider's profile, we should therefore consider **level together with direction**. Among high-level riders, the group with the least improvement had far fewer transitions to professional racing. A mid-level rider who is improving deserves attention even if he is not among the leaders.
 
@@ -130,9 +130,9 @@ A practical question remains: how much can we trust a list of riders to follow? 
 
 > **How we know**
 >
-> Trajectories come from a mixed-effects model fitted to 7,595 observations from 2,743 riders. It assigns each an individual level and slope using shrinkage, pulling estimates based on few seasons towards the mean. The window ends at eighteen: Under 23 begins afterwards, when some riders are already professionals. Including those seasons would predict an outcome using observations collected after it occurred.
+> Trajectories come from a mixed-effects model fitted to 7,595 observations from 2,743 riders. It assigns each an individual level and slope using shrinkage, pulling estimates based on few seasons towards the mean. The comparison of professional outcomes covers the 1,903 riders ranked in at least two seasons. The window ends at eighteen: Under 23 begins afterwards, when some riders are already professionals. Including those seasons would predict an outcome using observations collected after it occurred.
 >
-> Level and slope always enter the model together, because they are correlated by construction: percentile is capped at 100, leaving high starters less room to rise.
+> Level and slope always enter the model together, because they are correlated by construction: percentile is capped at 100, leaving riders who start high less room to improve.
 >
 > Club and region are not control variables in any study model. Team changes occur during careers, often in response to results, so they lie on the path between performance and outcome. Controlling for them would remove part of the effect being measured.
 

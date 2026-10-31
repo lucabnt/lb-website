@@ -3,7 +3,7 @@ url: /blog/ciclismo-giovanile-scegliere-chi-seguire/
 lang: it
 locale: it_IT
 title: "Scegliere chi seguire nel ciclismo giovanile"
-description: "Seguendo il dieci per cento migliore a diciotto anni intercetti il 59% dei futuri professionisti, ma il 52% dei selezionati non arriverà. Nessuna soglia lo risolve."
+description: "Seguendo il dieci per cento migliore a diciotto anni troviamo il 59% dei futuri professionisti. Ma quanti ragazzi lasciamo fuori, e quanti dei selezionati arriveranno davvero?"
 date: 2026-10-16T10:00:00+02:00
 draft: true
 series: ["Ciclismo giovanile e professionismo"]
@@ -20,48 +20,45 @@ TocOpen: false
 #     alt: "..."
 ---
 
-*Ultima di quattro puntate. Le [tre precedenti](/series/ciclismo-giovanile-e-professionismo/) hanno misurato quanto il rendimento giovanile predica il professionismo, [da che età](/blog/ciclismo-giovanile-a-che-eta-si-riconosce-un-futuro-professionista/) e [con quali dimensioni](/blog/ciclismo-giovanile-conta-di-piu-quanto-vai-forte-o-quanto-migliori/). Qui provo a usare quella misura per scegliere, che è una cosa molto diversa. Poi dico quanto puoi fidarti di tutto il resto.*
+*Ultima di quattro puntate. Nelle [precedenti](/series/ciclismo-giovanile-e-professionismo/) abbiamo visto quanto i risultati giovanili aiutino a distinguere i futuri professionisti, [da che età](/blog/ciclismo-giovanile-a-che-eta-si-riconosce-un-futuro-professionista/) e [quanto conti il miglioramento](/blog/ciclismo-giovanile-conta-di-piu-quanto-vai-forte-o-quanto-migliori/). Ora proviamo a usarli per scegliere chi seguire: quanti futuri professionisti troviamo, quanti ne lasciamo fuori e quanti dei ragazzi selezionati arriveranno davvero? Infine vediamo quanto possiamo fidarci di queste indicazioni.*
 
-Prendiamo la categoria in cui la previsione funziona meglio, i Juniores di secondo anno, diciotto anni, e applichiamo il criterio più naturale che una società possa adottare: seguo il dieci per cento migliore. Su 901 ragazzi in classifica ne seleziono 91[^metriche].
+Prendiamo 901 ragazzi nella classifica degli Juniores di secondo anno, a diciotto anni. Decidiamo di seguire il dieci per cento migliore: **91 nomi**[^metriche]. Negli anni successivi, **44** di quei 91 **diventano professionisti** e 47 no. Altri **30 futuri professionisti erano fuori dalla lista**.
 
-| | |
-|---|---|
-| futuri professionisti intercettati | **59%** |
-| selezionati che non lo diventeranno | **52%** |
+Abbiamo intercettato il **59% dei futuri professionisti** presenti in quella classifica. Fra i ragazzi selezionati, il **48%** è arrivato. Sono due modi diversi di valutare la stessa lista, e ci servono entrambi.
 
 {{< figure
   src="metriche_soglie.webp"
   alt="Due serie di barre per categoria: la quota di futuri professionisti intercettati sale dal 32% a tredici anni al 59% a diciotto, mentre la quota di selezionati che arriverà resta bassa, dall'11% al 48%."
-  caption="Le due barre sono la sensibilità e il valore predittivo positivo. Gli studi sul ciclismo giovanile riportano quasi sempre la prima, e nessuno di quelli basati sui risultati di gara aveva mai riportato la seconda."
+  caption="Le barre rispondono a due domande: quanti futuri professionisti troviamo e quanti dei ragazzi selezionati arriveranno. Sono la sensibilità e il valore predittivo positivo."
 >}}
 
-Sono vere tutte e due, e quasi sempre te ne citano una alla volta. Chi vuole difendere la selezione ti dice la prima: guardando il dieci per cento migliore prendi 44 dei 74 futuri professionisti, quasi sei su dieci. Chi vuole demolirla ti dice la seconda: dei 91 prescelti, 47 non ce la faranno.
+Se guardiamo soltanto quanti futuri professionisti abbiamo trovato, la lista sembra efficace. Se guardiamo quanti selezionati arriveranno, emerge tutta l’incertezza. E i trenta rimasti fuori mostrano il costo di usare quella stessa lista per decidere chi smettere di seguire.
 
-**Una soglia che risolva il problema non esiste.** Se allarghi al 25% migliore sali all'82% dei futuri professionisti intercettati, ma la quota di selezionati che poi arriva scende al 27%: prendi più di otto giusti su dieci, insieme a quasi tre volte tanti ragazzi che non arriveranno. Se stringi, perdi i professionisti veri. Le due colonne si muovono sempre in direzioni opposte, perché descrivono lo stesso compromesso guardato dai due lati.
+**Cambiare soglia modifica il compromesso, ma non lo elimina**. Se allarghiamo la selezione al 25% migliore, troviamo l’82% dei futuri professionisti; fra i selezionati, però, arriva il 27%. Includiamo più ragazzi che diventeranno professionisti, insieme a molti altri che non lo diventeranno.
 
-A tredici anni va peggio. Quanto? Selezionando il dieci per cento migliore degli Esordienti di primo anno, cioè dei tredicenni, intercetti il **32%** dei futuri professionisti, e di quei 168 ragazzi ne arriverà l'**11%**. Nove ragazzi su dieci fra i migliori d'Italia a tredici anni non diventeranno professionisti, e due futuri professionisti su tre in quel momento non sono nel gruppo dei migliori.
+Restringendo la lista possiamo concentrarci su un gruppo più promettente, ma lasciamo fuori altri futuri professionisti. La soglia va quindi valutata anche per le conseguenze che produce sui ragazzi esclusi.
 
-Nella [seconda puntata](/blog/ciclismo-giovanile-a-che-eta-si-riconosce-un-futuro-professionista/) ho scritto che a tredici anni si vede già qualcosa, e resta vero. Il segnale c'è, tanto che selezionare triplica la quota di chi arriva, dal 3,5% di tutta la classifica all'11% dei prescelti. Con numeri del genere, però, puoi decidere chi seguire. Per decidere chi scartare non bastano.
+A tredici anni l’incertezza è ancora maggiore. Selezionando il dieci per cento migliore della classifica troviamo il **32%** dei futuri professionisti presenti in quella lista. Dei 168 ragazzi selezionati, diventa professionista l’**11%**. Circa nove selezionati su dieci non arriveranno. E, nello stesso tempo, lasciamo fuori circa due terzi dei futuri professionisti della classifica.
 
-## Perché non è colpa del criterio
+Nella [seconda puntata](/blog/ciclismo-giovanile-a-che-eta-si-riconosce-un-futuro-professionista/) abbiamo visto che i piazzamenti a tredici anni contengono già un’informazione sul futuro. Lo ritroviamo anche qui: fra i selezionati la quota di professionisti è circa tripla rispetto all’intera classifica, **11% contro 3,5%**. Il criterio può quindi aiutarci a concentrare l’attenzione. Da solo, però, non giustifica la decisione di smettere di seguire tutti gli altri.
 
-Il nocciolo della puntata è una questione di aritmetica più che di statistica, e si spiega meglio con un esempio preso da tutt'altro campo.
+## Un esito raro
 
-Immagina un esame del sangue per una malattia che colpisce tre persone su cento. È un buon test, che trova la malattia quasi sempre quando c'è. Fai lo screening su mille persone: trenta saranno malate e novecentosettanta no. Se il test ne segnala un centinaio, i malati veri fra quei cento saranno molti meno della metà. Il test non è scadente. Semplicemente i sani erano trentadue volte più numerosi dei malati, e anche una piccola percentuale di errori su un gruppo enorme produce più falsi allarmi di quanti siano i casi veri.
+Diventare professionista è un esito raro. Nelle coorti principali dello studio riguarda **circa tre ragazzi su cento** fra quelli comparsi almeno una volta in classifica.
 
-Chi seleziona giovani ciclisti sta nella stessa situazione, con una differenza. Nello screening la persona segnalata fa un secondo esame e la storia finisce lì; nel ciclismo il ragazzo non segnalato smette di essere seguito.
+Questo rende difficile costruire una lista affidabile: i ragazzi che non arriveranno sono molti di più, e anche un criterio utile può includerne parecchi. Nell’esempio dei diciottenni il gruppo di partenza è già più selezionato, ma l’incertezza resta visibile: 44 arrivano, 47 no.
 
-Un modello, un algoritmo o un osservatore esperto più bravo del mio sposterebbe il confine, ma non lo cancellerebbe. Con un esito che riguarda il 3% della popolazione, per avere liste fatte in maggioranza di ragazzi che arrivano servirebbe un criterio che sbaglia pochissimo anche sui tanti che non arriveranno, e nessuna misura del rendimento giovanile che io conosca ci va vicino. **La rarità dell'esito è un vincolo del problema: migliorare la misura non la toglie.**
+Un criterio migliore potrebbe ridurre gli errori. Per valutarlo dobbiamo però contarli **in entrambe le direzioni**: i ragazzi scelti che non arriveranno e i futuri professionisti lasciati fuori.
 
-La conseguenza pratica: a chiunque proponga un criterio di selezione va chiesto **quanti dei segnalati arrivano**, prima di quanti ne intercetta. Quanti ne intercetta è un numero sempre lusinghiero. Quanti dei segnalati arrivano descrive la lista che ti ritrovi davvero in mano.
+Quando valutiamo un criterio di selezione, chiediamo quindi entrambe le cose: **quanti futuri professionisti intercetta** e **quanti dei selezionati arrivano**. La prima descrive chi riusciamo a trovare; la seconda descrive la lista con cui lavoreremo.
 
-C'è anche una riga che sembra ottima e non lo è. In Under 23, selezionando il dieci per cento migliore, arriva il 93% dei selezionati. Il criterio a quell'età funziona benissimo, allora? Funziona esattamente come prima. È cambiato il gruppo: in Under 23 chi è ancora in classifica ha già superato tre selezioni, e i professionisti sono più di un terzo della lista. Ogni volta che una percentuale sembra migliorare, chiediti se sia migliorata la misura o se sia cambiato il gruppo.
+Negli Under 23 troviamo un risultato molto diverso: selezionando il dieci per cento migliore, arriva il **93%** dei selezionati. È una quota alta, ma riguarda un gruppo già molto selezionato, nel quale i professionisti sono più di un terzo della lista. Non possiamo attribuire tutta la differenza a una maggiore efficacia del criterio perché è cambiata anche la popolazione a cui lo applichiamo.
 
 *Per approfondire, nel documento tecnico: <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#se-il-ranking-si-usasse-per-selezionare" target="_blank" rel="noopener">Se il ranking si usasse per selezionare</a>.*
 
 ## Quanto vale, in probabilità
 
-Rovesciamo la domanda. Lasciamo stare la soglia: cosa si può dire di un singolo ragazzo[^qualita]?
+Lasciamo per un momento le soglie. Quale probabilità associa il modello a un certo piazzamento in classifica a diciotto anni? Possiamo ricavare una stima dai dati disponibili, ma non comprende tutto quello che sappiamo di un singolo ragazzo[^qualita].
 
 | piazzamento a diciotto anni | professionista | almeno top 500 mondiale | top 100 |
 |---|---|---|---|
@@ -69,15 +66,15 @@ Rovesciamo la domanda. Lasciamo stare la soglia: cosa si può dire di un singolo
 | 75° percentile | 10,0% | 4,6% | 0,73% |
 | 90° percentile | **30,0%** | **15,8%** | 3,4% |
 
-Un ragazzo al novantesimo percentile, cioè sul margine basso del dieci per cento migliore d'Italia, ha circa il 30% di probabilità di diventare professionista. Chi sta più in alto ne ha di più, ed è per questo che dell'intero dieci per cento migliore è arrivato quasi uno su due, il 48%. Il primo numero è la previsione del modello per un punto preciso della classifica; il secondo è quello che è successo a tutto il gruppo. Sono entrambi moltissimo rispetto alla media e pochissimo rispetto a una certezza. Non dicono che ce la farà e non dicono il contrario: dicono fra uno su tre e uno su due.
+Al novantesimo percentile, cioè al limite inferiore del dieci per cento migliore della classifica, il modello stima circa il **30%** di probabilità di diventare professionista. Nell’intero dieci per cento migliore, invece, è arrivato il **48%** dei ragazzi. Il gruppo comprende anche chi si trova più in alto, dove il modello stima probabilità maggiori. Teniamo distinti i due numeri: il 30% è una previsione per un preciso piazzamento; il 48% è la frequenza osservata in un gruppo. Entrambi mostrano quanto il risultato sia promettente e quanto resti incerto.
 
-C'è poi un numero che ti verrà citato per sostenere il contrario, ed è bene riconoscerlo. Fra gli Esordienti di primo anno rimasti fuori dal dieci per cento migliore, il **97,4%** non sarebbe comunque diventato professionista. Sembra la prova che scartarli non costi niente. Ma con un esito così raro quel numero è altissimo per qualunque criterio, perfino tirando a sorte, che darebbe il 96,5%. E nel 2,6% che resta ci sono 40 dei 59 futuri professionisti di quella classifica: due su tre. Si chiama valore predittivo negativo, e rassicura proprio dove non dovrebbe.
+Guardiamo anche i ragazzi esclusi. Fra i tredicenni rimasti fuori dal dieci per cento migliore, il **97,4%** non è diventato professionista. Potrebbe sembrare una conferma che escluderli comporti poche perdite. Ma l’esito è così raro che anche una selezione casuale darebbe un valore vicino, il 96,5%. Nel restante 2,6% degli esclusi troviamo 40 dei 59 futuri professionisti della classifica: circa due su tre. Il 97,4% è il valore predittivo negativo. Letto da solo rassicura; affiancato al numero di professionisti lasciati fuori, racconta una decisione molto meno semplice.
 
 ## Quando succede, e quanto conta esserci
 
 Una società si pone anche una domanda sui tempi: fino a quando ha senso aspettare?
 
-Prima dei diciannove anni non passa professionista nessuno[^sopravvivenza]. Più che un dato è un regolamento: non si può. Poi il rischio cresce fino ai ventuno anni, e da lì resta attorno ai sette-otto passaggi ogni mille atleti, con il valore più alto a **23 anni**, l'ultima età che riesco a seguire. Dopo smetto di vederlo, il che non vuol dire che scenda: oltre l'Under 23 non esiste una classifica giovanile da cui misurare il rendimento. E la porta non si chiude lì. Anche dopo i ventitré anni si passa professionisti: 10 passaggi, nelle coorti che ho studiato, contro i 121 osservati fino a quell'età.
+Prima dei diciannove anni non passa professionista nessuno[^sopravvivenza]. Più che un dato è un regolamento: non si può. Poi il rischio cresce fino ai ventuno anni, e da lì resta attorno ai sette-otto passaggi ogni mille atleti, con il valore più alto a **23 anni**, l’ultima età osservata in questa analisi. La curva finisce perché lì termina l’osservazione, non perché cessino i passaggi al professionismo: oltre l'Under 23 non esiste una classifica giovanile da cui misurare il rendimento. E la porta non si chiude lì. Anche dopo i ventitré anni si passa professionisti: 10 passaggi, nelle coorti studiate, contro i 121 osservati fino a quell'età.
 
 {{< figure
   src="sopravvivenza_hazard.webp"
@@ -85,17 +82,13 @@ Prima dei diciannove anni non passa professionista nessuno[^sopravvivenza]. Più
   caption="Prima dei diciannove anni il rischio è zero per regolamento; dai ventuno resta alto fino all'ultima età osservata. La curva finisce a ventitré anni perché lì finisce la classifica giovanile; i passaggi continuano."
 >}}
 
-Nel modello che descrive questo percorso un coefficiente domina tutti gli altri, e riguarda il restare in classifica più che il rendimento: un atleta che l'anno prima non era in classifica ha un rischio di passare professionista venti volte più basso di uno che c'era. Va letto con cautela. Come ho raccontato nella [prima puntata](/blog/ciclismo-giovanile-di-chi-stiamo-parlando/), sparire dalla classifica non significa smettere di correre, quindi quel coefficiente misura in buona parte quanto sia difficile rientrare una volta usciti dal gruppo osservato. Un dato, poi, lo rende meno drammatico: nell'**87,4%** delle stagioni a rischio l'atleta non era in classifica l'anno prima. In Under 23 l'assenza è la condizione normale.
-
-Per chi invece c'è tutti gli anni, i numeri sono questi: **11,1%** di probabilità di arrivare al professionismo con un rendimento nella media della classifica, 30,9% con venti posizioni percentuali in più, 3,7% con venti in meno.
+Nel modello, chi non era in classifica l’anno precedente ha una probabilità di passaggio molto più bassa rispetto a chi c’era. È un’associazione forte, ma non ci dice perché il ragazzo fosse assente né quale effetto avrebbe aiutarlo a rientrare. Come abbiamo visto nella [prima puntata](/blog/ciclismo-giovanile-di-chi-stiamo-parlando/), sparire dalla classifica non significa necessariamente smettere di correre. Inoltre, nell’**87,4%** delle stagioni considerate a rischio di passaggio, l’atleta non era in classifica l’anno prima: l’assenza è quindi molto frequente.
 
 *Per approfondire, nel documento tecnico: <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#quando-si-diventa-professionisti" target="_blank" rel="noopener">Quando si diventa professionisti</a> e <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#cosa-sposta-il-rischio" target="_blank" rel="noopener">Cosa sposta il rischio</a>.*
 
-## Oltre la porta, il ranking non vede più
+## Quanto lontano si arriva?
 
-Resta un'ultima domanda, e la risposta è la più netta di tutta la serie.
-
-Fin qui ho trattato il professionismo come una porta, dentro o fuori. Fra i professionisti, però, c'è chi corre tre stagioni in una squadra di seconda divisione e chi entra fra i primi cento al mondo. Il piazzamento a diciotto anni dice qualcosa anche su questo[^qualita]?
+Fin qui abbiamo distinto chi è diventato professionista da chi non lo è diventato. Ma fra i professionisti ci sono carriere molto diverse: il piazzamento giovanile aiuta a capire anche quanto lontano arriveranno[^qualita]?
 
 | | quanto moltiplicano le odds dieci punti di percentile in più |
 |---|---|
@@ -109,75 +102,73 @@ Fin qui ho trattato il professionismo come una porta, dentro o fuori. Fra i prof
   caption="Il gradino più alto poggia su quindici atleti. Le curve dicono che un effetto non si vede; che non ci sia è un'altra affermazione."
 >}}
 
-La classifica giovanile italiana predice bene chi entrerà. Su quello che succede dopo, nei dati non si vede un'associazione distinguibile dal caso. La formulazione va scelta con attenzione, perché quella sbagliata è a un passo. Che fra i professionisti il talento non conti, i dati non lo dicono. Dicono che quello che la classifica giovanile eventualmente ne sa è troppo poco per vederlo con questi numeri. Il gradino più alto, poi, poggia su quindici atleti.
+Il piazzamento giovanile distingue chi diventerà professionista. Fra chi ci è arrivato, invece, non troviamo un’associazione chiara con il successivo ingresso nei primi cinquecento o nei primi cento del mondo. Non possiamo concludere che il piazzamento non conti più: i numeri potrebbero essere troppo piccoli per mostrarlo, dato che il gruppo arrivato nei primi cento comprende soltanto quindici atleti.
 
-<!-- DA COMPLETARE: da chi mi e' stata proposta l'osservazione, se vuoi citarlo -->
+Possiamo considerare anche un’ipotesi legata al mercato. L’Italia potrebbe restare un mercato attrattivo per squadre italiane e straniere, e avere corridori italiani potrebbe avere un valore che va oltre i risultati. Il ranking nazionale potrebbe allora descrivere anche un bacino da cui le squadre scelgono, oltre a misurare il rendimento giovanile.
 
-Una spiegazione parziale c'è, e viene da un'osservazione che mi è stata proposta. Le squadre professionistiche italiane hanno bisogno di corridori italiani, quindi i migliori juniores nazionali sono il bacino da cui pescano: il ranking potrebbe predire l'ingresso semplicemente perché ordina bene quel bacino. Separando chi debutta in una squadra a maggioranza italiana da chi debutta in una straniera, il percentile predice le due cose praticamente allo stesso modo (0,863 contro 0,867). La versione forte quindi non regge. Le due porte, però, non portano allo stesso posto: di chi entra da una squadra italiana arriva nel top 500 il **33%**, di chi entra da una straniera il **59%**, e il 60% dei professionisti entra dalla prima. «Diventare professionista» copre dunque due eventi diversi, e metterli insieme spiega una parte di quello che il ranking non riesce a predire. Con una cautela che i dati non sciolgono: la differenza potrebbe dipendere da chi sceglie la porta, più che dalla porta, perché chi è già più forte tende a partire per l'estero.
+Nei dati possiamo verificare solo una parte di questa ipotesi: distinguiamo chi debutta in una squadra a maggioranza italiana da chi debutta in una straniera. Il piazzamento giovanile distingue i futuri professionisti nei due gruppi quasi allo stesso modo: **0,863 contro 0,867** di capacità predittiva. L’associazione non sembra quindi limitata all’ingresso nelle squadre a maggioranza italiana. Questo confronto, però, non misura direttamente il valore commerciale della nazionalità né l’interesse delle squadre per il mercato italiano.
+
+I percorsi successivi differiscono: arriva nei primi cinquecento del mondo il **33%** di chi debutta in una squadra a maggioranza italiana e il **59%** di chi debutta in una straniera. Il 60% dei professionisti entra dal primo gruppo. Sotto la stessa definizione di «professionista» troviamo quindi percorsi diversi. Non possiamo attribuire la differenza alla squadra di debutto: potrebbe dipendere anche dalle caratteristiche dei corridori che vi arrivano.
 
 *Per approfondire, nel documento tecnico: <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#non-solo-se-si-arriva-ma-fino-a-dove" target="_blank" rel="noopener">Non solo se si arriva, ma fino a dove</a>, <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#la-catena-delle-probabilit%C3%A0" target="_blank" rel="noopener">La catena delle probabilità</a> e <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#da-quale-porta-si-entra" target="_blank" rel="noopener">Da quale porta si entra</a>.*
 
 ## Le ragazze, per quello che si può dire
 
-La domanda che mi hanno fatto più spesso è perché lo studio riguardi solo i maschi. La risposta onesta è che non è stata una scelta di merito: gli esiti di carriera femminili non li avevo raccolti, e senza sapere chi ce l'ha fatta la domanda per cui la serie esiste non ha risposta.
+Per le ragazze possiamo descrivere le classifiche e confrontarne alcune caratteristiche con quelle maschili. Non possiamo invece trasferire direttamente le stime sul passaggio al professionismo.
 
-Moltissime domande, però, non hanno bisogno di sapere chi ce l'ha fatta, e su quelle il femminile si studia benissimo. Quante sono, quante gare corrono, come sono fatte le classifiche, chi entra: si misura tutto guardando la classifica e la demografia.
+Le atlete presenti nelle classifiche Esordienti sono **864, contro 6.356 ragazzi**[^ragazze]; da Juniores il rapporto scende a circa una su dieci. Dove il confronto è possibile, in Allievi e Juniores, il calendario femminile conta fra un sesto e un ottavo delle gare maschili. Nel periodo studiato manca inoltre una classifica Under 23 femminile.
 
-Due di queste le ho già raccontate accanto al risultato maschile corrispondente, perché è lì che significano qualcosa: il cambio di regolamento delle Esordienti nella [prima puntata](/blog/ciclismo-giovanile-di-chi-stiamo-parlando/), e il peso del mese di nascita nella [seconda](/blog/ciclismo-giovanile-a-che-eta-si-riconosce-un-futuro-professionista/). Qui resta quello che riguarda il movimento in sé.
+Troviamo però una somiglianza: il dieci per cento migliore raccoglie una quota di punti molto simile nei due movimenti, **41-44% fra le ragazze** e **40-45% fra i ragazzi**. Cambiano le dimensioni e le opportunità di correre, ma la concentrazione dei punti resta simile.
 
-Il movimento è più piccolo di quanto si pensi e, soprattutto, corre molto meno. Le atlete in Esordienti sono **864** contro 6&nbsp;356 atleti, circa un settimo (nella [seconda puntata](/blog/ciclismo-giovanile-a-che-eta-si-riconosce-un-futuro-professionista/) ne ho contate 874: lì il perimetro è quello del confronto fra i sessi, qui sono tutte le stagioni buone), e diventano un decimo da Juniores. Dove il conteggio delle gare si può confrontare, cioè in Allievi e Juniores, le gare femminili sono **fra sei e otto volte meno**, in media sulle stagioni[^ragazze]. Sono poche, e corrono anche molto meno spesso. Inoltre manca del tutto la categoria che nel maschile porta quasi tutta l'informazione utile: nel periodo studiato una classifica Under 23 femminile non esiste.
-
-Una cosa invece non cambia, ed è quella che mi aspettavo cambiasse: la forma della classifica. Il dieci per cento migliore raccoglie fra il 41% e il 44% dei punti fra le ragazze, e fra il 40% e il 45% fra i ragazzi, categoria per categoria[^ragazze]. Cambia quante sono, quante gare corrono, come sono fatte le liste. La concentrazione dei punti resta la stessa.
-
-Sull'esito, la ragione per cui non posso dirti niente è cambiata mentre scrivevo. Gli esiti li ho scaricati, e ci sono **51 atlete italiane** nelle squadre di prima e seconda divisione fra il 2020 e il 2025. Il problema è un altro, e non si risolve scaricando di più: le divisioni professionistiche femminili sono nate ieri, la prima nel 2020 e la seconda nel 2025. Prima del 2020 c'era una categoria unica, quindi «professionista», come lo definisco per i maschi, nel femminile non si può dire allo stesso modo. Uno studio si può fare, ma è uno studio diverso, su molte meno persone, e va impostato come tale invece che presentato come lo stesso lavoro.
+Abbiamo già visto altri due confronti nelle puntate precedenti: [la separazione delle classifiche Esordienti nella prima](/blog/ciclismo-giovanile-di-chi-stiamo-parlando/) e [il peso del mese di nascita nella seconda](/blog/ciclismo-giovanile-a-che-eta-si-riconosce-un-futuro-professionista/). I dati raccolti comprendono anche gli esiti di carriera di **51 atlete italiane** nelle squadre di prima e seconda divisione fra il 2020 e il 2025. Le categorie professionistiche femminili hanno però una storia diversa e più recente: applicare la stessa definizione usata per gli uomini non produrrebbe un confronto equivalente. Per studiare quei percorsi serve un’analisi dedicata.
 
 *Per approfondire, nel documento tecnico: <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#le-ragazze" target="_blank" rel="noopener">Le ragazze</a> e <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#le-cose-che-non-cambiano" target="_blank" rel="noopener">Le cose che non cambiano</a>.*
 
-## Quanto puoi fidarti di tutto questo
+## Quanto possiamo fidarci di questi risultati?
 
-È la domanda che andrebbe fatta a ogni studio e che quasi nessuno si fa. Un modello misurato sugli stessi dati con cui l'hai costruito si giudica da solo, e si giudica bene.
+Un modello può sembrare più efficace quando lo valutiamo sugli stessi dati usati per costruirlo. Per questo servono verifiche ulteriori.
 
-La prima verifica: il modello si sta illudendo? Lo ricostruisco **500 volte** su campioni estratti a caso e misuro ogni volta di quanto si sopravvaluta. La risposta è **0,001** di capacità predittiva, contro una soglia di allarme convenzionale cinquanta volte più grande[^validazione]. La fortuna non c'entra: sono modelli con due o tre parametri stimati su decine di professionisti per parametro, e a quel rapporto non resta spazio per adattarsi al rumore.
+La prima riguarda proprio questa possibile sopravvalutazione. Ripetendo la procedura su **500 campioni**, troviamo una differenza molto piccola: **0,001** di capacità predittiva[^validazione]. È un risultato rassicurante, pur senza garantire che il modello funzioni altrettanto bene in ogni altro contesto.
 
-La seconda: funziona su ragazzi che il modello non ha mai visto? Addestro sulle annate più vecchie e verifico sulle più recenti, che è il modo in cui lo useresti davvero. La capacità predittiva non cala, semmai sale, anche se le annate di verifica contengono soltanto 27 casi.
+La seconda verifica riguarda ragazzi che il modello non ha mai visto. Lo costruiamo sulle annate più vecchie e lo valutiamo sulle più recenti. La capacità predittiva non cala, ma il controllo riguarda soltanto **27 professionisti**: anche questo risultato richiede prudenza.
 
-La terza è quella che conta di più, perché diverse decisioni di questo studio erano difendibili ma non obbligate: cosa conti come professionismo, entro quale età, dove mettere la soglia del top. Le ho cambiate tutte, una alla volta. A seconda di cosa conto come professionismo il numero di professionisti passa **da 26 a 151**, mentre la capacità di distinguerli oscilla di **0,069**, cioè sette centesimi[^sensibilita]. Spostare la finestra d'età non cambia quasi nulla, perché quasi tutti i passaggi avvengono prima. Cambiando le definizioni, dunque, cambia moltissimo chi conta come arrivato e quasi niente quanto il rendimento giovanile lo distingua.
+Infine cambiamo, una alla volta, alcune scelte dello studio: la definizione di professionismo, la finestra d’età e le soglie del ranking. Il numero di professionisti varia da 26 a 151, mentre la capacità di distinguerli varia di **0,069**[^sensibilita]. Cambia molto chi viene contato come arrivato; la capacità del rendimento giovanile di distinguerlo resta più stabile.
 
-Poi c'è una cosa che non è una verifica statistica ma pesa quanto le altre. Tutto lo studio si regge sul riconoscere che un ragazzo in una classifica giovanile italiana e un corridore in un archivio internazionale sono la stessa persona. Di quei collegamenti ne ho **727**, e **707 sono esatti su nome più data di nascita completa**. Gli altri venti li ho controllati uno per uno, guardando solo nome e data e mai la carriera, per non farmi influenzare da come è finita. Nel farlo ho corretto **18 date di nascita**[^provenienza].
-
-Infine, quello che non posso sapere. Nessuna fonte pubblica altezza, peso, specialità, allenamento o numero di gare corse: di ogni ragazzo so dove è arrivato e non come ci è arrivato. I risultati ottenuti all'estero entrano in classifica solo se è il corridore a segnalarli, le gare su pista restano fuori, e i ragazzi tesserati con società straniere non entrano affatto. Sulla regione manca il denominatore. Ogni conclusione vale quindi a parità di ciò che la classifica registra, che è molto meno di quello che un allenatore vede da bordo strada.
+Restano informazioni che queste fonti non ci danno: altezza, peso, specialità, allenamento e numero di gare corse. Conosciamo i piazzamenti registrati, ma non tutto il percorso che li ha prodotti. Ogni conclusione vale quindi a parità di ciò che la classifica registra, che è molto meno di quello che un allenatore vede da bordo strada.
 
 *Per approfondire, nel documento tecnico: <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#quanto-regge-tutto-questo" target="_blank" rel="noopener">Quanto regge tutto questo</a> e <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#quanti-professionisti-e-perch%C3%A9-i-conteggi-non-coincidono" target="_blank" rel="noopener">Quanti professionisti, e perché i conteggi non coincidono</a>.*
 
 ## Cosa cambia, a seconda di dove stai
 
-**Se dirigi una società giovanile.** Il tuo problema è tenere in bici i ragazzi abbastanza a lungo perché si veda chi arriverà; indovinarlo prima conta molto meno. Il momento critico è il passaggio di fascia: un ragazzo che sta facendo esattamente quello che deve smette di ricevere riscontri, perché al primo anno di una categoria a lista unica prende poco più di un quarto dei posti a punti. Se lo sai, puoi dirglielo prima che succeda, invece di spiegarglielo dopo.
+**Per le società giovanili**. Possiamo aiutare i ragazzi ad affrontare i passaggi di categoria senza leggere ogni calo di risultati come un peggioramento. Al primo anno da Allievi, per esempio, i ragazzi raccolgono poco più di un quarto dei posti a punti, correndo anche contro avversari più grandi. Spiegare prima questo cambiamento può evitare aspettative poco realistiche.
 
-**Se alleni.** Il risultato conta, e conta da subito. Conta anche la direzione, purché il livello ci sia, e soprattutto nel verso brutto: fra i ragazzi forti, quelli che stavano calando sono arrivati sei volte meno di quelli che tenevano il passo. E uscire dalla classifica non è una bocciatura, visto che quasi un terzo di chi sparisce ricompare.
+**Per chi allena**. Guardiamo il livello insieme alla direzione del percorso. Fra i ragazzi di livello alto, la fascia di miglioramento più bassa ha avuto molti meno passaggi al professionismo. Questo suggerisce un approfondimento, non una bocciatura: la classifica non spiega da sola le ragioni di un calo.
 
-**Se sei un genitore.** Non c'è fretta. Nessuno diventa professionista prima dei diciannove anni, e il passaggio avviene in genere fra i ventuno e i ventitré: tutto quello che succede prima è preparazione, il verdetto arriva dopo. Se tuo figlio a diciotto anni è nel dieci per cento migliore d'Italia, sappi che dei ragazzi di quel gruppo al professionismo è arrivato quasi uno su due, e che chi ne sta al margine ne ha circa uno su tre. Moltissimo rispetto alla media, molto meno di una promessa. Sono frequenze di gruppo, e la probabilità di tuo figlio è un'altra cosa.
+**Per i genitori**. Un buon risultato giovanile merita attenzione, ma non è una promessa. Nel dieci per cento migliore della classifica a diciotto anni è arrivato al professionismo quasi un ragazzo su due. È una frequenza di gruppo, non una previsione completa sul futuro di un figlio.
 
-**Se selezioni per una rappresentativa.** Fino ai diciotto anni, qualunque soglia tu scelga, la maggioranza dei selezionati non arriverà: nel caso migliore poco più della metà, a tredici anni nove su dieci. Il criterio serve dunque a decidere chi guardare. Per escludere non va usato. Inoltre, selezionando a tredici anni stai in parte selezionando ragazzi nati a gennaio: guardare la data di nascita accanto al piazzamento non costa nulla.
+**Per chi seleziona**. Chiediamoci quanti futuri professionisti troviamo, quanti ne lasciamo fuori e cosa succederà agli esclusi. I risultati sostengono l’uso del ranking per orientare l’osservazione; invitano a maggiore prudenza quando lo usiamo per interromperla. Alle età più basse consideriamo anche il mese di nascita.
 
-**Per tutti.** Diffida dei gradienti spettacolari. Prima di credere che una variabile spieghi qualcosa, chiediti cosa servisse per finire nella casella più alta.
+**Per tutti**. Quando una percentuale sembra dare una risposta definitiva, guardiamo anche come è stata calcolata: chi comprende, chi lascia fuori e su quanti ragazzi si basa. Un numero utile per descrivere un gruppo può non bastare per decidere il futuro di un singolo atleta.
 
 ## Cosa resta
 
-Mettiamo un ragazzo di tredici anni che ha appena vinto la sua prima gara. Cosa possiamo dirgli?
+Un ragazzo di tredici anni ha appena vinto la sua prima gara. Possiamo riconoscere il valore di quello che ha fatto: il risultato racconta qualcosa delle sue capacità attuali e, nei dati, ha un legame con il futuro.
 
-Che quel risultato dice davvero qualcosa, e fingere di no sarebbe disonesto. Che nove volte su dieci non basterà, e che questo dipende da com'è fatto il problema: su di lui non dice niente. Che il tempo per capirlo è lungo, sei o sette anni, e che nel frattempo sparire da una classifica non vuol dire quasi niente.
+Per capire dove arriverà serviranno però altre stagioni e informazioni che una classifica non contiene. Un periodo senza punti, da solo, non basta a dichiarare finito il percorso.
 
-E che la cosa più importante che questi dati hanno da dire riguarda qualcun altro: chi, guardando la stessa classifica, decide di smettere di guardarlo.
+Questi numeri chiedono attenzione soprattutto a noi adulti, quando una classifica ci porta a decidere chi continuare a seguire e chi perdere di vista.
 
 ---
 
 > **Come lo sappiamo**
 >
-> Le due colonne che il post mette una accanto all'altra si chiamano sensibilità, cioè la quota di futuri professionisti che finisce dentro la selezione, e valore predittivo positivo, cioè la quota di selezionati che arriverà. Nessuno studio sul ciclismo giovanile basato sui risultati di gara aveva mai riportato il secondo.
+> Le due misure affiancate nel post si chiamano sensibilità, cioè la quota di futuri professionisti che finisce dentro la selezione, e valore predittivo positivo, cioè la quota di selezionati che arriverà. Nei materiali consultati per la rassegna degli studi basati sui risultati di gara non abbiamo trovato una misura esplicita del secondo.
 >
 > Il modello sui tempi è di sopravvivenza a tempo discreto, con una riga per ogni stagione in cui un atleta poteva diventare professionista e non lo era ancora; chi non ha ancora completato la finestra contribuisce le stagioni osservate senza essere contato come un no, e gli errori standard sono raggruppati per atleta.
 >
 > Le probabilità per percentile sono previsioni di un modello e non frequenze osservate, per cui vanno lette come ordini di grandezza.
+>
+> I collegamenti fra classifiche giovanili e archivio internazionale sono 727: 707 coincidono su nome e data di nascita completa. Gli altri venti sono stati verificati individualmente, considerando nome e data senza usare la carriera come criterio. Il controllo ha portato alla correzione di 18 date di nascita[^provenienza].
 >
 > Tutti i numeri di questa serie si rigenerano con un comando, e il documento tecnico completo (con i metodi, gli intervalli di confidenza e i limiti sezione per sezione) è pubblico insieme al codice che lo produce: <https://github.com/lucabnt/ciclismo-giovanile-vs-pro>. I post no, perché sono scritti a mano, ed è la ragione per cui ogni loro cifra viene confrontata con l'archivio dei risultati prima della pubblicazione.
 

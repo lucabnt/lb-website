@@ -19,7 +19,7 @@ aiTranslated: true
 originalLanguage: it
 ---
 
-*The second of four instalments. In the [first](/en/blog/ciclismo-giovanile-di-chi-stiamo-parlando/) we saw who these numbers describe: about one seventh of registered riders, those with at least one top-five finish. Here we address the question that started the study: at what age do race results say something about the future?*
+*The second of four instalments. In the [first](/en/blog/ciclismo-giovanile-di-chi-stiamo-parlando/) we saw whom these numbers refer to: about one seventh of registered riders, those with at least one top-five finish. Here we address the question that started the study: at what age do race results say something about the future?*
 
 Before looking at the data, there were good reasons to expect little to show at thirteen.
 
@@ -27,7 +27,7 @@ The literature suggested as much, because at younger ages performance is hard to
 
 <!-- DA COMPLETARE: un episodio concreto, anche senza nomi, se ne hai uno -->
 
-We could therefore expect a very weak signal, perhaps none at all. **The data show something different.**
+We might therefore have expected a very weak signal, perhaps none at all. **The data show something different.**
 
 ## Look before modelling
 
@@ -44,7 +44,7 @@ Placings are expressed as percentiles: 100 means top of the ranking, 50 the midd
 
 At eighteen the gap widens further, from 47 to 94.
 
-There is an elegant way to summarise how far apart two groups are. Take every possible pair consisting of a future professional and a future non-professional, and count how often the professional ranks ahead. At thirteen it happens in **74% of cases**, at eighteen in 89%[^punteggi]. On conventional scales, the separation at thirteen lies just above the boundary between medium and large. It is not an enormous signal, but it is a long way from the absence of information we might have expected.
+There is an elegant way to summarise how far apart two groups are. Take every possible pair consisting of a future professional and a future non-professional, and count how often the professional ranks ahead. At thirteen it happens in **74% of cases**, at eighteen in 89%.[^punteggi] On conventional scales, the separation at thirteen lies just above the boundary between medium and large. It is not an enormous signal, but it is a long way from the lack of information we might have expected.
 
 {{< figure
   src="/blog/ciclismo-giovanile-a-che-eta-si-riconosce-un-futuro-professionista/punteggi_delta.webp"
@@ -56,7 +56,7 @@ That 74% is not a youngster's probability of becoming professional: it tells us 
 
 First, the comparison is **among riders ranked that year**, not among all youngsters. Anyone who never scored a point at thirteen is absent from both the professional and non-professional groups. The figure describes separation within the ranking; it says nothing about everyone else.
 
-Second, the professionals in this comparison are **future** professionals: youngsters whose outcomes we know now, but who did not have them written on their foreheads at thirteen. It is a retrospective comparison.
+Second, the professionals in this comparison are **future** professionals: we know their outcomes now, but at thirteen nobody knew who would make it. It is a retrospective comparison.
 
 Nor can 74% and 89% be compared directly, because they concern different people. At thirteen the calculation covers everyone ranked then; at eighteen it covers only those still ranked, a much smaller, already selected group. A clean comparison using the same people at every age comes later.
 
@@ -64,7 +64,7 @@ Nor can 74% and 89% be compared directly, because they concern different people.
 
 There is another way to examine the same data. Instead of dividing riders into those who made it and those who did not, we split them into four groups by how far they went: non-professionals; professionals who never entered the world's top five hundred; those who reached that group; and those who reached the top hundred of the PCS Ranking on <a href="https://www.procyclingstats.com/" target="_blank" rel="noopener">procyclingstats.com</a>.
 
-At thirteen, the medians for the first three groups are 49, 69 and 89[^punteggi]. An **ordered gradient** emerges: the further someone eventually went, the higher they already ranked at thirteen. Random noise does not produce that sort of staircase, which is the main reason we can regard that 74% as a credible signal.
+At thirteen, the medians for the first three groups are 49, 69 and 89.[^punteggi] An **ordered gradient** emerges: the further someone eventually went, the higher they already ranked at thirteen. Random noise does not produce that sort of staircase, which is the main reason we can regard that 74% as a credible signal.
 
 The final step breaks the pattern, however. Those who reached the world's top hundred had a median of 84 at thirteen, below the previous group. There are six riders, a very small sample in which a median can do almost anything.
 
@@ -74,7 +74,7 @@ The final step breaks the pattern, however. Those who reached the world's top hu
 
 This is the most reasonable doubt to raise, and it needs addressing.
 
-Within a birth year, someone born in January has up to twelve months' extra development over someone born in December. The data show it clearly: in the Esordienti ranking, first-quarter births are **2.13 times** as common as last-quarter births, allowing for Italy's actual birth distribution[^rae]. If a placing at thirteen mainly reflected how early a youngster had developed, that 74% might tell us more about maturation than future sporting success.
+Within a birth year, someone born in January has up to twelve months' extra development over someone born in December. The data show it clearly: in the Esordienti ranking, first-quarter births are **2.13 times** as common as last-quarter births, allowing for Italy's actual birth distribution.[^rae] If a placing at thirteen mainly reflected how early a youngster had developed, that 74% might tell us more about maturation than future sporting success.
 
 To test it, we add relative age to the model, measured in days between birth and year end, and observe how much the placing effect changes. **Nothing happens.** The odds multiplier for ten percentile points is 1.40 before and 1.40 after; discrimination moves from 0.736 to 0.738, a change in the third decimal place. Relative age as the sole predictor reaches **0.513**. Essentially a coin toss.
 
@@ -88,7 +88,7 @@ Does being born in January help, then? Very much, but **earlier**, in entering t
 
 Women's cycling offers an independent way to test that explanation. It is one of the few questions in this series we can address in the same way for girls and boys. Prediction questions require knowing who made it, and there is no comparable female outcome, for reasons we will examine in the [fourth instalment](/en/blog/ciclismo-giovanile-scegliere-chi-seguire/); here only birth dates are needed. Girls mature earlier, and by thirteen many have already passed through puberty, while developmental differences among boys born in January and December are at their greatest. If the advantage comes from maturation, it should be weaker among girls.
 
-**It is**: at thirteen, using the same birth cohorts and demographic expectations, first-quarter births are **1.98 times** as common as last-quarter births among boys and **1.51 times** among girls. The difference between sexes passes a statistical test (p = 0.007)[^rae]. The male figure differs from the earlier 2.13 because this comparison includes only birth cohorts also observed among girls: 5,544 boys and 874 girls.
+**It is**: at thirteen, using the same birth cohorts and demographic expectations, first-quarter births are **1.98 times** as common as last-quarter births among boys and **1.51 times** among girls. The difference between boys and girls is statistically significant (p = 0.007).[^rae] The male figure differs from the earlier 2.13 because this comparison includes only birth cohorts also observed among girls: 5,544 boys and 874 girls.
 
 After fourteen, however, the lines stop resembling each other. That part does not fit. Among boys the imbalance decreases category by category. Among girls it falls faster, becoming indistinguishable from demographic expectations among Allieve (1.20, p = 0.14), before rising among juniors to 1.42, once again distinguishable. With 681 and 370 riders, those estimates have wide intervals: we cannot draw firm conclusions from them. Only the thirteen-year-old comparison supports reasonably confident conclusions: 874 girls and a clear difference from boys.
 
@@ -102,7 +102,7 @@ This is indirect corroboration: men's and women's cycling differ in many ways be
 
 ## Exactly how much the ranking matters
 
-A model lets us put a number on the advantage: what difference do ten percentile points make[^univariati]?
+A model lets us put a number on the advantage: what difference do ten percentile points make?[^univariati]
 
 | category | age | odds multiplier |
 |---|---|---|
@@ -132,7 +132,7 @@ Another detail looks like a finding but is not. In categories with a single list
 
 Allievi placings help predict future professionals. But how much do they add to what Esordienti results already told us?
 
-Take the 102 riders ranked in every category. They form a small, highly selected group, but allow predictions to be compared on the same athletes. Begin with birth year alone, then add results from Esordienti, Allievi, juniors and finally Under 23s, measuring the predictive gain at each step[^annidati].
+Take the 102 riders ranked in every category. They form a small, highly selected group, but allow predictions to be compared on the same athletes. Begin with birth year alone, then add results from Esordienti, Allievi, juniors and finally Under 23s, measuring the predictive gain at each step.[^annidati]
 
 | the model knows… | how often it ranks the future professional ahead | uncertainty interval |
 |---|---|---|
@@ -162,7 +162,7 @@ Three different routes, the same conclusion: almost all useful information lies 
 
 So far we have considered only ranked riders. Now we try treating absence as worse performance than any ranked placing.
 
-We find a different result depending on age. At eighteen, putting absent riders at the bottom **raises** discrimination from 89% to **94%**. By then absence is a strong signal: only 3 of the 77 future professionals were unranked. At thirteen it **lowers** discrimination from 74% to **69%**, because only 59 of the 77 were ranked then; the other eighteen would be placed at the bottom despite eventually making it[^sensibilita].
+We find a different result depending on age. At eighteen, putting absent riders at the bottom **raises** discrimination from 89% to **94%**. By then absence is a strong signal: only 3 of the 77 future professionals were unranked. At thirteen it **lowers** discrimination from 74% to **69%**, because only 59 of the 77 were ranked then; the other eighteen would be placed at the bottom despite eventually making it.[^sensibilita]
 
 Absence is information, but only later. This is a more precise version of a point from the [first instalment](/en/blog/ciclismo-giovanile-di-chi-stiamo-parlando/): a name missing from a ranking has not necessarily been rejected, and almost a third of those who disappear return.
 

@@ -3,7 +3,7 @@ url: /blog/ciclismo-giovanile-conta-di-piu-quanto-vai-forte-o-quanto-migliori/
 lang: it
 locale: it_IT
 title: "Nel ciclismo giovanile conta di più quanto vai forte o quanto migliori?"
-description: "Livello corrente e direzione insieme: fra i ragazzi forti, chi cala di rendimento diventa professionista dieci volte meno."
+description: "Quanto aggiunge la crescita al livello? Seguiamo i percorsi nelle classifiche giovanili per capire cosa raccontano sul futuro professionistico."
 date: 2026-10-16T10:00:00+02:00
 draft: true
 series: ["Ciclismo giovanile e professionismo"]
@@ -20,9 +20,9 @@ TocOpen: false
 #     alt: "..."
 ---
 
-*Terza di quattro puntate. Nella [seconda](/blog/ciclismo-giovanile-a-che-eta-si-riconosce-un-futuro-professionista/) ho misurato quanto il piazzamento in classifica predica il professionismo, e da che età. Qui aggiungo la direzione in cui un ragazzo si sta muovendo, e poi smonto tre cose che nel ciclismo giovanile molti danno per scontate.*
+*Terza di quattro puntate. Nella [seconda](/blog/ciclismo-giovanile-a-che-eta-si-riconosce-un-futuro-professionista/) abbiamo visto quanto il piazzamento in classifica aiuti a distinguere i futuri professionisti, e da che età. Qui seguiamo anche il percorso dei ragazzi: quanto aggiunge sapere se stanno guadagnando o perdendo terreno?*
 
-Due ragazzi, sedici anni tutti e due. Il primo ha avuto un rendimento costante, da tre stagioni attorno al settantacinquesimo percentile della sua categoria: regolare, nessuna sorpresa, nessun crollo. Il secondo tre anni fa era al quarantesimo, poi al cinquantacinquesimo, poi al settantesimo, e adesso è al novantesimo. Dovendo puntare su uno solo, quale sceglieresti?
+Un ragazzo è fra i migliori della sua categoria, ma da qualche stagione perde terreno. Un altro sta più indietro e continua ad avvicinarsi. Quanto dovrebbe pesare questa differenza quando decidiamo chi seguire? Nella puntata precedente abbiamo guardato il piazzamento a ogni età. Ora seguiamo il percorso: oltre al livello raggiunto, conta anche se un ragazzo sta salendo o scendendo in classifica?
 
 Per una volta i dati possono rispondere. Le classifiche giovanili sono una serie storica, e da una serie storica si legge dove uno sta e anche dove sta andando.
 
@@ -30,7 +30,9 @@ Prima però mettiamoci d'accordo su cosa significhi «migliorare», perché la p
 
 ## La risposta senza coefficienti
 
-Anche qui si può cominciare senza statistica: dividi i ragazzi in tre gruppi per livello e in tre per direzione, e conti quanti sono arrivati al professionismo in ciascuna delle nove caselle[^traiettorie].
+Per descrivere ogni percorso usiamo due misure: il livello stimato attorno ai quindici anni e la direzione del piazzamento nelle stagioni osservate fino ai diciotto. Più avanti vedremo come vengono ricavate.
+
+Cominciamo dal risultato più leggibile: dividiamo i ragazzi in tre gruppi per livello e in tre per miglioramento, poi contiamo quanti sono diventati professionisti in ciascuna delle nove combinazioni[^traiettorie].
 
 | | miglioramento basso | medio | alto |
 |---|---|---|---|
@@ -43,26 +45,16 @@ Anche qui si può cominciare senza statistica: dividi i ragazzi in tre gruppi pe
 {{< figure
   src="traiettorie_incrocio.webp"
   alt="Barre raggruppate per livello e per miglioramento: 20,5% dove livello alto e forte crescita coincidono, 13,3% per il livello alto con miglioramento medio, 5,9% per il livello medio in forte crescita, 2,1% per il livello alto in calo."
-  caption="Il fondo del grafico non è schiacciato per caso: nel terzo più basso il miglioramento non salva quasi nessuno."
+  caption="Nel gruppo di livello più basso i passaggi al professionismo sono pochi in tutte e tre le fasce di miglioramento. Le differenze maggiori si vedono nel gruppo di livello alto."
 >}}
 
-La tabella si legge in due direzioni, e la risposta sta nelle due letture insieme.
+La prima cosa che vediamo è il peso del livello: **58 dei 74 futuri professionisti vengono dal terzo più alto**, 13 da quello intermedio e 3 da quello più basso. La crescita conta, ma il livello resta importante.
 
-In orizzontale, lungo la riga alta: fra i ragazzi di livello alto, chi stava anche migliorando è diventato professionista nel **20,5%** dei casi, chi stava calando si è fermato al **2,1%**. Quasi dieci volte meno, a parità di livello.
+Guardiamo poi i ragazzi di livello alto. Nel gruppo con il miglioramento più basso diventa professionista il 2,1%; nel gruppo intermedio il 13,3%; in quello con il miglioramento più alto il 20,5%. La differenza maggiore è già fra il primo e il secondo gruppo.
 
-Quel salto però non è distribuito lungo la riga, ed è la cosa che mi ha sorpreso di più. Sta quasi tutto fra chi calava e chi teneva. Già il gruppo di livello alto con un miglioramento soltanto **medio** arriva al **13,3%**, sei volte in più del gruppo in calo; da lì al 20,5% dei più in crescita si guadagna appena una volta e mezza. Per stare fra i ragazzi che arrivano una gran pendenza non serve. Basta non scendere.
+C’è un altro confronto interessante: fra i ragazzi di livello medio con il miglioramento più alto sono arrivati 11 su 186, il 5,9%. Fra quelli di livello alto con il miglioramento più basso sono arrivati 7 su 333, il 2,1%.
 
-In verticale si vede quanto pesi il livello, e i conteggi lo dicono meglio delle percentuali. I tre terzi contengono praticamente lo stesso numero di ragazzi, 634, 634 e 635, e i settantaquattro futuri professionisti si dividono così: **58 nel terzo alto, 13 in quello medio, 3 in quello basso**. Quattro su cinque vengono dal terzo superiore. La riga bassa, poi, è piatta: fra i ragazzi in forte crescita si passa dallo 0,7% del livello basso al 20,5% di quello alto, e nel terzo più basso il miglioramento non salva quasi nessuno. Chi parte da lontano, salendo, cambia la propria posizione in classifica molto più di quanto cambi l'esito.
-
-Poi c'è la casella che per me vale la puntata, quella dei ragazzi di livello medio in forte crescita: **5,9%**, quasi tre volte il 2,1% dei ragazzi di livello alto in calo. Il confronto regge anche in assoluto, che è il modo più severo di guardarlo: quella casella ha prodotto **undici** professionisti su 186 atleti, i forti in discesa **sette** su 333. Quattro in meno, con quasi il doppio dei ragazzi.
-
-Serve un'avvertenza. Come **gruppi**, i mediocri in salita hanno fatto meglio dei forti in discesa. Come singoli no: questi sono tassi di due insiemi di ragazzi e non l'esito di una sfida fra due di loro, e in ciascuno dei due gruppi la stragrande maggioranza non è arrivata. Perfino nella casella migliore dell'intera tabella, quella dei forti in crescita, quasi l'80% dei ragazzi non arriva. Inoltre undici professionisti sono pochi: quella casella va presa come un'indicazione, non come una stima precisa.
-
-Se alleni, è la riga che ti riguarda di più, perché è l'unica che autorizzi a scommettere su un ragazzo che oggi non è fra i più forti. Le altre otto caselle confermano quello che già sapevi. Questa dice che un ragazzo di metà classifica che sale da due stagioni merita attenzione quanto un ragazzo forte che sta scendendo. E se devi guardarne uno solo dei due, i dati non ti dicono di guardare il secondo.
-
-<!-- DA COMPLETARE: un caso che hai visto di persona, un ragazzo di metà classifica in salita, se ne hai uno -->
-
-**Il livello è una condizione, il miglioramento un moltiplicatore**: senza il primo il secondo non basta, con il primo il secondo cambia tutto.
+Non possiamo usare queste frequenze per scegliere con sicurezza fra due singoli ragazzi. I professionisti sono pochi e anche nella combinazione più favorevole quasi quattro ragazzi su cinque non sono arrivati. Possiamo però riconoscere un limite della sola classifica: **il livello non racconta tutto il percorso**.
 
 ## Gli stessi numeri, con un modello
 
@@ -75,53 +67,45 @@ A ogni ragazzo si può adattare una retta che descrive il suo percentile in funz
 
 *«odds» sono il rapporto fra la probabilità di arrivare e quella di non arrivare. Con un esito raro moltiplicare le odds per 3,35 moltiplica la probabilità per circa tre, dal 2,7% all'8,5%: non sono punti percentuali in più. Una deviazione standard di miglioramento vale circa 3,1 punti di percentile all'anno*
 
-Tre punti di percentile all'anno sembrano pochi. Sono nove punti in tre stagioni, il salto da un settantesimo percentile a un settantanovesimo: lontano dalla traiettoria spettacolare del ragazzo dell'esempio. È il movimento di chi guadagna qualche posizione ogni anno mentre gli altri restano fermi o scendono.
+Tre punti di percentile all’anno sembrano pochi. Accumulati in tre anni, sono circa nove punti: il passaggio dal settantesimo al settantanovesimo percentile. Parliamo quindi anche di progressi graduali, che diventano visibili seguendo più stagioni.
 
 Contano tutti e due, e il miglioramento non è il parente povero. Un modello che conosce solo il livello mette davanti il futuro professionista in circa 85 **coppie** su 100; aggiungendo la pendenza si sale a 92. Sapere dove sta andando un ragazzo dice dunque qualcosa che il suo livello attuale non dice. Guarda però l'ampiezza del secondo intervallo, da 2,54 a 4,51: il coefficiente su cui si regge il titolo del post è anche il meno preciso dei due, e va letto come «grande» più che come «3,35».
 
-Una precauzione tecnica, che è anche il motivo per cui l'analisi non è banale. Un ragazzo con due sole stagioni osservate avrebbe una pendenza calcolata su due punti, e due punti fanno sempre una retta. Basta una stagione storta, una caduta o un calendario diverso perché quella retta dica «in caduta libera» o «in ascesa» senza che sia successo niente del genere.
+Con due sole stagioni, una giornata storta o un calendario diverso possono far sembrare un ragazzo in forte crescita o in forte calo. Per questo usiamo un modello più prudente quando le osservazioni sono poche: avvicina quelle traiettorie all’andamento medio e lascia più spazio alle differenze sostenute da molte stagioni.
 
-Il modello che ho usato stima le rette tutte insieme invece che una per una, e tira quelle basate su pochi dati verso la media della popolazione: a chi ha due stagioni assegna una pendenza prudente, a chi ne ha sei crede molto di più. È il comportamento giusto, e ha due conseguenze. Le traiettorie più marcate che vedi nella tabella arrivano quasi tutte da ragazzi di cui ho molte osservazioni. E chi rifacesse il conto a mano, con una retta per ciascuno, otterrebbe pendenze molto più estreme e molto meno affidabili: la tabella delle nove caselle sembrerebbe più netta di quanto i dati consentano.
+Le traiettorie della tabella tengono quindi conto anche di quanto conosciamo ciascun ragazzo. Una semplice linea fra due piazzamenti darebbe spesso un’impressione molto più estrema.
 
 *Per approfondire, nel documento tecnico: <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#conta-il-livello-o-il-miglioramento" target="_blank" rel="noopener">Conta il livello o il miglioramento?</a> e <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#la-stessa-risposta-senza-coefficienti" target="_blank" rel="noopener">La stessa risposta senza coefficienti</a>.*
 
 ## Non sarà di nuovo la durata della carriera?
 
-Il sospetto è ovvio e tecnicamente fondato. Una pendenza marcata è anche un indizio di carriera lunga, e una carriera lunga correla con l'arrivare. Sto forse misurando chi è rimasto di più, e lo chiamo chi migliorava?
+Le traiettorie più marcate appartengono spesso ai ragazzi che osserviamo più a lungo. Dobbiamo quindi verificare se il miglioramento aggiunga davvero informazione o se stiamo misurando soprattutto la durata del percorso.
 
-Il controllo si fa aggiungendo al modello il numero di stagioni osservate: se il miglioramento fosse un travestimento della durata, il suo coefficiente crollerebbe. Passa invece da 3,35 a **3,09**. Si riduce e resta grande: il miglioramento non sembra essere soltanto un travestimento della durata della carriera. Quel «soltanto» va preso alla lettera, perché il numero di stagioni è una misura sola di quella durata. Il sospetto si ridimensiona; sparito non è.
+Aggiungiamo al modello il numero di stagioni osservate. Il moltiplicatore associato al miglioramento passa da **3,35** a **3,09**: si riduce, ma resta elevato. La durata non sembra quindi spiegare tutta l’associazione. Il controllo ridimensiona il dubbio senza eliminarlo, perché il numero di stagioni non descrive ogni aspetto della permanenza nel ciclismo.
 
-Restano tre limiti. Il primo: le pendenze sono stimate su chi ha almeno due stagioni in classifica, cioè **1&nbsp;903 ragazzi, fra cui 74 professionisti**, e di un ragazzo alla sua prima stagione a punti questo post non dice niente. È la situazione di quasi un ragazzo su tre. Il secondo: chi ha almeno due stagioni non è un campione a caso, perché restare in classifica dipende anche dall'andare forte. La risposta esatta è quindi «fra i ragazzi di cui posso osservare una traiettoria, la direzione aggiunge informazione». Il terzo riguarda cosa ci sia dentro una pendenza: salire di percentile può voler dire essere cresciuti, aver cominciato ad allenarsi sul serio, essere passati a una squadra che ti porta alle gare giuste, o semplicemente che chi ti stava davanti ha smesso. Il modello non le distingue.
+Restano tre limiti. Il primo: le pendenze sono stimate su chi ha almeno due stagioni in classifica, cioè **1&nbsp;903 ragazzi, fra cui 74 professionisti**, e di un ragazzo alla sua prima stagione a punti questo post non dice niente. È la situazione di quasi un ragazzo su tre. Il secondo: chi ha almeno due stagioni non è un campione a caso, perché restare in classifica dipende anche dall'andare forte. La conclusione riguarda quindi i ragazzi di cui possiamo osservare una traiettoria: in questo gruppo, la direzione aggiunge informazione al livello. Il terzo riguarda cosa ci sia dentro una pendenza: salire di percentile può voler dire essere cresciuti, aver cominciato ad allenarsi sul serio, essere passati a una squadra che ti porta alle gare giuste, o semplicemente che chi ti stava davanti ha smesso. Il modello non le distingue.
 
 *Per approfondire, nel documento tecnico: <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#non-sar%C3%A0-di-nuovo-la-durata-della-carriera" target="_blank" rel="noopener">Non sarà di nuovo la durata della carriera?</a> e <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#il-modello-si-sta-giudicando-troppo-bene" target="_blank" rel="noopener">Il modello si sta giudicando troppo bene?</a>.*
 
-## Tre cose che sembrano contare
+Fin qui abbiamo guardato il percorso in classifica. Consideriamo ora anche il contesto: i cambi di squadra, la società di partenza e la regione. Sono aspetti che possono accompagnarsi a carriere diverse, ma interpretarli richiede qualche precauzione.
 
-Chi frequenta il ciclismo giovanile sa benissimo che contano tre cose. I ragazzi nati a gennaio hanno quasi un anno di sviluppo in più. Chi entra in una squadra che sa lavorare arriva, chi resta nel club di paese si perde. E nascere in Veneto o in Lombardia vuol dire gare tutte le domeniche, mentre altrove ne hai una al mese.
+## Cambiare squadra aiuta?
 
-Sono tre affermazioni ragionevoli. Due si vedono chiaramente nei dati. **E nessuna delle tre significa quello che sembra.**
+Fra chi non ha mai cambiato società diventa professionista lo **0,68%**; fra chi ha cambiato tre volte, il **7,32%**[^contesto]. Guardando soltanto queste percentuali, potremmo pensare che cambiare squadra favorisca il passaggio al professionismo.
 
-**Il mese di nascita** l'ho già raccontato nella [seconda puntata](/blog/ciclismo-giovanile-a-che-eta-si-riconosce-un-futuro-professionista/), e lo riprendo in breve perché serve al confronto. Il vantaggio di chi è nato a inizio anno è grosso e si spegne con l'età: a tredici anni i nati nel primo trimestre sono 2,13 volte quelli dell'ultimo, in Under 23 il rapporto scende a 1,09. Fra chi arriva, invece, non si vede: 1,5 contro l'1,7 di tutti i classificati, uno scarto che non si distingue dal caso. E il confronto con le ragazze, che maturano prima e a tredici anni hanno uno squilibrio più basso, dice che quel vantaggio è soprattutto sviluppo. Fa entrare in classifica, e con il talento non c'entra: chi seleziona a tredici anni sta in parte selezionando la data di nascita.
+Consideriamo però anche le stagioni osservate: sono in media **1,8** per chi non ha mai cambiato società e **6,0** per chi ha cambiato tre volte. Chi resta più a lungo nel ciclismo ha anche più occasioni di cambiare squadra. Quando confrontiamo percorsi della stessa durata, dei 6,64 punti percentuali di differenza ne resta al massimo 1,16.
 
-*Per approfondire, nel documento tecnico: <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#leffetto-dellet%C3%A0-relativa" target="_blank" rel="noopener">L'effetto dell'età relativa</a> e <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#chi-arriva-fra-quelli-entrati" target="_blank" rel="noopener">Chi arriva, fra quelli entrati</a>.*
-
-## Cambiare società, che sembra un fattore dieci
-
-Il dato grezzo è spettacolare: fra chi non ha mai cambiato società e chi ha cambiato tre volte il tasso di professionismo passa dallo **0,68%** al **7,32%**[^contesto]. Un titolo già pronto: cambiare squadra aiuta.
-
-C'è però una colonna che nessuno guarda, quella delle stagioni corse. Chi non ha mai cambiato ne ha corse 1,8 in media, chi ha cambiato tre volte 6,0. Per cambiare società devi esserci ancora. Infatti, a parità di stagioni corse, dei 6,64 punti percentuali di divario ne resta al massimo 1,16.
-
-C'è anche una seconda ragione per non costruirci niente sopra: il cambio è in larga parte obbligato, perché non tutte le società sono attive in tutte le categorie. Da Juniores a Under 23 cambia squadra il **96,3%** dei ragazzi. Quanto in quel numero sia scelta e quanto necessità, con questi dati non si misura. La mobilità resta dunque una variabile che descrive quanto lontano sei arrivato; a spiegarlo non serve.
+C'è anche una seconda ragione per non costruirci niente sopra: il cambio è in larga parte obbligato, perché non tutte le società sono attive in tutte le categorie. Da Juniores a Under 23 cambia squadra il **96,3%** dei ragazzi. Quanto in quel numero sia scelta e quanto necessità, con questi dati non si misura. Il numero di cambi descrive quindi anche la durata e i passaggi del percorso. Da questo confronto non possiamo ricavare quanto cambiare squadra aiuti davvero.
 
 *Per approfondire, nel documento tecnico: <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#lo-stesso-confronto-a-parit%C3%A0-di-carriera" target="_blank" rel="noopener">Lo stesso confronto, a parità di carriera</a> e <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#cambiare-societ%C3%A0-spesso-non-%C3%A8-una-scelta" target="_blank" rel="noopener">Cambiare società spesso non è una scelta</a>.*
 
 ## La società di partenza e la regione
 
-Le altre due candidate si esauriscono anche più in fretta.
+Guardiamo anche la società di partenza. Fra chi comincia in un club che nelle coorti precedenti non aveva prodotto professionisti, arriva il **2,90%**; fra chi parte dai club con i risultati migliori, il **3,79%**. La differenza osservata non si distingue dal caso. Inoltre, il **67%** dei ragazzi comincia in una società che nelle coorti precedenti non aveva prodotto nemmeno un professionista.
 
-La società da cui parti dice pochissimo. Si va dal **2,90%** di professionisti fra chi comincia in un club che non ne aveva mai prodotti al **3,79%** fra chi comincia nei migliori: una differenza che, messa alla prova con un test, non si distingue dal caso. C'è anche una ragione strutturale: il **67%** dei ragazzi parte da una società che nelle coorti precedenti non aveva prodotto nemmeno un professionista.
+Sul territorio vediamo una concentrazione netta: **Lombardia, Veneto e Toscana raccolgono circa il 51% dei ragazzi in classifica**. Questo descrive dove si concentra il gruppo osservato, ma non basta a stabilire dove un ragazzo abbia più possibilità di arrivare. I gruppi regionali sono piccoli e mancano i dati necessari per confrontare territori con numeri e opportunità diversi.
 
-La regione è la più frustrante, perché è l'unica domanda a cui non posso rispondere. La concentrazione geografica esiste ed è forte: Lombardia, Veneto e Toscana da sole raccolgono circa il **51%** dei ragazzi in classifica. I tassi di professionismo per regione, però, restano illeggibili anche allargando a nove annate e 4&nbsp;823 atleti: si va dal 6,32% del Trentino Alto Adige allo 0% della Campania, e bastano due o tre ragazzi in più o in meno per riordinare la classifica. La domanda giusta sarebbe se, a parità di corridori e di gare disponibili, la regione aggiunga qualcosa. Per farla servirebbe sapere quanti tesserati ci sono in ogni regione, e quel dato non è pubblicamente disponibile. Preferisco dichiararlo che riempire il vuoto con una classifica che non significa niente.
+Questi dati ci aiutano a descrivere il contesto; non permettono di stabilire quanto la società di partenza o la regione incidano sul passaggio al professionismo.
 
 *Per approfondire, nel documento tecnico: <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#regione-e-societ%C3%A0-di-partenza" target="_blank" rel="noopener">Regione e società di partenza</a>.*
 
@@ -133,13 +117,13 @@ Vale per i cambi di società, per il numero di stagioni corse, per il numero di 
 
 ## Cosa resta
 
-Torno ai due ragazzi dell'inizio. I dati dicono di puntare sul secondo, ma soltanto perché il novantesimo percentile è vero. Vale la crescita che porta in alto. Un ragazzo che passa dal ventesimo al quarantesimo percentile sta migliorando esattamente quanto uno che passa dal settantesimo al novantesimo, e le loro probabilità non si somigliano per niente.
+Torniamo ai due ragazzi dell’inizio. I dati non scelgono al posto di un allenatore, ma ci aiutano a capire perché valga la pena seguirli entrambi: il livello e la traiettoria raccontano aspetti diversi del percorso.
 
-In pratica, quando guardi una scheda: **prima il livello, poi la direzione**. Il livello dice se il ragazzo è nella zona in cui la domanda ha senso; la direzione dice, dentro quella zona, quanto convenga crederci. E conta soprattutto nel verso brutto: fra i ragazzi forti, quelli che stavano scendendo sono arrivati sei volte meno di quelli che stavano semplicemente tenendo il passo.
+Quando analizziamo il profilo di un atleta, consideriamo quindi **il livello insieme alla direzione**. Fra i ragazzi di livello alto, il gruppo con il miglioramento più basso ha avuto molti meno passaggi al professionismo. Un ragazzo di livello intermedio che cresce merita attenzione anche se non è fra i primi.
 
-Anche il risultato negativo è servito: senza il controllo sulle stagioni corse avrei pubblicato che cambiare squadra aiuta, con un fattore dieci a sostegno, e sarebbe stato falso.
+Abbiamo visto anche quanto sia facile leggere male un’associazione: senza considerare le stagioni osservate, avremmo potuto attribuire ai cambi di squadra un vantaggio che il confronto grezzo non permette di dimostrare.
 
-A questo punto sembrerebbe esserci tutto per costruire un criterio di selezione: prendi i più forti, e fra questi i più in crescita. Nella [prossima puntata](/blog/ciclismo-giovanile-scegliere-chi-seguire/) provo a farlo davvero, e a contare quanti ne prenderesti a vuoto.
+Resta una domanda pratica: quanto possiamo fidarci di una lista di ragazzi da seguire? Nella [prossima puntata](/blog/ciclismo-giovanile-scegliere-chi-seguire/) partiamo dal criterio più semplice, il piazzamento in classifica, e contiamo quanti futuri professionisti intercetta e quanti ne lascia fuori.
 
 ---
 

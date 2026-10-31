@@ -20,7 +20,7 @@ aiTranslated: true
 originalLanguage: it
 ---
 
-*This series looks at Italian youth cycling rankings and the transition to professional racing. Before presenting my numbers, I explain what research already knows and, above all, who the numbers in the following instalments describe. That is where almost all the mistakes lie.*
+*This series looks at Italian youth cycling rankings and the transition to professional racing. Before turning to the results, we look at what research already knows and, above all, who the numbers in the following instalments describe. That is where almost all the mistakes lie.*
 
 ## Twenty years of research in a few paragraphs
 
@@ -46,19 +46,19 @@ Below fifteen, by contrast, there may be little to see. A Belgian study of thirt
 
 Then there are laboratory tests, where the finding sounds odd: threshold and watts per kilogram describe a youngster's current level well, but add little about where they will end up. One exception is a Spanish study of 65 Under 23 riders, in which an eight-minute time trial separates future professionals fairly well. How well? Of those the test identified as future professionals, 54 per cent actually made it. Just over half, among riders around twenty who had already been heavily selected.
 
-Finally, birth month: youth populations contain more riders born early in the year than demographics would predict, particularly at younger ages, while the effect is absent among those who make it. A study of almost three thousand Continental-team riders finds it mainly among those who did not succeed. In the [second instalment](/en/blog/ciclismo-giovanile-a-che-eta-si-riconosce-un-futuro-professionista/) I repeat that calculation on my own data, because it is the most reasonable doubt to raise about a finding at thirteen.
+Finally, birth month: youth populations contain more riders born early in the year than demographics would predict, particularly at younger ages, while the effect is absent among those who make it. A study of almost three thousand Continental-team riders finds it mainly among those who did not succeed. In the [second instalment](/en/blog/ciclismo-giovanile-a-che-eta-si-riconosce-un-futuro-professionista/) we repeat that calculation using the study data, because it is the most reasonable doubt to raise about a finding at thirteen.
 
 One finding recurs everywhere: the overwhelming majority of successful youngsters still do not make it. Every number needs its denominator attached; lining them up as though they measured the same thing is misleading. Two in three junior Worlds riders never contest a major elite event. Fifteen per cent of the top ten in Italy's Allievi ranking, for fifteen- and sixteen-year-olds, subsequently scored WorldTour points, at the sport's highest level. Five out of forty-eight riders in a complete Dutch year group reached a Continental team, the third UCI tier, or higher[^rassegna]. Both the starting populations, selected riders, the top ten or everyone, and the destinations differ. The scale changes each time; the direction stays the same.
 
-Two gaps remain, and this series tries to fill them. Nobody has examined thirteen- and fourteen-year-olds using race results from a large population without prior selection: the Italian studies begin with Allievi, while the Belgian study includes Under 15s only if they had already achieved a top-ten finish. And no race-results study has reported **how many of the youngsters identified actually make it**. Yet that is precisely the number you would use to make a decision.
+Two gaps remain, and this series tries to fill them. The studies examined do not appear to include an analysis of thirteen- and fourteen-year-olds using race results from a large population without prior selection: the Italian studies begin with Allievi, while the Belgian study includes Under 15s only if they had already achieved a top-ten finish. And in the consulted materials from race-results studies, we have not found a measure of **how many of the youngsters identified actually make it**. Yet that is precisely the number you would use to make a decision.
 
-There are also two things the studies never disclose. I found neither in any of the twenty-two studies I summarised[^rassegna], and noticed them while trying to reproduce the calculations.
+There are also two aspects that, as far as the materials consulted for the review of twenty-two studies[^rassegna] show, are not always explicit. They are worth considering when we interpret and compare results.
 
-The first is how many riders there were to begin with. Worlds selections, the top ten and ranked youngsters are already products of selection; nobody states how many came before. Without that number, percentages from two studies cannot be compared: they rest on different populations.
+The first is how many riders there were to begin with. Worlds selections, the top ten and ranked youngsters are already products of selection, and the size of the original population is not always stated. Without that number, percentages from different studies are difficult to compare: they rest on different populations.
 
-The second is that a youngster who stops appearing in rankings is often counted as having stopped racing. That is how the funnels in this literature are built: anyone absent from the next category is counted as lost. Nobody has checked how many disappearances are riders still racing without scoring points, or returning the following year. Later in this instalment I measure how many return. It is not a small number.
+The second concerns youngsters who stop appearing in rankings. In funnels based on presence in successive categories, anyone who no longer appears is counted as lost, but this does not establish that they stopped racing. The consulted materials do not show a systematic count of those who continue without scoring points or return later. In this instalment we count how many reappear in the study data. It is not a small number.
 
-I cannot criticise this from above, because **both points apply fully to my own study**. My numbers also begin with an already filtered group, and I too see youngsters disappear from rankings without knowing whether they stopped racing or simply became slower. The only difference I can claim is that I measured these limitations rather than leaving them implicit. That is what the rest of this instalment is about.
+These limitations **apply fully to this study too**. Here too, we start with an already filtered group and see youngsters disappear from rankings without knowing whether they stopped racing or simply became slower. We can, however, measure some aspects of these limitations rather than leaving them implicit. That is what the rest of this instalment is about.
 
 ## The ranking behind everything
 
@@ -85,9 +85,9 @@ How much does that filter matter? We can measure it, because the federation publ
 
 One in seven **underestimates** the share of road cyclists who become ranked, because the denominator contains riders who cannot enter the numerator. Even so, the ranking shows only the tip of youth cycling, and every number in the next three instalments describes that tip.
 
-## The cohorts, and the number I will keep using
+## The cohorts, and the number we will keep using
 
-The main cohorts, groups born in the same years whom I follow over time, are riders born between 1996 and 2000. All have had time to make it or not. There are **2,813 riders and 77 professionals**. Throughout this series, professional means having raced for a first-tier WorldTeam or second-tier ProTeam by age twenty-five. The age window makes birth cohorts comparable; anyone who makes it later is not counted here.
+The main cohorts, groups born in the same years whom we follow over time, are riders born between 1996 and 2000. All have had time to make it or not. There are **2,813 riders and 77 professionals**. Throughout this series, professional means having raced for a first-tier WorldTeam or second-tier ProTeam by age twenty-five. The age window makes birth cohorts comparable; anyone who makes it later is not counted here.
 
 Of those 2,813, however, only 2,183 were already ranked as Esordienti, the thirteen- and fourteen-year-old category, or Under 15s in the literature. Under 23 spans four birth years, from nineteen to twenty-two. The funnel starts with Esordienti[^attrito].
 
@@ -115,7 +115,7 @@ Those eleven include **Christian Scaroni**, a stage winner at the 2025 Giro d'It
 
 It looks like a funnel, and partly is. But one feature defeats simple readings: it is not the same group shrinking. Between a quarter and a third of riders in each category never appeared as Esordienti; among Under 23s it is more than a third. Reading the funnel as ‘three hundred of those two thousand remained’ counts people as survivors who were never at the start.
 
-The number I will use throughout the series therefore carries its label: **twenty-seven per thousand among riders ever ranked**, or 77 out of 2,813. The table's three in a hundred is a different fraction: 66 out of 2,183, only those who started as Esordienti.
+The number we will use throughout the series therefore carries its label: **twenty-seven per thousand among riders ever ranked**, or 77 out of 2,813. The table's three in a hundred is a different fraction: 66 out of 2,183, only those who started as Esordienti.
 
 ## Three things to know before reading a ranking
 
@@ -132,7 +132,7 @@ Second: **how the categories work**. For Esordienti the source publishes two sep
 | Juniors, single ranking | 33.3% |
 | Under 23, single ranking | 11.8% |
 
-*The juniors' 33.3% interrupts the decline, and I cannot say why: first-year riders form a larger share of that category than they do among Allievi.*
+*The juniors' 33.3% interrupts the decline. First-year riders form a larger share of that category than they do among Allievi, but we cannot establish why they take a higher share of the places.*
 
 {{< figure
   src="/blog/ciclismo-giovanile-di-chi-stiamo-parlando/posti_quote.webp"
@@ -178,7 +178,7 @@ The other half still stands. A ranking rewards riders suited to the races most c
 
 ## What remains
 
-The percentages in the following instalments describe ranked riders: about one registered rider in seven, an already selected group. They cannot therefore be extended to all registered riders. I do not know how much they would change if unranked riders were included.
+The percentages in the following instalments describe ranked riders: about one registered rider in seven, an already selected group. They cannot therefore be extended to all registered riders. We cannot establish how much they would change if unranked riders were included.
 
 The funnel is not one group shrinking: each category includes a substantial share who were not ranked as Esordienti, and arriving late is entirely normal. One in seven future professionals was absent from the rankings at both thirteen and fourteen. That is a different seventh from the registered-rider figure above, which measures the share who enter the ranking.
 
@@ -190,7 +190,7 @@ Now you know who we are talking about. At what age does a placing begin to say s
 >
 > Rankings come from <a href="https://www.ciclismo.info/" target="_blank" rel="noopener">ciclismo.info</a>, seasons 2007–2025. Membership totals come from statistical data published by the Italian Cycling Federation for 2018–2025. The series are not perfectly aligned: membership is by category, not discipline, so estimated coverage is a lower bound.
 >
-> The literature review summarises twenty-two studies published between 2006 and 2025, giving full references, DOIs and limitations. I read five in full; for the others I used abstracts and cross-citations.
+> The literature review summarises twenty-two studies published between 2006 and 2025, giving full references, DOIs and limitations. The review draws on five studies read in full; for the others, it relies on abstracts and cross-citations.
 
 [^schumacher]: Schumacher Y.O. et al. (2006), *Success in elite cycling: a prospective and retrospective analysis of race results*, Journal of Sports Sciences 24(11), 1149-1156. DOI <a href="https://doi.org/10.1080/02640410500457299" target="_blank" rel="noopener">10.1080/02640410500457299</a>.
 

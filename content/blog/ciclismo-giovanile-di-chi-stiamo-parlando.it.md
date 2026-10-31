@@ -18,7 +18,7 @@ cover:
     caption: '"<a href="https://commons.wikimedia.org/w/index.php?curid=73134755" target="_blank" rel="noopener">20180927 UCI Road World Championships Innsbruck Men Juniors Road Race Award Ceremony 850 0668</a>" di <a href="https://commons.wikimedia.org/wiki/User:Granada" target="_blank" rel="noopener">Granada</a>, ridimensionata e convertita in WebP, licenza <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">CC BY-SA 4.0</a>.'
 ---
 
-*Questa serie parla dei ranking giovanili italiani e del passaggio al professionismo. Prima dei miei numeri racconto cosa la ricerca sa già e, soprattutto, di chi parlano i numeri delle prossime puntate. È lì che si annidano quasi tutti gli errori.*
+*Questa serie parla dei ranking giovanili italiani e del passaggio al professionismo. Prima di entrare nei risultati, vediamo cosa la ricerca sa già e, soprattutto, di chi parlano i numeri delle prossime puntate. È lì che si annidano quasi tutti gli errori.*
 
 ## Vent'anni di ricerca, in poche righe
 
@@ -44,19 +44,19 @@ Sotto i quindici anni, invece, il sospetto è che ci sia poco da vedere. Uno stu
 
 Poi ci sono i test di laboratorio, e qui suona strano: soglia e watt per chilo descrivono bene il livello di un ragazzo adesso, ma aggiungono poco su dove arriverà. Fa eccezione uno studio spagnolo su 65 Under 23, dove una prova a cronometro di otto minuti separa bene chi diventerà professionista. Quanto bene? Il 54 per cento di quelli che la prova indicava come futuri professionisti ce la fa davvero. Poco più della metà, e si parla di ventenni già selezionatissimi.
 
-Infine il mese di nascita: nelle popolazioni giovanili i nati a inizio anno sono più di quanti la demografia ne giustifichi, tanto più quanto più l'età è bassa, mentre fra chi arriva l'effetto non si trova. Uno studio su quasi tremila corridori delle squadre Continental dice che l'effetto si vede soprattutto fra chi non ce l'ha fatta. Nella [seconda puntata](/blog/ciclismo-giovanile-a-che-eta-si-riconosce-un-futuro-professionista/) rifaccio quel conto sui miei dati, perché è il dubbio più ragionevole che si possa avere su un risultato a tredici anni.
+Infine il mese di nascita: nelle popolazioni giovanili i nati a inizio anno sono più di quanti la demografia ne giustifichi, tanto più quanto più l'età è bassa, mentre fra chi arriva l'effetto non si trova. Uno studio su quasi tremila corridori delle squadre Continental dice che l'effetto si vede soprattutto fra chi non ce l'ha fatta. Nella [seconda puntata](/blog/ciclismo-giovanile-a-che-eta-si-riconosce-un-futuro-professionista/) rifacciamo quel conto sui dati dello studio, perché è il dubbio più ragionevole che si possa avere su un risultato a tredici anni.
 
 C'è poi un dato che torna ovunque: la stragrande maggioranza di chi va forte da giovane non arriva comunque. I numeri vanno letti con il loro denominatore attaccato, perché metterli in fila come se misurassero la stessa cosa porta fuori strada. Due su tre dei juniores del Mondiale non correranno una grande gara élite. Il 15 per cento dei primi dieci della classifica Allievi italiana, cioè i quindici e sedici anni, ha poi fatto punti nel World Tour, il circuito di primo livello. Cinque su quarantotto di un'intera annata olandese sono arrivati a una squadra Continental, il terzo livello delle squadre UCI, o superiore[^rassegna]. I punti di partenza sono diversi (i convocati, i primi dieci, tutti) e lo sono anche i traguardi. La scala cambia ogni volta, la direzione resta la stessa.
 
-Restano fuori due cose, e sono il buco che questa serie prova a riempire. Nessuno ha mai guardato i tredici e quattordici anni partendo dai risultati di gara su una popolazione ampia e non preselezionata: gli studi italiani cominciano dagli Allievi, quello belga include gli Under 15 ma solo per chi aveva già un piazzamento nei primi dieci. E nessuno studio basato sui risultati di gara ha mai scritto **quanti dei ragazzi segnalati poi arrivino**. Eppure è esattamente il numero che useresti per decidere.
+Restano fuori due cose, e sono il buco che questa serie prova a riempire. Negli studi esaminati non emerge un’analisi dei tredici e quattordici anni basata sui risultati di gara di una popolazione ampia e non preselezionata: gli studi italiani cominciano dagli Allievi, quello belga include gli Under 15 ma solo per chi aveva già un piazzamento nei primi dieci. E nei materiali consultati degli studi basati sui risultati di gara non abbiamo trovato una misura di **quanti dei ragazzi segnalati poi arrivino**. Eppure è esattamente il numero che useresti per decidere.
 
-Ci sono poi due cose che gli studi non dichiarano mai. Non le ho trovate in nessuno dei ventidue che ho riassunto[^rassegna], e me ne sono accorto provando a rifare i conti.
+Ci sono poi due aspetti che, per quanto emerge dai materiali consultati per la rassegna di ventidue studi[^rassegna], non sempre risultano espliciti. Vale la pena considerarli quando proviamo a interpretare e confrontare i risultati.
 
-La prima è da quanti si parte. I convocati al Mondiale, i primi dieci, i ragazzi a ranking sono già il risultato di una selezione, e quanti fossero prima non lo scrive nessuno. Senza quel numero due percentuali di due studi diversi non si possono mettere in fila: sotto hanno popolazioni diverse.
+Il primo è da quanti si parte. I convocati al Mondiale, i primi dieci, i ragazzi a ranking sono già il risultato di una selezione, e la dimensione della popolazione iniziale non è sempre indicata. Senza quel numero è difficile confrontare le percentuali di studi diversi: sotto hanno popolazioni diverse.
 
-La seconda è che spesso un ragazzo che smette di comparire nelle classifiche viene contato come se avesse smesso di correre. Gli imbuti di questa letteratura si costruiscono così, e chi non compare più nella categoria successiva finisce fra i persi. Nessuno ha verificato quanta parte di quelle sparizioni sia invece gente che continua a correre senza più andare a punti, o che rientra l'anno dopo. Quanti rientrano lo misuro più avanti in questa puntata. Non sono pochi.
+Il secondo riguarda i ragazzi che smettono di comparire nelle classifiche. Negli imbuti costruiti sulla presenza nelle categorie successive, chi non compare più finisce fra i persi, ma questo non dimostra che abbia smesso di correre. Nei materiali consultati non emerge una quantificazione sistematica di chi continua senza andare a punti o rientra più avanti. In questa puntata contiamo quanti ricompaiono nei dati dello studio. Non sono pochi.
 
-Non posso farne una critica dall'alto, perché **valgono in pieno anche per questo studio**. Anche i miei numeri partono da un gruppo già scremato, e anch'io vedo sparire dei ragazzi dalla classifica senza sapere se abbiano smesso di correre o se vadano soltanto più piano. L'unica differenza che posso rivendicare è di averle misurate invece di lasciarle implicite. Il resto della puntata parla di questo.
+Questi limiti **valgono in pieno anche per questo studio**. Anche qui partiamo da un gruppo già scremato e vediamo sparire dei ragazzi dalla classifica senza sapere se abbiano smesso di correre o se vadano soltanto più piano. Possiamo però misurare alcuni aspetti di questi limiti, invece di lasciarli impliciti. Il resto della puntata parla di questo.
 
 ## La classifica da cui parte tutto
 
@@ -83,9 +83,9 @@ In classifica finisce **circa un tesserato su sette**. Più del valore colpisce 
 
 Quell'uno su sette **sottostima** quanti dei ciclisti su strada finiscono in classifica, perché nel denominatore ci sono ragazzi che nel numeratore non possono entrare. Resta che la classifica mostra solo la punta del ciclismo giovanile, ed è di quella punta che parlano tutti i numeri delle prossime tre puntate.
 
-## Le coorti, e il numero che userò sempre
+## Le coorti, e il numero che useremo sempre
 
-Le coorti principali, cioè i gruppi di nati negli stessi anni che seguo nel tempo, sono i nati fra il 1996 e il 2000. Hanno avuto tutti il tempo di arrivare o di non arrivare. Sono **2&nbsp;813 ragazzi, 77 professionisti**. Professionista, in tutta la serie, vuol dire aver corso in una squadra di primo livello (WorldTeam) o di secondo (ProTeam) entro i venticinque anni. La finestra d'età serve a rendere confrontabili annate diverse; chi arriva più tardi qui non risulta.
+Le coorti principali, cioè i gruppi di nati negli stessi anni che seguiamo nel tempo, comprendono i ragazzi nati fra il 1996 e il 2000. Hanno avuto tutti il tempo di arrivare o di non arrivare. Sono **2&nbsp;813 ragazzi, 77 professionisti**. Professionista, in tutta la serie, vuol dire aver corso in una squadra di primo livello (WorldTeam) o di secondo (ProTeam) entro i venticinque anni. La finestra d'età serve a rendere confrontabili annate diverse; chi arriva più tardi qui non risulta.
 
 Di quei 2&nbsp;813, però, soltanto 2&nbsp;183 erano in classifica già da Esordienti, la categoria dei tredici e quattordici anni, l'Under 15 della letteratura. L'Under 23, invece, copre quattro annate, dai diciannove ai ventidue. È dagli Esordienti che parte l'imbuto[^attrito].
 
@@ -113,7 +113,7 @@ Tra quegli undici ci sono anche **Christian Scaroni**, vincitore di una tappa al
 
 Sembra un imbuto, e in parte lo è. Ha però una proprietà che rovina le letture semplici: non è lo stesso gruppo che si assottiglia. Fra un quarto e un terzo degli atleti di ogni categoria non è mai comparso in Esordienti, e in Under 23 sono più di uno su tre. Chi legge l'imbuto come «di quei duemila ne sono rimasti trecento» conta fra i sopravvissuti gente che non era mai partita.
 
-Il numero che userò per tutta la serie porta allora la sua etichetta attaccata: **ventisette su mille fra chi è mai comparso in classifica**, cioè 77 su 2&nbsp;813. Il tre su cento della tabella è un'altra frazione: 66 su 2&nbsp;183, i soli partiti dagli Esordienti.
+Il numero che useremo per tutta la serie porta allora la sua etichetta attaccata: **ventisette su mille fra chi è mai comparso in classifica**, cioè 77 su 2&nbsp;813. Il tre su cento della tabella è un'altra frazione: 66 su 2&nbsp;183, i soli partiti dagli Esordienti.
 
 ## Tre cose da sapere prima di leggere una classifica
 
@@ -130,7 +130,7 @@ La seconda: **come sono fatte le categorie**. Negli Esordienti la fonte pubblica
 | Juniores, classifica unica | 33,3% |
 | Under 23, classifica unica | 11,8% |
 
-*il 33,3% degli Juniores rompe la discesa, e non so dire perché: in quella categoria quelli del primo anno sono una fetta più grossa del gruppo che in Allievi*
+*il 33,3% degli Juniores interrompe la discesa. In quella categoria i ragazzi del primo anno rappresentano una quota del gruppo maggiore che negli Allievi, ma non possiamo stabilire perché raccolgano una quota più alta dei posti*
 
 {{< figure
   src="posti_quote.webp"
@@ -176,7 +176,7 @@ L'altra metà della critica resta in piedi. Un ranking premia comunque chi va fo
 
 ## Cosa resta
 
-Le percentuali delle prossime puntate riguardano i ragazzi presenti in classifica: circa un tesserato su sette, un gruppo già selezionato. Non si possono quindi estendere a tutti i tesserati. Non so quanto cambierebbero considerando anche chi resta fuori.
+Le percentuali delle prossime puntate riguardano i ragazzi presenti in classifica: circa un tesserato su sette, un gruppo già selezionato. Non si possono quindi estendere a tutti i tesserati. Non possiamo stabilire quanto cambierebbero considerando anche chi resta fuori.
 
 L'imbuto non è lo stesso gruppo che si assottiglia: in ogni categoria c'è una quota consistente di ragazzi che negli Esordienti non c'erano, ed entrare tardi è normalissimo. Un futuro professionista su sette non compariva in classifica a tredici e quattordici anni, ed è un settimo diverso da quello dei tesserati qui sopra, che è la quota di chi in classifica ci entra.
 
@@ -188,7 +188,7 @@ Adesso sai di chi parliamo. A che età quel piazzamento comincia a dire qualcosa
 >
 > Le classifiche vengono da <a href="https://www.ciclismo.info/" target="_blank" rel="noopener">ciclismo.info</a>, stagioni 2007-2025. I tesserati vengono dai dati statistici pubblicati dalla Federazione Ciclistica Italiana e coprono le stagioni 2018-2025. Le due serie non sono perfettamente allineate, perché il tesseramento è per categoria e non per specialità: la copertura calcolata è quindi un limite inferiore.
 >
-> La letteratura è riassunta in una rassegna di ventidue studi pubblicati fra il 2006 e il 2025, con riferimento completo, DOI e limiti di ciascuno. Cinque li ho letti per intero; per gli altri ho lavorato su abstract e citazioni incrociate.
+> La letteratura è riassunta in una rassegna di ventidue studi pubblicati fra il 2006 e il 2025, con riferimento completo, DOI e limiti di ciascuno. La rassegna si basa sulla lettura integrale di cinque studi; per gli altri, su abstract e citazioni incrociate.
 
 [^schumacher]: Schumacher Y.O. et al. (2006), *Success in elite cycling: a prospective and retrospective analysis of race results*, Journal of Sports Sciences 24(11), 1149-1156. DOI <a href="https://doi.org/10.1080/02640410500457299" target="_blank" rel="noopener">10.1080/02640410500457299</a>.
 

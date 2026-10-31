@@ -1,6 +1,6 @@
 ---
 title: "In youth cycling, does performance or improvement matter more?"
-description: "Current level and improvement both predict professional careers, but progression matters most when it leads to a high level. Team changes tell a different story."
+description: "How much does improvement add to level? We follow riders through youth rankings to see what their trajectories tell us about future professional careers."
 date: 2026-10-16T10:00:00+02:00
 draft: true
 series: ["Ciclismo giovanile e professionismo"]
@@ -21,9 +21,9 @@ aiTranslated: true
 originalLanguage: it
 ---
 
-*The third of four instalments. In the [second](/en/blog/ciclismo-giovanile-a-che-eta-si-riconosce-un-futuro-professionista/) I measured how well ranking position predicts a professional career, and from what age. Here I add the direction in which a rider is moving, then examine three things often taken for granted in youth cycling.*
+*The third of four instalments. In the [second](/en/blog/ciclismo-giovanile-a-che-eta-si-riconosce-un-futuro-professionista/) we saw how well ranking position helps distinguish future professionals, and from what age. Here we also follow riders over time: how much does knowing whether they are gaining or losing ground add?*
 
-Two riders, both sixteen. The first has performed steadily for three seasons, around the 75th percentile in his category: consistent, no surprises, no collapses. Three years ago the second was at the 40th percentile, then the 55th, then the 70th; now he is at the 90th. If you could back only one, whom would you choose?
+One rider is among the best in his category but has been losing ground for several seasons. Another is further back but keeps closing the gap. How much should that difference matter when we decide whom to follow? In the previous instalment we looked at placings at each age. Now we follow the trajectory: beyond the level reached, does it also matter whether a rider is moving up or down the ranking?
 
 For once, the data can answer. Youth rankings form a time series, and a time series shows both where someone stands and where they are heading.
 
@@ -31,7 +31,9 @@ First, though, we need to agree on what ‘improving’ means, because the word 
 
 ## The answer without coefficients
 
-Again, we can begin without statistics: divide riders into three groups by level and three by direction, then count how many became professionals in each of the nine cells[^traiettorie].
+We use two measures to describe each trajectory: estimated level around fifteen and the direction of ranking position over the seasons observed up to eighteen. Later we will see how they are derived.
+
+We begin with the most readable result: divide riders into three groups by level and three by improvement, then count how many became professionals in each of the nine combinations[^traiettorie].
 
 | | low improvement | medium | high |
 |---|---|---|---|
@@ -44,26 +46,16 @@ Again, we can begin without statistics: divide riders into three groups by level
 {{< figure
   src="/blog/ciclismo-giovanile-conta-di-piu-quanto-vai-forte-o-quanto-migliori/traiettorie_incrocio.webp"
   alt="Bars grouped by level and improvement: 20.5% for high level and strong growth, 13.3% for high level with medium improvement, 5.9% for medium level with strong growth, and 2.1% for high level in decline."
-  caption="The bottom of the chart is not compressed by accident: in the lowest third, improvement rescues almost nobody."
+  caption="In the lowest-level group, few riders turn professional in any of the three improvement bands. The largest differences appear in the high-level group."
 >}}
 
-The table can be read in two directions; the answer comes from combining them.
+The first thing we see is the importance of level: **58 of the 74 future professionals come from the top third**, 13 from the middle and 3 from the bottom. Improvement matters, but level remains important.
 
-Horizontally, across the top row: among high-level riders, those also improving became professionals in **20.5%** of cases; those declining reached only **2.1%**. Almost ten times less, at the same level.
+Now look at the high-level riders. In the group with the least improvement, 2.1% become professionals; in the middle group, 13.3%; in the group with the most improvement, 20.5%. The largest difference is already between the first and second groups.
 
-But that jump is not spread evenly across the row, which surprised me most. Almost all of it lies between declining and holding steady. High-level riders with only **medium** improvement already reach **13.3%**, six times the declining group's rate. From there to the strongest improvers' 20.5% is only another factor of one and a half. A steep upward slope is not necessary to belong among those who make it. Not falling is enough.
+Another comparison is worth noting: among mid-level riders with the most improvement, 11 out of 186 made it, or 5.9%. Among high-level riders with the least improvement, 7 out of 333 made it, or 2.1%.
 
-Vertically, level matters enormously, and counts explain it better than percentages. The three thirds contain almost equal numbers, 634, 634 and 635, and their seventy-four future professionals split as follows: **58 in the top third, 13 in the middle and 3 in the bottom**. Four in five come from the upper third. The bottom row is flat: among strong improvers the rate rises from 0.7% at low level to 20.5% at high level, and improvement rescues almost nobody in the lowest third. For those starting far behind, climbing changes their ranking far more than their eventual outcome.
-
-Then there is the cell that, for me, justifies this instalment: strongly improving mid-level riders, at **5.9%**, almost three times the 2.1% of high-level riders in decline. The comparison holds in absolute counts too, the stricter reading: that cell produced **eleven** professionals from 186 riders, while the strong but declining group produced **seven** from 333. Four fewer, from almost twice as many riders.
-
-A warning is needed. As **groups**, improving mid-level riders did better than declining high-level riders. That does not settle individual comparisons: these are rates for two sets of riders, not the outcome of a contest between two individuals, and the overwhelming majority in both groups did not make it. Even the best cell, strong riders improving, leaves almost 80% short. Eleven professionals are also few: treat that cell as an indication, not a precise estimate.
-
-If you coach, this is the row that concerns you most: it is the only one supporting a bet on a rider who is not among the strongest today. The other eight cells confirm what you knew. This one says a mid-ranked rider rising for two seasons deserves as much attention as a strong rider declining. If you can watch only one, the data do not tell you to choose the latter.
-
-<!-- DA COMPLETARE: un caso che hai visto di persona, un ragazzo di metà classifica in salita, se ne hai uno -->
-
-**Level is a condition; improvement is a multiplier**. Without the former, the latter is insufficient. With it, the latter changes everything.
+We cannot use these frequencies to choose confidently between two individual riders. The numbers of professionals are small, and even in the most favourable combination almost four in five did not make it. We can, however, recognise a limitation of rankings alone: **level does not tell the whole story of a rider's development**.
 
 ## The same numbers, with a model
 
@@ -76,53 +68,45 @@ A line can describe each rider's percentile as a function of age. Two numbers su
 
 *Odds are the ratio of the probability of making it to the probability of not making it. With a rare outcome, multiplying odds by 3.35 roughly triples probability, from 2.7% to 8.5%; these are not additional percentage points. One standard deviation of improvement is about 3.1 percentile points a year.*
 
-Three percentile points a year sound modest. They amount to nine over three seasons, moving from the 70th percentile to the 79th, far from the spectacular trajectory in the opening example. It is the movement of someone gaining a few places each year while others stand still or fall.
+Three percentile points a year sound modest. Over three years they add up to about nine points: a move from the 70th to the 79th percentile. We are therefore also talking about gradual progress that becomes visible over several seasons.
 
 Both matter, and improvement is no poor relation. A model knowing only level ranks the future professional ahead in around 85 **pairs** out of 100; adding slope raises that to 92. Direction therefore tells us something current level does not. Notice, however, the second interval's width, from 2.54 to 4.51: the coefficient supporting this post's title is also the less precise of the two. Read it as ‘large’ rather than ‘3.35’.
 
-One technical precaution explains why this analysis is not trivial. A rider observed for only two seasons would have a slope based on two points, and two points always make a straight line. One poor season, a crash or a different calendar could make that line say ‘freefall’ or ‘rising fast’ when neither had happened.
+With only two seasons, a bad day or a different calendar can make a rider look as though he is improving or declining sharply. That is why we use a model that is more cautious when observations are few: it pulls those trajectories towards the average and gives more scope to differences supported by many seasons.
 
-The model estimates all lines together rather than individually, pulling those based on little data towards the population mean. It gives someone with two seasons a cautious slope and trusts someone with six much more. That is appropriate and has two consequences. Almost all the most pronounced trajectories in the table belong to riders with many observations. Anyone repeating the calculation manually, one line per rider, would obtain much more extreme and less reliable slopes: the nine-cell table would look clearer than the data justify.
+The trajectories in the table therefore also account for how much we know about each rider. A simple line between two placings would often give a much more extreme impression.
 
 *For more detail in the technical document, in Italian: <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#conta-il-livello-o-il-miglioramento" target="_blank" rel="noopener">Does level or improvement matter?</a> and <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#la-stessa-risposta-senza-coefficienti" target="_blank" rel="noopener">The same answer without coefficients</a>.*
 
 ## Could it be career length again?
 
-The suspicion is obvious and technically justified. A pronounced slope also suggests a long career, and longer careers correlate with making it. Am I measuring who stayed longer and calling it improvement?
+The most pronounced trajectories often belong to riders we observe for longer. We therefore need to check whether improvement really adds information or whether we are mainly measuring the length of the pathway.
 
-Add the number of observed seasons to the model. If improvement merely disguised duration, its coefficient would collapse. Instead it moves from 3.35 to **3.09**. Smaller, but still large: improvement does not seem to be merely career length in disguise. Take ‘merely’ literally, because season count is only one measure of duration. The suspicion weakens; it does not disappear.
+We add the number of observed seasons to the model. The multiplier associated with improvement moves from **3.35** to **3.09**: it falls but remains high. Duration therefore does not seem to explain the whole association. This check reduces the concern without eliminating it, because season count does not describe every aspect of remaining in cycling.
 
-Three limitations remain. First, slopes are estimated for riders ranked in at least two seasons: **1,903 youngsters, including 74 professionals**. This post says nothing about a rider's first point-scoring season, the situation for almost one in three. Second, riders with two or more seasons are not a random sample, because remaining ranked also depends on performance. The precise conclusion is ‘among riders whose trajectory I can observe, direction adds information’. Third, what lies inside a slope? Rising in percentile can mean maturing, beginning serious training, joining a team that takes you to suitable races, or simply riders ahead of you quitting. The model cannot distinguish them.
+Three limitations remain. First, slopes are estimated for riders ranked in at least two seasons: **1,903 youngsters, including 74 professionals**. This post says nothing about a rider's first point-scoring season, the situation for almost one in three. Second, riders with two or more seasons are not a random sample, because remaining ranked also depends on performance. The conclusion therefore concerns riders whose trajectories we can observe: in this group, direction adds information beyond level. Third, what lies inside a slope? Rising in percentile can mean maturing, beginning serious training, joining a team that takes you to suitable races, or simply riders ahead of you quitting. The model cannot distinguish them.
 
 *For more detail in the technical document, in Italian: <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#non-sar%C3%A0-di-nuovo-la-durata-della-carriera" target="_blank" rel="noopener">Could it be career length again?</a> and <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#il-modello-si-sta-giudicando-troppo-bene" target="_blank" rel="noopener">Is the model judging itself too generously?</a>.*
 
-## Three things that seem to matter
+So far we have looked at trajectories in the ranking. Now we also consider context: team changes, starting club and region. These aspects can accompany different careers, but interpreting them requires some care.
 
-Anyone familiar with youth cycling knows three things matter. January-born riders have almost an extra year of development. Riders joining well-run teams make it, while those staying in village clubs get lost. And being born in Veneto or Lombardy means racing every Sunday, while elsewhere you get one race a month.
+## Does changing teams help?
 
-All three claims sound reasonable. Two are clearly visible in the data. **None means what it seems to mean.**
+Among riders who never changed clubs, **0.68%** become professionals; among those who changed three times, **7.32%**[^contesto]. Looking only at these percentages, we might think that changing teams helps riders turn professional.
 
-**Birth month** was covered in the [second instalment](/en/blog/ciclismo-giovanile-a-che-eta-si-riconosce-un-futuro-professionista/), but a brief recap helps the comparison. The early-year advantage is large and fades with age: at thirteen first-quarter births outnumber last-quarter births by 2.13 to one; among Under 23s the ratio is 1.09. Among those who make it, it is absent: 1.5 against 1.7 among all ranked riders, indistinguishable from chance. Girls mature earlier and have a smaller imbalance at thirteen, suggesting the advantage is mainly development. It helps entry into the ranking, not talent: selecting at thirteen partly means selecting birth dates.
+But consider the observed seasons too: an average of **1.8** for riders who never changed clubs and **6.0** for those who changed three times. Riders who remain in cycling longer also have more opportunities to change teams. When we compare pathways of the same duration, at most 1.16 percentage points of the original 6.64-point gap remain.
 
-*For more detail in the technical document, in Italian: <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#leffetto-dellet%C3%A0-relativa" target="_blank" rel="noopener">The relative age effect</a> and <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#chi-arriva-fra-quelli-entrati" target="_blank" rel="noopener">Who makes it among those who entered</a>.*
-
-## Changing teams looks like a tenfold advantage
-
-The raw figure is spectacular: between riders who never changed teams and those who changed three times, the professional rate rises from **0.68%** to **7.32%**[^contesto]. A ready-made headline: changing teams helps.
-
-But nobody looks at the seasons-raced column. Those who never changed raced 1.8 seasons on average; those with three changes raced 6.0. You have to remain in the sport to change teams. Indeed, holding seasons raced constant leaves at most 1.16 of the 6.64-percentage-point gap.
-
-There is another reason not to build on it: changing teams is often unavoidable because not every club operates in every category. From juniors to Under 23, **96.3%** of riders change teams. These data cannot separate choice from necessity. Mobility therefore describes how far you got; it does not explain it.
+There is another reason for caution: changes are often unavoidable because not every club operates in every category. From juniors to Under 23, **96.3%** of riders change teams. These data cannot separate choice from necessity. The number of changes therefore also describes the length and stages of a rider's pathway. This comparison cannot tell us how much changing teams actually helps.
 
 *For more detail in the technical document, in Italian: <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#lo-stesso-confronto-a-parit%C3%A0-di-carriera" target="_blank" rel="noopener">The same comparison at equal career length</a> and <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#cambiare-societ%C3%A0-spesso-non-%C3%A8-una-scelta" target="_blank" rel="noopener">Changing teams is often not a choice</a>.*
 
 ## Starting club and region
 
-The other two candidates run out even faster.
+Let us also look at starting club. Among riders who begin at a club that had produced no professionals in earlier cohorts, **2.90%** make it; among those starting at the clubs with the best results, **3.79%** do. The observed difference is indistinguishable from chance. Moreover, **67%** of riders begin at a club that had produced no professionals in the preceding cohorts.
 
-Your starting club says very little. Professional rates range from **2.90%** among riders starting at clubs that had never produced a professional to **3.79%** among those starting at the best clubs, a difference indistinguishable from chance in a statistical test. There is a structural reason too: **67%** of youngsters begin at a club that produced no professionals in the preceding cohorts.
+Geographically, we see a clear concentration: **Lombardy, Veneto and Tuscany account for about 51% of ranked riders**. This describes where the observed group is concentrated, but does not establish where a rider has a better chance of making it. Regional groups are small, and the data needed to compare areas with different numbers and opportunities are missing.
 
-Region is the most frustrating, because it is the one question I cannot answer. Geographical concentration is real and strong: Lombardy, Veneto and Tuscany alone account for about **51%** of ranked riders. Regional professional rates remain uninterpretable even across nine birth cohorts and 4,823 riders: from 6.32% in Trentino-Alto Adige to 0% in Campania, with two or three riders enough to reorder the table. The right question is whether region adds anything after allowing for rider numbers and available races. That requires membership totals for each region, which are not publicly available. I prefer to state the gap rather than fill it with a meaningless ranking.
+These figures help us describe the context; they do not establish how much starting club or region affects the transition to professional racing.
 
 *For more detail in the technical document, in Italian: <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#regione-e-societ%C3%A0-di-partenza" target="_blank" rel="noopener">Region and starting club</a>.*
 
@@ -134,13 +118,13 @@ It applies to team changes, seasons raced, race counts and anything that require
 
 ## What remains
 
-Back to the two riders at the start. The data favour the second, but only because the 90th percentile is real. What matters is growth that takes you high. Moving from the 20th to the 40th percentile is exactly as much improvement as moving from the 70th to the 90th; their probabilities look nothing alike.
+Let us return to the two riders at the start. The data do not choose for a coach, but help us understand why both are worth following: level and trajectory describe different aspects of development.
 
-In practice, when looking at a rider's record: **level first, direction second**. Level tells you whether the rider is in the range where the question makes sense; direction tells you, within that range, how much confidence is warranted. It matters particularly in the unfavourable direction: among strong riders, those declining made it six times less often than those merely keeping pace.
+When we assess a rider's profile, we should therefore consider **level together with direction**. Among high-level riders, the group with the least improvement had far fewer transitions to professional racing. A mid-level rider who is improving deserves attention even if he is not among the leaders.
 
-The negative finding helped too. Without controlling for seasons raced, I would have published that changing teams helps, supported by a tenfold difference. It would have been false.
+We have also seen how easy it is to misread an association: without considering observed seasons, we might have attributed an advantage to team changes that the raw comparison cannot establish.
 
-At this point we seem to have everything needed for selection: take the strongest, then the strongest improvers among them. In the [next instalment](/en/blog/ciclismo-giovanile-scegliere-chi-seguire/) I actually try it, and count how many selections would come to nothing.
+A practical question remains: how much can we trust a list of riders to follow? In the [next instalment](/en/blog/ciclismo-giovanile-scegliere-chi-seguire/) we start with the simplest criterion, ranking position, and count how many future professionals it identifies and how many it leaves out.
 
 ---
 

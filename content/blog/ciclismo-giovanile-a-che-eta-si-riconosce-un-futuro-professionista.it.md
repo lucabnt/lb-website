@@ -51,7 +51,7 @@ Quanto si separano due gruppi si può riassumere in modo elegante. Prendi tutte 
   caption="Le due curve sono i percentili mediani dei due gruppi, e il gruppo si conosce solo guardando indietro: a tredici anni nessuno sapeva chi fosse chi."
 >}}
 
-Su quel 74% servono due precisazioni, perché è facile leggerlo male.
+Quel 74% non è la probabilità che un ragazzo diventi professionista: indica quante volte il futuro professionista era davanti all’altro ragazzo nel confronto fra coppie. Servono poi due precisazioni.
 
 La prima: il confronto è **fra chi era in classifica quell'anno**, non fra tutti i ragazzi. Chi a tredici anni non ha mai fatto un punto non entra né fra i professionisti né fra gli altri. La cifra dice dunque quanto la classifica separa al suo interno; su tutti gli altri ragazzi non dice niente.
 
@@ -73,7 +73,7 @@ L'ultimo gradino però la rompe. La mediana di chi è arrivato nei primi cento d
 
 È il dubbio più ragionevole che si possa avere, e va chiuso.
 
-Fra ragazzi della stessa annata, chi è nato a gennaio ha fino a dodici mesi di sviluppo in più di chi è nato a dicembre. Nei dati si vede benissimo: nella classifica Esordienti i nati nel primo trimestre sono **2,13 volte** quelli dell'ultimo, tenuto conto di come sono distribuite le nascite in Italia[^rae]. Se il piazzamento a tredici anni misurasse in buona parte quanto presto uno è cresciuto, il 74%, riferito ai casi in cui il professionista sta davanti al non professionista da Esordiente, racconterebbe soprattutto quello.
+Fra ragazzi della stessa annata, chi è nato a gennaio ha fino a dodici mesi di sviluppo in più di chi è nato a dicembre. Nei dati si vede benissimo: nella classifica Esordienti i nati nel primo trimestre sono **2,13 volte** quelli dell'ultimo, tenuto conto di come sono distribuite le nascite in Italia[^rae]. Se il piazzamento a tredici anni riflettesse soprattutto quanto presto un ragazzo è cresciuto, anche quel 74% potrebbe raccontare più la maturazione che il futuro sportivo.
 
 Per verificarlo rifaccio il modello con l'età relativa dentro, contata in giorni fra la nascita e la fine dell'anno, e guardo che fine fa il peso del piazzamento. **Non gli succede niente.** Il vantaggio di dieci punti di percentile è 1,40 prima e 1,40 dopo, e la capacità di distinguere passa da 0,736 a 0,738: si muove nella terza cifra decimale. L'età relativa da sola, usata come unico predittore, arriva a **0,513**. Praticamente una monetina.
 
@@ -119,9 +119,9 @@ Un modello permette di mettere un numero sul vantaggio: quanto conta salire di d
   caption="Ogni riga è un modello a sé, con l'intervallo al 95% e la scala logaritmica, perché un odds ratio si legge in rapporti e non in differenze."
 >}}
 
-Come si legge questa tabella? Il numero moltiplica le **odds**, non la probabilità. Fra due Esordienti che differiscono di dieci posizioni percentuali, quello davanti ha il 40% di odds in più di arrivare al professionismo: il rapporto fra la sua probabilità di farcela e quella di non farcela è 1,40 volte quello dell'altro. Con un esito raro come questo anche la probabilità cresce di quasi il 40%. Non si può però leggere quel 40% come quaranta punti percentuali: nella realtà, si passa da circa il 2,7% a circa il 3,7%, un punto in più.
+Come si legge questa tabella? Partiamo da un esempio: una probabilità del 2,7%, moltiplicando le **odds** per 1,40, diventa circa il 3,7%. L’aumento è di circa un punto percentuale, non di quaranta. Le odds sono il rapporto fra la probabilità di farcela e quella di non farcela. Quando l’esito è raro, come qui, un aumento del 40% delle odds corrisponde anche a un aumento della probabilità di quasi il 40%.
 
-Il peso cresce con l'età, da 1,40 a 2,28, ma non in modo regolare. Le due righe che scendono non vanno lette come cali del segnale: a ogni passaggio di categoria cambia la popolazione. In Juniores primo anno i professionisti sono già il 9,7% della lista contro il 4,5% della cella precedente, e in Under 23 sono il 37%. Chi confronta quei numeri come se misurassero la stessa cosa ha già sbagliato la lettura.
+Il peso cresce con l'età, da 1,40 a 2,28, ma non in modo regolare. Le due righe che scendono non vanno lette come cali del segnale: a ogni passaggio di categoria cambia la popolazione. Fra gli Juniores di primo anno i futuri professionisti sono già il 9,7% della lista, contro il 4,5% degli Allievi di secondo anno; in Under 23 sono il 37%. Sono gruppi diversi e già selezionati in misura diversa: confrontarli direttamente può trarre in inganno.
 
 *Per approfondire, nel documento tecnico: <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#perch%C3%A9-la-colonna--pro-non-va-letta-come-un-segnale" target="_blank" rel="noopener">Perché la colonna «% pro» non va letta come un segnale</a>.*
 
@@ -133,7 +133,7 @@ Il piazzamento negli Allievi aiuta a prevedere chi diventerà professionista. Ma
 
 Per scoprirlo, prendiamo i 102 ragazzi presenti nelle classifiche di tutte le categorie. È un gruppo piccolo e molto selezionato, ma permette di confrontare le previsioni sugli stessi atleti. Partiamo dal solo anno di nascita, poi aggiungiamo i risultati negli Esordienti, negli Allievi, negli Juniores e infine negli Under 23: a ogni passaggio misuriamo quanto migliora la previsione[^annidati].
 
-| il modello conosce… | quanto ci prende | entro che margine |
+| il modello conosce… | quante volte mette davanti il futuro professionista | intervallo di incertezza |
 |---|---|---|
 | solo l'anno di nascita | 51% (cioè: nulla) | 40-62% |
 | più gli Esordienti | 58% | 46-69% |
@@ -147,7 +147,7 @@ Per scoprirlo, prendiamo i 102 ragazzi presenti nelle classifiche di tutte le ca
   caption="Il confronto regge solo perché i 102 atleti sono sempre gli stessi: cambiando gruppo a ogni passo si misurerebbe chi è rimasto, non l'informazione aggiunta."
 >}}
 
-La terza colonna della tabella, che a volte si potrebbe anche omettere, qui serve: gli intervalli sono larghi fra i sedici e i ventitré punti, e i primi tre si sovrappongono abbondantemente. Di gradini che si staccano davvero ce n'è uno solo, quello degli Juniores. **Gli Juniores da soli aggiungono quanto tutte le categorie precedenti messe insieme**, e sono anche l'unico passaggio in cui il guadagno si distingue dal caso.
+La terza colonna mostra l’incertezza delle stime: gli intervalli sono ampi, fra sedici e ventitré punti percentuali, e i primi tre si sovrappongono molto. Il miglioramento più netto arriva aggiungendo i risultati degli Juniores. **Gli Juniores da soli aggiungono quanto tutte le categorie precedenti messe insieme**, e sono anche l'unico passaggio in cui il guadagno si distingue dal caso.
 
 Attenzione però a non trasformare i passi non significativi in zeri. Esordienti e Allievi migliorano l'adattamento del modello in modo distinguibile dal caso; semplicemente non cambiano l'ordine in cui i ragazzi vengono messi in fila. Sono due domande diverse: una chiede quanto il modello sia in accordo con i dati, l'altra se, dati due ragazzi, ci azzecchi su chi mettere davanti.
 
@@ -169,7 +169,7 @@ Non esserci è un'informazione, ma lo diventa tardi. Ed è la misura più precis
 
 ## Cosa resta
 
-Il risultato a tredici anni un'informazione la porta, e chi lo nega per prudenza ti sta dicendo una cosa gentile e falsa. Se guardi i piazzamenti dei tuoi Esordienti stai guardando qualcosa che in media ha a che fare con il futuro, dentro la popolazione osservata.
+Il risultato a tredici anni un’informazione la porta: dire che non racconta nulla del futuro sarebbe rassicurante, ma non corrisponderebbe a quello che ho trovato. Fra i ragazzi osservati, chi diventerà professionista tende già a piazzarsi meglio.
 
 Non lo leggerei però come «la letteratura si sbagliava». Gli studi precedenti facevano pensare a un segnale debole alle età più basse, e le due cose stanno insieme: qui il campione è italiano, ampio e non limitato a chi era già competitivo a livello internazionale, ed è proprio il tipo di popolazione in cui un segnale precoce ha modo di vedersi.
 

@@ -104,12 +104,12 @@ Of those 2,813, however, only 2,183 were already ranked as Esordienti, the thirt
 {{< figure
   src="/blog/ciclismo-giovanile-di-chi-stiamo-parlando/attrito_imbuto.webp"
   alt="A stepped funnel from 1,000 ranked Esordienti to 597 Allievi, 341 juniors, 103 Under 23s and 30 professionals, on a logarithmic scale."
-  caption="The first step already consists of riders with at least one top-five finish at thirteen; there are many more young Italian cyclists. The fall to the final step is thirty-threefold, far less than three orders of magnitude."
+  caption="The first step already consists of riders with at least one top-five finish at thirteen or fourteen; there are many more young Italian cyclists. The fall to the final step is thirty-threefold, far less than three orders of magnitude."
 >}}
 
 Look at the final row. The cohorts produced 77 professionals, but only **66** were already ranked as Esordienti; the other 11 entered later. Dividing 77 by 2,183 would put people in the numerator who are absent from the denominator. The share uses the sixty-six who actually started there: **three in a hundred**.
 
-Read backwards, this is the most useful number in this instalment: **one in seven future professionals was not ranked at thirteen**. When looking at an Esordienti list knowing Italy's best are on it, remember that one in seven of those who will make it is not there yet.
+Read backwards, this is the most useful number in this instalment: **one in seven future professionals was absent from the rankings at both thirteen and fourteen**. Those lists contain riders who are already competitive, but not everyone who will make it: some first appear in later categories.
 
 Those eleven include **Christian Scaroni**, a stage winner at the 2025 Giro d'Italia, and **Jonathan Milan**, twice winner of the Giro's ciclamino jersey and winner of the 2025 Tour's green jersey. Both first appear in our rankings as second-year Allievi.
 
@@ -178,9 +178,9 @@ The other half still stands. A ranking rewards riders suited to the races most c
 
 ## What remains
 
-Every percentage in the following instalments has as its denominator one seventh of registered boys, an already selected group, rather than all of them. These results cannot therefore be extended to all registered riders. Exactly how far they differ, I do not know.
+The percentages in the following instalments describe ranked riders: about one registered rider in seven, an already selected group. They cannot therefore be extended to all registered riders. I do not know how much they would change if unranked riders were included.
 
-The funnel is not one group shrinking: each category includes a substantial share who were not ranked as Esordienti, and arriving late is entirely normal. One in seven future professionals was not ranked at thirteen. That is a different seventh from the registered-rider figure above, which measures the share who enter the ranking.
+The funnel is not one group shrinking: each category includes a substantial share who were not ranked as Esordienti, and arriving late is entirely normal. One in seven future professionals was absent from the rankings at both thirteen and fourteen. That is a different seventh from the registered-rider figure above, which measures the share who enter the ranking.
 
 Now you know who we are talking about. At what age does a placing begin to say something about the future? That is the subject of the [next instalment](/en/blog/ciclismo-giovanile-a-che-eta-si-riconosce-un-futuro-professionista/).
 

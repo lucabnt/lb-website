@@ -59,7 +59,7 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Luca Bontempi
-  description: "Ciao! Mi chiamo Luca Bontempi!"
+  description: "Ciao! Mi chiamo Luca!"
   author: Luca Bontempi
   #social: true 
   # author: ["Me", "You"] # multiple authors

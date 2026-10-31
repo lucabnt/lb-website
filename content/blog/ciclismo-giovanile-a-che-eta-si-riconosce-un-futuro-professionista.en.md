@@ -52,7 +52,7 @@ There is an elegant way to summarise how far apart two groups are. Take every po
   caption="The curves show group medians. Group membership is known only in retrospect: at thirteen nobody knew who was who."
 >}}
 
-That 74% needs two qualifications, because it is easy to misread.
+That 74% is not a youngster's probability of becoming professional: it tells us how often the future professional ranked ahead of the other rider in the pair. Two further qualifications are needed.
 
 First, the comparison is **among riders ranked that year**, not among all youngsters. Anyone who never scored a point at thirteen is absent from both the professional and non-professional groups. The figure describes separation within the ranking; it says nothing about everyone else.
 
@@ -74,7 +74,7 @@ The final step breaks the pattern, however. Those who reached the world's top hu
 
 This is the most reasonable doubt to raise, and it needs addressing.
 
-Within a birth year, someone born in January has up to twelve months' extra development over someone born in December. The data show it clearly: in the Esordienti ranking, first-quarter births are **2.13 times** as common as last-quarter births, allowing for Italy's actual birth distribution[^rae]. If a placing at thirteen mostly measured early development, the 74% of pairs in which a future professional ranks ahead would mainly reflect that.
+Within a birth year, someone born in January has up to twelve months' extra development over someone born in December. The data show it clearly: in the Esordienti ranking, first-quarter births are **2.13 times** as common as last-quarter births, allowing for Italy's actual birth distribution[^rae]. If a placing at thirteen mainly reflected how early a youngster had developed, that 74% might tell us more about maturation than future sporting success.
 
 To test it, I rerun the model including relative age, measured in days between birth and year end, and see what happens to the placing effect. **Nothing happens.** The odds multiplier for ten percentile points is 1.40 before and 1.40 after; discrimination moves from 0.736 to 0.738, a change in the third decimal place. Relative age as the sole predictor reaches **0.513**. Essentially a coin toss.
 
@@ -120,9 +120,9 @@ A model lets us put a number on the advantage: what difference do ten percentile
   caption="Each row is a separate model, with a 95% interval on a logarithmic scale: odds ratios are read as ratios, not differences."
 >}}
 
-How should you read this table? The multiplier applies to **odds**, not probability. Of two Esordienti ten percentile points apart, the higher-ranked rider has 40% higher odds of becoming professional: the ratio of their probability of making it to their probability of not making it is 1.40 times the other's. With an outcome this rare, probability also rises by almost 40%. But that does not mean forty percentage points: in practice it rises from about 2.7% to about 3.7%, one point higher.
+How should you read this table? Start with an example: a probability of 2.7% becomes about 3.7% when the **odds** are multiplied by 1.40. That is an increase of about one percentage point, not forty. Odds are the ratio of the probability of making it to the probability of not making it. When the outcome is rare, as it is here, a 40% increase in odds also corresponds to an increase in probability of almost 40%.
 
-The effect grows with age, from 1.40 to 2.28, but not steadily. The two downward steps should not be read as weaker signals: the population changes at each category transition. Among first-year juniors, future professionals already make up 9.7% of the list, against 4.5% in the preceding cell; among Under 23s they are 37%. Comparing these figures as though they measured the same thing is already a misreading.
+The effect grows with age, from 1.40 to 2.28, but not steadily. The two downward steps should not be read as weaker signals: the population changes at each category transition. Among first-year juniors, future professionals already make up 9.7% of the list, against 4.5% among second-year Allievi; among Under 23s they are 37%. These are different groups that have already undergone different degrees of selection: comparing them directly can be misleading.
 
 *For more detail in the technical document, in Italian: <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#perch%C3%A9-la-colonna--pro-non-va-letta-come-un-segnale" target="_blank" rel="noopener">Why the ‘% pro’ column is not a signal</a>.*
 
@@ -134,7 +134,7 @@ Allievi placings help predict future professionals. But how much do they add to 
 
 Take the 102 riders ranked in every category. They form a small, highly selected group, but allow predictions to be compared on the same athletes. Begin with birth year alone, then add results from Esordienti, Allievi, juniors and finally Under 23s, measuring the predictive gain at each step[^annidati].
 
-| the model knows… | discrimination | interval |
+| the model knows… | how often it ranks the future professional ahead | uncertainty interval |
 |---|---|---|
 | birth year alone | 51% (essentially nothing) | 40–62% |
 | plus Esordienti | 58% | 46–69% |
@@ -148,7 +148,7 @@ Take the 102 riders ranked in every category. They form a small, highly selected
   caption="The comparison works because it always uses the same 102 riders. Changing groups at each step would measure who remained, not added information."
 >}}
 
-The third column, sometimes dispensable, matters here: intervals are sixteen to twenty-three points wide, and the first three overlap extensively. Only one step clearly stands apart, the junior one. **Juniors alone add as much as all earlier categories combined**, and this is the only step whose improvement is distinguishable from chance.
+The third column shows the uncertainty in the estimates: the intervals are wide, spanning sixteen to twenty-three percentage points, and the first three overlap considerably. The clearest improvement comes from adding junior results. **Juniors alone add as much as all earlier categories combined**, and this is the only step whose improvement is distinguishable from chance.
 
 Do not turn non-significant steps into zeros, however. Esordienti and Allievi improve model fit beyond what chance would explain; they simply do not change the order in which riders are ranked. These are different questions: one asks how well the model agrees with the data, the other whether it puts the right rider first in a pair.
 
@@ -170,7 +170,7 @@ Absence is information, but only later. This is a more precise version of a poin
 
 ## What remains
 
-Results at thirteen carry information. Anyone denying that out of caution is saying something kind but false. When you look at your Esordienti's placings, you are looking at something associated, on average, with their future within the observed population.
+Results at thirteen carry information: saying they tell us nothing about the future might be reassuring, but it would not match what I found. Among the riders observed, future professionals already tend to rank higher.
 
 I would not read that as ‘the literature was wrong’. Earlier studies suggested a weak signal at young ages, and both findings can coexist: this sample is Italian, large and not restricted to internationally competitive riders, precisely the kind of population in which an early signal has room to appear.
 

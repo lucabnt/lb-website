@@ -8,8 +8,8 @@
 # serve seguirle a mano.
 #
 # Le pull request vanno riviste e unite manualmente. Il workflow gira
-# solo sui push a main, quindi non viene eseguito sulle PR di Dependabot:
-# la verifica avviene al momento del merge.
+# sulle PR verso main, incluse quelle di Dependabot, e sui push a main:
+# la verifica avviene prima del merge e viene ripetuta dopo il merge.
 version: 2
 updates:
   - package-ecosystem: "github-actions"

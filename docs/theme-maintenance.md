@@ -61,9 +61,10 @@ Non sono necessarie librerie o font esterni.
   e dal filtro del Blog. Usare i tag soltanto per gli argomenti.
 - Il filtro English / Italiano nel Blog sceglie la versione degli articoli.
   È indipendente dal selettore dell'header.
-- Il selettore dell'header compare solo se la pagina è una pagina di contenuto
-  (`IsPage`) e ha traduzioni pubblicate (`IsTranslated`). Vale anche per
-  About ed Explore / Esplora; non vale per tassonomie, termini o sezioni.
+- Il selettore dell'header compare sulle pagine di contenuto (`IsPage`) e sui
+  termini della tassonomia `series`, se hanno traduzioni pubblicate
+  (`IsTranslated`). Vale anche per About ed Explore / Esplora; gli altri
+  termini, gli indici delle tassonomie e le sezioni restano esclusi.
 - Il partial `language_switch.html` riceve la pagina corrente e usa solo
   `.Translations`. Non deve mai usare `site.Home.Translations`, che conduce
   alla home della lingua anziché alla pagina corrispondente.
@@ -146,7 +147,8 @@ Il controllo usa l'HTML generato e verifica:
 1. assenza del selettore su Home, Blog e Tags nelle due lingue;
 2. destinazioni relative e corrispondenti agli `hreflang` della pagina;
 3. esistenza della pagina tradotta e del collegamento per tornare all'originale;
-4. nessun cambio lingua diretto a una homepage.
+4. nessun cambio lingua diretto a una homepage;
+5. presenza del selettore su tutte le serie tradotte, in entrambe le direzioni.
 
 È eseguito anche dalla CI dopo la build. Ripetere la build con `--buildDrafts`
 in una destinazione temporanea separata quando si modificano articoli in bozza.

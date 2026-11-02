@@ -20,6 +20,19 @@ for (const url of ['/', '/it/', '/blog/', '/it/blog/', '/tags/', '/it/tags/']) {
   assert.equal(menu(read(fileFor(url))), '', `Unexpected language switch on ${url}`);
 }
 
+// Series use translated taxonomy terms, including custom URLs outside /it/.
+for (const [original, translation] of [
+  ['/series/ciclismo-giovanile-e-professionismo/', '/en/series/ciclismo-giovanile-e-professionismo/'],
+  ['/series/tuebingen/', '/it/series/tuebingen/'],
+  ['/series/the-download-decision/', '/it/series/the-download-decision/'],
+]) {
+  for (const [source, target] of [[original, translation], [translation, original]]) {
+    const links = [...menu(read(fileFor(source))).matchAll(/<a\b[^>]*>/g)]
+      .map(m => attributes(m[0]).href);
+    assert(links.includes(target), `Missing series translation switch from ${source} to ${target}`);
+  }
+}
+
 let pages = 0;
 let switches = 0;
 for (const filename of walk(root).filter(f => f.endsWith('index.html'))) {

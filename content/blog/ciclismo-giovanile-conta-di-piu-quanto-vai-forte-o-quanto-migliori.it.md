@@ -4,7 +4,7 @@ lang: it
 locale: it_IT
 title: "Nel ciclismo giovanile conta di più quanto vai forte o quanto migliori?"
 description: "Quanto aggiunge la crescita al livello? Seguiamo i percorsi nelle classifiche giovanili per capire cosa raccontano sul futuro professionistico."
-date: 2026-11-07T10:00:00+02:00
+date: 2026-11-06T10:00:00+02:00
 draft: true
 series: ["Ciclismo giovanile e professionismo"]
 aliases: ["/blog/ciclismo-giovanile-dove-sei-dove-stai-andando/"]
@@ -15,9 +15,9 @@ showToc: true
 TocOpen: false
 # COPERTINA: nessun file ancora caricato. Togliere il commento quando il file
 # esiste, in static/blog/ciclismo-giovanile-conta-di-piu-quanto-vai-forte-o-quanto-migliori/.
-# cover:
-#     image: blog/ciclismo-giovanile-conta-di-piu-quanto-vai-forte-o-quanto-migliori/nome-file.webp
-#     alt: "..."
+cover:
+    image: /blog/ciclismo-giovanile-conta-di-piu-quanto-vai-forte-o-quanto-migliori/coda-gruppo.webp
+    alt: "Allievi in gara ripresi di spalle mentre pedalano in gruppo sotto la pioggia."
 ---
 
 *Terza di quattro puntate. Nella [seconda](/blog/ciclismo-giovanile-a-che-eta-si-riconosce-un-futuro-professionista/) abbiamo visto quanto il piazzamento in classifica aiuti a distinguere i futuri professionisti, e da che età. Qui seguiamo anche il percorso dei ragazzi: quanto aggiunge sapere se stanno guadagnando o perdendo terreno?*

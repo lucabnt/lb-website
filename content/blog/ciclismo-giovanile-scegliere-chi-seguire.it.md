@@ -4,7 +4,7 @@ lang: it
 locale: it_IT
 title: "Scegliere chi seguire nel ciclismo giovanile"
 description: "Seguendo il dieci per cento migliore a diciotto anni troviamo il 59% dei futuri professionisti. Ma quanti ragazzi lasciamo fuori, e quanti dei selezionati arriveranno davvero?"
-date: 2026-11-14T10:00:00+02:00
+date: 2026-11-13T10:00:00+02:00
 draft: true
 series: ["Ciclismo giovanile e professionismo"]
 aliases: ["/blog/ciclismo-giovanile-predire-non-e-selezionare/"]
@@ -15,9 +15,9 @@ showToc: true
 TocOpen: false
 # COPERTINA: nessun file ancora caricato. Togliere il commento quando il file
 # esiste, in static/blog/ciclismo-giovanile-scegliere-chi-seguire/.
-# cover:
-#     image: blog/ciclismo-giovanile-scegliere-chi-seguire/nome-file.webp
-#     alt: "..."
+cover:
+    image: /blog/ciclismo-giovanile-scegliere-chi-seguire/gruppo-esordienti.webp
+    alt: "Un gruppo di ciclisti esordienti avanza su una strada tra vigneti e alberi."
 ---
 
 *Ultima di quattro puntate. Nelle [precedenti](/series/ciclismo-giovanile-e-professionismo/) abbiamo visto quanto i risultati giovanili aiutino a distinguere i futuri professionisti, [da che età](/blog/ciclismo-giovanile-a-che-eta-si-riconosce-un-futuro-professionista/) e [quanto conti il miglioramento](/blog/ciclismo-giovanile-conta-di-piu-quanto-vai-forte-o-quanto-migliori/). Ora proviamo a usarli per scegliere chi seguire: quanti futuri professionisti troviamo, quanti ne lasciamo fuori e quanti dei ragazzi selezionati arriveranno davvero? Infine vediamo quanto possiamo fidarci di queste indicazioni.*

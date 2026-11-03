@@ -1,7 +1,7 @@
 ---
 title: "In youth cycling, does performance or improvement matter more?"
 description: "How much does improvement add to level? We follow riders through youth rankings to see what their trajectories tell us about future professional careers."
-date: 2026-11-07T10:00:00+02:00
+date: 2026-11-06T10:00:00+02:00
 draft: true
 series: ["Ciclismo giovanile e professionismo"]
 series_weight: 3
@@ -11,9 +11,9 @@ showToc: true
 TocOpen: false
 # COPERTINA: nessun file ancora caricato. Togliere il commento quando il file
 # esiste, in static/blog/ciclismo-giovanile-conta-di-piu-quanto-vai-forte-o-quanto-migliori/.
-# cover:
-#     image: blog/ciclismo-giovanile-conta-di-piu-quanto-vai-forte-o-quanto-migliori/nome-file.webp
-#     alt: "..."
+cover:
+    image: /blog/ciclismo-giovanile-conta-di-piu-quanto-vai-forte-o-quanto-migliori/coda-gruppo.webp
+    alt: "Allievi in gara ripresi di spalle mentre pedalano in gruppo sotto la pioggia."
 lang: en
 locale: en-GB
 url: /en/blog/ciclismo-giovanile-conta-di-piu-quanto-vai-forte-o-quanto-migliori/

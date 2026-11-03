@@ -1,7 +1,7 @@
 ---
 title: "Choosing whom to follow in youth cycling"
 description: "Following the top ten per cent at eighteen identifies 59% of future professionals. But how many riders do we leave out, and how many of those selected will actually make it?"
-date: 2026-11-14T10:00:00+02:00
+date: 2026-11-13T10:00:00+02:00
 draft: true
 series: ["Ciclismo giovanile e professionismo"]
 series_weight: 4
@@ -11,9 +11,9 @@ showToc: true
 TocOpen: false
 # COPERTINA: nessun file ancora caricato. Togliere il commento quando il file
 # esiste, in static/blog/ciclismo-giovanile-scegliere-chi-seguire/.
-# cover:
-#     image: blog/ciclismo-giovanile-scegliere-chi-seguire/nome-file.webp
-#     alt: "..."
+cover:
+    image: /blog/ciclismo-giovanile-scegliere-chi-seguire/gruppo-esordienti.webp
+    alt: "Un gruppo di ciclisti esordienti avanza su una strada tra vigneti e alberi."
 lang: en
 locale: en-GB
 url: /en/blog/ciclismo-giovanile-scegliere-chi-seguire/

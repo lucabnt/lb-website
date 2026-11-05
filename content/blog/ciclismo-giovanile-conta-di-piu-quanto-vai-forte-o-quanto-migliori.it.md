@@ -5,7 +5,7 @@ locale: it_IT
 title: "Nel ciclismo giovanile conta di più quanto vai forte o quanto migliori?"
 description: "Quanto aggiunge la crescita al livello? Seguiamo i percorsi nelle classifiche giovanili per capire cosa raccontano sul futuro professionistico."
 date: 2026-11-06T10:00:00+02:00
-draft: true
+draft: false
 series: ["Ciclismo giovanile e professionismo"]
 aliases: ["/blog/ciclismo-giovanile-dove-sei-dove-stai-andando/"]
 series_weight: 3

@@ -2,7 +2,7 @@
 title: "In youth cycling, does performance or improvement matter more?"
 description: "How much does improvement add to level? We follow riders through youth rankings to see what their trajectories tell us about future professional careers."
 date: 2026-11-06T10:00:00+02:00
-draft: true
+draft: false
 series: ["Ciclismo giovanile e professionismo"]
 series_weight: 3
 tags: ["ciclismo-giovanile", "sport"]

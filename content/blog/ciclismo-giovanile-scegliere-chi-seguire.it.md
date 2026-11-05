@@ -5,7 +5,7 @@ locale: it_IT
 title: "Scegliere chi seguire nel ciclismo giovanile"
 description: "Seguendo il dieci per cento migliore a diciotto anni troviamo il 59% dei futuri professionisti. Ma quanti ragazzi lasciamo fuori, e quanti dei selezionati arriveranno davvero?"
 date: 2026-11-13T10:00:00+02:00
-draft: true
+draft: false
 series: ["Ciclismo giovanile e professionismo"]
 aliases: ["/blog/ciclismo-giovanile-predire-non-e-selezionare/"]
 series_weight: 4

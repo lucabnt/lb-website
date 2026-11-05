@@ -2,7 +2,7 @@
 title: "Choosing whom to follow in youth cycling"
 description: "Following the top ten per cent at eighteen identifies 59% of future professionals. But how many riders do we leave out, and how many of those selected will actually make it?"
 date: 2026-11-13T10:00:00+02:00
-draft: true
+draft: false
 series: ["Ciclismo giovanile e professionismo"]
 series_weight: 4
 tags: ["ciclismo-giovanile", "sport"]

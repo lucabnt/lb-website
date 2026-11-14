@@ -9,8 +9,6 @@ tags: ["ciclismo-giovanile", "sport"]
 author: "lb"
 showToc: true
 TocOpen: false
-# COPERTINA: nessun file ancora caricato. Togliere il commento quando il file
-# esiste, in static/blog/ciclismo-giovanile-scegliere-chi-seguire/.
 cover:
     image: /blog/ciclismo-giovanile-scegliere-chi-seguire/gruppo-esordienti.webp
     alt: "Un gruppo di ciclisti esordienti avanza su una strada tra vigneti e alberi."

@@ -24,8 +24,6 @@ Prima di guardare i dati, c’erano buone ragioni per aspettarsi che a tredici a
 
 Lo lasciava pensare la letteratura, perché alle età più basse è difficile separare la prestazione dalla maturazione. Lo diceva il buon senso: un ragazzino di terza media che vince una gara Esordienti (così si chiamano in Italia i tredici e quattordici anni, gli Under 15 della letteratura) sta battendo dei coetanei con magari un anno di pubertà in meno. Anche l’esperienza suggeriva prudenza: non mancano esempi di campioncini di quell’età che poi non si sono più visti.
 
-<!-- DA COMPLETARE: un episodio concreto, anche senza nomi, se ne hai uno -->
-
 Potevamo quindi aspettarci un segnale molto debole, forse assente. **Nei dati troviamo qualcosa di diverso.**
 
 ## Guardare, prima di modellare
@@ -125,7 +123,7 @@ Il peso cresce con l'età, da 1,40 a 2,28, ma non in modo regolare. Le due righe
 
 *Per approfondire, nel documento tecnico: <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#perch%C3%A9-la-colonna--pro-non-va-letta-come-un-segnale" target="_blank" rel="noopener">Perché la colonna «% pro» non va letta come un segnale</a>.*
 
-C'è poi un dettaglio che sembra un risultato e non lo è. Nelle categorie a lista unica la percentuale di futuri professionisti è più alta al primo anno che al secondo: sembrerebbe che il primo anno selezioni meglio. In realtà, come abbiamo visto nella [prima puntata](/blog/ciclismo-giovanile-di-chi-stiamo-parlando/), al primo anno i posti a punti sono pochi, e i classificati sono in media 181 contro 320. Chi c'è è già più selezionato, e un gruppo più selezionato contiene per forza una quota maggiore di futuri professionisti. Il primo anno predice meglio, allora? Si risponde solo confrontando le stesse persone, e la risposta è no: il secondo anno discrimina meglio in tutte le categorie, 81% contro 70% in Esordienti, 85% contro 81% in Allievi, 87% contro 78% in Juniores.
+C'è poi un dettaglio che sembra un risultato e non lo è. Nelle categorie a lista unica la percentuale di futuri professionisti è più alta al primo anno che al secondo: sembrerebbe che il primo anno selezioni meglio. In realtà, come abbiamo visto nella [prima puntata](/blog/ciclismo-giovanile-di-chi-stiamo-parlando/), al primo anno i posti a punti sono pochi, e negli Allievi i classificati sono in media 181 contro 320. Chi c'è è già più selezionato, e un gruppo più selezionato contiene per forza una quota maggiore di futuri professionisti. Il primo anno predice meglio, allora? Si risponde solo confrontando le stesse persone, e la risposta è no: il secondo anno discrimina meglio in tutte le categorie, 81% contro 70% in Esordienti, 85% contro 81% in Allievi, 87% contro 78% in Juniores.
 
 ## Quanto aggiungono i risultati più recenti
 
@@ -151,7 +149,7 @@ La terza colonna mostra l’incertezza delle stime: gli intervalli sono ampi, fr
 
 Attenzione però a non trasformare i passi non significativi in zeri. Esordienti e Allievi migliorano l'adattamento del modello in modo distinguibile dal caso; semplicemente non cambiano l'ordine in cui i ragazzi vengono messi in fila. Sono due domande diverse: una chiede quanto il modello sia in accordo con i dati, l'altra se, dati due ragazzi, ci azzecchi su chi mettere davanti.
 
-Per verificare che il risultato non dipenda soltanto da quel sottocampione, affrontiamo la stessa domanda con altri due metodi. Una foresta casuale, cioè un algoritmo che si arrangia da solo a trovare le combinazioni utili, ha ricevuto diciassette variabili invece delle due del modello semplice e ha guadagnato **2,0 punti percentuali** di capacità predittiva. In cima alla sua classifica di importanza c'è proprio il piazzamento in Juniores. Una regressione penalizzata, che mette tutte le categorie in un modello solo e butta via quelle che non si guadagnano il posto, ne ha tenute **2 su 8**: Juniores secondo anno e Under 23.
+Per verificare che il risultato non dipenda dal metodo, affrontiamo la stessa domanda con altri due metodi. Una foresta casuale, cioè un algoritmo che si arrangia da solo a trovare le combinazioni utili, ha ricevuto diciassette variabili invece delle due del modello semplice e ha guadagnato **2,0 punti percentuali** di capacità predittiva. In cima alla sua classifica di importanza c'è proprio il piazzamento in Juniores. Una regressione penalizzata, che mette tutte le categorie in un modello solo e butta via quelle che non si guadagnano il posto, ne ha tenute **2 su 8**: Juniores secondo anno e Under 23.
 
 Tre strade diverse, la stessa conclusione: quasi tutta l'informazione utile sta nell'ultima misura che hai. Le stagioni precedenti non si sommano all'ultima: sono in gran parte la stessa cosa vista da più lontano.
 
@@ -163,7 +161,7 @@ Fin qui abbiamo considerato soltanto chi è in classifica. Proviamo ora a tratta
 
 Troviamo un risultato diverso a seconda dell’età. A diciotto anni mettere gli assenti in fondo **alza** la capacità di distinguere, dall'89% al **94%**: a quell'età non essere in classifica è già un segnale forte, e in effetti dei 77 futuri professionisti soltanto 3 non c'erano. A tredici anni invece la **abbassa**, dal 74% al **69%**, perché in classifica a quell'età ci sono 59 dei 77 futuri professionisti, e gli altri diciotto finirebbero in fondo pur essendo destinati ad arrivare[^sensibilita].
 
-Non esserci è un'informazione, ma lo diventa tardi. Ed è la misura più precisa di una cosa detta nella [prima puntata](/blog/ciclismo-giovanile-di-chi-stiamo-parlando/): un nome che manca dalla classifica non è stato bocciato da nessuno, e quasi un terzo di chi sparisce ricompare.
+Non esserci è un'informazione, ma lo diventa tardi. Ed è la misura più precisa di una cosa detta nella [prima puntata](/blog/ciclismo-giovanile-di-chi-stiamo-parlando/): un nome che manca dalla classifica non è stato bocciato da nessuno, e quasi un atleta su tre sparisce per almeno una stagione e poi ricompare.
 
 *Per approfondire, nel documento tecnico: <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#le-conclusioni-dipendono-dalle-scelte-di-disegno" target="_blank" rel="noopener">Le conclusioni dipendono dalle scelte di disegno?</a>.*
 

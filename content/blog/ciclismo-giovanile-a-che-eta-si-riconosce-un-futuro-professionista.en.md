@@ -25,8 +25,6 @@ Before looking at the data, there were good reasons to expect little to show at 
 
 The literature suggested as much, because at younger ages performance is hard to separate from maturation. Common sense said the same: a thirteen-year-old winning an Esordienti race, Italy's category for thirteen- and fourteen-year-olds, or Under 15s in the literature, may be beating peers a year behind in puberty. Experience also suggested caution: there is no shortage of young champions at that age who were never heard of again.
 
-<!-- DA COMPLETARE: un episodio concreto, anche senza nomi, se ne hai uno -->
-
 We might therefore have expected a very weak signal, perhaps none at all. **The data show something different.**
 
 ## Look before modelling
@@ -126,7 +124,7 @@ The effect grows with age, from 1.40 to 2.28, but not steadily. The two downward
 
 *For more detail in the technical document, in Italian: <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#perch%C3%A9-la-colonna--pro-non-va-letta-come-un-segnale" target="_blank" rel="noopener">Why the ‘% pro’ column is not a signal</a>.*
 
-Another detail looks like a finding but is not. In categories with a single list, future professionals make up a larger share in the first year than the second, as though the first year selected better. As we saw in the [first instalment](/en/blog/ciclismo-giovanile-di-chi-stiamo-parlando/), however, first-year point-scoring places are scarce, with an average of 181 ranked riders against 320. Those present are already more selected, and a more selected group necessarily contains a larger share of future professionals. Does the first year predict better? Only comparing the same people can answer that, and the answer is no: the second year discriminates better in every category, 81% against 70% for Esordienti, 85% against 81% for Allievi and 87% against 78% for juniors.
+Another detail looks like a finding but is not. In categories with a single list, future professionals make up a larger share in the first year than the second, as though the first year selected better. As we saw in the [first instalment](/en/blog/ciclismo-giovanile-di-chi-stiamo-parlando/), however, first-year point-scoring places are scarce, with an average of 181 ranked Allievi against 320. Those present are already more selected, and a more selected group necessarily contains a larger share of future professionals. Does the first year predict better? Only comparing the same people can answer that, and the answer is no: the second year discriminates better in every category, 81% against 70% for Esordienti, 85% against 81% for Allievi and 87% against 78% for juniors.
 
 ## What more recent results add
 
@@ -152,7 +150,7 @@ The third column shows the uncertainty in the estimates: the intervals are wide,
 
 Do not turn non-significant steps into zeros, however. Esordienti and Allievi improve model fit beyond what chance would explain; they simply do not change the order in which riders are ranked. These are different questions: one asks how well the model agrees with the data, the other whether it puts the right rider first in a pair.
 
-To check that the result does not depend solely on this subsample, we address the same question using two other methods. A random forest, an algorithm that finds useful combinations for itself, received seventeen variables instead of the simple model's two and gained **2.0 percentage points** of discrimination. Junior placing ranked highest in importance. A penalised regression, putting all categories in one model and discarding those that do not earn their place, retained **2 out of 8**: second-year juniors and Under 23.
+To check that the result does not depend on the method, we address the same question using two other methods. A random forest, an algorithm that finds useful combinations for itself, received seventeen variables instead of the simple model's two and gained **2.0 percentage points** of discrimination. Junior placing ranked highest in importance. A penalised regression, putting all categories in one model and discarding those that do not earn their place, retained **2 out of 8**: second-year juniors and Under 23.
 
 Three different routes, the same conclusion: almost all useful information lies in the latest measurement. Earlier seasons do not simply add to it; they largely show the same thing from further away.
 
@@ -164,7 +162,7 @@ So far we have considered only ranked riders. Now we try treating absence as wor
 
 We find a different result depending on age. At eighteen, putting absent riders at the bottom **raises** discrimination from 89% to **94%**. By then absence is a strong signal: only 3 of the 77 future professionals were unranked. At thirteen it **lowers** discrimination from 74% to **69%**, because only 59 of the 77 were ranked then; the other eighteen would be placed at the bottom despite eventually making it.[^sensibilita]
 
-Absence is information, but only later. This is a more precise version of a point from the [first instalment](/en/blog/ciclismo-giovanile-di-chi-stiamo-parlando/): a name missing from a ranking has not necessarily been rejected, and almost a third of those who disappear return.
+Absence is information, but only later. This is a more precise version of a point from the [first instalment](/en/blog/ciclismo-giovanile-di-chi-stiamo-parlando/): a name missing from a ranking has not necessarily been rejected, and almost one rider in three disappears for at least a season and then returns.
 
 *For more detail in the technical document, in Italian: <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/output/analisi.md#le-conclusioni-dipendono-dalle-scelte-di-disegno" target="_blank" rel="noopener">Do the conclusions depend on design choices?</a>.*
 

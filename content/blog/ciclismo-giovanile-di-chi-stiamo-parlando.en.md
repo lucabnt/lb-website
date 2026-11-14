@@ -89,7 +89,7 @@ One in seven **underestimates** the share of road cyclists who become ranked, be
 
 The main cohorts are the groups of riders born between 1996 and 2000 whom we follow over time. All have had time to make it or not. There are **2,813 riders and 77 professionals**. Throughout this series, professional means having raced for a first-tier WorldTeam or second-tier ProTeam by age twenty-five. The age window makes birth cohorts comparable; anyone who makes it later is not counted here.
 
-Of those 2,813, however, only 2,183 were already ranked as Esordienti, the thirteen- and fourteen-year-old category, or Under 15s in the literature. Under 23 spans four birth years, from nineteen to twenty-two. The funnel starts with Esordienti.[^attrito]
+Of those 2,813, however, only 2,183 were already ranked as Esordienti, the thirteen- and fourteen-year-old category, or Under 15s in the literature. The funnel starts with Esordienti.[^attrito]
 
 | category | ranked riders | of whom ranked as Esordienti | share of the 2,183 |
 |---|---|---|---|
@@ -99,7 +99,7 @@ Of those 2,813, however, only 2,183 were already ranked as Esordienti, the thirt
 | Under 23 | 342 | 224 | 10.3% |
 | professionals | 77 | 66 | 3.0% |
 
-*The two middle columns differ because each category also gains riders who were not ranked as Esordienti. The percentage uses the third column, not the second.*
+*The two middle columns differ because each category also gains riders who were not ranked as Esordienti. The percentage uses the third column, not the second. Under 23 spans four birth years, from nineteen to twenty-two.*
 
 {{< figure
   src="/blog/ciclismo-giovanile-di-chi-stiamo-parlando/attrito_imbuto.webp"
@@ -113,7 +113,7 @@ Read backwards, this is the most useful number in this instalment: **one in seve
 
 Those eleven include **Christian Scaroni**, a stage winner at the 2025 Giro d'Italia, and **Jonathan Milan**, twice winner of the Giro's ciclamino jersey and winner of the 2025 Tour's green jersey. Both first appear in our rankings as second-year Allievi.
 
-It looks like a funnel, and partly is. But one feature defeats simple readings: it is not the same group shrinking. Between a quarter and a third of riders in each category never appeared as Esordienti; among Under 23s it is more than a third. Reading the funnel as ‘three hundred of those two thousand remained’ counts people as survivors who were never at the start.
+It looks like a funnel, and partly is. But one feature defeats simple readings: it is not the same group shrinking. Between a quarter and a third of Allievi and juniors never appeared as Esordienti; among Under 23s it is more than a third. Reading the funnel as ‘three hundred of those two thousand remained’ counts people as survivors who were never at the start.
 
 The number we will use throughout the series therefore carries its label: **twenty-seven per thousand among riders ever ranked**, or 77 out of 2,813. The table's three in a hundred is a different fraction: 66 out of 2,183, only those who started as Esordienti.
 
@@ -159,7 +159,7 @@ Third: **the racing calendar is shrinking**. In an average season the rankings r
 {{< figure
   src="/blog/ciclismo-giovanile-di-chi-stiamo-parlando/posti_andamento.webp"
   alt="Four category lines from 2007 to 2025, all declining, with a steep early fall, a near-flat stretch from 2013, a collapse in 2020 and an incomplete recovery."
-  caption="From 2007 to 2025: Esordienti fall from 433 races in 2009 to 261, Allievi from 642 to 309, juniors from 430 to 199, and Under 23s from 222 to 88, with a shared collapse in 2020."
+  caption="From 2007 to 2025: Esordienti fall from 433 races in 2009 to 261, Allievi from 562 to 309, juniors from 365 to 199, and Under 23s from 212 to 88, with a shared collapse in 2020."
 >}}
 
 Fewer races mean fewer point-scoring places, so the ranking thins by itself: seasons far apart cannot be compared as though nothing had changed. The decline concerns men's cycling, however, rather than all youth cycling. Where comparison is valid, among Allievi and juniors, men's races fell by over a third between 2011 and 2025 while women's held steady, narrowing the gap: **from one women's race per seven men's races to one per five** among Allievi, and from one per ten to one per five among juniors.[^ragazze]

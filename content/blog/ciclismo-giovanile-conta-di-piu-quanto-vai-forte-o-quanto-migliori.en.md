@@ -9,8 +9,6 @@ tags: ["ciclismo-giovanile", "sport"]
 author: "lb"
 showToc: true
 TocOpen: false
-# COPERTINA: nessun file ancora caricato. Togliere il commento quando il file
-# esiste, in static/blog/ciclismo-giovanile-conta-di-piu-quanto-vai-forte-o-quanto-migliori/.
 cover:
     image: /blog/ciclismo-giovanile-conta-di-piu-quanto-vai-forte-o-quanto-migliori/coda-gruppo.webp
     alt: "Allievi in gara ripresi di spalle mentre pedalano in gruppo sotto la pioggia."

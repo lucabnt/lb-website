@@ -13,8 +13,6 @@ tags: ["ciclismo-giovanile", "sport"]
 author: "lb"
 showToc: true
 TocOpen: false
-# COPERTINA: nessun file ancora caricato. Togliere il commento quando il file
-# esiste, in static/blog/ciclismo-giovanile-scegliere-chi-seguire/.
 cover:
     image: /blog/ciclismo-giovanile-scegliere-chi-seguire/gruppo-esordienti.webp
     alt: "Un gruppo di ciclisti esordienti avanza su una strada tra vigneti e alberi."
@@ -116,7 +114,7 @@ I percorsi successivi differiscono: arriva nei primi cinquecento del mondo il **
 
 Per le ragazze possiamo descrivere le classifiche e confrontarne alcune caratteristiche con quelle maschili. Non possiamo invece trasferire direttamente le stime sul passaggio al professionismo.
 
-Le atlete presenti nelle classifiche Esordienti sono **864, contro 6.356 ragazzi**[^ragazze]; da Juniores il rapporto scende a circa una su dieci. Dove il confronto è possibile, in Allievi e Juniores, il calendario femminile conta fra un sesto e un ottavo delle gare maschili. Nel periodo studiato manca inoltre una classifica Under 23 femminile.
+Le atlete presenti nelle classifiche Esordienti sono **864, contro 6&nbsp;356 ragazzi**[^ragazze]; da Juniores il rapporto scende a circa una su dieci. Dove il confronto è possibile, in Allievi e Juniores, il calendario femminile conta fra un sesto e un ottavo delle gare maschili. Nel periodo studiato manca inoltre una classifica Under 23 femminile.
 
 Troviamo però una somiglianza: il dieci per cento migliore raccoglie una quota di punti molto simile nei due movimenti, **41-44% fra le ragazze** e **40-45% fra i ragazzi**. Cambiano le dimensioni e le opportunità di correre, ma la concentrazione dei punti resta simile.
 

@@ -87,7 +87,7 @@ Quell'uno su sette **sottostima** quanti dei ciclisti su strada finiscono in cla
 
 Le coorti principali, cioè i gruppi di nati negli stessi anni che seguiamo nel tempo, comprendono i ragazzi nati fra il 1996 e il 2000. Hanno avuto tutti il tempo di arrivare o di non arrivare. Sono **2&nbsp;813 ragazzi, 77 professionisti**. Professionista, in tutta la serie, vuol dire aver corso in una squadra di primo livello (WorldTeam) o di secondo (ProTeam) entro i venticinque anni. La finestra d'età serve a rendere confrontabili annate diverse; chi arriva più tardi qui non risulta.
 
-Di quei 2&nbsp;813, però, soltanto 2&nbsp;183 erano in classifica già da Esordienti, la categoria dei tredici e quattordici anni, l'Under 15 della letteratura. L'Under 23, invece, copre quattro annate, dai diciannove ai ventidue. È dagli Esordienti che parte l'imbuto[^attrito].
+Di quei 2&nbsp;813, però, soltanto 2&nbsp;183 erano in classifica già da Esordienti, la categoria dei tredici e quattordici anni, l'Under 15 della letteratura. È dagli Esordienti che parte l'imbuto[^attrito].
 
 | categoria | atleti in classifica | di cui partiti dagli Esordienti | quota dei 2&nbsp;183 |
 |---|---|---|---|
@@ -97,7 +97,7 @@ Di quei 2&nbsp;813, però, soltanto 2&nbsp;183 erano in classifica già da Esord
 | Under 23 | 342 | 224 | 10,3% |
 | professionisti | 77 | 66 | 3,0% |
 
-*le due colonne di mezzo non coincidono perché in ogni categoria entrano anche ragazzi che negli Esordienti non c'erano: la quota è calcolata sulla terza colonna, non sulla seconda*
+*le due colonne di mezzo non coincidono perché in ogni categoria entrano anche ragazzi che negli Esordienti non c'erano: la quota è calcolata sulla terza colonna, non sulla seconda. L'Under 23 copre quattro annate, dai diciannove ai ventidue*
 
 {{< figure
   src="attrito_imbuto.webp"
@@ -111,7 +111,7 @@ Letto al contrario, è il numero più utile di questa puntata: **uno su sette de
 
 Tra quegli undici ci sono anche **Christian Scaroni**, vincitore di una tappa al Giro d’Italia 2025, e **Jonathan Milan**, due volte maglia ciclamino al Giro e maglia verde al Tour 2025: entrambi compaiono nelle nostre classifiche soltanto da Allievi di secondo anno.
 
-Sembra un imbuto, e in parte lo è. Ha però una proprietà che rovina le letture semplici: non è lo stesso gruppo che si assottiglia. Fra un quarto e un terzo degli atleti di ogni categoria non è mai comparso in Esordienti, e in Under 23 sono più di uno su tre. Chi legge l'imbuto come «di quei duemila ne sono rimasti trecento» conta fra i sopravvissuti gente che non era mai partita.
+Sembra un imbuto, e in parte lo è. Ha però una proprietà che rovina le letture semplici: non è lo stesso gruppo che si assottiglia. Fra un quarto e un terzo degli atleti di Allievi e Juniores non è mai comparso in Esordienti, e in Under 23 sono più di uno su tre. Chi legge l'imbuto come «di quei duemila ne sono rimasti trecento» conta fra i sopravvissuti gente che non era mai partita.
 
 Il numero che useremo per tutta la serie porta allora la sua etichetta attaccata: **ventisette su mille fra chi è mai comparso in classifica**, cioè 77 su 2&nbsp;813. Il tre su cento della tabella è un'altra frazione: 66 su 2&nbsp;183, i soli partiti dagli Esordienti.
 
@@ -157,7 +157,7 @@ La terza: **il calendario si sta accorciando**. In una stagione la classifica re
 {{< figure
   src="posti_andamento.webp"
   alt="Quattro linee, una per categoria, dal 2007 al 2025: scendono tutte, con un gradino ripido nei primi anni, un tratto quasi piatto dal 2013, il crollo del 2020 e una risalita che si ferma sotto i valori precedenti."
-  caption="Quattro linee per categoria dal 2007 al 2025: gli Esordienti scendono da 433 gare nel 2009 a 261, gli Allievi da 642 a 309, gli Juniores da 430 a 199, l'Under 23 da 222 a 88, con un crollo comune nel 2020."
+  caption="Quattro linee per categoria dal 2007 al 2025: gli Esordienti scendono da 433 gare nel 2009 a 261, gli Allievi da 562 a 309, gli Juniores da 365 a 199, l'Under 23 da 212 a 88, con un crollo comune nel 2020."
 >}}
 
 Meno gare vuol dire meno posti a punti, quindi una classifica che si assottiglia da sola: due annate lontane non si possono confrontare come se niente fosse. Il calo, tuttavia, riguarda il movimento maschile e non il ciclismo giovanile in generale. Dove il confronto regge, cioè in Allievi e Juniores, fra il 2011 e il 2025 le gare maschili calano di oltre un terzo mentre quelle femminili tengono, e il divario si stringe: **da una gara femminile ogni sette maschili a una ogni cinque** in Allievi, da una ogni dieci a una ogni cinque in Juniores[^ragazze].

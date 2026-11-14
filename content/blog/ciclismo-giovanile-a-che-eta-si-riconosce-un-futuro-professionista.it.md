@@ -191,6 +191,6 @@ Cosa significa, in pratica? Per prevedere chi diventerà professionista, i risul
 
 [^annidati]: Modelli in <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/R/18_annidati.R" target="_blank" rel="noopener">R/18_annidati.R</a>. Foresta casuale in <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/R/27_confronto_ml.R" target="_blank" rel="noopener">R/27_confronto_ml.R</a>, regressione penalizzata in <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/R/17_penalizzato.R" target="_blank" rel="noopener">R/17_penalizzato.R</a>.
 
-[^rae]: Calcolo in <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/report/moduli/rae.py" target="_blank" rel="noopener">report/moduli/rae.py</a>. Le nascite attese vengono da Eurostat, tavola `demo_fmonth`.
+[^rae]: Calcolo in <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/report/moduli/rae.py" target="_blank" rel="noopener">report/moduli/rae.py</a>. Le nascite attese vengono da Eurostat, tavola `demo_fmonth`. I conteggi comprendono la stagione 2020, dimezzata dal covid: qui conta la composizione della classifica per trimestre di nascita, che una stagione corta non sposta.
 
 [^sensibilita]: Analisi di sensibilità in <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/scripts/10_sensibilita.py" target="_blank" rel="noopener">scripts/10_sensibilita.py</a>.

@@ -176,7 +176,7 @@ Questi numeri chiedono attenzione soprattutto a noi adulti, quando una classific
 
 [^sopravvivenza]: Modello di sopravvivenza in <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/R/20_sopravvivenza.R" target="_blank" rel="noopener">R/20_sopravvivenza.R</a>.
 
-[^ragazze]: Calcolo in <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/report/moduli/ragazze.py" target="_blank" rel="noopener">report/moduli/ragazze.py</a>.
+[^ragazze]: Calcolo in <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/report/moduli/ragazze.py" target="_blank" rel="noopener">report/moduli/ragazze.py</a>. Atlete e atleti sono contati su tutte le stagioni tranne il 2020, dimezzato dal covid, che falserebbe il confronto fra i volumi. Per questo il numero non coincide con le 874 atlete della seconda puntata, dove quella stagione è inclusa.
 
 [^validazione]: Correzione dell'ottimismo e verifica temporale in <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/R/24_validazione.R" target="_blank" rel="noopener">R/24_validazione.R</a>.
 

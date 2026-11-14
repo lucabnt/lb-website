@@ -177,7 +177,7 @@ These numbers call for care above all from us as adults, when a ranking leads us
 
 [^sopravvivenza]: Survival model in <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/R/20_sopravvivenza.R" target="_blank" rel="noopener">R/20_sopravvivenza.R</a>.
 
-[^ragazze]: Calculated in <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/report/moduli/ragazze.py" target="_blank" rel="noopener">report/moduli/ragazze.py</a>.
+[^ragazze]: Calculated in <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/report/moduli/ragazze.py" target="_blank" rel="noopener">report/moduli/ragazze.py</a>. Girls and boys are counted over every season except 2020, halved by Covid, which would distort the comparison of volumes. This is why the figure differs from the 874 girls in the second instalment, where that season is included.
 
 [^validazione]: Optimism correction and temporal validation in <a href="https://github.com/lucabnt/ciclismo-giovanile-vs-pro/blob/main/R/24_validazione.R" target="_blank" rel="noopener">R/24_validazione.R</a>.
 

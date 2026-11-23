@@ -1,0 +1,108 @@
+/* Schede della serie Progetti (_shortcodes/progetto.html e
+ * _partials/project_updates.html). Colori dalle variabili del tema, quindi
+ * il blocco segue da solo il tema chiaro e quello scuro. */
+
+.project-card {
+  margin: 0 0 var(--content-gap);
+}
+
+.project-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px 20px;
+  align-items: center;
+  font-weight: 600;
+}
+
+.post-content .project-links a {
+  box-shadow: none;
+  text-decoration: underline;
+  text-underline-offset: 0.25rem;
+}
+
+.post-content .project-links .project-download {
+  padding: 6px 14px;
+  border-radius: var(--radius);
+  background: var(--primary);
+  color: var(--theme);
+  text-decoration: none;
+}
+
+.post-content .project-summary caption {
+  text-align: start;
+  font-weight: 600;
+  padding-bottom: 6px;
+}
+
+.post-content .project-summary th {
+  width: 9.5em;
+  vertical-align: top;
+}
+
+.post-content .project-summary td p {
+  margin: 0;
+}
+
+.project-reviewed {
+  font-size: 15px;
+  color: var(--secondary);
+}
+
+.project-updates {
+  margin-top: var(--content-gap);
+  padding-top: var(--content-gap);
+  border-top: 1px solid var(--border);
+}
+
+.post-content .project-updates h2 {
+  font-size: 20px;
+  margin: 0 0 12px;
+}
+
+.project-updates ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.project-updates li {
+  display: grid;
+  grid-template-columns: 11em 1fr;
+  gap: 4px 16px;
+  margin-bottom: 8px;
+  font-size: 15px;
+}
+
+.project-updates time {
+  color: var(--secondary);
+}
+
+.project-updates li p {
+  display: inline;
+  margin: 0;
+}
+
+@media (max-width: 600px) {
+  .post-content .project-summary th {
+    width: 6.5em;
+  }
+
+  .project-updates li {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Elenco della sezione Projects (layouts/projects/list.html). */
+.project-entry-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px 14px;
+  align-items: center;
+}
+
+.project-status {
+  padding: 1px 10px;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  font-weight: 600;
+}

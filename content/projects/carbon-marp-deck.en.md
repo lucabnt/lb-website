@@ -1,0 +1,75 @@
+---
+title: "carbon-marp-deck: Carbon-style slide decks from Markdown, written by you or your agent"
+description: "An agent skill and a Marp template that turn a brief or a Markdown file into a Carbon-style deck, exported as PDF and editable PowerPoint."
+date: 2026-11-23T11:00:00+01:00
+draft: false
+series: ["Progetti"]
+series_weight: 2
+tags: ["software", "open-source"]
+author: "lb"
+showToc: false
+cover:
+    image: projects/carbon-marp-deck/carbon-marp-deck-esempi.webp
+    alt: "Four example slides made with carbon-marp-deck: key metrics, cards, a flow diagram and a five-phase process."
+lang: en
+lastmod: 2026-11-23
+project:
+    repo: lucabnt/carbon-marp-deck
+    # Latest release checked when the page was reviewed.
+    version: 1.2.1
+    status: stable
+    license: "Apache-2.0; Plex fonts under the SIL Open Font License ([details](https://github.com/lucabnt/carbon-marp-deck#licence-and-trademarks))"
+    what: "A Marp theme and an agent skill for Carbon-style decks"
+    audience: "Anyone who prepares slide decks: team syncs, demos, reviews, knowledge sharing"
+    platforms: [Any computer with Node.js 18+, Python 3.9+ and Chrome or Edge; IBM Bob, Claude Code, Codex, Copilot and other agents]
+    updates:
+        - date: 2026-11-23
+          note: "Page first published, for version 1.2.1."
+---
+
+carbon-marp-deck turns a Markdown file, or a plain-language brief given to a coding agent, into a slide deck in the style of the [Carbon Design System](https://carbondesignsystem.com/), exported as a **PDF** and an **editable PowerPoint** file.
+
+{{< progetto >}}
+
+> **Unofficial.** A community project built only on open-source Carbon material (design tokens, guidelines, pictograms, the Plex typeface). It is not affiliated with, endorsed or supported by the Carbon Design System project.
+
+## Why it exists
+
+Marp is a very efficient way to make presentations with an agent: the slides are plain Markdown, which an agent writes, checks and corrects as easily as code, going from a brief to a first draft in minutes. What it lacked was the finish. A good-looking deck still needed hand-tuned CSS, and the output was a PDF nobody else could edit. Carbon, with its open guidelines and tokens, is a sound stylistic reference: a complete, coherent design system to build on.
+
+## What it does
+
+- **A Carbon-style Marp theme** whose values all come from Carbon tokens: four themes, the Carbon type scale in Plex, the spacing scale and grid gutters.
+- **Ready-made layouts and components**: cover, contents, section dividers, two- and three-column grids, cards, KPIs, bar and custom charts, roadmaps, flow and process diagrams, data tables.
+- **1,429 Carbon pictograms** with a keyword search, and Plex bundled so every PDF renders in the right typeface.
+- **An agent skill**: the agent gathers the brief, writes the slides, exports them and checks the previews until there are no warnings.
+- **PDF and editable PPTX** made of native shapes and text boxes, plus a linter for the mistakes that silently break Marp slides.
+
+![A flow diagram slide made with carbon-marp-deck: sources, core platform, integration, AI and consumers connected by arrows.](/projects/carbon-marp-deck/carbon-marp-deck-flusso.webp)
+*One of the example slides in the repository, written in Markdown and exported without manual adjustments.*
+
+## Try it
+
+With an agent, clone the repository into its skills folder (for IBM Bob `~/.bob/skills/carbon-marp-deck`, for Claude Code `~/.claude/skills/carbon-marp-deck`), install the requirements and ask for a deck:
+
+> Create a 10-minute deck about our Q3 platform migration for the engineering team. Export PDF and PPTX.
+
+Without an agent:
+
+```bash
+git clone https://github.com/lucabnt/carbon-marp-deck.git
+cd carbon-marp-deck
+pip install -r pptx-export/requirements.txt
+python scripts/new_deck.py "Q3 review" --title "Q3 review"
+python scripts/export_deck.py q3-review/q3-review.md --strict --preview
+```
+
+The [README](https://github.com/lucabnt/carbon-marp-deck#readme) lists the skills folders of the other agents and how to upload the skill to claude.ai.
+
+## Where it stands
+
+The first public release came out in November 2026, and the theme, components and exporters are stable. Each release is described in the [changelog](https://github.com/lucabnt/carbon-marp-deck/blob/main/CHANGELOG.md). In CI every [example deck](https://github.com/lucabnt/carbon-marp-deck/tree/main/examples) is linted and the PPTX converter runs a regression test.
+
+## Get involved
+
+Issues and pull requests are welcome, and the [contributing guide](https://github.com/lucabnt/carbon-marp-deck/blob/main/CONTRIBUTING.md) explains how the theme is generated and tested.

@@ -25,6 +25,7 @@
 {{ end }}
 <nav class="explore-footer" aria-label="Blog">
   <a href="{{ "blog/" | relURL }}">{{ if eq .Lang "it" }}Tutti gli articoli{{ else }}All articles{{ end }} →</a>
+  <a href="{{ "projects/" | relURL }}">{{ if eq .Lang "it" }}Tutti i progetti{{ else }}All projects{{ end }} →</a>
   <a href="{{ "search/" | relURL }}">{{ if eq .Lang "it" }}Cerca{{ else }}Search{{ end }}</a>
 </nav>
 {{ end }}

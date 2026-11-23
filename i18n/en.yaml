@@ -17,3 +17,38 @@
 
 - id: series_episodes
   translation: "Episodes in the series {{ .name }}"
+
+# Project pages in the Projects series (_shortcodes/progetto.html,
+# _partials/project_updates.html).
+- id: project_download
+  translation: "Download the latest version"
+- id: project_code
+  translation: "Code on GitHub"
+- id: project_summary
+  translation: "At a glance"
+- id: project_what
+  translation: "What it is"
+- id: project_audience
+  translation: "For"
+- id: project_platforms
+  translation: "Runs on"
+- id: project_status
+  translation: "Status"
+- id: project_license
+  translation: "Licence"
+- id: project_status_alpha
+  translation: "Alpha: preview release, use with a backup"
+- id: project_status_beta
+  translation: "Beta: feature-complete, being tested"
+- id: project_status_stable
+  translation: "Stable"
+- id: project_reviewed
+  translation: "Page updated on {{ .date }}, for version {{ .version }}."
+- id: project_reviewed_prerelease
+  translation: "Page updated on {{ .date }}, for stable version {{ .version }} and pre-release {{ .prerelease }}."
+- id: project_changelog_hint
+  translation: "Later changes are in the project's changelog."
+- id: project_updates
+  translation: "Page history"
+- id: project_upstream
+  translation: "Based on"

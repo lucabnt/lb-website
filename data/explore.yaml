@@ -8,6 +8,16 @@
     title: Ciclismo e dati
     description: "Cosa dicono davvero i risultati giovanili sul futuro di un corridore? Un percorso su rendimento, crescita e limiti della selezione, a partire dalle classifiche del ciclismo italiano."
     alt: "La premiazione del Mondiale juniores su strada di Innsbruck del 2018."
+- series: /series/progetti
+  image: /projects/fuorigiri-performance-lab/test-incrementale.webp
+  en:
+    title: Projects and tools
+    description: "The software I build and publish on GitHub: what problem each project solves, who it is for, where it stands and how to try it in a few minutes."
+    alt: "Fuorigiri Performance Lab showing an incremental test, with power, heart rate, cadence, VO2 and lactate samples on one chart."
+  it:
+    title: Progetti e strumenti
+    description: "I software che sviluppo e pubblico su GitHub: quale problema risolve ciascun progetto, per chi è pensato, a che punto è e come provarlo in pochi minuti."
+    alt: "Fuorigiri Performance Lab con un test incrementale: potenza, frequenza cardiaca, cadenza, VO2 e prelievi di lattato nello stesso grafico."
 - series: /series/the-download-decision
   image: /blog/determinants_of_download_on_mobile_app_stores/determinants_of_download_on_mobile_app_stores_1.webp
   imageFit: contain

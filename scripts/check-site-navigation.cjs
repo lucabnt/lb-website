@@ -16,7 +16,7 @@ const read = filename => fs.readFileSync(filename, 'utf8');
 const menu = html => html.match(/<ul\b[^>]*class=["']?lang-menu["']?[^>]*>([\s\S]*?)<\/ul>/)?.[1] || '';
 const fileFor = url => path.join(root, decodeURIComponent(url), 'index.html');
 
-for (const url of ['/', '/it/', '/blog/', '/it/blog/', '/tags/', '/it/tags/']) {
+for (const url of ['/', '/it/', '/blog/', '/it/blog/', '/projects/', '/it/projects/', '/tags/', '/it/tags/']) {
   assert.equal(menu(read(fileFor(url))), '', `Unexpected language switch on ${url}`);
 }
 

@@ -10,7 +10,9 @@
 
      L'ordine delle puntate viene da "series_weight" nel front matter, non
      dalle date: cosi' la serie si legge nell'ordine giusto anche se un post
-     viene pubblicato in ritardo o retrodatato. Il totale e' contato qui, non
+     viene pubblicato in ritardo o retrodatato. Una serie con "catalog: true"
+     nella sua _index (per esempio Progetti) non e' fatta di puntate: la
+     dicitura "Puntata N di M" non viene mostrata. Il totale e' contato qui, non
      scritto nel testo dei post: aggiungere o togliere una puntata aggiorna
      da solo tutti gli altri. */ -}}
 
@@ -35,7 +37,7 @@
 {{- if $compact -}}
 <p class="series-kicker">
   <a href="{{ $term.Permalink }}">{{ $term.LinkTitle }}</a>
-  {{- if $current }} <span class="series-kicker-pos">{{ i18n "series_part" (dict "current" $current "total" $total) }}</span>{{ end -}}
+  {{- if and $current (not $term.Params.catalog) }} <span class="series-kicker-pos">{{ i18n "series_part" (dict "current" $current "total" $total) }}</span>{{ end -}}
 </p>
 {{- else -}}
 <nav class="series-box" aria-label="{{ i18n "series_episodes" (dict "name" $term.LinkTitle) }}">

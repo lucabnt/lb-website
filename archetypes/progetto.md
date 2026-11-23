@@ -23,6 +23,8 @@ series_weight: 0
 tags: ["software", "open-source"]
 author: "lb"
 showToc: false
+# Copertina in 16:9 (consigliato 1600x900 o 1920x1080, WebP): la build si
+# ferma se le proporzioni sono diverse.
 cover:
     image: blog/<slug>/<immagine>.webp
     alt: ""

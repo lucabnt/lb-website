@@ -65,7 +65,8 @@ hugo new --kind progetto blog/<slug>.en.md
 ```
 
 Lo scheletro viene da `archetypes/progetto.md`. Le immagini vanno in
-`static/blog/<slug>/`, in WebP, larghezza massima 1600 px.
+`static/blog/<slug>/`, in WebP: copertina in 16:9, le altre con larghezza
+massima 1600 px.
 
 ## Regole di scrittura
 
@@ -82,6 +83,9 @@ Lo scheletro viene da `archetypes/progetto.md`. Le immagini vanno in
 - **Ordine (`series_weight`):** prima i prodotti per utenti finali legati agli
   altri percorsi del sito, poi gli strumenti per sviluppatori. Pesi attuali:
   1 Fuorigiri Performance Lab, 2 carbon-marp-deck.
+- **Copertina:** in 16:9 (1600x900 o 1920x1080, WebP). Lo shortcode ferma la
+  build se le proporzioni sono diverse. Se lo screenshot di partenza ha
+  un'altra forma, va ritagliato o messo su uno sfondo neutro, non deformato.
 - **Immagini:** solo dati sintetici; nessun nome, risultato o file reale di
   atleti.
 - **Fonti:** ogni affermazione deve essere verificabile nel repository alla

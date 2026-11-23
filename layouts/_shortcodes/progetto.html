@@ -11,7 +11,8 @@
      - "status" diverso da alpha, beta, stable;
      - "lastmod" diverso dalla data della voce più recente di "updates":
        la data mostrata al lettore e quella della cronologia devono
-       coincidere. */ -}}
+       coincidere;
+     - copertina (cover.image, in static/) assente o non in 16:9. */ -}}
 {{- $page := .Page -}}
 {{- $p := $page.Params.project -}}
 {{- if not $p -}}{{- errorf "progetto: manca il blocco project: nel front matter (%s)" .Position -}}{{- end -}}
@@ -26,6 +27,18 @@
 {{- $latestDate := time.AsTime $latest.date -}}
 {{- if ne ($latestDate.Format "2006-01-02") ($page.Lastmod.Format "2006-01-02") -}}
   {{- errorf "progetto: lastmod (%s) non coincide con la voce più recente di project.updates (%s) (%s)" ($page.Lastmod.Format "2006-01-02") ($latestDate.Format "2006-01-02") .Position -}}
+{{- end -}}
+
+{{- with $page.Params.cover.image -}}
+  {{- $file := path.Join "static" . -}}
+  {{- if not (fileExists $file) -}}{{- errorf "progetto: copertina %s non trovata (%s)" $file $.Position -}}{{- end -}}
+  {{- $img := images.Config $file -}}
+  {{- /* 16:9 con tolleranza di un pixel ogni cento, per gli arrotondamenti. */ -}}
+  {{- if gt (math.Abs (sub (mul $img.Width 9) (mul $img.Height 16))) (div (mul $img.Width 9) 100) -}}
+    {{- errorf "progetto: la copertina %s è %dx%d, deve essere in 16:9 (es. 1600x900) (%s)" $file $img.Width $img.Height $.Position -}}
+  {{- end -}}
+{{- else -}}
+  {{- errorf "progetto: manca cover.image nel front matter (%s)" .Position -}}
 {{- end -}}
 
 {{- $repo := printf "https://github.com/%s" $p.repo -}}

@@ -38,7 +38,11 @@ volta e aggiornata nel tempo, con la data dell'ultima revisione in vista.
   progetti che non ne pubblicano (per esempio lo ZIP del branch principale);
   `changelog` cambia la destinazione del link "Le novità successive…"
   (predefinito: le release); `upstream` aggiunge alla tabella la riga
-  "Basato su", obbligatoria per fork e progetti derivati.
+  "Basato su", obbligatoria per fork e progetti derivati; `prerelease`
+  (per esempio `1.2.0-rc.4`) affianca a `version` la pre-release più recente
+  provata, e la riga diventa *"… con la versione stabile … e la
+  pre-release …"*. `version` resta sempre l'ultima stabile; si toglie
+  `prerelease` quando la pre-release diventa stabile.
 - La cronologia (`layouts/_partials/project_updates.html`) compare in fondo a
   ogni pagina con `project.updates`, dalla voce più recente.
 - `lastmod` nel front matter è la data di revisione. In `config.yml` ha la
@@ -46,8 +50,11 @@ volta e aggiornata nel tempo, con la data dell'ultima revisione in vista.
   "aggiorna" la scheda agli occhi del lettore e dei motori di ricerca.
 
 La build si ferma con un messaggio chiaro se manca un campo obbligatorio, se
-`status` non è `alpha`, `beta` o `stable`, o se `lastmod` non coincide con la
-data della voce più recente di `updates`.
+`status` non è `alpha`, `beta` o `stable`, se `lastmod` non coincide con la
+data della voce più recente di `updates`, o se le due lingue non sono
+allineate: `repo`, `version`, `prerelease`, `status`, `download`,
+`changelog`, `lastmod` e il numero di voci di `updates` devono essere uguali
+nella scheda italiana e in quella inglese.
 
 ## Quando fare cosa
 

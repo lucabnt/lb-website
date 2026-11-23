@@ -44,6 +44,8 @@
   translation: "Stable"
 - id: project_reviewed
   translation: "Page updated on {{ .date }}, for version {{ .version }}."
+- id: project_reviewed_prerelease
+  translation: "Page updated on {{ .date }}, for stable version {{ .version }} and pre-release {{ .prerelease }}."
 - id: project_changelog_hint
   translation: "Later changes are in the project's changelog."
 - id: project_updates

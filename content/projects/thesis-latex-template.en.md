@@ -1,11 +1,11 @@
 ---
 title: "thesis-latex-template: a LaTeX template for Master's and PhD theses that compiles first time"
 description: "A free LaTeX thesis template with modular chapters, automatic front matter, glossaries and a switchable bibliography, compiled with one command on Windows, Linux and macOS."
-date: 2026-11-23T12:00:00+01:00
+date: 2026-11-23T09:00:00+01:00
 lastmod: 2026-11-23
 draft: false
 series: ["Progetti"]
-series_weight: 3
+series_weight: 4
 tags: ["software", "open-source"]
 author: "lb"
 showToc: false
@@ -37,7 +37,7 @@ thesis-latex-template is a starting point for a Master's or PhD thesis in LaTeX:
 
 ## Why it exists
 
-I adapted it from the [KAUST thesis template](https://www.overleaf.com/latex/templates/kaust-official-thesis-template/mrcyxjvwpqdn) for my Master's thesis, defended in 2023 at the universities of Pavia and Tübingen, the one I [reopened three years later](/blog/reopening-my-thesis/). Afterwards I removed everything that belonged to that thesis and turned it into a generic template. Rebuilding it, I found it did not compile cleanly out of the box: packages that were loaded but never used, glossaries that were never generated, hard-coded page numbers. Those are the problems that cost hours in the weeks before a deadline, so I fixed them before publishing it.
+I adapted it from the [KAUST thesis template](https://www.overleaf.com/latex/templates/kaust-official-thesis-template/mrcyxjvwpqdn) for my Master's thesis, defended in 2023 at the universities of Pavia and Tübingen. Afterwards I removed everything that belonged to that thesis and turned it into a generic template that compiles cleanly out of the box, with one command and no hand-made adjustments.
 
 ## What it does
 
@@ -55,11 +55,13 @@ I adapted it from the [KAUST thesis template](https://www.overleaf.com/latex/tem
 3. Open `config.tex` and enter title, author, degree and university.
 4. Run `compile.bat` on Windows or `./compile.sh` on Linux and macOS, and open `output/Thesis.pdf`.
 
-The [QUICKSTART](https://github.com/lucabnt/thesis-latex-template/blob/main/QUICKSTART.md) covers the same steps in about five minutes; `Chapter_1.tex` contains a worked example of every element: figures, tables, equations, citations, abbreviations.
+The [QUICKSTART](https://github.com/lucabnt/thesis-latex-template/blob/main/QUICKSTART.md) covers the same steps in about five minutes. `Chapter_1.tex` contains a worked example of every element: figures, tables, equations, citations, abbreviations.
 
 ## Where it stands
 
 The template is complete and compiles without errors or missing packages on TeX Live and MiKTeX. It is a starting point, not a finished thesis: check the result against your institution's formatting rules, and use the official title page as a PDF when your university provides one.
+
+In the future I would like to turn it into an agent skill as well, so that a coding agent can set up the template and fill it in from a brief.
 
 ## Get involved
 

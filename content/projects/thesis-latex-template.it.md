@@ -1,11 +1,11 @@
 ---
 title: "thesis-latex-template: un template LaTeX per tesi magistrali e di dottorato che compila al primo colpo"
 description: "Un template LaTeX gratuito per tesi, con capitoli modulari, parti iniziali automatiche, glossari e bibliografia a scelta, compilato con un comando su Windows, Linux e macOS."
-date: 2026-11-23T12:00:00+01:00
+date: 2026-11-23T09:00:00+01:00
 lastmod: 2026-11-23
 draft: false
 series: ["Progetti"]
-series_weight: 3
+series_weight: 4
 tags: ["software", "open-source"]
 author: "lb"
 showToc: false
@@ -40,7 +40,7 @@ thesis-latex-template è un punto di partenza per una tesi magistrale o di dotto
 
 ## Perché esiste
 
-L'ho adattato dal [template di tesi della KAUST](https://www.overleaf.com/latex/templates/kaust-official-thesis-template/mrcyxjvwpqdn) per la mia tesi magistrale, discussa nel 2023 tra le università di Pavia e Tübingen, quella che ho [riaperto tre anni dopo](/it/blog/reopening-my-thesis/). In seguito ho tolto tutto ciò che apparteneva a quella tesi e l'ho trasformato in un template generico. Ricostruendolo, ho scoperto che non compilava pulito al primo colpo: pacchetti caricati e mai usati, glossari mai generati, numeri di pagina scritti a mano. Sono i problemi che fanno perdere ore nelle settimane prima della consegna, quindi li ho corretti prima di pubblicarlo.
+L'ho adattato dal [template di tesi della KAUST](https://www.overleaf.com/latex/templates/kaust-official-thesis-template/mrcyxjvwpqdn) per la mia tesi magistrale, discussa nel 2023 tra le università di Pavia e Tübingen. In seguito ho tolto tutto ciò che apparteneva a quella tesi e l'ho trasformato in un template generico che compila pulito al primo colpo, con un solo comando e senza ritocchi a mano.
 
 ## Cosa fa
 
@@ -58,11 +58,13 @@ L'ho adattato dal [template di tesi della KAUST](https://www.overleaf.com/latex/
 3. Apri `config.tex` e inserisci titolo, autore, corso di laurea e università.
 4. Esegui `compile.bat` su Windows o `./compile.sh` su Linux e macOS, e apri `output/Thesis.pdf`.
 
-Il [QUICKSTART](https://github.com/lucabnt/thesis-latex-template/blob/main/QUICKSTART.md) ripercorre gli stessi passaggi in circa cinque minuti; `Chapter_1.tex` contiene un esempio di ogni elemento: figure, tabelle, equazioni, citazioni, abbreviazioni.
+Il [QUICKSTART](https://github.com/lucabnt/thesis-latex-template/blob/main/QUICKSTART.md) ripercorre gli stessi passaggi in circa cinque minuti. `Chapter_1.tex` contiene un esempio di ogni elemento: figure, tabelle, equazioni, citazioni, abbreviazioni.
 
 ## A che punto è
 
 Il template è completo e compila senza errori né pacchetti mancanti su TeX Live e MiKTeX. È un punto di partenza, non una tesi finita: controlla il risultato con le norme redazionali del tuo ateneo e, se l'università fornisce un frontespizio ufficiale, usalo come PDF.
+
+In futuro vorrei trasformarlo anche in una skill per agenti, così che un agente di programmazione possa impostare il template e compilarlo a partire da un brief.
 
 ## Come partecipare
 

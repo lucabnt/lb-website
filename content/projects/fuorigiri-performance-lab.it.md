@@ -1,11 +1,11 @@
 ---
 title: "Fuorigiri Performance Lab: l'archivio dei test per le società di ciclismo giovanile"
 description: "Un'app open source e offline per registrare, analizzare e confrontare nel tempo i test degli atleti di una società ciclistica, su Windows e Android."
-date: 2026-11-23T10:00:00+01:00
+date: 2026-11-23T12:00:00+01:00
 draft: false
 series: ["Progetti"]
 series_weight: 1
-tags: ["software", "open-source", "ciclismo-giovanile"]
+tags: ["software", "open-source", "sport"]
 author: "lb"
 showToc: false
 cover:
@@ -34,9 +34,11 @@ Fuorigiri Performance Lab è un'applicazione per tecnici e preparatori delle soc
 
 ## Perché esiste
 
-L'ho sviluppato per [Progetto Ciclismo - Rodengo Saiano](https://www.asdprogettociclismorodengosaiano.it/), dove i test dei ragazzi finivano sparsi tra file FIT, fogli di calcolo e PDF dei centri test. Ogni misura aveva senso da sola; messe insieme, era difficile capire come stava crescendo un atleta o come si confrontava un gruppo con quello dell'anno prima.
+In una società ciclistica, soprattutto giovanile, i test degli atleti finiscono spesso sparsi tra file FIT, fogli di calcolo e PDF dei centri test. Ogni misura ha senso da sola, ma una volta messe insieme è difficile capire come sta crescendo un atleta o come si confronta un gruppo con quello dell'anno prima.
 
-Gli strumenti che esistono sono ottimi per l'allenamento quotidiano del singolo atleta o per la modellazione metabolica a pagamento. Nessuno di quelli che ho provato teneva insieme l'archivio dei test di un vivaio, la crescita dei ragazzi e il controllo dei dati di minorenni da parte della società, senza un server.
+Gli strumenti che esistono sono ottimi per l'allenamento quotidiano del singolo atleta o per la modellazione metabolica a pagamento. Nessuno di quelli che ho provato teneva insieme l'archivio dei test di un vivaio e la crescita dei ragazzi, senza bisogno di un server.
+
+In particolare, l'ho sviluppata pensando a [Progetto Ciclismo - Rodengo Saiano](https://www.asdprogettociclismorodengosaiano.it/), la società con cui collaboro.
 
 ## Cosa fa
 
@@ -60,12 +62,14 @@ Gli strumenti che esistono sono ottimi per l'allenamento quotidiano del singolo 
 3. Registra un test a mano, o importa uno dei file del [corpus sintetico](https://github.com/lucabnt/performance-lab/blob/main/docs/DATI_SINTETICI.md).
 4. Apri il profilo dell'atleta ed esporta un report.
 
-Chi vuole partire dai sorgenti trova i passaggi nella [guida di avvio](https://github.com/lucabnt/performance-lab/blob/main/docs/TESTARE_IL_PROGETTO.md).
+Chi vuole partire dai sorgenti trova i passaggi nella [guida di avvio](https://github.com/lucabnt/performance-lab/blob/main/docs/TESTARE_IL_PROGETTO.md). Le librerie condivise dell'interfaccia e del runtime sono in un repository a parte, [cycling-suite-common](https://github.com/lucabnt/cycling-suite-common).
 
 ## A che punto è
 
-Lo stato di oggi è nella scheda in alto; il [README](https://github.com/lucabnt/performance-lab#readme) dice con precisione cosa è stato provato e cosa no. Durante l'alpha restano aperti il collaudo su un Windows pulito con Defender attivo, le prove su telefoni reali, la condivisione WebDAV con due account veri e la validazione esterna dei metodi scientifici. Google Drive, Dropbox e OneDrive diretti sono sperimentali. In ogni versione, prima di aggiornare un archivio esistente conviene fare un backup e provare a ripristinarlo.
+Lo stato di oggi è nella scheda in alto, mentre il [README](https://github.com/lucabnt/performance-lab#readme) dice con precisione cosa è stato provato e cosa no. Finora l'app è stata provata su Windows con Defender attivo, su un Pixel 9 e con la condivisione WebDAV. Durante l'alpha resta aperta soprattutto la validazione esterna dei metodi scientifici. In ogni versione, prima di aggiornare un archivio esistente conviene fare un backup e provare a ripristinarlo.
 
 ## Come partecipare
 
-Problemi e proposte si segnalano dalle [issue del repository](https://github.com/lucabnt/performance-lab/issues); le vulnerabilità in privato, come spiega il [SECURITY.md](https://github.com/lucabnt/performance-lab/blob/main/SECURITY.md). Se ti interessa da dove nascono queste domande sui ragazzi e sui loro numeri, c'è la serie [Ciclismo giovanile e professionismo](/series/ciclismo-giovanile-e-professionismo/).
+Problemi e proposte si segnalano dalle [issue del repository](https://github.com/lucabnt/performance-lab/issues), le vulnerabilità in privato, come spiega il [SECURITY.md](https://github.com/lucabnt/performance-lab/blob/main/SECURITY.md).
+
+Se ti interessa da dove nascono queste domande sui ragazzi e sui loro numeri, c'è la serie [Ciclismo giovanile e professionismo](/series/ciclismo-giovanile-e-professionismo/).

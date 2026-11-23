@@ -50,6 +50,8 @@
   translation: "Stabile"
 - id: project_reviewed
   translation: "Scheda aggiornata il {{ .date }}, con la versione {{ .version }}."
+- id: project_reviewed_prerelease
+  translation: "Scheda aggiornata il {{ .date }}, con la versione stabile {{ .version }} e la pre-release {{ .prerelease }}."
 - id: project_changelog_hint
   translation: "Le novità successive sono nel changelog del progetto."
 - id: project_updates

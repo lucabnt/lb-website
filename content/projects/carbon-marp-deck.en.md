@@ -1,10 +1,10 @@
 ---
 title: "carbon-marp-deck: Carbon-style slide decks from Markdown, written by you or your agent"
 description: "An agent skill and a Marp template that turn a brief or a Markdown file into a Carbon-style deck, exported as PDF and editable PowerPoint."
-date: 2026-11-23T10:00:00+01:00
+date: 2026-11-23T11:00:00+01:00
 draft: false
 series: ["Progetti"]
-series_weight: 4
+series_weight: 2
 tags: ["software", "open-source"]
 author: "lb"
 showToc: false
@@ -20,8 +20,8 @@ project:
     status: stable
     license: "Apache-2.0; Plex fonts under the SIL Open Font License ([details](https://github.com/lucabnt/carbon-marp-deck#licence-and-trademarks))"
     what: "A Marp theme and an agent skill for Carbon-style decks"
-    audience: "Anyone who writes informal decks: team syncs, demos, drafts, knowledge sharing"
-    platforms: [Any computer with Node.js 18+, Python 3.9+ and Chrome or Edge; Claude Code, Codex, Copilot and other agents]
+    audience: "Anyone who prepares slide decks: team syncs, demos, reviews, knowledge sharing"
+    platforms: [Any computer with Node.js 18+, Python 3.9+ and Chrome or Edge; IBM Bob, Claude Code, Codex, Copilot and other agents]
     updates:
         - date: 2026-11-23
           note: "Page first published, for version 1.2.1."
@@ -31,12 +31,11 @@ carbon-marp-deck turns a Markdown file, or a plain-language brief given to a cod
 
 {{< progetto >}}
 
-> **Unofficial.** A community project built only on open-source Carbon material (design tokens, guidelines, pictograms, the Plex typeface). It is not affiliated with, endorsed or supported by the Carbon Design System project, and it is not meant for decks that must follow a reviewed corporate template.
+> **Unofficial.** A community project built only on open-source Carbon material (design tokens, guidelines, pictograms, the Plex typeface). It is not affiliated with, endorsed or supported by the Carbon Design System project.
 
 ## Why it exists
 
-<!-- DA PERSONALIZZARE: il motivo concreto per cui l'hai costruito. -->
-Most of the decks I make are informal, and I write most of my notes in Markdown. Marp already turns Markdown into slides, but a good-looking deck still needed hand-tuned CSS, and the output was a PDF nobody else could edit. Carbon's open guidelines and tokens gave me a complete, coherent design system to build on, and agents gave me a way to go from a brief to a first draft in minutes.
+Marp is a very efficient way to make presentations with an agent: the slides are plain Markdown, which an agent writes, checks and corrects as easily as code, going from a brief to a first draft in minutes. What it lacked was the finish. A good-looking deck still needed hand-tuned CSS, and the output was a PDF nobody else could edit. Carbon, with its open guidelines and tokens, is a sound stylistic reference: a complete, coherent design system to build on.
 
 ## What it does
 
@@ -51,7 +50,7 @@ Most of the decks I make are informal, and I write most of my notes in Markdown.
 
 ## Try it
 
-With an agent, clone the repository into its skills folder (for Claude Code, `~/.claude/skills/carbon-marp-deck`), install the requirements and ask for a deck:
+With an agent, clone the repository into its skills folder (for IBM Bob `~/.bob/skills/carbon-marp-deck`, for Claude Code `~/.claude/skills/carbon-marp-deck`), install the requirements and ask for a deck:
 
 > Create a 10-minute deck about our Q3 platform migration for the engineering team. Export PDF and PPTX.
 
@@ -69,8 +68,8 @@ The [README](https://github.com/lucabnt/carbon-marp-deck#readme) lists the skill
 
 ## Where it stands
 
-The first public release came out in November 2026, and the theme, components and exporters are stable; each release is described in the [changelog](https://github.com/lucabnt/carbon-marp-deck/blob/main/CHANGELOG.md). In CI every [example deck](https://github.com/lucabnt/carbon-marp-deck/tree/main/examples) is linted and the PPTX converter runs a regression test. In web chat apps without a browser on the machine, an agent can write the deck but not export it.
+The first public release came out in November 2026, and the theme, components and exporters are stable. Each release is described in the [changelog](https://github.com/lucabnt/carbon-marp-deck/blob/main/CHANGELOG.md). In CI every [example deck](https://github.com/lucabnt/carbon-marp-deck/tree/main/examples) is linted and the PPTX converter runs a regression test.
 
 ## Get involved
 
-Issues and pull requests are welcome; the [contributing guide](https://github.com/lucabnt/carbon-marp-deck/blob/main/CONTRIBUTING.md) explains how the theme is generated and tested.
+Issues and pull requests are welcome, and the [contributing guide](https://github.com/lucabnt/carbon-marp-deck/blob/main/CONTRIBUTING.md) explains how the theme is generated and tested.

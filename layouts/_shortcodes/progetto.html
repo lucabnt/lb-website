@@ -12,7 +12,10 @@
      - "lastmod" diverso dalla data della voce più recente di "updates":
        la data mostrata al lettore e quella della cronologia devono
        coincidere;
-     - copertina (cover.image, in static/) assente o non in 16:9. */ -}}
+     - copertina (cover.image, in static/) assente o non in 16:9;
+     - traduzioni non allineate: repo, version, prerelease, status,
+       download, changelog, lastmod e numero di voci di "updates" devono
+       coincidere tra le lingue. */ -}}
 {{- $page := .Page -}}
 {{- $p := $page.Params.project -}}
 {{- if not $p -}}{{- errorf "progetto: manca il blocco project: nel front matter (%s)" .Position -}}{{- end -}}
@@ -27,6 +30,30 @@
 {{- $latestDate := time.AsTime $latest.date -}}
 {{- if ne ($latestDate.Format "2006-01-02") ($page.Lastmod.Format "2006-01-02") -}}
   {{- errorf "progetto: lastmod (%s) non coincide con la voce più recente di project.updates (%s) (%s)" ($page.Lastmod.Format "2006-01-02") ($latestDate.Format "2006-01-02") .Position -}}
+{{- end -}}
+
+{{- /* Le traduzioni della stessa scheda devono dichiarare lo stesso stato:
+     aggiornarne una sola mostrerebbe al lettore versioni diverse a seconda
+     della lingua. */ -}}
+{{- range $page.Translations -}}
+  {{- $t := .Params.project -}}
+  {{- $other := .File.Path -}}
+  {{- if not $t -}}
+    {{- errorf "progetto: la traduzione %s non ha il blocco project: (%s)" $other $.Position -}}
+  {{- end -}}
+  {{- range slice "repo" "version" "prerelease" "status" "download" "changelog" -}}
+    {{- $mine := index $p . | default "" | string -}}
+    {{- $theirs := index $t . | default "" | string -}}
+    {{- if ne $mine $theirs -}}
+      {{- errorf "progetto: project.%s è %q qui e %q in %s: aggiorna entrambe le lingue (%s)" . $mine $theirs $other $.Position -}}
+    {{- end -}}
+  {{- end -}}
+  {{- if ne (.Lastmod.Format "2006-01-02") ($page.Lastmod.Format "2006-01-02") -}}
+    {{- errorf "progetto: lastmod è %s qui e %s in %s: aggiorna entrambe le lingue (%s)" ($page.Lastmod.Format "2006-01-02") (.Lastmod.Format "2006-01-02") .File.Path $.Position -}}
+  {{- end -}}
+  {{- if ne (len $t.updates) (len $p.updates) -}}
+    {{- errorf "progetto: project.updates ha %d voci qui e %d in %s: aggiorna entrambe le lingue (%s)" (len $p.updates) (len $t.updates) .File.Path $.Position -}}
+  {{- end -}}
 {{- end -}}
 
 {{- with $page.Params.cover.image -}}
@@ -68,7 +95,14 @@
   </table>
   <p class="project-reviewed">
     {{- $date := printf `<time datetime="%s">%s</time>` ($page.Lastmod.Format "2006-01-02") ($page.Lastmod | time.Format ":date_long") -}}
-    {{- i18n "project_reviewed" (dict "date" $date "version" (printf "<code>%s</code>" $p.version)) | safeHTML }}
+    {{- $args := dict "date" $date "version" (printf "<code>%s</code>" $p.version) -}}
+    {{- /* "prerelease" (facoltativo): la pre-release più recente provata
+         quando la scheda è stata rivista, accanto all'ultima stabile. */ -}}
+    {{- with $p.prerelease -}}
+      {{- i18n "project_reviewed_prerelease" (merge $args (dict "prerelease" (printf "<code>%s</code>" .))) | safeHTML -}}
+    {{- else -}}
+      {{- i18n "project_reviewed" $args | safeHTML -}}
+    {{- end }}
     <a href="{{ $p.changelog | default (printf "%s/releases" $repo) }}">{{ i18n "project_changelog_hint" }}</a>
   </p>
 </div>

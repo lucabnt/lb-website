@@ -18,6 +18,8 @@ project:
     # Latest stable release checked when the page was reviewed.
     version: 1.1.0
     status: stable
+    # Releases list: shows the newest at the top, release candidates included.
+    download: https://github.com/lucabnt/AwakeOnLANMobile/releases
     license: "[GPL-3.0](https://github.com/lucabnt/AwakeOnLANMobile/blob/main/LICENSE)"
     what: "A Wake-on-LAN app for Android, with widgets, a Quick Settings tile and a network scanner"
     audience: "Anyone who turns on a computer at home or in the office without walking to it"

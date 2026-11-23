@@ -43,6 +43,10 @@ project:
     what: ""             # Cos'è, in una riga
     audience: ""         # Per chi
     platforms: []        # Dove gira, es. [Windows 10 e 11, Android 8 o successivo]
+    # Facoltativi:
+    # download: https://…      # se il progetto non pubblica release su GitHub
+    # changelog: https://…     # se le novità non stanno nelle release
+    # upstream: "[autore/repo](https://…)"   # obbligatorio per fork e derivati
     updates:
         - date: {{ now.Format "2006-01-02" }}
           note: "Prima pubblicazione della scheda, con la versione X.Y."

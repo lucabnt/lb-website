@@ -45,6 +45,8 @@
 - id: project_reviewed
   translation: "Page updated on {{ .date }}, for version {{ .version }}."
 - id: project_changelog_hint
-  translation: "Later changes are in the project's releases."
+  translation: "Later changes are in the project's changelog."
 - id: project_updates
   translation: "Page history"
+- id: project_upstream
+  translation: "Based on"

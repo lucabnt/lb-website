@@ -51,6 +51,8 @@
 - id: project_reviewed
   translation: "Scheda aggiornata il {{ .date }}, con la versione {{ .version }}."
 - id: project_changelog_hint
-  translation: "Le novità successive sono nelle release del progetto."
+  translation: "Le novità successive sono nel changelog del progetto."
 - id: project_updates
   translation: "Cronologia della scheda"
+- id: project_upstream
+  translation: "Basato su"

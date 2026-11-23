@@ -4,7 +4,7 @@ description: "An agent skill and a Marp template that turn a brief or a Markdown
 date: 2026-11-23T10:00:00+01:00
 draft: false
 series: ["Progetti"]
-series_weight: 2
+series_weight: 4
 tags: ["software", "open-source"]
 author: "lb"
 showToc: false

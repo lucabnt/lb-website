@@ -45,6 +45,9 @@
 {{- /* /releases/latest porta all'ultima release stabile; finché esistono
      solo pre-release quella pagina non c'è, quindi si punta all'elenco. */ -}}
 {{- $releases := cond (eq $p.status "stable") (printf "%s/releases/latest" $repo) (printf "%s/releases" $repo) -}}
+{{- /* "download" sostituisce il link alle release per i progetti che non ne
+     pubblicano (per esempio un template da scaricare come ZIP). */ -}}
+{{- with $p.download }}{{ $releases = . }}{{ end -}}
 <div class="project-card">
   <p class="project-links">
     <a class="project-download" href="{{ $releases }}">{{ i18n "project_download" }}</a>
@@ -58,11 +61,14 @@
       <tr><th scope="row">{{ i18n "project_platforms" }}</th><td>{{ delimit $p.platforms ", " }}</td></tr>
       <tr><th scope="row">{{ i18n "project_status" }}</th><td>{{ i18n (printf "project_status_%s" $p.status) }}</td></tr>
       <tr><th scope="row">{{ i18n "project_license" }}</th><td>{{ $p.license | markdownify }}</td></tr>
+      {{- with $p.upstream }}
+      <tr><th scope="row">{{ i18n "project_upstream" }}</th><td>{{ . | markdownify }}</td></tr>
+      {{- end }}
     </tbody>
   </table>
   <p class="project-reviewed">
     {{- $date := printf `<time datetime="%s">%s</time>` ($page.Lastmod.Format "2006-01-02") ($page.Lastmod | time.Format ":date_long") -}}
     {{- i18n "project_reviewed" (dict "date" $date "version" (printf "<code>%s</code>" $p.version)) | safeHTML }}
-    <a href="{{ $repo }}/releases">{{ i18n "project_changelog_hint" }}</a>
+    <a href="{{ $p.changelog | default (printf "%s/releases" $repo) }}">{{ i18n "project_changelog_hint" }}</a>
   </p>
 </div>

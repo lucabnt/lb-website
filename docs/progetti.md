@@ -24,6 +24,11 @@ volta e aggiornata nel tempo, con la data dell'ultima revisione in vista.
 - Il pulsante punta a `/releases/latest` se lo stato è `stable`, altrimenti
   all'elenco `/releases` (con sole pre-release `/latest` non esiste). Non va
   quindi toccato a ogni release.
+- Campi facoltativi: `download` sostituisce il link alle release per i
+  progetti che non ne pubblicano (per esempio lo ZIP del branch principale);
+  `changelog` cambia la destinazione del link "Le novità successive…"
+  (predefinito: le release); `upstream` aggiunge alla tabella la riga
+  "Basato su", obbligatoria per fork e progetti derivati.
 - La cronologia (`layouts/_partials/project_updates.html`) compare in fondo a
   ogni pagina con `project.updates`, dalla voce più recente.
 - `lastmod` nel front matter è la data di revisione. In `config.yml` ha la
@@ -80,13 +85,17 @@ massima 1600 px.
   `aiTranslated: true` e `originalLanguage`, e va rivista insieme.
 - **Serie:** sempre `series: ["Progetti"]` in entrambe le lingue; il titolo
   inglese "Projects" è in `content/series/progetti/_index.en.md`.
-- **Ordine (`series_weight`):** prima i prodotti per utenti finali legati agli
-  altri percorsi del sito, poi gli strumenti per sviluppatori. Pesi attuali:
-  1 Fuorigiri Performance Lab, 2 carbon-marp-deck.
+- **Ordine (`series_weight`):** prima le app per utenti finali, a partire da
+  quelle legate agli altri percorsi del sito, poi template e strumenti per chi
+  scrive o sviluppa. Pesi attuali: 1 Fuorigiri Performance Lab,
+  2 AwakeOnLANMobile, 3 thesis-latex-template, 4 carbon-marp-deck.
 - **Copertina:** in 16:9 (1600x900 o 1920x1080, WebP). Lo shortcode ferma la
   build se le proporzioni sono diverse. Se lo screenshot di partenza ha
   un'altra forma, va ritagliato o messo su uno sfondo neutro, non deformato.
-- **Immagini:** solo dati sintetici; nessun nome, risultato o file reale di
+- **Fork e derivati:** il progetto originale va citato in `upstream` e nel
+  "Perché esiste", con il nome dell'autore.
+- **Immagini:** niente screenshot di versioni superate (per esempio quelli
+  ereditati da un progetto originale); meglio solo la copertina. Solo dati sintetici; nessun nome, risultato o file reale di
   atleti.
 - **Fonti:** ogni affermazione deve essere verificabile nel repository alla
   data di `lastmod`.

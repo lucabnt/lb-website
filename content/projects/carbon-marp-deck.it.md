@@ -9,7 +9,7 @@ tags: ["software", "open-source"]
 author: "lb"
 showToc: false
 cover:
-    image: blog/carbon-marp-deck/carbon-marp-deck-esempi.webp
+    image: projects/carbon-marp-deck/carbon-marp-deck-esempi.webp
     alt: "Quattro slide di esempio fatte con carbon-marp-deck: indicatori chiave, card, un diagramma di flusso e un processo in cinque fasi."
 lang: it
 locale: it_IT
@@ -49,7 +49,7 @@ La maggior parte delle presentazioni che preparo è informale, e scrivo quasi tu
 - **Una skill per agenti**: l'agente raccoglie il brief, scrive le slide, le esporta e controlla le anteprime finché non restano avvisi.
 - **PDF e PPTX modificabile**, fatto di forme e caselle di testo native, più un linter per gli errori che rompono le slide Marp senza segnalarlo.
 
-![Una slide con un diagramma di flusso fatta con carbon-marp-deck: sorgenti, piattaforma centrale, integrazione, AI e consumatori collegati da frecce.](/blog/carbon-marp-deck/carbon-marp-deck-flusso.webp)
+![Una slide con un diagramma di flusso fatta con carbon-marp-deck: sorgenti, piattaforma centrale, integrazione, AI e consumatori collegati da frecce.](/projects/carbon-marp-deck/carbon-marp-deck-flusso.webp)
 *Una delle slide di esempio del repository, scritta in Markdown ed esportata senza ritocchi.*
 
 ## Provarlo

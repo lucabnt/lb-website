@@ -91,3 +91,18 @@
     grid-template-columns: 1fr;
   }
 }
+
+/* Elenco della sezione Projects (layouts/projects/list.html). */
+.project-entry-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px 14px;
+  align-items: center;
+}
+
+.project-status {
+  padding: 1px 10px;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  font-weight: 600;
+}

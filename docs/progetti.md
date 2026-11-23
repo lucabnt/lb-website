@@ -1,10 +1,20 @@
-# Serie "Progetti": schede dei software pubblicati
+# Sezione Projects: schede dei software pubblicati
 
-Ogni progetto pubblicato su GitHub ha sul sito una **scheda**: un post breve
+Ogni progetto pubblicato su GitHub ha sul sito una **scheda**: una pagina breve
 che fa da landing page e spiega *perché* esiste e *per chi* è, mentre il
-README resta il posto del *come*. Le schede formano la serie **Progetti**, che
-in Esplora è il secondo percorso ("Progetti e strumenti"), dopo "Ciclismo e
-dati".
+README resta il posto del *come*.
+
+Le schede vivono in una sezione propria, separata dal blog, così i progetti non
+occupano l'elenco degli articoli né il suo feed RSS:
+
+- **Sezione Projects** (`content/projects/`, pagine `/projects/` e
+  `/it/projects/`): elenco unico per le due lingue con il filtro della lingua,
+  come `/blog/`, nell'ordine di `series_weight`, con stato, versione e data di
+  revisione di ogni scheda (`layouts/projects/list.html`). Voce "Projects" nel
+  menu della home, subito dopo Blog.
+- **Serie Progetti**: le stesse schede formano la serie che in Esplora è il
+  secondo percorso ("Progetti e strumenti"), dopo "Ciclismo e dati". Il piede
+  di Esplora rimanda anche a "Tutti i progetti".
 
 Una scheda **non è un articolo di release**: è una pagina viva, scritta una
 volta e aggiornata nel tempo, con la data dell'ultima revisione in vista.
@@ -58,19 +68,19 @@ nelle due lingue:
 
 **Release maggiore importante (1.x → 2.0, alpha → stabile).** Una revisione
 come sopra, più, se c'è qualcosa da raccontare, un **post a parte** (fuori
-dalla serie, con gli stessi tag) su cosa cambia e perché. Il post si collega
+dalla serie, nel blog, con gli stessi tag) su cosa cambia e perché. Il post si collega
 dalla voce di cronologia con `link:` e, a sua volta, rimanda alla scheda.
 Così la serie resta un catalogo con una pagina per progetto.
 
 ## Creare una scheda
 
 ```bash
-hugo new --kind progetto blog/<slug>.it.md
-hugo new --kind progetto blog/<slug>.en.md
+hugo new projects/<slug>.it.md
+hugo new projects/<slug>.en.md
 ```
 
-Lo scheletro viene da `archetypes/progetto.md`. Le immagini vanno in
-`static/blog/<slug>/`, in WebP: copertina in 16:9, le altre con larghezza
+Lo scheletro viene da `archetypes/projects.md`. Le immagini vanno in
+`static/projects/<slug>/`, in WebP: copertina in 16:9, le altre con larghezza
 massima 1600 px.
 
 ## Regole di scrittura

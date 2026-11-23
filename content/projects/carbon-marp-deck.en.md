@@ -9,7 +9,7 @@ tags: ["software", "open-source"]
 author: "lb"
 showToc: false
 cover:
-    image: blog/carbon-marp-deck/carbon-marp-deck-esempi.webp
+    image: projects/carbon-marp-deck/carbon-marp-deck-esempi.webp
     alt: "Four example slides made with carbon-marp-deck: key metrics, cards, a flow diagram and a five-phase process."
 lang: en
 lastmod: 2026-11-23
@@ -46,7 +46,7 @@ Most of the decks I make are informal, and I write most of my notes in Markdown.
 - **An agent skill**: the agent gathers the brief, writes the slides, exports them and checks the previews until there are no warnings.
 - **PDF and editable PPTX** made of native shapes and text boxes, plus a linter for the mistakes that silently break Marp slides.
 
-![A flow diagram slide made with carbon-marp-deck: sources, core platform, integration, AI and consumers connected by arrows.](/blog/carbon-marp-deck/carbon-marp-deck-flusso.webp)
+![A flow diagram slide made with carbon-marp-deck: sources, core platform, integration, AI and consumers connected by arrows.](/projects/carbon-marp-deck/carbon-marp-deck-flusso.webp)
 *One of the example slides in the repository, written in Markdown and exported without manual adjustments.*
 
 ## Try it

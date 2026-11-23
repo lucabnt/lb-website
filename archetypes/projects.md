@@ -1,8 +1,10 @@
 ---
-# Scheda progetto della serie "Progetti". Guida completa: docs/progetti.md
-# Crea le due lingue con lo stesso nome di file:
-#   hugo new --kind progetto blog/<slug>.it.md
-#   hugo new --kind progetto blog/<slug>.en.md
+# Scheda di un progetto: sezione Projects (/projects/) e serie "Progetti"
+# (Esplora). Guida completa: docs/progetti.md
+# Crea le due lingue con lo stesso nome di file; l'archetype si applica da
+# solo a tutto ciò che sta in content/projects/:
+#   hugo new projects/<slug>.it.md
+#   hugo new projects/<slug>.en.md
 #
 # La scheda è una pagina viva: il testo non contiene numeri di versione, e
 # tutto ciò che cambia con le release sta nel blocco "project:" qui sotto.
@@ -26,7 +28,7 @@ showToc: false
 # Copertina in 16:9 (consigliato 1600x900 o 1920x1080, WebP): la build si
 # ferma se le proporzioni sono diverse.
 cover:
-    image: blog/<slug>/<immagine>.webp
+    image: projects/<slug>/<immagine>.webp
     alt: ""
 # Lingua: tieni solo la riga che vale per questo file.
 lang: it
@@ -50,7 +52,7 @@ project:
     updates:
         - date: {{ now.Format "2006-01-02" }}
           note: "Prima pubblicazione della scheda, con la versione X.Y."
-          # link: /blog/<post-di-approfondimento>/   # facoltativo, per le major
+          # link: /blog/<post-di-approfondimento>/   # facoltativo: post nel blog per una major
 ---
 
 <!-- APERTURA (2-3 frasi): cosa fa e per chi. Niente numeri di versione. -->

@@ -10,7 +10,7 @@ tags: ["software", "open-source"]
 author: "lb"
 showToc: false
 cover:
-    image: blog/thesis-latex-template/thesis-latex-template-pagine.webp
+    image: projects/thesis-latex-template/thesis-latex-template-pagine.webp
     alt: "Three pages of the template's sample PDF: the title page, the table of contents and a chapter page with a table and an equation."
 lang: en
 project:

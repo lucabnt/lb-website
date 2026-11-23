@@ -95,6 +95,8 @@ params:
         url: /explore/
       - name: Blog
         url: blog
+      - name: Projects
+        url: projects
       - name: Tags
         url: tags
       - name: About

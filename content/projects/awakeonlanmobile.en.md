@@ -10,7 +10,7 @@ tags: ["software", "open-source"]
 author: "lb"
 showToc: false
 cover:
-    image: blog/awakeonlanmobile/awakeonlanmobile-icona.webp
+    image: projects/awakeonlanmobile/awakeonlanmobile-icona.webp
     alt: "The AwakeOnLANMobile icon, a power symbol with signal waves, on a turquoise background."
 lang: en
 project:

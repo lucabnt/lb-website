@@ -9,7 +9,7 @@ tags: ["software", "open-source", "ciclismo-giovanile"]
 author: "lb"
 showToc: false
 cover:
-    image: blog/fuorigiri-performance-lab/test-incrementale.webp
+    image: projects/fuorigiri-performance-lab/test-incrementale.webp
     alt: "Un test incrementale in Fuorigiri: potenza, frequenza cardiaca, cadenza, VO2 e prelievi di lattato sovrapposti nello stesso grafico, con dati sintetici."
 lang: it
 locale: it_IT
@@ -47,10 +47,10 @@ Gli strumenti che esistono sono ottimi per l'allenamento quotidiano del singolo 
 - **Storici e confronti** con media, mediana e numero di misure, senza nascondere i dati mancanti.
 - **Report PDF e Markdown** per società, gruppo, stagione o atleta, e condivisione cifrata tra collaboratori tramite WebDAV o una cartella condivisa.
 
-![Evoluzione stagionale della MAP in Fuorigiri, con mediana, media e numero di atleti per stagione.](/blog/fuorigiri-performance-lab/storici-confronti.webp)
+![Evoluzione stagionale della MAP in Fuorigiri, con mediana, media e numero di atleti per stagione.](/projects/fuorigiri-performance-lab/storici-confronti.webp)
 *Storici e confronti: l'andamento di un indicatore per stagione, con la numerosità sempre in vista. Tutti i dati nelle immagini sono sintetici.*
 
-![Profilo atleta con velocità di crescita, picco esplorativo e stime datate di maturazione.](/blog/fuorigiri-performance-lab/crescita-maturazione.webp)
+![Profilo atleta con velocità di crescita, picco esplorativo e stime datate di maturazione.](/projects/fuorigiri-performance-lab/crescita-maturazione.webp)
 *Crescita e maturazione nel profilo di un atleta di prova.*
 
 ## Provarlo

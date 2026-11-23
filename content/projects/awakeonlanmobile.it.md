@@ -10,7 +10,7 @@ tags: ["software", "open-source"]
 author: "lb"
 showToc: false
 cover:
-    image: blog/awakeonlanmobile/awakeonlanmobile-icona.webp
+    image: projects/awakeonlanmobile/awakeonlanmobile-icona.webp
     alt: "L'icona di AwakeOnLANMobile, un simbolo di accensione con onde di segnale, su sfondo turchese."
 lang: it
 locale: it_IT

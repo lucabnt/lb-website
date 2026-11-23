@@ -1,0 +1,61 @@
+{{- /* Elenco della sezione Projects (/projects/ e /it/projects/).
+
+     Come l'indice del blog, mostra le schede di entrambe le lingue: sono
+     visibili le originali, le traduzioni compaiono con il filtro della
+     lingua (_partials/blog_tools.html e assets/js/language-filter.js).
+     L'ordine è quello curato della serie Progetti ("series_weight"), non la
+     data: una scheda aggiornata non deve scavalcare le altre.
+
+     Ogni card riporta stato, versione e data di revisione dal blocco
+     "project:" del front matter, nella lingua della scheda e non in quella
+     della pagina, perché l'elenco è unico per le due lingue. */ -}}
+{{- define "main" }}
+<header class="page-header">
+  {{- partial "breadcrumbs.html" . }}
+  <h1>{{ .Title }}</h1>
+  {{- with .Description }}
+  <div class="post-description">{{ . | markdownify }}</div>
+  {{- end }}
+</header>
+
+{{- $pages := slice }}
+{{- range hugo.Sites }}
+  {{- $pages = $pages | collections.Append (where .RegularPages "Section" "projects") }}
+{{- end }}
+
+{{- partial "blog_tools.html" . }}
+
+{{- $labels := dict
+  "it" (dict "alpha" "Alpha" "beta" "Beta" "stable" "Stabile" "version" "versione" "updated" "aggiornata il")
+  "en" (dict "alpha" "Alpha" "beta" "Beta" "stable" "Stable" "version" "version" "updated" "updated on") }}
+
+{{- range sort $pages "Params.series_weight" }}
+{{- $page := . }}
+{{- $p := .Params.project }}
+{{- $l := index $labels .Lang | default (index $labels "en") }}
+<article class="post-entry project-entry" data-content-language="{{ .Language.Lang }}" data-original="{{ not .Params.aiTranslated }}"{{ if .Params.aiTranslated }} hidden{{ end }}>
+  {{- partial "cover.html" (dict "cxt" . "IsSingle" false "isHidden" false) }}
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">{{ .Title }}</h2>
+  </header>
+  <div class="entry-content">
+    <p>{{ .Description | plainify }}</p>
+  </div>
+  {{- with $p }}
+  <footer class="entry-footer project-entry-meta">
+    <span class="project-status project-status--{{ .status }}">{{ index $l .status }}</span>
+    <span>{{ index $l "version" }} {{ .version }}</span>
+    {{- /* Data nella lingua della scheda: time.Format userebbe la lingua
+         della pagina d'elenco. */}}
+    {{- $d := $page.Lastmod }}
+    {{- $month := index (cond (eq $page.Lang "it")
+      (slice "gennaio" "febbraio" "marzo" "aprile" "maggio" "giugno" "luglio" "agosto" "settembre" "ottobre" "novembre" "dicembre")
+      (slice "January" "February" "March" "April" "May" "June" "July" "August" "September" "October" "November" "December"))
+      (sub $d.Month 1) }}
+    <span>{{ index $l "updated" }} <time datetime="{{ $d.Format "2006-01-02" }}">{{ $d.Day }} {{ $month }} {{ $d.Year }}</time></span>
+  </footer>
+  {{- end }}
+  <a class="entry-link" aria-label="{{ .Title | plainify }}" href="{{ .Permalink }}"></a>
+</article>
+{{- end }}
+{{- end }}{{- /* end main */ -}}

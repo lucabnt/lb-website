@@ -9,7 +9,7 @@
     description: "Cosa dicono davvero i risultati giovanili sul futuro di un corridore? Un percorso su rendimento, crescita e limiti della selezione, a partire dalle classifiche del ciclismo italiano."
     alt: "La premiazione del Mondiale juniores su strada di Innsbruck del 2018."
 - series: /series/progetti
-  image: /blog/fuorigiri-performance-lab/test-incrementale.webp
+  image: /projects/fuorigiri-performance-lab/test-incrementale.webp
   en:
     title: Projects and tools
     description: "The software I build and publish on GitHub: what problem each project solves, who it is for, where it stands and how to try it in a few minutes."

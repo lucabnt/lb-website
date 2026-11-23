@@ -10,7 +10,7 @@ tags: ["software", "open-source"]
 author: "lb"
 showToc: false
 cover:
-    image: blog/thesis-latex-template/thesis-latex-template-pagine.webp
+    image: projects/thesis-latex-template/thesis-latex-template-pagine.webp
     alt: "Tre pagine del PDF di esempio del template: il frontespizio, l'indice e una pagina di capitolo con una tabella e un'equazione."
 lang: it
 locale: it_IT

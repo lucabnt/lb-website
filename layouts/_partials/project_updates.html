@@ -1,0 +1,20 @@
+{{- /* Cronologia di una scheda della serie Progetti, in fondo al post.
+     Rende nulla se la pagina non ha project.updates. Ogni voce:
+       - date: 2026-11-23
+         note: "Cosa è cambiato nella pagina (testo breve, markdown)."
+         link: /blog/<post-di-approfondimento>/   # facoltativo
+     Le voci si mostrano dalla più recente. */ -}}
+{{- with .Params.project.updates -}}
+<section class="project-updates" aria-labelledby="project-updates-title">
+  <h2 id="project-updates-title">{{ i18n "project_updates" }}</h2>
+  <ul>
+    {{- range sort . "date" "desc" }}
+    {{- $d := time.AsTime .date }}
+    <li>
+      <time datetime="{{ $d.Format "2006-01-02" }}">{{ $d | time.Format ":date_long" }}</time>
+      <span>{{ .note | markdownify }}{{ with .link }} <a href="{{ . | relLangURL }}">→</a>{{ end }}</span>
+    </li>
+    {{- end }}
+  </ul>
+</section>
+{{- end -}}

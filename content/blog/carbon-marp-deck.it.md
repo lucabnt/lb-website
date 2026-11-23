@@ -15,25 +15,24 @@ lang: it
 locale: it_IT
 aiTranslated: true
 originalLanguage: en
+lastmod: 2026-11-23
 project:
-    repo: https://github.com/lucabnt/carbon-marp-deck
+    repo: lucabnt/carbon-marp-deck
+    # Ultima release verificata quando la scheda è stata rivista.
     version: 1.2.1
     status: stable
-    license: Apache-2.0
-    platforms: [Node.js 18+, Python 3.9+, Chrome or Edge]
+    license: "Apache-2.0; font Plex con SIL Open Font License ([dettagli](https://github.com/lucabnt/carbon-marp-deck#licence-and-trademarks))"
+    what: "Un tema Marp e una skill per agenti per presentazioni in stile Carbon"
+    audience: "Chi prepara presentazioni informali: riunioni di team, demo, bozze, condivisione di conoscenze"
+    platforms: [Qualsiasi computer con Node.js 18+, Python 3.9+ e Chrome o Edge; Claude Code, Codex, Copilot e altri agenti]
+    updates:
+        - date: 2026-11-23
+          note: "Prima pubblicazione della scheda, con la versione 1.2.1."
 ---
 
 carbon-marp-deck trasforma un file Markdown, o un brief scritto a parole a un agente di programmazione, in una presentazione nello stile del [Carbon Design System](https://carbondesignsystem.com/), esportata in **PDF** e in **PowerPoint modificabile**.
 
-**[Scaricalo da GitHub](https://github.com/lucabnt/carbon-marp-deck) · [Release 1.2.1](https://github.com/lucabnt/carbon-marp-deck/releases)**
-
-| In breve | |
-|---|---|
-| **Cos'è** | Un tema Marp e una skill per agenti per presentazioni in stile Carbon |
-| **Per chi** | Chi prepara presentazioni informali: riunioni di team, demo, bozze, condivisione di conoscenze |
-| **Dove gira** | Qualsiasi computer con Node.js 18+, Python 3.9+ e Chrome o Edge; funziona con Claude Code, Codex, Copilot e altri agenti |
-| **Stato** | Stabile, versione 1.2.1 |
-| **Licenza** | Apache-2.0; font Plex con SIL Open Font License ([dettagli](https://github.com/lucabnt/carbon-marp-deck#licence-and-trademarks)) |
+{{< progetto >}}
 
 > **Non ufficiale.** È un progetto della comunità costruito solo su materiale open source di Carbon (token di design, linee guida, pittogrammi, il carattere Plex). Non è affiliato, approvato o supportato dal progetto Carbon Design System e non è pensato per presentazioni che devono seguire un template aziendale approvato.
 
@@ -73,8 +72,8 @@ Il [README](https://github.com/lucabnt/carbon-marp-deck#readme) elenca le cartel
 
 ## A che punto è
 
-La 1.0.0 è stata la prima release pubblica, il 21 novembre 2026; la 1.2.1 è arrivata due giorni dopo con correzioni ai percorsi dei pittogrammi e alle celle delle heatmap. In CI ogni [presentazione di esempio](https://github.com/lucabnt/carbon-marp-deck/tree/main/examples) passa dal linter e il convertitore PPTX ha un test di regressione. Nelle app di chat web, senza un browser sulla macchina, l'agente può scrivere la presentazione ma non esportarla.
+La prima release pubblica è uscita a novembre 2026, e tema, componenti ed esportatori sono stabili; ogni release è descritta nel [changelog](https://github.com/lucabnt/carbon-marp-deck/blob/main/CHANGELOG.md). In CI ogni [presentazione di esempio](https://github.com/lucabnt/carbon-marp-deck/tree/main/examples) passa dal linter e il convertitore PPTX ha un test di regressione. Nelle app di chat web, senza un browser sulla macchina, l'agente può scrivere la presentazione ma non esportarla.
 
 ## Come partecipare
 
-Issue e pull request sono benvenute; la [guida per chi contribuisce](https://github.com/lucabnt/carbon-marp-deck/blob/main/CONTRIBUTING.md) spiega come si genera e si verifica il tema. Il [changelog](https://github.com/lucabnt/carbon-marp-deck/blob/main/CHANGELOG.md) registra ogni modifica.
+Issue e pull request sono benvenute; la [guida per chi contribuisce](https://github.com/lucabnt/carbon-marp-deck/blob/main/CONTRIBUTING.md) spiega come si genera e si verifica il tema.

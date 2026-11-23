@@ -1,0 +1,55 @@
+{{- /* Scheda di un progetto della serie Progetti: link, tabella "In breve" e
+     data di revisione. Uso, all'inizio del corpo del post:  {{< progetto >}}
+
+     Tutto ciò che cambia con le release vive nel blocco "project:" del front
+     matter, non nel testo: aggiornare la pagina dopo una release significa
+     cambiare "version", "status", "lastmod" e aggiungere una voce a
+     "updates". Guida: docs/progetti.md.
+
+     Controlli bloccanti (la build si ferma con un messaggio chiaro):
+     - campi obbligatori mancanti;
+     - "status" diverso da alpha, beta, stable;
+     - "lastmod" diverso dalla data della voce più recente di "updates":
+       la data mostrata al lettore e quella della cronologia devono
+       coincidere. */ -}}
+{{- $page := .Page -}}
+{{- $p := $page.Params.project -}}
+{{- if not $p -}}{{- errorf "progetto: manca il blocco project: nel front matter (%s)" .Position -}}{{- end -}}
+{{- range slice "repo" "version" "status" "license" "what" "audience" "platforms" "updates" -}}
+  {{- if not (index $p .) -}}{{- errorf "progetto: manca project.%s (%s)" . $.Position -}}{{- end -}}
+{{- end -}}
+{{- if not (in (slice "alpha" "beta" "stable") $p.status) -}}
+  {{- errorf "progetto: project.status deve essere alpha, beta o stable, non %q (%s)" $p.status .Position -}}
+{{- end -}}
+{{- if not $page.Params.lastmod -}}{{- errorf "progetto: manca lastmod nel front matter (%s)" .Position -}}{{- end -}}
+{{- $latest := index (sort $p.updates "date" "desc") 0 -}}
+{{- $latestDate := time.AsTime $latest.date -}}
+{{- if ne ($latestDate.Format "2006-01-02") ($page.Lastmod.Format "2006-01-02") -}}
+  {{- errorf "progetto: lastmod (%s) non coincide con la voce più recente di project.updates (%s) (%s)" ($page.Lastmod.Format "2006-01-02") ($latestDate.Format "2006-01-02") .Position -}}
+{{- end -}}
+
+{{- $repo := printf "https://github.com/%s" $p.repo -}}
+{{- /* /releases/latest porta all'ultima release stabile; finché esistono
+     solo pre-release quella pagina non c'è, quindi si punta all'elenco. */ -}}
+{{- $releases := cond (eq $p.status "stable") (printf "%s/releases/latest" $repo) (printf "%s/releases" $repo) -}}
+<div class="project-card">
+  <p class="project-links">
+    <a class="project-download" href="{{ $releases }}">{{ i18n "project_download" }}</a>
+    <a href="{{ $repo }}">{{ i18n "project_code" }}</a>
+  </p>
+  <table class="project-summary">
+    <caption>{{ i18n "project_summary" }}</caption>
+    <tbody>
+      <tr><th scope="row">{{ i18n "project_what" }}</th><td>{{ $p.what | markdownify }}</td></tr>
+      <tr><th scope="row">{{ i18n "project_audience" }}</th><td>{{ $p.audience | markdownify }}</td></tr>
+      <tr><th scope="row">{{ i18n "project_platforms" }}</th><td>{{ delimit $p.platforms ", " }}</td></tr>
+      <tr><th scope="row">{{ i18n "project_status" }}</th><td>{{ i18n (printf "project_status_%s" $p.status) }}</td></tr>
+      <tr><th scope="row">{{ i18n "project_license" }}</th><td>{{ $p.license | markdownify }}</td></tr>
+    </tbody>
+  </table>
+  <p class="project-reviewed">
+    {{- $date := printf `<time datetime="%s">%s</time>` ($page.Lastmod.Format "2006-01-02") ($page.Lastmod | time.Format ":date_long") -}}
+    {{- i18n "project_reviewed" (dict "date" $date "version" (printf "<code>%s</code>" $p.version)) | safeHTML }}
+    <a href="{{ $repo }}/releases">{{ i18n "project_changelog_hint" }}</a>
+  </p>
+</div>

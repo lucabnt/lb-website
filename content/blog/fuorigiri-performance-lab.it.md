@@ -13,25 +13,24 @@ cover:
     alt: "Un test incrementale in Fuorigiri: potenza, frequenza cardiaca, cadenza, VO2 e prelievi di lattato sovrapposti nello stesso grafico, con dati sintetici."
 lang: it
 locale: it_IT
+lastmod: 2026-11-23
 project:
-    repo: https://github.com/lucabnt/performance-lab
+    repo: lucabnt/performance-lab
+    # Ultima release verificata quando la scheda è stata rivista.
     version: 0.10.0-alpha.1
     status: alpha
-    license: GPL-3.0-or-later
-    platforms: [Windows, Android]
+    license: "[GPL-3.0-or-later](https://github.com/lucabnt/performance-lab/blob/main/LICENSE)"
+    what: "Archivio e analisi dei test di ciclismo: incrementali, lattato, VO₂, sprint, Wingate, crescita"
+    audience: "Tecnici, preparatori e dirigenti di società, soprattutto giovanili"
+    platforms: [Windows 10 e 11, Android 8 o successivo]
+    updates:
+        - date: 2026-11-23
+          note: "Prima pubblicazione della scheda, con la prima alpha pubblica (0.10.0-alpha.1)."
 ---
 
 Fuorigiri Performance Lab è un'applicazione per tecnici e preparatori delle società ciclistiche che vogliono conservare i test dei propri atleti e confrontarli nel tempo, stagione dopo stagione. Funziona offline, sul computer o sul telefono, e i dati restano alla società.
 
-**[Scarica la pre-release 0.10.0-alpha.1](https://github.com/lucabnt/performance-lab/releases) · [Codice su GitHub](https://github.com/lucabnt/performance-lab)**
-
-| In breve | |
-|---|---|
-| **Cos'è** | Archivio e analisi dei test di ciclismo: incrementali, lattato, VO₂, sprint, Wingate, crescita |
-| **Per chi** | Tecnici, preparatori e dirigenti di società, soprattutto giovanili |
-| **Dove gira** | Windows 10 e 11, Android 8 o successivo; interfaccia in italiano e in inglese |
-| **Stato** | Prima alpha pubblica (0.10.0-alpha.1) |
-| **Licenza** | GPL-3.0-or-later |
+{{< progetto >}}
 
 ## Perché esiste
 
@@ -56,7 +55,7 @@ Gli strumenti che esistono sono ottimi per l'allenamento quotidiano del singolo 
 
 ## Provarlo
 
-1. Dalla [pagina Releases](https://github.com/lucabnt/performance-lab/releases) scarica l'installer o lo ZIP portabile per Windows, oppure l'APK per Android.
+1. Dalle [release](https://github.com/lucabnt/performance-lab/releases) scarica l'installer o lo ZIP portabile per Windows, oppure l'APK per Android.
 2. Crea una società di esempio e aggiungi un atleta.
 3. Registra un test a mano, o importa uno dei file del [corpus sintetico](https://github.com/lucabnt/performance-lab/blob/main/docs/DATI_SINTETICI.md).
 4. Apri il profilo dell'atleta ed esporta un report.
@@ -65,7 +64,7 @@ Chi vuole partire dai sorgenti trova i passaggi nella [guida di avvio](https://g
 
 ## A che punto è
 
-È un'alpha, e il README dice con precisione cosa manca: il collaudo su un Windows pulito con Defender attivo, le prove su telefoni reali, la condivisione WebDAV con due account veri e la validazione esterna dei metodi scientifici. Google Drive, Dropbox e OneDrive diretti sono sperimentali. Prima di aggiornare un archivio esistente conviene fare un backup e provare a ripristinarlo.
+Lo stato di oggi è nella scheda in alto; il [README](https://github.com/lucabnt/performance-lab#readme) dice con precisione cosa è stato provato e cosa no. Durante l'alpha restano aperti il collaudo su un Windows pulito con Defender attivo, le prove su telefoni reali, la condivisione WebDAV con due account veri e la validazione esterna dei metodi scientifici. Google Drive, Dropbox e OneDrive diretti sono sperimentali. In ogni versione, prima di aggiornare un archivio esistente conviene fare un backup e provare a ripristinarlo.
 
 ## Come partecipare
 

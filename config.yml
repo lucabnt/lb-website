@@ -147,6 +147,14 @@ params:
   # google:
     # SiteVerificationTag: "G-XXPZ3HC2H9"
 
+# Data di modifica: un "lastmod" scritto nel front matter vince sulla data
+# dell'ultimo commit (HUGO_ENABLEGITINFO). Lo usano le schede della serie
+# Progetti, dove la data di revisione è un'informazione per il lettore e non
+# deve cambiare per una correzione di battitura. Gli altri post non hanno
+# "lastmod" e continuano a usare la data di git.
+frontmatter:
+  lastmod: ["lastmod", ":git", "date"]
+
 # Tassonomie. Attenzione: dichiarandone anche una sola, Hugo smette di
 # applicare quelle predefinite, quindi tag e categorie vanno riscritte qui
 # o sparirebbero dal sito.

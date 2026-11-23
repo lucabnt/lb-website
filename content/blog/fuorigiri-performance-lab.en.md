@@ -14,25 +14,24 @@ cover:
 lang: en
 aiTranslated: true
 originalLanguage: it
+lastmod: 2026-11-23
 project:
-    repo: https://github.com/lucabnt/performance-lab
+    repo: lucabnt/performance-lab
+    # Latest release checked when the page was reviewed.
     version: 0.10.0-alpha.1
     status: alpha
-    license: GPL-3.0-or-later
-    platforms: [Windows, Android]
+    license: "[GPL-3.0-or-later](https://github.com/lucabnt/performance-lab/blob/main/LICENSE)"
+    what: "Archive and analysis of cycling tests: incremental, lactate, VO₂, sprint, Wingate, growth"
+    audience: "Coaches, trainers and staff at clubs, especially youth clubs"
+    platforms: [Windows 10 and 11, Android 8 or later]
+    updates:
+        - date: 2026-11-23
+          note: "Page first published, with the first public alpha (0.10.0-alpha.1)."
 ---
 
 Fuorigiri Performance Lab is an application for coaches and trainers at cycling clubs who want to keep their athletes' tests and compare them over time, season after season. It works offline, on a computer or a phone, and the data stays with the club.
 
-**[Download the 0.10.0-alpha.1 pre-release](https://github.com/lucabnt/performance-lab/releases) · [Code on GitHub](https://github.com/lucabnt/performance-lab)**
-
-| At a glance | |
-|---|---|
-| **What it is** | Archive and analysis of cycling tests: incremental, lactate, VO₂, sprint, Wingate, growth |
-| **For** | Coaches, trainers and staff at clubs, especially youth clubs |
-| **Runs on** | Windows 10 and 11, Android 8 or later; Italian and English interface |
-| **Status** | First public alpha (0.10.0-alpha.1) |
-| **Licence** | GPL-3.0-or-later |
+{{< progetto >}}
 
 ## Why it exists
 
@@ -57,7 +56,7 @@ The tools that exist are excellent for an individual athlete's day-to-day traini
 
 ## Try it
 
-1. From the [Releases page](https://github.com/lucabnt/performance-lab/releases), download the installer or portable ZIP for Windows, or the APK for Android.
+1. From the [releases](https://github.com/lucabnt/performance-lab/releases), download the installer or portable ZIP for Windows, or the APK for Android.
 2. Create a sample club and add an athlete.
 3. Record a test by hand, or import one of the files from the [synthetic corpus](https://github.com/lucabnt/performance-lab/blob/main/docs/DATI_SINTETICI.md).
 4. Open the athlete's profile and export a report.
@@ -66,7 +65,7 @@ To start from source, follow the [getting-started guide](https://github.com/luca
 
 ## Where it stands
 
-It is an alpha, and the README states exactly what is missing: testing on a clean Windows install with Defender on, trials on real phones, WebDAV sharing with two real accounts, and external validation of the scientific methods. Direct Google Drive, Dropbox and OneDrive support is experimental. Before upgrading an existing archive, make a backup and check that it restores.
+The current status is in the summary at the top; the [README](https://github.com/lucabnt/performance-lab#readme) states exactly what has and has not been tested. During the alpha, what remains open is testing on a clean Windows install with Defender on, trials on real phones, WebDAV sharing with two real accounts, and external validation of the scientific methods. Direct Google Drive, Dropbox and OneDrive support is experimental. With any version, before upgrading an existing archive, make a backup and check that it restores.
 
 ## Get involved
 

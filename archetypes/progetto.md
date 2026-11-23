@@ -1,13 +1,20 @@
 ---
-# Scheda progetto per la serie "Progetti". Guida completa: docs/progetti.md
+# Scheda progetto della serie "Progetti". Guida completa: docs/progetti.md
 # Crea le due lingue con lo stesso nome di file:
 #   hugo new --kind progetto blog/<slug>.it.md
 #   hugo new --kind progetto blog/<slug>.en.md
+#
+# La scheda è una pagina viva: il testo non contiene numeri di versione, e
+# tutto ciò che cambia con le release sta nel blocco "project:" qui sotto.
+#
 # Titolo: "<Nome>: <cosa fa, per chi>" in una riga, senza superlativi.
 title: ""
 # Una frase, 140-160 caratteri: problema + per chi + dove gira. È anche lo snippet di ricerca.
 description: ""
 date: {{ .Date }}
+# Data dell'ultima revisione della scheda: deve coincidere con la voce più
+# recente di project.updates, altrimenti la build si ferma.
+lastmod: {{ now.Format "2006-01-02" }}
 draft: true
 # Il termine della serie è "Progetti" in entrambe le lingue (il titolo tradotto
 # sta in content/series/progetti/_index.en.md). Il peso decide l'ordine in Esplora.
@@ -25,38 +32,36 @@ locale: it_IT
 # Solo nella versione tradotta:
 # aiTranslated: true
 # originalLanguage: en
-# Dati strutturati del progetto: oggi non vengono resi dal tema, servono a
-# tenere uniformi le schede e a generarne in futuro una card automatica.
 project:
-    repo: https://github.com/lucabnt/<repo>
-    version: ""        # es. 1.2.1 oppure 0.10.0-alpha.1
-    status: ""         # alpha | beta | stabile
-    license: ""        # SPDX, es. GPL-3.0-or-later
-    platforms: []      # es. [Windows, Android]
+    repo: lucabnt/<repo>
+    # Ultima release verificata quando la scheda è stata rivista.
+    version: ""
+    status: alpha        # alpha | beta | stable
+    license: ""          # markdown ammesso, es. "[GPL-3.0-or-later](https://…/LICENSE)"
+    what: ""             # Cos'è, in una riga
+    audience: ""         # Per chi
+    platforms: []        # Dove gira, es. [Windows 10 e 11, Android 8 o successivo]
+    updates:
+        - date: {{ now.Format "2006-01-02" }}
+          note: "Prima pubblicazione della scheda, con la versione X.Y."
+          # link: /blog/<post-di-approfondimento>/   # facoltativo, per le major
 ---
 
-<!-- 1. APERTURA (2-3 frasi). Cosa fa e per chi, poi il link principale.
-     Niente "in questo articolo": il lettore deve capire subito se fa per lui. -->
+<!-- APERTURA (2-3 frasi): cosa fa e per chi. Niente numeri di versione. -->
 
-**[Scarica la versione X.Y](https://github.com/lucabnt/<repo>/releases) · [Codice su GitHub](https://github.com/lucabnt/<repo>)**
-
-| In breve | |
-|---|---|
-| **Cos'è** | |
-| **Per chi** | |
-| **Dove gira** | |
-| **Stato** | |
-| **Licenza** | |
+{{ "{{< progetto >}}" }}
 
 ## Perché esiste
 
-<!-- 2. IL PROBLEMA (1-2 paragrafi). Da dove nasce, in prima persona.
-     Quali strumenti esistono e perché non bastavano: una frase, senza polemica. -->
+<!-- Il problema da cui nasce, in prima persona (1-2 paragrafi). Quali strumenti
+     esistono e perché non bastavano: una frase, senza polemica. È la parte che
+     cambia di meno: riscriverla solo se cambia lo scopo del progetto. -->
 
 ## Cosa fa
 
-<!-- 3. LE FUNZIONI (4-6 punti). Una riga ciascuno, dal punto di vista di chi lo usa,
-     non del codice. Una o due immagini con didascalia; mai dati personali reali. -->
+<!-- 4-6 punti, una riga ciascuno, dal punto di vista di chi lo usa. Funzioni
+     consolidate, non le novità dell'ultima release. 1-2 immagini con didascalia,
+     solo dati sintetici. -->
 
 -
 -
@@ -64,8 +69,8 @@ project:
 
 ## Provarlo
 
-<!-- 4. PRIMI PASSI (3-5 passaggi numerati). Il percorso più corto fino a un risultato
-     visibile. Per i dettagli si rimanda al README, non lo si copia. -->
+<!-- 3-5 passaggi fino a un risultato visibile. Rimanda alle release e al README
+     senza citare file o versioni precise. -->
 
 1.
 2.
@@ -73,10 +78,10 @@ project:
 
 ## A che punto è
 
-<!-- 5. STATO E LIMITI (1 paragrafo). Versione, cosa è provato e cosa no, cosa viene dopo.
-     Più è onesto, più è credibile. -->
+<!-- Stato e limiti in termini di fase (alpha, beta, stabile), non di versione.
+     Rimanda al README per l'elenco preciso. Va riletto a ogni revisione. -->
 
 ## Come partecipare
 
-<!-- 6. CHIUSURA (2-3 frasi). Dove segnalare problemi o proporre idee, licenza,
-     eventuale collegamento a un'altra serie del sito. -->
+<!-- Dove segnalare problemi o proporre idee; eventuale collegamento a
+     un'altra serie del sito. -->

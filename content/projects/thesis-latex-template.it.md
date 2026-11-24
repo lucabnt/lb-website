@@ -34,38 +34,38 @@ project:
           note: "Prima pubblicazione della scheda, con la versione 1.1.0."
 ---
 
-thesis-latex-template è un punto di partenza per una tesi magistrale o di dottorato in LaTeX: lo scarichi, imposti un unico file di configurazione e generi il PDF con un comando. Indice, elenchi e bibliografia si generano da soli.
+thesis-latex-template è un punto di partenza per una tesi magistrale o di dottorato in LaTeX. Lo scarichi, imposti un unico file di configurazione e generi il PDF con un comando. Indice, elenchi e bibliografia si generano da soli.
 
 {{< progetto >}}
 
 ## Perché esiste
 
-L'ho adattato dal [template di tesi della KAUST](https://www.overleaf.com/latex/templates/kaust-official-thesis-template/mrcyxjvwpqdn) per la mia tesi magistrale, discussa nel 2023 tra le università di Pavia e Tübingen. In seguito ho tolto tutto ciò che apparteneva a quella tesi e l'ho trasformato in un template generico che compila pulito al primo colpo, con un solo comando e senza ritocchi a mano.
+L'ho adattato dal [template di tesi della KAUST](https://www.overleaf.com/latex/templates/kaust-official-thesis-template/mrcyxjvwpqdn) per la mia tesi magistrale, discussa nel 2023 tra le università di Pavia e Tübingen. Dopo ho tolto tutto quello che apparteneva a quella tesi, e con quello che restava ho fatto un template generico. Compila pulito al primo colpo, con un solo comando e senza niente da sistemare a mano.
 
 ## Cosa fa
 
-- **Capitoli e appendici modulari**, un file ciascuno, con abstract in inglese e in italiano.
-- **Parti iniziali generate**: indice, elenchi di figure e tabelle, abbreviazioni e simboli con `glossaries`.
-- **Bibliografia a mano o con BibTeX**, scelta con un'unica impostazione in `config.tex`.
-- **Un solo file di configurazione** per titolo, autore, margini, interlinea e dimensioni dei titoli.
-- **Solo font vettoriali**, così il PDF resta nitido e compatibile con PDF/A.
-- **Script di compilazione** per Windows, Linux e macOS che eseguono tutti i passaggi nell'ordine giusto.
+- Capitoli e appendici sono modulari, un file ciascuno, e ci sono gli abstract in inglese e in italiano.
+- Le parti iniziali si generano da sole: indice, elenchi di figure e tabelle, abbreviazioni e simboli con `glossaries`.
+- La bibliografia la puoi scrivere a mano o fare con BibTeX, e passi dall'una all'altra con un'unica impostazione in `config.tex`.
+- Titolo, autore, margini, interlinea e dimensioni dei titoli stanno tutti in un solo file di configurazione.
+- Usa solo font vettoriali, così il PDF resta nitido e compatibile con PDF/A.
+- Gli script di compilazione per Windows, Linux e macOS eseguono tutti i passaggi nell'ordine giusto.
 
 ## Provarlo
 
-1. Installa una distribuzione LaTeX: MiKTeX su Windows, MacTeX su macOS, TeX Live su Linux. Se manca, gli script te lo segnalano.
+1. Installa una distribuzione LaTeX: MiKTeX su Windows, MacTeX su macOS, TeX Live su Linux. Se manca, te lo dicono gli script.
 2. Scarica il template con il pulsante qui sopra, oppure clona il repository.
 3. Apri `config.tex` e inserisci titolo, autore, corso di laurea e università.
-4. Esegui `compile.bat` su Windows o `./compile.sh` su Linux e macOS, e apri `output/Thesis.pdf`.
+4. Esegui `compile.bat` su Windows o `./compile.sh` su Linux e macOS, poi apri `output/Thesis.pdf`.
 
-Il [QUICKSTART](https://github.com/lucabnt/thesis-latex-template/blob/main/QUICKSTART.md) ripercorre gli stessi passaggi in circa cinque minuti. `Chapter_1.tex` contiene un esempio di ogni elemento: figure, tabelle, equazioni, citazioni, abbreviazioni.
+Il [QUICKSTART](https://github.com/lucabnt/thesis-latex-template/blob/main/QUICKSTART.md) ripercorre gli stessi passaggi in circa cinque minuti. In `Chapter_1.tex` c'è un esempio di ogni elemento: figure, tabelle, equazioni, citazioni, abbreviazioni.
 
 ## A che punto è
 
-Il template è completo e compila senza errori né pacchetti mancanti su TeX Live e MiKTeX. È un punto di partenza, non una tesi finita: controlla il risultato con le norme redazionali del tuo ateneo e, se l'università fornisce un frontespizio ufficiale, usalo come PDF.
+Il template è completo, e su TeX Live e MiKTeX compila senza errori e senza pacchetti mancanti. Tieni presente che è un punto di partenza, non una tesi finita. Controlla il risultato con le norme redazionali del tuo ateneo e, se l'università fornisce un frontespizio ufficiale, usa quello in PDF.
 
-In futuro vorrei trasformarlo anche in una skill per agenti, così che un agente di programmazione possa impostare il template e compilarlo a partire da un brief.
+Più avanti vorrei trasformarlo anche in una skill per agenti, così che un agente di programmazione possa impostare il template e compilarlo a partire da un brief.
 
 ## Come partecipare
 
-I miglioramenti sono benvenuti: descrivi il problema, prova la modifica e spiega cosa hai cambiato in una [issue](https://github.com/lucabnt/thesis-latex-template/issues) o in una pull request. La licenza è CC BY 4.0, come l'originale: puoi usare e adattare il template, anche a fini commerciali, purché l'attribuzione resti.
+I miglioramenti sono benvenuti. Apri una [issue](https://github.com/lucabnt/thesis-latex-template/issues) o una pull request: descrivi il problema, prova la modifica e spiega cosa hai cambiato. La licenza è CC BY 4.0, come l'originale, quindi puoi usare e adattare il template, anche a fini commerciali, purché l'attribuzione resti.

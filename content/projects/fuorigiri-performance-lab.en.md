@@ -29,48 +29,48 @@ project:
           note: "Page first published, with the first public alpha (0.10.0-alpha.1)."
 ---
 
-Fuorigiri Performance Lab is an application for coaches and trainers at cycling clubs who want to keep their athletes' tests and compare them over time, season after season. It works offline, on a computer or a phone, and the data stays with the club.
+Fuorigiri Performance Lab is an application for coaches and trainers at cycling clubs. It keeps their athletes' tests and lets them compare those tests over time, one season after another. It works offline, on a computer or a phone, and the data stays with the club.
 
 {{< progetto >}}
 
 ## Why it exists
 
-In a cycling club, especially a youth one, riders' tests often end up scattered across FIT files, spreadsheets and PDFs from testing centres. Each measurement makes sense on its own, but once they are put together it is hard to see how a rider is developing or how a group compares with the previous year's.
+In a cycling club, and even more in a youth one, riders' tests end up scattered all over the place: FIT files, spreadsheets, PDFs from testing centres. On its own, each measurement makes sense. The trouble starts when you try to put them together, because it becomes hard to see how a rider is developing, or how a group is doing compared with last year's.
 
-The tools that exist are excellent for an individual athlete's day-to-day training, or for paid metabolic modelling. None of the ones I tried brought together a youth club's test archive and the riders' growth, without needing a server.
+The tools out there work very well for an individual athlete's day-to-day training, or for paid metabolic modelling. Of the ones I tried, though, none brought together a youth club's test archive and the riders' growth without needing a server.
 
-In particular, I built it with [Progetto Ciclismo - Rodengo Saiano](https://www.asdprogettociclismorodengosaiano.it/) in mind, the club I work with.
+I built it mainly with [Progetto Ciclismo - Rodengo Saiano](https://www.asdprogettociclismorodengosaiano.it/) in mind, the club I work with.
 
 ## What it does
 
-- **Profiles and groups**: athletes, categories, seasonal groups and anthropometric measurements with their history.
-- **Incremental tests** imported from FIT or CSV, or entered by hand, with lactate, VO₂ and training zones.
-- **Sprint and Wingate** tests of 30 and 15 seconds, kept as separate methods and compared only with each other.
-- **Growth and maturation**: growth velocity and estimates of peak height velocity, with the method and its limits stated.
-- **History and comparisons** with mean, median and number of measurements, without hiding missing data.
-- **PDF and Markdown reports** by club, group, season or athlete, and encrypted sharing between collaborators over WebDAV or a shared folder.
+- It keeps profiles and groups: athletes, categories, seasonal groups and anthropometric measurements, with their history.
+- Incremental tests are imported from FIT or CSV, or entered by hand, with lactate, VO₂ and training zones.
+- 30- and 15-second sprint and Wingate tests stay separate methods, and are only compared with each other.
+- For growth and maturation it calculates growth velocity and estimates peak height velocity, always stating the method and its limits.
+- History and comparisons show mean, median and number of measurements, and missing data is not hidden.
+- Reports come out as PDF or Markdown, by club, group, season or athlete. Collaborators share the data encrypted, over WebDAV or a shared folder.
 
 ![Seasonal evolution of MAP in Fuorigiri, with median, mean and number of athletes per season.](/projects/fuorigiri-performance-lab/storici-confronti.webp)
-*History and comparisons: one indicator by season, with the sample size always visible. All data in the images is synthetic. The screenshots show the Italian interface.*
+*History and comparisons: one indicator season by season, with the sample size always in view. All data in the images is synthetic. The screenshots show the Italian interface.*
 
 ![Athlete profile with growth velocity, exploratory peak and dated maturation estimates.](/projects/fuorigiri-performance-lab/crescita-maturazione.webp)
 *Growth and maturation in a test athlete's profile.*
 
 ## Try it
 
-1. From the [releases](https://github.com/lucabnt/performance-lab/releases), download the installer or portable ZIP for Windows, or the APK for Android.
+1. From the [releases](https://github.com/lucabnt/performance-lab/releases), download the installer or the portable ZIP for Windows, or the APK for Android.
 2. Create a sample club and add an athlete.
 3. Record a test by hand, or import one of the files from the [synthetic corpus](https://github.com/lucabnt/performance-lab/blob/main/docs/DATI_SINTETICI.md).
 4. Open the athlete's profile and export a report.
 
-To start from source, follow the [getting-started guide](https://github.com/lucabnt/performance-lab/blob/main/docs/TESTARE_IL_PROGETTO.md) (in Italian). The shared interface and runtime libraries live in a separate repository, [cycling-suite-common](https://github.com/lucabnt/cycling-suite-common).
+If you would rather start from source, the steps are in the [getting-started guide](https://github.com/lucabnt/performance-lab/blob/main/docs/TESTARE_IL_PROGETTO.md) (in Italian). The shared interface and runtime libraries live in a separate repository, [cycling-suite-common](https://github.com/lucabnt/cycling-suite-common).
 
 ## Where it stands
 
-The current status is in the summary at the top, while the [README](https://github.com/lucabnt/performance-lab#readme) states exactly what has and has not been tested. So far the app has been tested on Windows with Defender on, on a Pixel 9 and with WebDAV sharing. What mainly remains open during the alpha is external validation of the scientific methods. With any version, before upgrading an existing archive, make a backup and check that it restores.
+You can find the current status in the summary at the top, and the [README](https://github.com/lucabnt/performance-lab#readme) says exactly what has and has not been tested. So far the app has been tested on Windows with Defender on, on a Pixel 9 and with WebDAV sharing. During the alpha, the biggest open question is external validation of the scientific methods. Whatever version you use, back up an existing archive before upgrading it, and check that the backup restores.
 
 ## Get involved
 
-Report problems and suggest features through the [repository issues](https://github.com/lucabnt/performance-lab/issues), and report vulnerabilities privately, as described in [SECURITY.md](https://github.com/lucabnt/performance-lab/blob/main/SECURITY.md).
+Problems and feature ideas go in the [repository issues](https://github.com/lucabnt/performance-lab/issues). Vulnerabilities, on the other hand, should be reported privately, as described in [SECURITY.md](https://github.com/lucabnt/performance-lab/blob/main/SECURITY.md).
 
-If you are curious where these questions about young riders and their numbers come from, see the series [Youth cycling and professional careers](/en/series/ciclismo-giovanile-e-professionismo/).
+If you are curious where these questions about young riders and their numbers come from, there is the series [Youth cycling and professional careers](/en/series/ciclismo-giovanile-e-professionismo/).

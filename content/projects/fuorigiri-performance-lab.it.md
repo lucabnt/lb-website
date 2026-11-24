@@ -28,29 +28,29 @@ project:
           note: "Prima pubblicazione della scheda, con la prima alpha pubblica (0.10.0-alpha.1)."
 ---
 
-Fuorigiri Performance Lab è un'applicazione per tecnici e preparatori delle società ciclistiche che vogliono conservare i test dei propri atleti e confrontarli nel tempo, stagione dopo stagione. Funziona offline, sul computer o sul telefono, e i dati restano alla società.
+Fuorigiri Performance Lab è un'applicazione per tecnici e preparatori delle società ciclistiche. Serve a conservare i test dei propri atleti e a confrontarli nel tempo, una stagione dopo l'altra. Funziona offline, sul computer o sul telefono, e i dati restano alla società.
 
 {{< progetto >}}
 
 ## Perché esiste
 
-In una società ciclistica, soprattutto giovanile, i test degli atleti finiscono spesso sparsi tra file FIT, fogli di calcolo e PDF dei centri test. Ogni misura ha senso da sola, ma una volta messe insieme è difficile capire come sta crescendo un atleta o come si confronta un gruppo con quello dell'anno prima.
+In una società ciclistica, e in quelle giovanili ancora di più, i test dei ragazzi finiscono sparsi un po' ovunque: file FIT, fogli di calcolo, PDF dei centri test. Presa da sola ogni misura ha senso. Il problema arriva quando provi a metterle insieme, perché diventa difficile capire come sta crescendo un atleta o come va un gruppo rispetto a quello dell'anno prima.
 
-Gli strumenti che esistono sono ottimi per l'allenamento quotidiano del singolo atleta o per la modellazione metabolica a pagamento. Nessuno di quelli che ho provato teneva insieme l'archivio dei test di un vivaio e la crescita dei ragazzi, senza bisogno di un server.
+Gli strumenti che ci sono funzionano molto bene per l'allenamento quotidiano del singolo atleta, o per la modellazione metabolica a pagamento. Tra quelli che ho provato, però, nessuno teneva insieme l'archivio dei test di un vivaio e la crescita dei ragazzi senza bisogno di un server.
 
-In particolare, l'ho sviluppata pensando a [Progetto Ciclismo - Rodengo Saiano](https://www.asdprogettociclismorodengosaiano.it/), la società con cui collaboro.
+L'ho sviluppata pensando soprattutto a [Progetto Ciclismo - Rodengo Saiano](https://www.asdprogettociclismorodengosaiano.it/), la società con cui collaboro.
 
 ## Cosa fa
 
-- **Profili e gruppi**: atleti, categorie, gruppi stagionali e misure antropometriche con il loro storico.
-- **Test incrementali** importati da FIT o CSV, o inseriti a mano, con lattato, VO₂ e zone di allenamento.
-- **Sprint e Wingate** da 30 e 15 secondi, tenuti come metodi separati e confrontabili solo tra loro.
-- **Crescita e maturazione**: velocità di crescita e stime del picco puberale, con metodo e limiti dichiarati.
-- **Storici e confronti** con media, mediana e numero di misure, senza nascondere i dati mancanti.
-- **Report PDF e Markdown** per società, gruppo, stagione o atleta, e condivisione cifrata tra collaboratori tramite WebDAV o una cartella condivisa.
+- Tiene profili e gruppi: atleti, categorie, gruppi stagionali e misure antropometriche, con il loro storico.
+- I test incrementali si importano da FIT o CSV, o si inseriscono a mano, con lattato, VO₂ e zone di allenamento.
+- Sprint e Wingate da 30 e 15 secondi restano metodi separati, e si confrontano solo tra loro.
+- Per crescita e maturazione calcola la velocità di crescita e stima il picco puberale, dichiarando sempre il metodo e i suoi limiti.
+- Storici e confronti riportano media, mediana e numero di misure, e i dati mancanti non vengono nascosti.
+- I report escono in PDF o Markdown, per società, gruppo, stagione o atleta. Tra collaboratori i dati si condividono cifrati, via WebDAV o con una cartella condivisa.
 
 ![Evoluzione stagionale della MAP in Fuorigiri, con mediana, media e numero di atleti per stagione.](/projects/fuorigiri-performance-lab/storici-confronti.webp)
-*Storici e confronti: l'andamento di un indicatore per stagione, con la numerosità sempre in vista. Tutti i dati nelle immagini sono sintetici.*
+*Storici e confronti: un indicatore stagione per stagione, sempre con la numerosità in vista. Tutti i dati nelle immagini sono sintetici.*
 
 ![Profilo atleta con velocità di crescita, picco esplorativo e stime datate di maturazione.](/projects/fuorigiri-performance-lab/crescita-maturazione.webp)
 *Crescita e maturazione nel profilo di un atleta di prova.*
@@ -59,17 +59,17 @@ In particolare, l'ho sviluppata pensando a [Progetto Ciclismo - Rodengo Saiano](
 
 1. Dalle [release](https://github.com/lucabnt/performance-lab/releases) scarica l'installer o lo ZIP portabile per Windows, oppure l'APK per Android.
 2. Crea una società di esempio e aggiungi un atleta.
-3. Registra un test a mano, o importa uno dei file del [corpus sintetico](https://github.com/lucabnt/performance-lab/blob/main/docs/DATI_SINTETICI.md).
+3. Registra un test a mano, oppure importa uno dei file del [corpus sintetico](https://github.com/lucabnt/performance-lab/blob/main/docs/DATI_SINTETICI.md).
 4. Apri il profilo dell'atleta ed esporta un report.
 
-Chi vuole partire dai sorgenti trova i passaggi nella [guida di avvio](https://github.com/lucabnt/performance-lab/blob/main/docs/TESTARE_IL_PROGETTO.md). Le librerie condivise dell'interfaccia e del runtime sono in un repository a parte, [cycling-suite-common](https://github.com/lucabnt/cycling-suite-common).
+Se preferisci partire dai sorgenti, i passaggi sono nella [guida di avvio](https://github.com/lucabnt/performance-lab/blob/main/docs/TESTARE_IL_PROGETTO.md). Le librerie condivise di interfaccia e runtime stanno in un repository a parte, [cycling-suite-common](https://github.com/lucabnt/cycling-suite-common).
 
 ## A che punto è
 
-Lo stato di oggi è nella scheda in alto, mentre il [README](https://github.com/lucabnt/performance-lab#readme) dice con precisione cosa è stato provato e cosa no. Finora l'app è stata provata su Windows con Defender attivo, su un Pixel 9 e con la condivisione WebDAV. Durante l'alpha resta aperta soprattutto la validazione esterna dei metodi scientifici. In ogni versione, prima di aggiornare un archivio esistente conviene fare un backup e provare a ripristinarlo.
+Lo stato attuale lo trovi nel riquadro in alto, e il [README](https://github.com/lucabnt/performance-lab#readme) dice con precisione cosa è stato provato e cosa no. Per ora l'app è stata provata su Windows con Defender attivo, su un Pixel 9 e con la condivisione WebDAV. Durante l'alpha la questione aperta più importante è la validazione esterna dei metodi scientifici. Qualunque versione usi, prima di aggiornare un archivio esistente fai un backup e controlla che si ripristini.
 
 ## Come partecipare
 
-Problemi e proposte si segnalano dalle [issue del repository](https://github.com/lucabnt/performance-lab/issues), le vulnerabilità in privato, come spiega il [SECURITY.md](https://github.com/lucabnt/performance-lab/blob/main/SECURITY.md).
+Problemi e proposte vanno nelle [issue del repository](https://github.com/lucabnt/performance-lab/issues). Le vulnerabilità invece si segnalano in privato, come spiega il [SECURITY.md](https://github.com/lucabnt/performance-lab/blob/main/SECURITY.md).
 
-Se ti interessa da dove nascono queste domande sui ragazzi e sui loro numeri, c'è la serie [Ciclismo giovanile e professionismo](/series/ciclismo-giovanile-e-professionismo/).
+Se ti incuriosisce da dove vengono queste domande sui ragazzi e sui loro numeri, c'è la serie [Ciclismo giovanile e professionismo](/series/ciclismo-giovanile-e-professionismo/).

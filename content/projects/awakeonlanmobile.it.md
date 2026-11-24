@@ -29,42 +29,42 @@ project:
     what: "Un'app Wake-on-LAN per Android, con widget, riquadro nelle Impostazioni rapide e scansione della rete"
     audience: "Chi accende un computer di casa o dell'ufficio senza andarci fisicamente"
     platforms: [Android 7 o successivo (backup cifrato da Android 8)]
-    upstream: "[nellogan/AwakeOnLANMobile](https://github.com/nellogan/AwakeOnLANMobile), di cui è un fork mantenuto"
+    upstream: "[nellogan/AwakeOnLANMobile](https://github.com/nellogan/AwakeOnLANMobile), di cui è un fork"
     updates:
         - date: 2026-11-23
           note: "Prima pubblicazione della scheda, con la versione 1.1.0 e la pre-release 1.2.0-rc.4."
 ---
 
-AwakeOnLANMobile, fork mantenuto dell'[app di nellogan](https://github.com/nellogan/AwakeOnLANMobile), accende i computer della tua rete da un telefono Android: apri l'app e tocchi **Wake**, oppure usi un widget nella schermata Home o un riquadro nelle Impostazioni rapide. I dispositivi salvati restano sul telefono, cifrati.
+AwakeOnLANMobile accende i computer della tua rete da un telefono Android. Puoi toccare **Wake** nell'app, oppure non aprirla nemmeno e usare un widget nella schermata Home o un riquadro nelle Impostazioni rapide. È un fork dell'[app di nellogan](https://github.com/nellogan/AwakeOnLANMobile), e i dispositivi che salvi restano sul telefono, cifrati.
 
 {{< progetto >}}
 
 ## Perché esiste
 
-L'app è nata da [nellogan](https://github.com/nellogan), che ne ha scritto l'interfaccia originale e il codice di rete. Sono partito da lì perché volevo accendere un PC con un solo tocco, senza aprire un'app né creare un account, e tenere protetti sul telefono indirizzi MAC e password. Queste funzioni sono diventate un fork mantenuto, che conserva l'attribuzione all'autore originale e la stessa licenza GPL.
+L'app l'ha scritta [nellogan](https://github.com/nellogan): sono sue l'interfaccia originale e il codice di rete. Sono partito da lì perché volevo accendere un PC con un tocco solo, senza aprire l'app e senza creare account, e volevo che indirizzi MAC e password restassero protetti sul telefono. Da queste modifiche è nato un fork, che continua a citare l'autore originale e ha la stessa licenza GPL.
 
 ## Cosa fa
 
-- **Accende un PC salvato** con un magic packet verso l'indirizzo e la porta che scegli, compresa l'eventuale password Wake-on-LAN.
-- **Widget e riquadro delle Impostazioni rapide**: ogni widget può accendere un PC diverso e il riquadro accende quello che indichi.
-- **Controllo dello stato** via TCP, per vedere se il PC risponde dopo l'accensione.
-- **Archivio cifrato** di dispositivi e password con Android Keystore, e backup protetti da password per spostarli su un altro telefono.
-- **Scansione della rete** su una sottorete IPv4, limitata e interrompibile.
-- **Nessun account, pubblicità o servizio cloud**, in tema chiaro o scuro.
+- Accende un PC salvato mandando un magic packet all'indirizzo e alla porta che scegli, con la password Wake-on-LAN se la usi.
+- Ogni widget può accendere un PC diverso, e il riquadro delle Impostazioni rapide accende quello che indichi.
+- Dopo l'accensione controlla via TCP se il PC risponde.
+- Dispositivi e password sono cifrati con Android Keystore. Per portarli su un altro telefono ci sono i backup protetti da password.
+- Può scansionare una sottorete IPv4. La scansione ha dei limiti e la puoi interrompere quando vuoi.
+- Niente account, niente pubblicità, niente servizi cloud. C'è il tema chiaro e c'è quello scuro.
 
 ## Provarlo
 
 1. Attiva il Wake-on-LAN nel firmware del PC e nelle impostazioni della sua scheda di rete.
-2. Scarica l'APK dalle [release](https://github.com/lucabnt/AwakeOnLANMobile/releases): **arm64-v8a** va bene per la maggior parte dei telefoni recenti.
-3. Aggiungi il PC con il suo indirizzo MAC e, meglio, l'indirizzo di broadcast della tua rete (per esempio `192.168.1.255`).
-4. Tocca **Wake**, poi aggiungi un widget o il riquadro per le volte successive.
+2. Scarica l'APK dalle [release](https://github.com/lucabnt/AwakeOnLANMobile/releases). Se non sai quale prendere, **arm64-v8a** va bene per la maggior parte dei telefoni recenti.
+3. Aggiungi il PC con il suo indirizzo MAC e, se puoi, l'indirizzo di broadcast della tua rete (per esempio `192.168.1.255`).
+4. Tocca **Wake**. Per le volte successive, aggiungi un widget o il riquadro.
 
-Il fork è firmato con una chiave propria: se usavi un'altra versione dell'app, esporta un backup prima di disinstallarla, perché la disinstallazione cancella i dispositivi salvati.
+Se arrivi da un'altra versione dell'app, una cosa da sapere: il fork è firmato con una chiave sua. Prima di disinstallare la vecchia esporta un backup, perché disinstallandola si cancellano i dispositivi salvati.
 
 ## A che punto è
 
-La release attuale è stabile per accensione, widget, riquadro, controllo dello stato e backup. Nelle pre-release sono in prova le automazioni programmate o legate a eventi (anche da MacroDroid), le regole sul Wi-Fi e la diagnostica di rete, che diventeranno stabili dopo le verifiche su telefoni reali. I pacchetti Wake-on-LAN non sono cifrati: usa l'app su una rete di cui ti fidi, o attraverso una VPN.
+Nella release attuale sono stabili l'accensione, i widget, il riquadro, il controllo dello stato e i backup. Nelle pre-release sto provando le automazioni programmate o legate a eventi (anche da MacroDroid), le regole sul Wi-Fi e la diagnostica di rete, che diventeranno stabili dopo le verifiche su telefoni veri. Un avvertimento: i pacchetti Wake-on-LAN non sono cifrati, quindi usa l'app su una rete di cui ti fidi, o passando da una VPN.
 
 ## Come partecipare
 
-Problemi e proposte si segnalano dalle [issue del repository](https://github.com/lucabnt/AwakeOnLANMobile/issues). Le [note tecniche e di sicurezza](https://github.com/lucabnt/AwakeOnLANMobile/blob/main/docs/technical-notes.md) spiegano come funziona l'app, e l'[informativa sulla privacy](https://github.com/lucabnt/AwakeOnLANMobile/blob/main/PRIVACY.md) cosa conserva.
+Se qualcosa non funziona o ti manca una funzione, apri una [issue](https://github.com/lucabnt/AwakeOnLANMobile/issues). Come funziona l'app lo spiegano le [note tecniche e di sicurezza](https://github.com/lucabnt/AwakeOnLANMobile/blob/main/docs/technical-notes.md), cosa conserva l'[informativa sulla privacy](https://github.com/lucabnt/AwakeOnLANMobile/blob/main/PRIVACY.md).
